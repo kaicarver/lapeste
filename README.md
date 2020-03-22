@@ -21,6 +21,7 @@ And I'd like to make it suitable for reading out loud (by a machine)
 
 Could use, for example, this kind of speech synthesis:
 https://www.textfromtospeech.com/en/text-to-voice/
+https://stackoverflow.com/questions/21947730/chrome-speech-synthesis-with-longer-texts
 
 And there could even be a kind of read and play mode, a la YH Chang Industries
 

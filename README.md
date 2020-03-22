@@ -21,4 +21,13 @@ And I'd like to make it suitable for reading out loud (by a machine)
 
 And there could even be a kind of read and play mode, a la YH Chang Industries
 
-I had the same thought for another text that needs formatting, Ignition, which I may add in here, and which is totally free as far as I know.
+## Ignition
+
+I had the same thought for another text that needs formatting, 
+_IGNITION! An Informal History of Liquid Rocket Propellants_,
+by John D. Clark, which is totally free as far as I know.
+
+So that text is included in this project. It has some similar formatting issues. 
+
+This is the source for the text:
+https://archive.org/details/ignition_201612/

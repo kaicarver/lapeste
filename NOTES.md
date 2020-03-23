@@ -50,3 +50,8 @@ Could have optional recording of a reading to complement the machine reading by 
 ### Read and play
 
 And there could even be a kind of read and play mode, a la YH Chang Industries
+
+### Index or concordance
+
+Might be fun and easy to add an index. Not sure how useful though.
+

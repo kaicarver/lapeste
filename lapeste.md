@@ -1,9 +1,12 @@
+<div id="front"></div>
 
 Albert Camus
 
 LA PESTE
 
 (1947)
+
+<div id="epigraph" style="page-break-after: always;"></div>
 
 Il est aussi raisonnable de représenter une espèce
 d’emprisonnement par une autre que de représenter
@@ -12,7 +15,11 @@ chose qui n’existe pas.
 
 DANIEL DE FOE.
 
+<div id="ch1" style="page-break-after: always;"></div>
+
 I
+
+<div id="sec1" style="page-break-after: always;"></div>
 
 Les curieux événements qui font le sujet de cette
 chronique se sont produits en 194., à Oran. De l’avis
@@ -153,7 +160,7 @@ les précautions de langage pour en venir au récit lui-même.
 La relation des premières journées demande
 quelque minutie.
 
-<div style="page-break-after: always;"></div>
+<div id="sec2" style="page-break-after: always;"></div>
 
 Le matin du 16 avril, le docteur Bernard Rieux sortit
 de son cabinet et buta sur un rat mort, au milieu du
@@ -789,7 +796,7 @@ du fond de la terre, l’appelait sans répit, le concierge
 
 – Il est mort, dit Rieux.
 
-<div style="page-break-after: always;"></div>
+<div id="sec3" style="page-break-after: always;"></div>
 
 La mort du concierge, il est possible de le dire, marqua
 la fin de cette période remplie de signes déconcertants et
@@ -1063,10 +1070,10 @@ foncées, mais qui lui vont bien.
 son allure, mais deux fois sur trois remonte sur le trottoir
 opposé en faisant un léger saut. Il est distrait au volant de
 son auto et laisse souvent ses flèches de direction levées,
-même après qu’il a effectué son tournant. Toujours nutête.
+même après qu’il a effectué son tournant. Toujours nu-tête.
 L’air renseigné. »
 
-<div style="page-break-after: always;"></div>
+<div id="sec4" style="page-break-after: always;"></div>
 
 Les chiffres de Tarrou étaient exacts. Le docteur
 Rieux en savait quelque chose. Le corps du concierge
@@ -2117,7 +2124,11 @@ de nouveau la trentaine, Bernard Rieux regardait la
 dépêche officielle que le préfet lui avait tendue en disant :
 « Ils ont eu peur. » La dépêche portait : « Déclarez l’état
 de peste. Fermez la ville. »
+
+<div id="ch2" style="page-break-after: always;"></div>
+
 II
+
 À partir de ce moment, il est possible de dire que la
 peste fut notre affaire à tous. Jusque-là, malgré la
 surprise et l’inquiétude que leur avaient apportées ces
@@ -5260,7 +5271,11 @@ téléphonait au docteur :
 ce que j’aie trouvé le moyen de quitter la ville ?
 Il y eut un silence au bout du fil, et puis :
 – Oui, Rambert. Je vous remercie.
+
+<div id="ch3" style="page-break-after: always;"></div>
+
 III
+
 Ainsi, à longueur de semaine, les prisonniers de la
 peste se débattirent comme ils le purent. Et quelques-uns
 d’entre eux, comme Rambert, arrivaient même à
@@ -5886,7 +5901,10 @@ toute la ville et qui, soir après soir, donnait sa voix la plus
 fidèle et la plus morne à l’obstination aveugle qui, dans
 nos coeurs, remplaçait alors l’amour.
 
+<div id="ch4" style="page-break-after: always;"></div>
+
 IV
+
 Pendant les mois de septembre et d’octobre, la peste
 garda la ville repliée sous elle. Puisqu’il s’agissait de
 piétinements, plusieurs centaines de milliers d’hommes
@@ -8391,7 +8409,11 @@ oublié depuis des mois. Rieux attendit la
 publication des statistiques générales qui avaient lieu au
 début de chaque semaine. Elles révélaient un recul de la
 maladie.
+
+<div id="ch5" style="page-break-after: always;"></div>
+
 V
+
 Quoique cette brusque retraite de la maladie fût
 inespérée, nos concitoyens ne se hâtèrent pas de se
 réjouir. Les mois qui venaient de passer, tout en
@@ -9732,34 +9754,83 @@ caves, les malles, les mouchoirs et les paperasses, et que,
 peut-être, le jour viendrait où, pour le malheur et
 l’enseignement des hommes, la peste réveillerait ses rats
 et les enverrait mourir dans une cité heureuse.
-À propos de cette édition
-électronique
+
+<div id="apropos" style="page-break-after: always;"></div>
+
+## À propos de cette édition électronique
+
 Texte libre de droits.
+
 Corrections, édition, conversion informatique et
 publication par le groupe :
+
 Ebooks libres et gratuits
+
 http://fr.groups.yahoo.com/group/ebooksgratuits
+
 Adresse du site web du groupe :
+
 http://www.ebooksgratuits.com/
+
 —
 Février 2011
 —
+
 – Élaboration de ce livre électronique :
+
 Les membres de Ebooks libres et gratuits qui ont
 participé à l’élaboration de ce livre, sont : Jean-Marc,
 MichelB, Coolmicro et Fred.
+
 – Dispositions :
+
 Les livres que nous mettons à votre disposition, sont
 des textes libres de droits, que vous pouvez utiliser
 lib r e me nt , à une fin non commerciale et non
 professionnelle. Tout lien vers notre site est
 bienvenu…
+
 – Qualité :
+
 Les textes sont livrés tels quels sans garantie de leur
 intégrité parfaite par rapport à l'original. Nous rappelons
 que c'est un travail d'amateurs non rétribués et que nous
 essayons de promouvoir la culture littéraire avec de
 maigres moyens.
+
 Votre aide est la bienvenue !
+
 VOUS POUVEZ NOUS AIDER À FAIRE CONNAÎTRE
+
 CES CLASSIQUES LITTÉRAIRES.
+
+
+<div id="apropos2" style="page-break-after: always;"></div>
+
+## Mise en page supplémentaire
+
+Kai Carver
+
+https://github.com/kaicarver/lapeste
+
+
+<div id="toc" style="page-break-after: always;"></div>
+
+# Table des matières
+* La Peste
+    * [Couverture](#front)
+    * [Épigraphe](#epigraph)
+    * [I](#ch1)
+        * [1](#sec1)
+        * [2](#sec2)
+        * [3](#sec3)
+        * [4](#sec4)
+    * [II](#ch2)
+    * [III](#ch3)
+    * [IV](#ch4)
+    * [V](#ch5)
+
+* Appendices
+  * [Édition électronique](#apropos)
+  * [2ème édition électronique](#apropos2)
+  * [Table des matières](#toc)

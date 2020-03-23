@@ -18,3 +18,23 @@ This is what I found to do page breaks, such as to start new chapters:
 Trick found here:
 
 https://stackoverflow.com/questions/22601053/pagebreak-in-markdown-while-creating-pdf
+
+## Ideas to do
+
+### Reading out loud 
+
+#### By machine
+
+The text should be in a format suitable for reading out loud by a machine.
+
+Could use, for example, this kind of speech synthesis:
+https://www.textfromtospeech.com/en/text-to-voice/
+https://stackoverflow.com/questions/21947730/chrome-speech-synthesis-with-longer-texts
+
+#### By humans
+
+Could have optional recording of a reading to complement the machine reading by speech synthesis, which would then be more of a fallback if no human reading is available.
+
+### Read and play
+
+And there could even be a kind of read and play mode, a la YH Chang Industries

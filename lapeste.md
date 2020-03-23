@@ -807,6 +807,7 @@ n’étaient pas toujours concierges ni pauvres, durent
 suivre la route sur laquelle M. Michel s’était engagé le
 premier. C’est à partir de ce moment que la peur, et la
 réflexion avec elle, commencèrent.
+
 Cependant, avant d’entrer dans le détail de ces
 nouveaux événements, le narrateur croit utile de donner
 sur la période qui vient d’être décrite l’opinion d’un autre
@@ -824,6 +825,7 @@ tous les plaisirs normaux sans en être l’esclave. En fait, la
 seule habitude qu’on lui connût était la fréquentation
 assidue des danseurs et des musiciens espagnols, assez
 nombreux dans notre ville.
+
 Ses carnets, en tout cas, constituent eux aussi une
 sorte de chronique de cette période difficile. Mais il s’agit
 d’une chronique très particulière qui semble obéir à un
@@ -838,6 +840,7 @@ pour une chronique de cette période, une foule de détails
 secondaires qui ont cependant leur importance et dont la
 bizarrerie même empêchera qu’on juge trop vite cet
 intéressant personnage.
+
 Les premières notes prises par Jean Tarrou datent de
 son arrivée à Oran. Elles montrent, dès le début, une
 curieuse satisfaction de se trouver dans une ville aussi
@@ -851,27 +854,41 @@ commentaires, sauf, un peu plus tard, pour l’une de ces
 conversations, concernant un nommé Camps. Tarrou
 avait assisté à l’entretien de deux receveurs de
 tramways :
+
 – Tu as bien connu Camps, disait l’un.
+
 – Camps ? Un grand avec une moustache noire ?
+
 – C’est ça. Il était à l’aiguillage.
+
 – Oui, bien sûr.
+
 – Eh bien, il est mort.
+
 – Ah ! et quand donc ?
+
 – Après l’histoire des rats.
+
 – Tiens ! Et qu’est-ce qu’il a eu ?
+
 – Je ne sais pas, la fièvre. Et puis, il n’était pas fort. Il a
 eu des abcès sous le bras. Il n’a pas résisté.
+
 – Il avait pourtant l’air comme tout le monde.
+
 – Non, il avait la poitrine faible et il faisait de la
 musique à l’Orphéon. Toujours souffler dans un piston, ça
 use.
+
 – Ah ! termina le deuxième, quand on est malade, il ne
 faut pas souffler dans un piston.
+
 Après ces quelques indications, Tarrou se demandait
 pourquoi Camps était entré à l’Orphéon contre son intérêt
 le plus évident et quelles étaient les raisons profondes qui
 l’avaient conduit à risquer sa vie pour des défilés
 dominicaux.
+
 Tarrou semblait ensuite avoir été favorablement
 impressionné par une scène qui se déroulait souvent au
 balcon qui faisait face à sa fenêtre. Sa chambre donnait en
@@ -890,6 +907,7 @@ milieu de la chaussée, tendant une patte hésitante vers les
 derniers morceaux de papier. Le petit vieux crachait alors
 sur les chats avec force et précision. Si l’un des crachats
 atteignait son but, il riait.
+
 Enfin, Tarrou paraissait avoir été définitivement
 séduit par le caractère commercial de la ville dont
 l’apparence, l’animation et même les plaisirs semblaient
@@ -919,8 +937,10 @@ tramways de notre ville, de leur forme de nacelle, leur
 couleur indécise, leur saleté habituelle, et terminent ces
 considérations par un « c’est remarquable » qui
 n’explique rien.
+
 Voici en tout cas les indications données par Tarrou
 sur l’histoire des rats :
+
 « Aujourd’hui, le petit vieux d’en face est
 décontenancé. Il n’y a plus de chats. Ils ont en effet
 disparu, excités par les rats morts que l’on découvre en
@@ -932,10 +952,12 @@ décontenancé. Il est moins bien peigné, moins vigoureux.
 On le sent inquiet. Au bout d’un moment, il est rentré.
 Mais il avait craché, une fois, dans le vide.
 Mais il avait craché, une fois, dans le vide.
+
 « Dans la ville, on a arrêté un tram aujourd’hui parce
 qu’on y avait découvert un rat mort, parvenu là on ne sait
 comment. Deux ou trois femmes sont descendues. On a
 jeté le rat. Le tram est reparti.
+
 « À l’hôtel, le veilleur de nuit, qui est un homme digne
 de foi, m’a dit qu’il s’attendait à un malheur avec tous ces
 rats. “Quand les rats quittent le navire…” Je lui ai
@@ -946,9 +968,12 @@ selon lui, on pouvait attendre. Il ne savait pas, le malheur
 étant impossible à prévoir. Mais il n’aurait pas été étonné
 qu’un tremblement de terre fît l’affaire. J’ai reconnu que
 c’était possible et il m’a demandé si ça ne m’inquiétait pas.
+
 « – La seule chose qui m’intéresse, lui ai-je dit, c’est de
 trouver la paix intérieure.
+
 « Il m’a parfaitement compris.
+
 « Au restaurant de l’hôtel, il y a toute une famille bien
 intéressante. Le père est un grand homme maigre, habillé
 de noir, avec un col dur. Il a le milieu du crâne chauve et
@@ -964,18 +989,24 @@ et les deux caniches peuvent enfin se percher sur leurs
 chaises. Il dit “vous” à sa femme et à ses enfants, débite
 des méchancetés polies à la première et des paroles
 définitives aux héritiers :
+
 « – Nicole, vous vous montrez souverainement
 antipathique !
+
 « Et la petite fille est prête à pleurer. C’est ce qu’il
 faut.
+
 « Ce matin, le petit garçon était tout excité par
 l’histoire des rats. Il a voulu dire un mot à table :
+
 « – On ne parle pas de rats à table, Philippe. Je vous
 interdis à l’avenir de prononcer ce mot.
+
 « – Votre père a raison, a dit la souris noire.
 « Les deux caniches ont piqué le nez dans leur pâtée et
 la chouette a remercié d’un signe de tête qui n’en disait
 pas long.
+
 « Malgré ce bel exemple, on parle beaucoup en ville de
 cette histoire de rats. Le journal s’en est mêlé. La
 chronique locale, qui d’habitude est très variée, est
@@ -987,18 +1018,25 @@ d’autre chose. Mais c’est aussi qu’il est vexé. Découvrir
 des rats dans l’ascenseur d’un hôtel honorable lui paraît
 inconcevable. Pour le consoler, je lui ai dit : “Mais tout le
 monde en est là.”
+
 « – Justement, m’a-t-il répondu, nous sommes
 maintenant comme tout le monde.
+
 « C’est lui qui m’a parlé des premiers cas de cette
 fièvre surprenante dont on commence à s’inquiéter. Une
 de ses femmes de chambre en est atteinte.
+
 « – Mais sûrement, ce n’est pas contagieux, a-t-il
 précisé avec empressement.
+
 « Je lui ai dit que cela m’était égal.
+
 « – Ah ! Je vois. Monsieur est comme moi, Monsieur
 est fataliste.
+
 « Je n’avais rien avancé de semblable et d’ailleurs je
 ne suis pas fataliste. Je le lui ai dit… »
+
 C’est à partir de ce moment que les carnets de Tarrou
 commencent à parler avec un peu de détails de cette
 fièvre inconnue dont on s’inquiétait déjà dans le public. En
@@ -1006,9 +1044,11 @@ notant que le petit vieux avait retrouvé enfin ses chats
 avec la disparition des rats, et rectifiait patiemment ses
 tirs, Tarrou ajoutait qu’on pouvait déjà citer une dizaine
 de cas de cette fièvre, dont la plupart avaient été mortels.
+
 À titre documentaire, on peut enfin reproduire le
 portrait du docteur Rieux par Tarrou. Autant que le
 narrateur puisse juger, il est assez fidèle :
+
 « Paraît trente-cinq ans. Taille moyenne. Les épaules
 fortes. Visage presque rectangulaire. Les yeux sombres et
 droits, mais les mâchoires saillantes. Le nez fort est
@@ -1018,12 +1058,16 @@ serrées. Il a un peu l’air d’un paysan sicilien avec sa peau
 cuite, son poil noir et ses vêtements de teintes toujours
 cuite, son poil noir et ses vêtements de teintes toujours
 foncées, mais qui lui vont bien.
+
 « Il marche vite. Il descend les trottoirs sans changer
 son allure, mais deux fois sur trois remonte sur le trottoir
 opposé en faisant un léger saut. Il est distrait au volant de
 son auto et laisse souvent ses flèches de direction levées,
 même après qu’il a effectué son tournant. Toujours nutête.
 L’air renseigné. »
+
+<div style="page-break-after: always;"></div>
+
 Les chiffres de Tarrou étaient exacts. Le docteur
 Rieux en savait quelque chose. Le corps du concierge
 isolé, il avait téléphoné à Richard pour le questionner sur

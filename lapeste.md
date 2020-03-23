@@ -149,7 +149,7 @@ et, en dernier lieu, les textes qui finirent par tomber entre
 ses mains. Il se propose d’y puiser quand il le jugera bon
 et de les utiliser comme il lui plaira. Il se propose encore…
 Mais il est peut-être temps de laisser les commentaires et
-les précautions de langage pour en venir au récit luimême.
+les précautions de langage pour en venir au récit lui-même.
 La relation des premières journées demande
 quelque minutie.
 
@@ -172,6 +172,7 @@ probablement mort, la conviction de M. Michel restait
 entière. Il n’y avait pas de rats dans la maison, il fallait
 donc qu’on eût apporté celui-ci du dehors. Bref, il
 s’agissait d’une farce.
+
 Le soir même, Bernard Rieux, debout dans le couloir
 de l’immeuble, cherchait ses clefs avant de monter chez
 lui, lorsqu’il vit surgir, du fond obscur du corridor, un gros
@@ -181,22 +182,28 @@ le docteur, s’arrêta encore, tourna sur elle-même avec un
 petit cri et tomba enfin en rejetant du sang par les
 babines entrouvertes. Le docteur la contempla un
 moment et remonta chez lui.
+
 Ce n’était pas au rat qu’il pensait. Ce sang rejeté le
 ramenait à sa préoccupation. Sa femme, malade depuis un
 an, devait partir le lendemain pour une station de
 montagne. Il la trouva couchée dans leur chambre,
-comme il lui avait demandé de le faire. Ainsi se préparaitelle
+comme il lui avait demandé de le faire. Ainsi se préparait-elle
 à la fatigue du déplacement. Elle souriait.
+
 – Je me sens très bien, disait-elle.
+
 Le docteur regardait le visage tourné vers lui dans la
 lumière de la lampe de chevet. Pour Rieux, à trente ans et
 malgré les marques de la maladie, ce visage était toujours
 celui de la jeunesse, à cause peut-être de ce sourire qui
 emportait tout le reste.
+
 – Dors si tu peux, dit-il. La garde viendra à onze
 heures et je vous mènerai au train de midi.
+
 Il embrassa un front légèrement moite. Le sourire
 l’accompagna jusqu’à la porte.
+
 Le lendemain 17 avril, à huit heures, le concierge
 arrêta le docteur au passage et accusa des mauvais
 plaisants d’avoir déposé trois rats morts au milieu du
@@ -205,7 +212,9 @@ ils étaient pleins de sang. Le concierge était resté quelque
 temps sur le pas de la porte, tenant les rats par les pattes,
 et attendant que les coupables voulussent bien se trahir
 par quelque sarcasme. Mais rien n’était venu.
+
 – Ah ! ceux-là, disait M. Michel, je finirai par les avoir.
+
 Intrigué, Rieux décida de commencer sa tournée par
 les quartiers extérieurs où habitaient les plus pauvres de
 ses clients. La collecte des ordures s’y faisait beaucoup
@@ -214,6 +223,7 @@ poussiéreuses de ce quartier frôlait les boîtes de détritus,
 laissées au bord du trottoir. Dans une rue qu’il longeait
 ainsi, le docteur compta une douzaine de rats jetés sur les
 débris de légumes et les chiffons sales.
+
 Il trouva son premier malade au lit, dans une pièce
 donnant sur la rue et qui servait à la fois de chambre à
 coucher et de salle à manger. C’était un vieil Espagnol au
@@ -223,72 +233,105 @@ docteur entrait, le malade, à demi dressé dans son lit, se
 renversait en arrière pour tenter de retrouver son souffle
 caillouteux de vieil asthmatique. Sa femme apporta une
 cuvette.
+
 – Hein, docteur, dit-il pendant la piqûre, ils sortent,
 vous avez vu ?
+
 – Oui, dit la femme, le voisin en a ramassé trois.
+
 Le vieux se frottait les mains.
+
 – Ils sortent, on en voit dans toutes les poubelles, c’est
 la faim !
+
 Rieux n’eut pas de peine à constater ensuite que tout
 le quartier parlait des rats. Ses visites terminées, il revint
 chez lui.
+
 – Il y a un télégramme pour vous là-haut, dit
 M. Michel.
+
 Le docteur lui demanda s’il avait vu de nouveaux rats.
 Le docteur lui demanda s’il avait vu de nouveaux rats.
+
 – Ah ! non, dit le concierge, je fais le guet, vous
 comprenez. Et ces cochons-là n’osent pas.
+
 Le télégramme avertissait Rieux de l’arrivée de sa
 mère pour le lendemain. Elle venait s’occuper de la
 maison de son fils, en l’absence de la malade. Quand le
 docteur entra chez lui, la garde était déjà là. Rieux vit sa
 femme debout, en tailleur, avec les couleurs du fard. Il lui
 sourit :
+
 – C’est bien, dit-il, très bien.
+
 Un moment après, à la gare, il l’installait dans le
 wagon-lit. Elle regardait le compartiment.
+
 – C’est trop cher pour nous, n’est-ce pas ?
+
 – Il le faut, dit Rieux.
+
 – Qu’est-ce que c’est que cette histoire de rats ?
+
 – Je ne sais pas. C’est bizarre, mais cela passera.
+
 Puis il lui dit très vite qu’il lui demandait pardon, il
 aurait dû veiller sur elle et il l’avait beaucoup négligée.
 Elle secouait la tête, comme pour lui signifier de se taire.
 Mais il ajouta :
+
 – Tout ira mieux quand tu reviendras. Nous
 recommencerons.
+
 – Oui, dit-elle, les yeux brillants, nous
 recommencerons.
+
 Un moment après, elle lui tournait le dos et regardait à
 travers la vitre. Sur le quai, les gens se pressaient et se
 heurtaient. Le chuintement de la locomotive arrivait
 jusqu’à eux. Il appela sa femme par son prénom et, quand
 elle se retourna, il vit que son visage était couvert de
 larmes.
+
 – Non, dit-il doucement.
+
 Sous les larmes, le sourire revint, un peu crispé. Elle
 respira profondément :
+
 – Va-t’en, tout ira bien.
+
 Il la serra contre lui, et sur le quai maintenant, de
 l’autre côté de la vitre, il ne voyait plus que son sourire.
+
 – Je t’en prie, dit-il, veille sur toi.
+
 Mais elle ne pouvait pas l’entendre.
+
 Près de la sortie, sur le quai de la gare, Rieux heurta
 M. Othon, le juge d’instruction, qui tenait son petit garçon
 par la main. Le docteur lui demanda s’il partait en voyage.
 M. Othon, long et noir, et qui ressemblait moitié à ce
 qu’on appelait autrefois un homme du monde, moitié à un
 croque-mort, répondit d’une voix aimable, mais brève :
+
 – J’attends Mme Othon qui est allée présenter ses
 respects à ma famille.
+
 La locomotive siffla.
+
 – Les rats…, dit le juge.
+
 Rieux eut un mouvement dans la direction du train,
 mais se retourna vers la sortie.
+
 – Oui, dit-il, ce n’est rien.
+
 Tout ce qu’il retint de ce moment fut le passage d’un
 homme d’équipe qui portait sous le bras une caisse pleine
 de rats morts.
+
 L’après-midi du même jour, au début de sa
 consultation, Rieux reçut un jeune homme dont on lui dit
 qu’il était journaliste et qu’il était déjà venu le matin. Il
@@ -301,36 +344,51 @@ et voulait des renseignements sur leur état sanitaire.
 Rieux lui dit que cet état n’était pas bon. Mais il voulait
 savoir, avant d’aller plus loin, si le journaliste pouvait dire
 la vérité.
+
 – Certes, dit l’autre.
+
 – Je veux dire : pouvez-vous porter condamnation
 totale ?
+
 – Totale, non, il faut bien le dire. Mais je suppose que
 cette condamnation serait sans fondement.
+
 Doucement, Rieux dit qu’en effet une pareille
 condamnation serait sans fondement, mais qu’en posant
 cette question, il cherchait seulement à savoir si le
 témoignage de Rambert pouvait ou non être sans
 réserves.
+
 – Je n’admets que les témoignages sans réserves. Je
 ne soutiendrai donc pas le vôtre de mes renseignements.
+
 – C’est le langage de Saint-Just, dit le journaliste en
 souriant.
+
 Rieux dit sans élever le ton qu’il n’en savait rien, mais
 que c’était le langage d’un homme lassé du monde où il
 vivait, ayant pourtant le goût de ses semblables et décidé
 à refuser, pour sa part, l’injustice et les concessions.
 Rambert, le cou dans les épaules, regardait le docteur.
+
 – Je crois que je vous comprends, dit-il enfin en se
 levant.
+
 Le docteur l’accompagnait vers la porte :
+
 – Je vous remercie de prendre les choses ainsi.
+
 Rambert parut impatienté :
+
 – Oui, dit-il, je comprends, pardonnez-moi ce
 dérangement.
+
 Le docteur lui serra la main et lui dit qu’il y aurait un
 curieux reportage à faire sur la quantité de rats morts
 qu’on trouvait dans la ville en ce moment.
+
 – Ah ! s’exclama Rambert, cela m’intéresse.
+
 À dix-sept heures, comme il sortait pour de nouvelles
 visites, le docteur croisa dans l’escalier un homme encore
 jeune, à la silhouette lourde, au visage massif et creusé,
@@ -342,23 +400,30 @@ d’un rat qui crevait sur une marche, à ses pieds. Il leva
 sur le docteur le regard calme et un peu appuyé de ses
 yeux gris, lui dit bonjour et ajouta que cette apparition
 des rats était une curieuse chose.
+
 – Oui, dit Rieux, mais qui finit par être agaçante.
+
 – Dans un sens, docteur, dans un sens seulement.
 Nous n’avons jamais rien vu de semblable, voilà tout.
 Mais je trouve cela intéressant, oui, positivement
 intéressant.
+
 Tarrou passa la main sur ses cheveux pour les rejeter
 en arrière, regarda de nouveau le rat, maintenant
 immobile, puis sourit à Rieux :
+
 – Mais, en somme, docteur, c’est surtout l’affaire du
 concierge.
+
 Justement, le docteur trouva le concierge devant la
 maison, adossé au mur près de l’entrée, une expression
 de lassitude sur son visage d’ordinaire congestionné.
+
 – Oui, je sais, dit le vieux Michel à Rieux qui lui
 signalait la nouvelle découverte. C’est par deux ou trois
 qu’on les trouve maintenant. Mais c’est la même chose
 dans les autres maisons.
+
 Il paraissait abattu et soucieux. Il se frottait le cou
 d’un geste machinal. Rieux lui demanda comment il se
 portait. Le concierge ne pouvait pas dire, bien entendu,
@@ -366,19 +431,25 @@ que ça n’allait pas. Seulement, il ne se sentait pas dans son
 assiette. À son avis, c’était le moral qui travaillait. Ces rats
 lui avaient donné un coup et tout irait beaucoup mieux
 quand ils auraient disparu.
+
 Mais le lendemain matin, 18 avril, le docteur qui
 ramenait sa mère de la gare trouva M. Michel avec une
 mine encore plus creusée : de la cave au grenier, une
 dizaine de rats jonchaient les escaliers. Les poubelles des
 maisons voisines en étaient pleines. La mère du docteur
 apprit la nouvelle sans s’étonner.
+
 – Ce sont des choses qui arrivent.
+
 C’était une petite femme aux cheveux argentés, aux
 yeux noirs et doux.
+
 – Je suis heureuse de te revoir, Bernard, disait-elle.
 Les rats ne peuvent rien contre ça.
+
 Lui approuvait ; c’était vrai qu’avec elle tout paraissait
 toujours facile.
+
 Rieux téléphona cependant au service communal de
 dératisation, dont il connaissait le directeur. Celui-ci
 avait-il entendu parler de ces rats qui venaient en grand
@@ -388,13 +459,17 @@ non loin des quais, on en avait découvert une
 cinquantaine. Il se demandait cependant si c’était sérieux.
 Rieux ne pouvait pas en décider, mais il pensait que le
 service de dératisation devait intervenir.
+
 – Oui, dit Mercier, avec un ordre. Si tu crois que ça
 vaut vraiment la peine, je peux essayer d’obtenir un
 ordre.
+
 – Ça en vaut toujours la peine, dit Rieux.
+
 Sa femme de ménage venait de lui apprendre qu’on
 avait collecté plusieurs centaines de rats morts dans la
 grande usine où travaillait son mari.
+
 C’est à peu près à cette époque en tout cas que nos
 concitoyens commencèrent à s’inquiéter. Car, à partir du
 18, les usines et les entrepôts dégorgèrent, en effet, des
@@ -415,6 +490,7 @@ au service de dératisation de collecter les rats morts, tous
 les matins, à l’aube. La collecte finie, deux voitures du
 service devaient porter les bêtes à l’usine d’incinération
 des ordures, afin de les brûler.
+
 Mais dans les jours qui suivirent, la situation
 s’aggrava. Le nombre des rongeurs ramassés allait
 croissant et la récolte était tous les matins plus
@@ -448,6 +524,7 @@ envisage seulement la stupéfaction de notre petite ville, si
 tranquille jusque-là, et bouleversée en quelques jours,
 comme un homme bien portant dont le sang épais se
 mettrait tout d’un coup en révolution !
+
 Les choses allèrent si loin que l’agence Ransdoc
 (renseignements, documentation, tous les renseignements
 sur n’importe quel sujet) annonça, dans son émission
@@ -462,6 +539,7 @@ l’ampleur ni déceler l’origine avait quelque chose de
 menaçant. Seul le vieil Espagnol asthmatique continuait
 de se frotter les mains et répétait : « Ils sortent, ils
 sortent », avec une joie sénile.
+
 Le 28 avril, cependant, Ransdoc annonçait une collecte
 de huit mille rats environ et l’anxiété était à son comble
 dans la ville. On demandait des mesures radicales, on
@@ -471,6 +549,7 @@ lendemain, l’agence annonça que le phénomène avait
 cessé brutalement et que le service de dératisation n’avait
 collecté qu’une quantité négligeable de rats morts. La ville
 respira.
+
 C’est pourtant le même jour, à midi, que le docteur
 Rieux, arrêtant sa voiture devant son immeuble, aperçut
 au bout de la rue le concierge qui avançait péniblement, la
@@ -485,25 +564,33 @@ sifflante. Il ne s’était pas senti très bien et avait voulu
 prendre l’air. Mais des douleurs vives au cou, aux aisselles
 et aux aines l’avaient forcé à revenir et à demander l’aide
 du père Paneloux.
+
 – Ce sont des grosseurs, dit-il. J’ai dû faire un effort.
+
 Le bras hors de la portière, le docteur promena son
 doigt à la base du cou que Michel lui tendait ; une sorte de
 noeud de bois s’y était formé.
+
 – Couchez-vous, prenez votre température, je
 viendrai vous voir cet après-midi.
+
 Le concierge parti, Rieux demanda au père Paneloux
 ce qu’il pensait de cette histoire de rats :
+
 – Oh ! dit le père, ce doit être une épidémie, et ses
 yeux sourirent derrière les lunettes rondes.
+
 Après le déjeuner, Rieux relisait le télégramme de la
 maison de santé qui lui annonçait l’arrivée de sa femme,
 quand le téléphone se fit entendre. C’était un de ses
 anciens clients, employé de mairie, qui l’appelait. Il avait
 longtemps souffert d’un rétrécissement de l’aorte, et,
 comme il était pauvre, Rieux l’avait soigné gratuitement.
+
 – Oui, disait-il, vous vous souvenez de moi. Mais il
 s’agit d’un autre. Venez vite, il est arrivé quelque chose
 chez mon voisin.
+
 Sa voix s’essoufflait. Rieux pensa au concierge et
 décida qu’il le verrait ensuite. Quelques minutes plus
 tard, il franchissait la porte d’une maison basse de la rue
@@ -513,23 +600,30 @@ l’employé, qui descendait à sa rencontre. C’était un
 homme d’une cinquantaine d’années, à la moustache
 jaune, long et voûté, les épaules étroites et les membres
 maigres.
+
 – Cela va mieux, dit-il en arrivant vers Rieux, mais j’ai
 cru qu’il y passait.
+
 Il se mouchait. Au deuxième et dernier étage, sur la
 porte de gauche, Rieux lut, tracé à la craie rouge :
 « Entrez, je suis pendu. »
-Ils entrèrent. La corde pendait de la suspension audessus
+
+Ils entrèrent. La corde pendait de la suspension au-dessus
 d’une chaise renversée, la table poussée dans un
 coin. Mais elle pendait dans le vide.
+
 – Je l’ai décroché à temps, disait Grand qui semblait
 toujours chercher ses mots, bien qu’il parlât le langage le
 plus simple. Je sortais, justement, et j’ai entendu du bruit.
 Quand j’ai vu l’inscription, comment vous expliquer, j’ai
 cru à une farce. Mais il a poussé un gémissement drôle, et
 même sinistre, on peut le dire.
+
 Il se grattait la tête :
+
 – À mon avis, l’opération doit être douloureuse.
 Naturellement, je suis entré.
+
 Ils avaient poussé une porte et se trouvaient sur le
 seuil d’une chambre claire, mais meublée pauvrement. Un
 petit homme rond était couché sur le lit de cuivre. Il
@@ -542,46 +636,66 @@ brusquement, les vertèbres avaient tenu. Bien entendu,
 un peu d’asphyxie. Il faudrait avoir une radiographie. Le
 docteur fit une piqûre d’huile camphrée et dit que tout
 s’arrangerait en quelques jours.
+
 – Merci, docteur, dit l’homme d’une voix étouffée.
+
 Rieux demanda à Grand s’il avait prévenu le
 commissariat et l’employé prit un air déconfit :
+
 – Non, dit-il, oh ! non. J’ai pensé que le plus pressé…
+
 – Bien sûr, coupa Rieux, je le ferai donc.
+
 Mais, à ce moment, le malade s’agita et se dressa dans
 le lit en protestant qu’il allait bien et que ce n’était pas la
 peine.
+
 – Calmez-vous, dit Rieux. Ce n’est pas une affaire,
 croyez-moi, et il faut que je fasse ma déclaration.
+
 – Oh ! fit l’autre.
+
 Et il se rejeta en arrière pour pleurer à petits coups.
 Grand, qui tripotait sa moustache depuis un moment,
 s’approcha de lui.
+
 – Allons, monsieur Cottard, dit-il. Essayez de
 comprendre. On peut dire que le docteur est responsable.
 Si, par exemple, il vous prenait l’envie de recommencer…
+
 Mais Cottard dit, au milieu de ses larmes, qu’il ne
 recommencerait pas, que c’était seulement un moment
 d’affolement et qu’il désirait seulement qu’on lui laissât la
 paix. Rieux rédigeait une ordonnance.
+
 – C’est entendu, dit-il. Laissons cela, je reviendrai
 dans deux ou trois jours. Mais ne faites pas de bêtises.
+
 Sur le palier, il dit à Grand qu’il était obligé de faire sa
 déclaration, mais qu’il demanderait au commissaire de ne
 faire son enquête que deux jours après.
+
 – Il faut le surveiller cette nuit. A-t-il de la famille ?
+
 – Je ne la connais pas. Mais je peux veiller moi-même.
 Il hochait la tête.
+
 – Lui non plus, remarquez-le, je ne peux pas dire que
 je le connaisse. Mais il faut bien s’entraider.
+
 Dans les couloirs de la maison, Rieux regarda
 machinalement vers les recoins et demanda à Grand si les
 rats avaient totalement disparu de son quartier.
+
 L’employé n’en savait rien. On lui avait parlé en effet de
 cette histoire, mais il ne prêtait pas beaucoup d’attention
 aux bruits du quartier.
+
 – J’ai d’autres soucis, dit-il.
+
 Rieux lui serrait déjà la main. Il était pressé de voir le
 concierge avant d’écrire à sa femme.
+
 Les crieurs des journaux du soir annonçaient que
 l’invasion des rats était stoppée. Mais Rieux trouva son
 malade à demi versé hors du lit, une main sur le ventre et
@@ -592,31 +706,46 @@ recoucha. La température était à trente-neuf cinq, les
 ganglions du cou et les membres avaient gonflé, deux
 taches noirâtres s’élargissaient à son flanc. Il se plaignait
 maintenant d’une douleur intérieure.
+
 – Ça brûle, disait-il, ce cochon-là me brûle.
+
 Sa bouche fuligineuse lui faisait mâcher les mots et il
 tournait vers le docteur des yeux globuleux où le mal de
 tête mettait des larmes. Sa femme regardait avec anxiété
 Rieux qui demeurait muet.
+
 – Docteur, disait-elle, qu’est-ce que c’est ?
+
 – Ça peut être n’importe quoi. Mais il n’y a encore rien
 de sûr. Jusqu’à ce soir, diète et dépuratif. Qu’il boive
 beaucoup.
+
 Justement, le concierge était dévoré par la soif.
+
 Rentré chez lui, Rieux téléphonait à son confrère
 Richard, un des médecins les plus importants de la ville.
+
 – Non, disait Richard, je n’ai rien vu d’extraordinaire.
+
 – Pas de fièvre avec inflammations locales ?
+
 – Ah ! si, pourtant, deux cas avec des ganglions très
 enflammés.
+
 – Anormalement ?
+
 – Heu, dit Richard, le normal, vous savez…
+
 Le soir, dans tous les cas, le concierge délirait et, à
 quarante degrés, se plaignait des rats. Rieux tenta un
 abcès de fixation. Sous la brûlure de la térébenthine, le
 concierge hurla : « Ah ! les cochons ! »
+
 Les ganglions avaient encore grossi, durs et ligneux au
 toucher. La femme du concierge s’affolait :
+
 – Veillez, lui dit le docteur, et appelez-moi s’il y a lieu.
+
 Le lendemain, 30 avril, une brise déjà tiède soufflait
 dans un ciel bleu et humide. Elle apportait une odeur de
 fleurs qui venait des banlieues les plus lointaines. Les
@@ -628,8 +757,11 @@ Rieux lui-même, rassuré par une lettre de sa femme,
 descendit chez le concierge avec légèreté. Et en effet, au
 matin, la fièvre était tombée à trente-huit degrés. Affaibli,
 le malade souriait dans son lit.
+
 – Cela va mieux, n’est-ce pas, docteur ? dit sa femme.
+
 – Attendons encore.
+
 Mais à midi, la fièvre était montée d’un seul coup à
 quarante degrés, le malade délirait sans arrêt et les
 vomissements avaient repris. Les ganglions du cou étaient
@@ -638,9 +770,11 @@ tenir sa tête le plus possible éloignée du corps. Sa femme
 était assise au pied du lit, les mains sur la couverture,
 tenant doucement les pieds du malade. Elle regardait
 Rieux.
+
 – Écoutez, dit celui-ci, il faut l’isoler et tenter un
 traitement d’exception. Je téléphone à l’hôpital et nous le
 transporterons en ambulance.
+
 Deux heures après, dans l’ambulance, le docteur et la
 femme se penchaient sur le malade. De sa bouche tapissée
 de fongosités, des bribes de mots sortaient : « Les rats ! »
@@ -650,8 +784,13 @@ ganglions, tassé au fond de sa couchette comme s’il eût
 voulu la refermer sur lui ou comme si quelque chose, venu
 du fond de la terre, l’appelait sans répit, le concierge
 étouffait sous une pesée invisible. La femme pleurait.
+
 – N’y a-t-il donc plus d’espoir, docteur ?
+
 – Il est mort, dit Rieux.
+
+<div style="page-break-after: always;"></div>
+
 La mort du concierge, il est possible de le dire, marqua
 la fin de cette période remplie de signes déconcertants et
 le début d’une autre, relativement plus difficile, où la

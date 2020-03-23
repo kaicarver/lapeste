@@ -19,6 +19,18 @@ Trick found here:
 
 https://stackoverflow.com/questions/22601053/pagebreak-in-markdown-while-creating-pdf
 
+## Problems specific to the _La Peste_ text
+
+### Duplicate lines
+
+Lines are sometimes duplicated, corresponding to page breaks in the PDF. This should be easily corrected by program, as it's unlikely there are intentionally repeated lines in the text.
+
+### Missing hyphens
+
+When words are hyphenated for a line break in the PDF, the hyphen disappears in the text, and the two parts are stuck together. Correcting this requires tedious spotting of all occurrences of such line-ending hyphens in the PDF and adding them by hand back in the text.
+
+Actually many such cases may be automatically found, because such lines are longer than normal, but since it's proportional-width characters, there's no such thing as a standard line length.
+
 ## Ideas to do
 
 ### Reading out loud 

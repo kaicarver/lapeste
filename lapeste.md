@@ -2729,6 +2729,7 @@ en quarantaine s’y voyaient encore. Mais, sur les quais, de
 grandes grues désarmées, les wagonnets renversés sur le
 flanc, des piles solitaires de fûts ou de sacs, témoignaient
 que le commerce, lui aussi, était mort de la peste.
+
 Malgré ces spectacles inaccoutumés, nos concitoyens
 avaient apparemment du mal à comprendre ce qui leur
 arrivait. Il y avait les sentiments communs comme la
@@ -2748,6 +2749,7 @@ reçu communication officielle des statistiques de la
 maladie. Le préfet les communiqua, jour après jour, à
 l’agence, en la priant d’en faire une annonce
 hebdomadaire.
+
 Là encore, cependant, la réaction du public ne fut pas
 immédiate. En effet, l’annonce que la troisième semaine
 de peste avait compté trois cent deux morts ne parlait pas
@@ -2768,6 +2770,7 @@ elles n’étaient pas assez fortes pour que nos concitoyens
 ne gardassent, au milieu de leur inquiétude, l’impression
 qu’il s’agissait d’un accident sans doute fâcheux, mais
 après tout temporaire.
+
 Ils continuaient ainsi de circuler dans les rues et de
 s’attabler à la terrasse des cafés. Dans l’ensemble, ils
 n’étaient pas lâches, échangeaient plus de plaisanteries
@@ -2787,6 +2790,7 @@ peu près nulle, des magasins de luxe fermer du jour au
 lendemain, d’autres garnir leurs vitrines de pancartes
 négatives, pendant que des files d’acheteurs stationnaient
 devant leurs portes.
+
 Oran prit ainsi un aspect singulier. Le nombre des
 piétons devint plus considérable et même, aux heures
 creuses, beaucoup de gens réduits à l’inaction par la
@@ -2799,6 +2803,7 @@ d’une cité en fête dont on eût arrêté la circulation et
 fermé les magasins pour permettre le déroulement d’une
 manifestation publique, et dont les habitants eussent
 envahi les rues pour participer aux réjouissances.
+
 Naturellement, les cinémas profitaient de ce congé
 général et faisaient de grosses affaires. Mais les circuits
 que les films accomplissaient dans le département étaient
@@ -2807,6 +2812,7 @@ interrompus. Au bout de deux semaines, les
 programmes, et, après quelque temps, les cinémas
 finirent par projeter toujours le même film. Leurs recettes
 cependant ne diminuaient pas.
+
 Les cafés enfin, grâce aux stocks considérables
 accumulés dans une ville où le commerce des vins et des
 alcools tient la première place, purent également
@@ -2817,6 +2823,7 @@ maladies infectieuses se fortifia dans l’opinion. Toutes les
 nuits, vers deux heures, un nombre assez considérable
 d’ivrognes expulsés des cafés emplissaient les rues et s’y
 répandaient en propos optimistes.
+
 Mais tous ces changements, dans un sens, étaient si
 extraordinaires et s’étaient accomplis si rapidement qu’il
 n’était pas facile de les considérer comme normaux et

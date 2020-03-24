@@ -2394,6 +2394,7 @@ nous nous rendissions compte que nous nous trouvions
 dans une situation sans compromis, et que les mots
 « transiger », « faveur », « exception » n’avaient plus de
 sens.
+
 Même la légère satisfaction d’écrire nous fut refusée.
 D’une part, en effet, la ville n’était plus reliée au reste du
 pays par les moyens de communication habituels, et,

@@ -2353,6 +2353,8 @@ de peste. Fermez la ville. »
 
 II
 
+<div id="sec9" style="page-break-after: always;"></div>
+
 À partir de ce moment, il est possible de dire que la
 peste fut notre affaire à tous. Jusque-là, malgré la
 surprise et l’inquiétude que leur avaient apportées ces
@@ -2366,6 +2368,7 @@ sentiment aussi individuel que celui de la séparation
 d’avec un être aimé devint soudain, dès les premières
 semaines, celui de tout un peuple, et, avec la peur, la
 souffrance principale de ce long temps d’exil.
+
 Une des conséquences les plus remarquables de la
 fermeture des portes fut, en effet, la soudaine séparation
 où furent placés des êtres qui n’y étaient pas préparés.
@@ -2425,6 +2428,7 @@ télégramme sont vite épuisées, de longues vies communes
 ou des passions douloureuses se résumèrent rapidement
 dans un échange périodique de formules toutes faites
 comme : « Vais bien. Pense à toi. Tendresse. »
+
 Certains d’entre nous, cependant, s’obstinaient à
 écrire et imaginaient sans trêve, pour correspondre avec
 l’extérieur, des combinaisons qui finissaient toujours par
@@ -2441,6 +2445,7 @@ signes de notre vie difficile. Et pour finir, à ce monologue
 stérile et entêté, à cette conversation aride avec un mur,
 l’appel conventionnel du télégramme nous paraissait
 préférable.
+
 Au bout de quelques jours d’ailleurs, quand il devint
 évident que personne ne parviendrait à sortir de notre
 ville, on eut l’idée de demander si le retour de ceux qui
@@ -2472,6 +2477,7 @@ union. Mais cette séparation brutale et prolongée les avait
 mis à même de s’assurer qu’ils ne pouvaient vivre
 éloignés l’un de l’autre, et qu’auprès de cette vérité
 soudain mise au jour, la peste était peu de chose.
+
 Il s’agissait d’une exception. Dans la majorité des cas,
 la séparation, c’était évident, ne devait cesser qu’avec
 l’épidémie. Et pour nous tous, le sentiment qui faisait
@@ -2490,6 +2496,7 @@ cette présence, encore si proche et déjà si lointaine, qui
 occupait maintenant nos journées. En fait, nous souffrions
 deux fois – de notre souffrance d’abord et de celle ensuite
 que nous imaginions aux absents, fils, épouse ou amante.
+
 En d’autres circonstances, d’ailleurs, nos concitoyens
 auraient trouvé une issue dans une vie plus extérieure et
 plus active. Mais, en même temps, la peste les laissait
@@ -2500,6 +2507,7 @@ passer toujours par les mêmes chemins, et, la plupart du
 temps, dans une si petite ville, ces chemins étaient
 précisément ceux qu’à une autre époque ils avaient
 parcourus avec l’absent.
+
 Ainsi, la première chose que la peste apporta à nos
 concitoyens fut l’exil. Et le narrateur est persuadé qu’il
 peut écrire ici, au nom de tous, ce que lui-même a
@@ -2528,6 +2536,7 @@ dans l’avenir, ils y renonçaient rapidement, autant du
 moins qu’il leur était possible, en éprouvant les blessures
 que finalement l’imagination inflige à ceux qui lui font
 confiance.
+
 En particulier, tous nos concitoyens se privèrent très
 vite, même en public, de l’habitude qu’ils avaient pu
 prendre de supputer la durée de leur séparation.
@@ -2542,6 +2551,7 @@ donné par un journal, un soupçon fugitif ou une brusque
 clairvoyance, leur donnait l’idée qu’après tout, il n’y avait
 pas de raison pour que la maladie ne durât pas plus de six
 mois, et peut-être un an, ou plus encore.
+
 À ce moment, l’effondrement de leur courage, de leur
 volonté et de leur patience était si brusque qu’il leur
 semblait qu’ils ne pourraient plus jamais remonter de ce
@@ -2561,6 +2571,7 @@ abandonnés à des jours sans direction et à des souvenirs
 stériles, ombres errantes qui n’auraient pu prendre force
 qu’en acceptant de s’enraciner dans la terre de leur
 douleur.
+
 Ils éprouvaient ainsi la souffrance profonde de tous les
 prisonniers et de tous les exilés, qui est de vivre avec une
 mémoire qui ne sert à rien. Ce passé même auquel ils
@@ -2579,6 +2590,7 @@ vacances insupportables était de faire marcher à nouveau
 les trains par l’imagination et de remplir les heures avec
 les carillons répétés d’une sonnette pourtant obstinément
 silencieuse.
+
 Mais si c’était l’exil, dans la majorité des cas c’était
 l’exil chez soi. Et quoique le narrateur n’ait connu que
 l’exil de tout le monde, il ne doit pas oublier ceux, comme
@@ -2605,6 +2617,7 @@ poursuivre de toutes leurs forces les images d’une terre
 où une certaine lumière, deux ou trois collines, l’arbre
 favori et des visages de femmes composaient un climat
 pour eux irremplaçable.
+
 Pour parler enfin plus expressément des amants, qui
 sont les plus intéressants et dont le narrateur est peutêtre
 mieux placé pour parler, ils se trouvaient tourmentés
@@ -2634,6 +2647,7 @@ aurions pu nous indigner. Il nous provoquait aussi à nous
 faire souffrir nous-mêmes et nous faisait ainsi consentir à
 la douleur. C’était là une des façons qu’avait la maladie de
 détourner l’attention et de brouiller les cartes.
+
 Ainsi, chacun dut accepter de vivre au jour le jour, et
 seul en face du ciel. Cet abandon général qui pouvait à la
 longue tremper les caractères commençait pourtant par
@@ -2652,6 +2666,7 @@ l’être qui vivait avec eux se plaçait devant leur univers. À
 partir de cet instant, au contraire, ils furent apparemment
 livrés aux caprices du ciel, c’est-à-dire qu’ils souffrirent et
 espérèrent sans raison.
+
 Dans ces extrémités de la solitude, enfin, personne ne
 pouvait espérer l’aide du voisin et chacun restait seul avec
 sa préoccupation. Si l’un d’entre nous, par hasard,
@@ -2677,6 +2692,7 @@ formules banales de la conversation. C’est à ce prix
 seulement que les prisonniers de la peste pouvaient
 obtenir la compassion de leur concierge ou l’intérêt de
 leurs auditeurs.
+
 Cependant, et c’est le plus important, si douloureuses
 que fussent ces angoisses, si lourd à porter que fût ce
 coeur pourtant vide, on peut bien dire que ces exilés, dans
@@ -2696,6 +2712,9 @@ pût y prendre garde. Tiré de cette longue conversation
 intérieure qu’il soutenait avec une ombre, il était alors
 jeté sans transition au plus épais silence de la terre. Il
 n’avait eu le temps de rien.
+
+<div id="sec10" style="page-break-after: always;"></div>
+
 Pendant que nos concitoyens essayaient de s’arranger
 avec ce soudain exil, la peste mettait des gardes aux
 portes et détournait les navires qui faisaient route vers
@@ -10054,8 +10073,9 @@ https://github.com/kaicarver/lapeste
         * [6](#sec6)
         * [7](#sec7)
         * [8](#sec8)
-        * [9](#sec9)
     * [II](#ch2)
+        * [1](#sec9)
+        * [2](#sec10)
     * [III](#ch3)
     * [IV](#ch4)
     * [V](#ch5)

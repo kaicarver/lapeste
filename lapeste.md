@@ -2829,17 +2829,23 @@ extraordinaires et s’étaient accomplis si rapidement qu’il
 n’était pas facile de les considérer comme normaux et
 durables. Le résultat est que nous continuions à mettre au
 premier plan nos sentiments personnels.
+
 En sortant de l’hôpital, deux jours après la fermeture
 des portes, le docteur Rieux rencontra Cottard qui leva
 vers lui le visage même de la satisfaction. Rieux le félicita
 de sa mine.
+
 – Oui, ça va tout à fait bien, dit le petit homme. Ditesmoi,
 docteur, cette sacrée peste, hein ! ça commence à
 devenir sérieux.
+
 Le docteur le reconnut. Et l’autre constata avec une
 sorte d’enjouement :
+
 – Il n’y a pas de raison qu’elle s’arrête maintenant.
+
 Tout va être sens dessus dessous.
+
 Ils marchèrent un moment ensemble. Cottard
 racontait qu’un gros épicier de son quartier avait stocké
 des produits alimentaires pour les vendre au prix fort et
@@ -2852,9 +2858,11 @@ matin, un homme présentant les signes de la peste, et
 dans le délire de la maladie, s’était précipité au-dehors,
 jeté sur la première femme rencontrée et l’avait étreinte
 en criant qu’il avait la peste.
+
 – Bon ! remarquait Cottard, sur un ton aimable qui
 n’allait pas avec son affirmation, nous allons tous devenir
 fous, c’est sûr.
+
 De même, l’après-midi du même jour, Joseph Grand
 avait fini par faire des confidences personnelles au
 docteur Rieux. Il avait aperçu la photographie de
@@ -2863,12 +2871,15 @@ Rieux répondit que sa femme se soignait hors de la ville.
 « Dans un sens, avait dit Grand, c’est une chance. » Le
 docteur répondit que c’était une chance sans doute et qu’il
 fallait espérer seulement que sa femme guérît.
+
 – Ah ! fit Grand, je comprends.
+
 Et pour la première fois depuis que Rieux le
 connaissait, il se mit à parler d’abondance. Bien qu’il
 cherchât encore ses mots, il réussissait presque toujours à
 les trouver comme si, depuis longtemps, il avait pensé à
 ce qu’il était en train de dire.
+
 Il s’était marié fort jeune avec une jeune fille pauvre
 de son voisinage. C’était même pour se marier qu’il avait
 interrompu ses études et pris un emploi. Ni Jeanne ni lui
@@ -2886,6 +2897,7 @@ Jeanne, qui regardait la vitrine avec émerveillement,
 s’était renversée vers lui en disant : « Que c’est beau ! » Il
 lui avait serré le poignet. C’est ainsi que le mariage avait
 été décidé.
+
 Le reste de l’histoire, selon Grand, était très simple. Il
 en est ainsi pour tout le monde : on se marie, on aime
 encore un peu, on travaille. On travaille tant qu’on en
@@ -2905,9 +2917,11 @@ elle n’était pas partie seule. « Je t’ai bien aimé, mais
 maintenant je suis fatiguée… Je ne suis pas heureuse de
 partir, mais on n’a pas besoin d’être heureux pour
 recommencer. » C’est, en gros, ce qu’elle lui avait écrit.
+
 Joseph Grand à son tour avait souffert. Il aurait pu
 recommencer, comme le lui fit remarquer Rieux. Mais
 voilà, il n’avait pas la foi.
+
 Simplement, il pensait toujours à elle. Ce qu’il aurait
 voulu, c’est lui écrire une lettre pour se justifier. « Mais
 c’est difficile, disait-il. Il y a longtemps que j’y pense. Tant
@@ -2917,29 +2931,38 @@ moment donné, j’aurais dû trouver les mots qui l’auraient
 retenue, mais je n’ai pas pu. » Grand se mouchait dans
 une sorte de serviette à carreaux. Puis il s’essuyait les
 moustaches. Rieux le regardait.
+
 – Excusez-moi, docteur, dit le vieux, mais, comment
 dire ?… J’ai confiance en vous. Avec vous, je peux parler.
 Alors, ça me donne de l’émotion.
+
 Visiblement, Grand était à mille lieues de la peste.
+
 Le soir, Rieux télégraphiait à sa femme que la ville
 était fermée, qu’il allait bien, qu’elle devait continuer de
 veiller sur elle-même et qu’il pensait à elle.
 Trois semaines après la fermeture des portes, Rieux
 trouva, à la sortie de l’hôpital, un jeune homme qui
 l’attendait.
+
 – Je suppose, lui dit ce dernier, que vous me
 reconnaissez.
 Rieux croyait le connaître, mais il hésitait.
+
 – Je suis venu avant ces événements, dit l’autre, vous
 demander des renseignements sur les conditions de vie
 des Arabes. Je m’appelle Raymond Rambert.
+
 – Ah ! oui, dit Rieux. Eh bien, vous avez maintenant un
 beau sujet de reportage.
+
 L’autre paraissait nerveux. Il dit que ce n’était pas
 cela et qu’il venait demander une aide au docteur Rieux.
+
 – Je m’en excuse, ajouta-t-il, mais je ne connais
 personne dans cette ville et le correspondant de mon
 journal a le malheur d’être imbécile.
+
 Rieux lui proposa de marcher jusqu’à un dispensaire
 du centre, car il avait quelques ordres à donner. Ils
 descendirent les ruelles du quartier nègre. Le soir
@@ -2961,6 +2984,7 @@ secrétaire de la préfecture lui avait ri au nez. Il avait fini,
 après une attente de deux heures dans une file, par faire
 accepter un télégramme où il avait inscrit : « Tout va
 bien. À bientôt. »
+
 Mais le matin, en se levant, l’idée lui était venue
 brusquement qu’après tout, il ne savait pas combien de
 temps cela pouvait durer. Il avait décidé de partir.
@@ -2974,21 +2998,27 @@ subir une quarantaine. Le directeur lui avait dit qu’il
 comprenait très bien, mais qu’on ne pouvait pas faire
 d’exception, qu’il allait voir, mais qu’en somme la
 situation était grave et que l’on ne pouvait rien décider.
+
 – Mais enfin, avait dit Rambert, je suis étranger à
 cette ville.
+
 – Sans doute, mais après tout, espérons que l’épidémie
 ne durera pas.
+
 Pour finir, il avait essayé de consoler Rambert en lui
 faisant remarquer qu’il pouvait trouver à Oran la matière
 d’un reportage intéressant et qu’il n’était pas
 d’événement, tout bien considéré, qui n’eût son bon côté.
 Rambert haussait les épaules. On arrivait au centre de la
 ville :
+
 – C’est stupide, docteur, vous comprenez. Je n’ai pas
 été mis au monde pour faire des reportages. Mais peutêtre
 ai-je été mis au monde pour vivre avec une femme.
 Cela n’est-il pas dans l’ordre ?
+
 Rieux dit qu’en tout cas cela paraissait raisonnable.
+
 Sur les boulevards du centre, ce n’était pas la foule
 ordinaire. Quelques passants se hâtaient vers des
 demeures lointaines. Aucun ne souriait. Rieux pensa que
@@ -2996,14 +3026,18 @@ c’était le résultat de l’annonce Ransdoc qui se faisait ce
 jour-là. Au bout de vingt-quatre heures, nos concitoyens
 recommençaient à espérer. Mais le jour même, les chiffres
 étaient encore trop frais dans les mémoires.
+
 – C’est que, dit Rambert sans crier gare, elle et moi
 nous sommes rencontrés depuis peu et nous nous
 entendons bien.
+
 Rieux ne disait rien.
+
 – Mais je vous ennuie, reprit Rambert. Je voulais
 simplement vous demander si vous ne pouvez pas me
 faire un certificat où il serait affirmé que je n’ai pas cette
 sacrée maladie. Je crois que cela pourrait me servir.
+
 Rieux approuva de la tête, il reçut un petit garçon qui
 se jetait dans ses jambes et le remit doucement sur ses
 pieds. Ils repartirent et arrivèrent sur la place d’Armes.
@@ -3015,6 +3049,7 @@ ses pieds couverts d’un enduit blanchâtre. Il regarda
 Rambert. Le feutre un peu en arrière, le col de chemise
 déboutonné sous la cravate, mal rasé, le journaliste avait
 un air buté et boudeur.
+
 – Soyez sûr que je vous comprends, dit enfin Rieux,
 mais votre raisonnement n’est pas bon. Je ne peux pas
 vous faire ce certificat parce qu’en fait, j’ignore si vous
@@ -3022,43 +3057,59 @@ avez ou non cette maladie et parce que, même dans ce
 cas, je ne puis pas certifier qu’entre la seconde où vous
 sortirez de mon bureau et celle où vous entrerez à la
 préfecture, vous ne serez pas infecté. Et puis même…
+
 – Et puis même ? dit Rambert.
+
 – Et puis, même si je vous donnais ce certificat, il ne
 vous servirait de rien.
+
 – Pourquoi ?
+
 – Parce qu’il y a dans cette ville des milliers d’hommes
 dans votre cas et qu’on ne peut cependant pas les laisser
 sortir.
+
 – Mais s’ils n’ont pas la peste eux-mêmes ?
+
 – Ce n’est pas une raison suffisante. Cette histoire est
 stupide, je sais bien, mais elle nous concerne tous. Il faut
 la prendre comme elle est.
+
 – Mais je ne suis pas d’ici !
+
 – À partir de maintenant, hélas ! vous serez d’ici
 comme tout le monde.
+
 L’autre s’animait :
-– C’est une question d’humanité, je vous le jure. Peutêtre
+
+– C’est une question d’humanité, je vous le jure. Peut-être
 ne vous rendez-vous pas compte de ce que signifie
 une séparation comme celle-ci pour deux personnes qui
 s’entendent bien.
+
 Rieux ne répondit pas tout de suite. Puis il dit qu’il
 croyait qu’il s’en rendait compte. De toutes ses forces, il
 désirait que Rambert retrouvât sa femme et que tous
 ceux qui s’aimaient fussent réunis, mais il y avait des
 arrêtés et des lois, il y avait la peste, son rôle à lui était de
 faire ce qu’il fallait.
+
 – Non, dit Rambert avec amertume, vous ne pouvez
 pas comprendre. Vous parlez le langage de la raison, vous
 êtes dans l’abstraction.
+
 Le docteur leva les yeux sur la République et dit qu’il
 ne savait pas s’il parlait le langage de la raison, mais il
 parlait le langage de l’évidence et ce n’était pas forcément
 la même chose. Le journaliste rajustait sa cravate :
+
 – Alors, cela signifie qu’il faut que je me débrouille
 autrement ? Mais, reprit-il avec une sorte de défi, je
 quitterai cette ville.
+
 Le docteur dit qu’il le comprenait encore, mais que
 cela ne le regardait pas.
+
 – Si, cela vous regarde, fit Rambert avec un éclat
 soudain. Je suis venu vers vous parce qu’on m’a dit que
 vous aviez eu une grande part dans les décisions prises.
@@ -3066,30 +3117,41 @@ J’ai pensé alors que, pour un cas au moins, vous pourriez
 défaire ce que vous aviez contribué à faire. Mais cela vous
 est égal. Vous n’avez pensé à personne. Vous n’avez pas
 tenu compte de ceux qui étaient séparés.
+
 Rieux reconnut que, dans un sens, cela était vrai, il
 n’avait pas voulu en tenir compte.
+
 – Ah ! je vois, fit Rambert, vous allez parler de service
 public. Mais le bien public est fait du bonheur de chacun.
+
 – Allons, dit le docteur qui semblait sortir d’une
 distraction, il y a cela et il y a autre chose. Il ne faut pas
 juger. Mais vous avez tort de vous fâcher. Si vous pouvez
 vous tirer de cette affaire, j’en serai profondément
 heureux. Simplement, il y a des choses que ma fonction
 m’interdit.
+
 L’autre secoua la tête avec impatience.
+
 – Oui, j’ai tort de me fâcher. Et je vous ai pris assez de
 temps comme cela.
+
 Rieux lui demanda de le tenir au courant de ses
 démarches et de ne pas lui garder rancune. Il y avait
 sûrement un plan sur lequel ils pouvaient se rencontrer.
 Rambert parut soudain perplexe :
+
 – Je le crois, dit-il, après un silence, oui, je le crois
 malgré moi et malgré tout ce que vous m’avez dit.
+
 Il hésita :
+
 – Mais je ne puis pas vous approuver.
+
 Il baissa son feutre sur le front et partit d’un pas
 rapide. Rieux le vit entrer dans l’hôtel où habitait Jean
 Tarrou.
+
 Après un moment, le docteur secoua la tête. Le
 journaliste avait raison dans son impatience de bonheur.
 Mais avait-il raison quand il l’accusait ? « Vous vivez dans
@@ -3120,8 +3182,10 @@ soirée enfin, il faisait ses visites et rentrait tard dans la
 nuit. La nuit précédente, sa mère avait remarqué, en lui
 tendant un télégramme de Mme Rieux jeune, que les
 mains du docteur tremblaient.
+
 – Oui, disait-il, mais en persévérant, je serai moins
 nerveux.
+
 Il était vigoureux et résistant. En fait, il n’était pas
 encore fatigué. Mais ses visites, par exemple, lui
 devenaient insupportables. Diagnostiquer la fièvre
@@ -3140,6 +3204,7 @@ larmes, la persuasion, l’abstraction en somme. Dans ces
 appartements surchauffés par la fièvre et l’angoisse, des
 scènes de folie se déroulaient. Mais le malade était
 emmené. Rieux pouvait partir.
+
 Les premières fois, il s’était borné à téléphoner et à
 courir vers d’autres malades, sans attendre l’ambulance.
 Mais les parents avaient alors fermé leur porte, préférant
@@ -3155,8 +3220,10 @@ dans les commencements, tous les soirs furent comme ce
 soir où, entré chez Mme Loret, dans un petit appartement
 décoré d’éventails et de fleurs artificielles, il fut reçu par
 la mère qui lui dit avec un sourire mal dessiné :
+
 – J’espère bien que ce n’est pas la fièvre dont tout le
 monde parle.
+
 Et lui, relevant drap et chemise, contemplait en silence
 les taches rouges sur le ventre et les cuisses, l’enflure des
 ganglions. La mère regardait entre les jambes de sa fille et
@@ -3176,6 +3243,7 @@ au pied du monument à la République, conscient
 seulement de la difficile indifférence qui commençait à
 l’emplir, regardant toujours la porte d’hôtel où Rambert
 avait disparu.
+
 Au bout de ces semaines harassantes, après tous ces
 crépuscules où la ville se déversait dans les rues pour y
 tourner en rond, Rieux comprenait qu’il n’avait plus à se
@@ -3201,6 +3269,9 @@ ainsi suivre, et sur un nouveau plan, cette espèce de lutte
 morne entre le bonheur de chaque homme et les
 abstractions de la peste, qui constitua toute la vie de notre
 cité pendant cette longue période.
+
+<div id="sec11" style="page-break-after: always;"></div>
+
 Mais là où les uns voyaient l’abstraction, d’autres
 voyaient la vérité. La fin du premier mois de peste fut
 assombrie en effet par une recrudescence marquée de
@@ -3217,6 +3288,7 @@ exigeant, également éloigné du libertinage moderne et de
 l’obscurantisme des siècles passés. À cette occasion, il
 n’avait pas marchandé de dures vérités à son auditoire.
 De là, sa réputation.
+
 Or, vers la fin de ce mois, les autorités ecclésiastiques
 de notre ville décidèrent de lutter contre la peste par
 leurs propres moyens, en organisant une semaine de
@@ -3232,6 +3304,7 @@ passionnée, il avait accepté avec résolution la mission dont
 on le chargeait. Longtemps avant ce prêche, on en parlait
 déjà en ville et il marqua, à sa manière, une date
 importante dans l’histoire de cette période.
+
 La semaine fut suivie par un nombreux public. Ce
 n’est pas qu’en temps ordinaire les habitants d’Oran
 soient particulièrement pieux. Le dimanche matin, par
@@ -3269,6 +3342,7 @@ prophylactiques. Il ajoutait seulement que, pour trancher
 la question, il eût fallu être renseigné sur l’existence d’un
 génie de la peste et que notre ignorance sur ce point
 stérilisait toutes les opinions qu’on pouvait avoir.
+
 La cathédrale de notre ville, en tout cas, fut à peu près
 remplie par les fidèles pendant toute la semaine. Les
 premiers jours, beaucoup d’habitants restaient encore
@@ -3284,6 +3358,7 @@ la pluie tombait à verse. Ceux qui se tenaient dehors
 avaient ouvert leurs parapluies. Une odeur d’encens et
 d’étoffes mouillées flottait dans la cathédrale quand le
 père Paneloux monta en chaire.
+
 Il était de taille moyenne, mais trapu. Quand il
 s’appuya sur le rebord de la chaire, serrant le bois entre
 ses grosses mains, on ne vit de lui qu’une forme épaisse et
@@ -3294,6 +3369,7 @@ l’assistance d’une seule phrase véhémente et martelée :
 « Mes frères, vous êtes dans le malheur, mes frères, vous
 l’avez mérité », un remous parcourut l’assistance jusqu’au
 parvis.
+
 Logiquement, ce qui suivit ne semblait pas se
 raccorder à cet exorde pathétique. Ce fut la suite du
 discours qui fit seulement comprendre à nos concitoyens
@@ -3307,6 +3383,7 @@ Pharaon s’oppose aux desseins éternels et la peste le fait
 alors tomber à genoux. Depuis le début de toute l’histoire,
 le fléau de Dieu met à ses pieds les orgueilleux et les
 aveugles. Méditez cela et tombez à genoux. »
+
 La pluie redoublait au-dehors et cette dernière phrase,
 prononcée au milieu d’un silence absolu, rendu plus
 profond encore par le crépitement de l’averse sur les
@@ -3337,6 +3414,7 @@ sur les hommes de cette ville son visage de pitié, lassé
 d’attendre, déçu dans son éternel espoir, vient de
 détourner son regard. Privés de la lumière de Dieu, nous
 voici pour longtemps dans les ténèbres de la peste ! »
+
 Dans la salle quelqu’un s’ébroua, comme un cheval
 impatient. Après une courte pause, le père reprit, sur un
 ton plus bas : « On lit dans la Légende dorée qu’au temps
@@ -3348,6 +3426,7 @@ donnait des ordres au mauvais ange qui portait un épieu
 de chasse et il lui ordonnait de frapper les maisons ; et
 autant de fois qu’une maison recevait de coups, autant y
 avait-il de morts qui en sortaient. »
+
 Paneloux tendit ici ses deux bras courts dans la
 direction du parvis, comme s’il montrait quelque chose
 derrière le rideau mouvant de la pluie : « Mes frères, ditil
@@ -3365,12 +3444,14 @@ Cette main qu’elle vous tendra, nulle puissance terrestre
 et pas même, sachez-le bien, la vaine science humaine, ne
 peut faire que vous l’évitiez. Et battus sur l’aire sanglante
 de la douleur, vous serez rejetés avec la paille. »
+
 Ici, le père reprit avec plus d’ampleur encore l’image
 pathétique du fléau. Il évoqua l’immense pièce de bois
 tournoyant au-dessus de la ville, frappant au hasard et se
 relevant ensanglantée, éparpillant enfin le sang et la
 douleur humaine « pour des semailles qui prépareraient
 les moissons de la vérité ».
+
 Au bout de sa longue période, le père Paneloux
 s’arrêta, les cheveux sur le front, le corps agité d’un
 tremblement que ses mains communiquaient à la chaire
@@ -3394,6 +3475,7 @@ vous portez sur les êtres et sur les choses, depuis le jour
 où cette ville a refermé ses murs autour de vous et du
 fléau. Vous savez maintenant, et enfin, qu’il faut venir à
 l’essentiel. »
+
 Un vent humide s’engouffrait à présent sous la nef et
 les flammes des cierges se courbèrent en grésillant. Une
 odeur épaisse de cire, des toux, un éternuement
@@ -3411,6 +3493,7 @@ manifeste enfin la miséricorde divine qui a mis en toute
 chose le bien et le mal, la colère et la pitié, la peste et le
 salut. Ce fléau même qui vous meurtrit, il vous élève et
 vous montre la voie.
+
 « Il y a bien longtemps, les chrétiens d’Abyssinie
 voyaient dans la peste un moyen efficace, d’origine divine,
 de gagner l’éternité. Ceux qui n’étaient pas atteints
@@ -3433,6 +3516,7 @@ toute vie. Voilà, mes frères, l’immense consolation que je
 voulais vous apporter pour que ce ne soient pas
 seulement des paroles qui châtient que vous emportiez
 d’ici, mais aussi un verbe qui apaise. »
+
 On sentait que Paneloux avait fini. Au-dehors, la pluie
 avait cessé. Un ciel mêlé d’eau et de soleil déversait sur la
 place une lumière plus jeune. De la rue montaient des
@@ -3455,6 +3539,9 @@ offerts à tous. Il espérait contre tout espoir que, malgré
 l’horreur de ces journées et les cris des agonisants, nos
 concitoyens adresseraient au ciel la seule parole qui fût
 chrétienne et qui était d’amour. Dieu ferait le reste.
+
+<div id="sec12" style="page-break-after: always;"></div>
+
 Ce prêche eut-il de l’effet sur nos concitoyens, il est
 difficile de le dire. M. Othon, le juge d’instruction, déclara
 au docteur Rieux qu’il avait trouvé l’exposé du père
@@ -3466,6 +3553,7 @@ emprisonnement inimaginable. Et alors que les uns
 continuaient leur petite vie et s’adaptaient à la
 claustration, pour d’autres, au contraire, leur seule idée
 fut dès lors de s’évader de cette prison.
+
 Les gens avaient d’abord accepté d’être coupés de
 l’extérieur comme ils auraient accepté n’importe quel
 ennui temporaire qui ne dérangerait que quelques-unes
@@ -3475,6 +3563,7 @@ commençait de grésiller, ils sentaient confusément que
 cette réclusion menaçait toute leur vie et, le soir venu,
 l’énergie qu’ils retrouvaient avec la fraîcheur les jetait
 parfois à des actes désespérés.
+
 Tout d’abord, et que ce soit ou non par l’effet d’une
 coïncidence, c’est à partir de ce dimanche qu’il y eut dans
 notre ville une sorte de peur assez générale et assez
@@ -3484,6 +3573,7 @@ situation. De ce point de vue, le climat où nous vivions
 dans notre ville fut un peu modifié. Mais, en vérité, le
 changement était-il dans le climat ou dans les coeurs, voilà
 la question.
+
 Peu de jours après le prêche, Rieux qui commentait
 cet événement avec Grand, en se dirigeant vers les
 faubourgs, heurta dans la nuit un homme qui se dandinait
@@ -3494,13 +3584,19 @@ placée derrière les promeneurs éclaira subitement
 l’homme qui riait sans bruit, les yeux fermés. Sur son
 visage blanchâtre, distendu par une hilarité muette, la
 sueur coulait à grosses gouttes. Ils passèrent.
+
 – C’est un fou, dit Grand.
+
 Rieux, qui venait de lui prendre le bras pour
 l’entraîner, sentit que l’employé tremblait d’énervement.
+
 – Il n’y aura bientôt plus que des fous dans nos murs,
 fit Rieux.
+
 La fatigue aidant, il se sentait la gorge sèche.
+
 – Buvons quelque chose.
+
 Dans le petit café où ils entrèrent, et qui était éclairé
 par une seule lampe au-dessus du comptoir, les gens
 parlaient à voix basse, sans raison apparente, dans l’air
@@ -3511,31 +3607,45 @@ semblait à Rieux que la nuit était pleine de gémissements.
 Quelque part dans le ciel noir, au-dessus des lampadaires,
 un sifflement sourd lui rappela l’invisible fléau qui brassait
 inlassablement l’air chaud.
+
 – Heureusement, heureusement, disait Grand.
+
 Rieux se demandait ce qu’il voulait dire.
+
 – Heureusement, disait l’autre, j’ai mon travail.
+
 – Oui, dit Rieux, c’est un avantage.
+
 Et, décidé à ne pas écouter le sifflement, il demanda à
 Grand s’il était content de ce travail.
+
 – Eh bien, je crois que je suis dans la bonne voie.
+
 – Vous en avez encore pour longtemps ?
+
 Grand parut s’animer, la chaleur de l’alcool passa dans
 sa voix.
+
 – Je ne sais pas. Mais la question n’est pas là, docteur,
 ce n’est pas la question, non.
+
 Dans l’obscurité, Rieux devinait qu’il agitait ses bras. Il
 semblait préparer quelque chose qui vint brusquement,
 avec volubilité :
+
 – Ce que je veux, voyez-vous, docteur, c’est que le
 jour où le manuscrit arrivera chez l’éditeur, celui-ci se
 lève après l’avoir lu et dise à ses collaborateurs :
 « Messieurs, chapeau bas ! »
+
 Cette brusque déclaration surprit Rieux. Il lui sembla
 que son compagnon faisait le geste de se découvrir,
 portant la main à sa tête, et ramenant son bras à
 l’horizontale. Là-haut, le bizarre sifflement semblait
 reprendre avec plus de force.
+
 – Oui, disait Grand, il faut que ce soit parfait.
+
 Quoique peu averti des usages de la littérature, Rieux
 avait cependant l’impression que les choses ne devaient
 pas se passer aussi simplement et que, par exemple, les
@@ -3554,39 +3664,53 @@ soirées, des semaines entières sur un mot… et quelquefois
 une simple conjonction. » Ici, Grand s’arrêta et prit le
 docteur par un bouton de son manteau. Les mots
 sortaient en trébuchant de sa bouche mal garnie.
+
 – Comprenez bien, docteur. À la rigueur, c’est assez
-facile de choisir entre mais e t et. C’est déjà plus difficile
-d’opter entre et et puis. La difficulté grandit avec puis et
-ensuite. Mais assurément, ce qu’il y a de plus difficile,
-c’est de savoir s’il faut mettre et ou s’il ne faut pas.
+facile de choisir entre _mais_ et _et_. C’est déjà plus difficile
+d’opter entre _et_ et _puis_. La difficulté grandit avec _puis_ et
+_ensuite_. Mais assurément, ce qu’il y a de plus difficile,
+c’est de savoir s’il faut mettre _et_ ou s’il ne faut pas.
+
 – Oui, dit Rieux, je comprends.
+
 Et il se remit en route. L’autre parut confus, vint à
 nouveau à sa hauteur.
+
 – Excusez-moi, bredouilla-t-il. Je ne sais pas ce que
 j’ai ce soir !
+
 Rieux lui frappa doucement sur l’épaule et lui dit qu’il
 désirait l’aider et que son histoire l’intéressait beaucoup.
 Grand parut un peu rasséréné et, arrivé devant la
 maison, après avoir hésité, offrit au docteur de monter un
 moment. Rieux accepta.
+
 Dans la salle à manger, Grand l’invita à s’asseoir
 devant une table pleine de papiers couverts de ratures
 sur une écriture microscopique.
+
 – Oui, c’est ça, dit Grand au docteur qui l’interrogeait
 du regard. Mais voulez-vous boire quelque chose ? J’ai un
 peu de vin.
+
 Rieux refusa. Il regardait les feuilles de papier.
+
 – Ne regardez pas, dit Grand. C’est ma première
 phrase. Elle me donne du mal, beaucoup de mal.
+
 Lui aussi contemplait toutes ces feuilles et sa main
 parut invinciblement attirée par l’une d’elles qu’il éleva en
 transparence devant l’ampoule électrique sans abat-jour.
 La feuille tremblait dans sa main. Rieux remarqua que le
 front de l’employé était moite.
+
 – Asseyez-vous, dit-il, et lisez-la-moi.
+
 L’autre le regarda et sourit avec une sorte de
 gratitude.
+
 – Oui, dit-il je crois que j’en ai envie.
+
 Il attendit un peu, regardant toujours la feuille, puis
 s’assit. Rieux écoutait en même temps une sorte de
 bourdonnement confus qui, dans la ville, semblait
@@ -3601,17 +3725,21 @@ fleuries du Bois de Boulogne. » Le silence revint et, avec
 lui, l’indistincte rumeur de la ville en souffrance. Grand
 avait posé la feuille et continuait à la contempler. Au bout
 d’un moment, il releva les yeux :
+
 – Qu’en pensez-vous ?
+
 Rieux répondit que ce début le rendait curieux de
 connaître la suite. Mais l’autre dit avec animation que ce
 point de vue n’était pas le bon. Il frappa ses papiers du
 plat de la main.
+
 – Ce n’est là qu’une approximation. Quand je serai
 arrivé à rendre parfaitement le tableau que j’ai dans
 l’imagination, quand ma phrase aura l’allure même de
 cette promenade au trot, une-deux-trois, une-deux-trois,
 alors le reste sera plus facile et surtout l’illusion sera telle,
 dès le début, qu’il sera possible de dire : « Chapeau bas ! »
+
 Mais, pour cela, il avait encore du pain sur la planche.
 Il ne consentirait jamais à livrer cette phrase telle quelle à
 un imprimeur. Car, malgré le contentement qu’elle lui
@@ -3622,8 +3750,10 @@ loin, mais qui l’apparentait tout de même, à un cliché.
 C’était, du moins, le sens de ce qu’il disait quand on
 entendit des hommes courir sous les fenêtres. Rieux se
 leva.
+
 – Vous verrez ce que j’en ferai, disait Grand, et, tourné
 vers la fenêtre, il ajouta : « Quand tout cela sera fini. »
+
 Mais les bruits de pas précipités reprenaient. Rieux
 descendait déjà et deux hommes passèrent devant lui
 quand il fut dans la rue. Apparemment, ils allaient vers les
@@ -3631,6 +3761,9 @@ portes de la ville. Certains de nos concitoyens en effet,
 perdant la tête entre la chaleur et la peste, s’étaient déjà
 laissés aller à la violence et avaient essayé de tromper la
 vigilance des barrages pour fuir hors de la ville.
+
+<div id="sec13" style="page-break-after: always;"></div>
+
 D’autres, comme Rambert, essayaient aussi de fuir
 cette atmosphère de panique naissante, mais avec plus
 d’obstination et d’adresse, sinon plus de succès. Rambert
@@ -3651,6 +3784,7 @@ solides et une bonne volonté évidente. Et même, ce qu’il y
 avait de plus frappant chez tous, c’était la bonne volonté.
 Mais en matière de peste, leurs connaissances étaient à
 peu près nulles.
+
 Devant chacun d’eux cependant, et chaque fois que
 cela avait été possible, Rambert avait plaidé sa cause. Le
 fond de son argumentation consistait toujours à dire qu’il
@@ -3683,6 +3817,7 @@ débordés, qui levaient les bras, et les importunés, qui
 détournaient les yeux ; il y avait enfin les traditionnels, de
 beaucoup les plus nombreux, qui indiquaient à Rambert
 un autre bureau ou une nouvelle démarche à faire.
+
 Le journaliste s’était ainsi épuisé en visites et il avait
 pris une idée juste de ce que pouvait être une mairie ou
 une préfecture, à force d’attendre sur une banquette de
@@ -3701,6 +3836,7 @@ homme, à condition qu’il ne mourût pas, de la fin de ses
 épreuves. Rieux dut reconnaître que ce point était vrai,
 mais qu’il s’agissait cependant d’une vérité un peu trop
 générale.
+
 À un moment donné, Rambert conçut de l’espoir. Il
 avait reçu de la préfecture un bulletin de renseignements,
 en blanc, qu’on le priait de remplir exactement. Le

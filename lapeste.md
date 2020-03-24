@@ -1079,24 +1079,31 @@ Les chiffres de Tarrou étaient exacts. Le docteur
 Rieux en savait quelque chose. Le corps du concierge
 isolé, il avait téléphoné à Richard pour le questionner sur
 ces fièvres inguinales.
+
 – Je n’y comprends rien, avait dit Richard. Deux
 morts, l’un en quarante-huit heures, l’autre en trois jours.
 J’avais laissé le dernier avec toutes les apparences de la
 convalescence, un matin.
+
 – Prévenez-moi, si vous avez d’autres cas, dit Rieux.
+
 Il appela encore quelques médecins. L’enquête ainsi
 menée lui donna une vingtaine de cas semblables en
 quelques jours. Presque tous avaient été mortels. Il
 demanda alors à Richard, président de l’ordre des
 médecins d’Oran, l’isolement des nouveaux malades.
+
 – Mais je n’y puis rien, dit Richard. Il faudrait des
 mesures préfectorales. D’ailleurs, qui vous dit qu’il y a
 risque de contagion ?
+
 – Rien ne me le dit, mais les symptômes sont
 inquiétants.
+
 Richard, cependant, estimait qu’« il n’avait pas
 qualité ». Tout ce qu’il pouvait faire était d’en parler au
 préfet.
+
 Mais, pendant qu’on parlait, le temps se gâtait. Au
 lendemain de la mort du concierge, de grandes brumes
 couvrirent le ciel. Des pluies diluviennes et brèves
@@ -1112,7 +1119,9 @@ vitrines poudreuses, dans les tramways d’un jaune sale,
 on se sentait un peu prisonnier du ciel. Seul, le vieux
 malade de Rieux triomphait de son asthme pour se réjouir
 de ce temps.
+
 – Ça cuit, disait-il, c’est bon pour les bronches.
+
 Ça cuisait en effet, mais ni plus ni moins qu’une fièvre.
 Toute la ville avait la fièvre, c’était du moins l’impression
 qui poursuivait le docteur Rieux, le matin où il se rendait
@@ -1121,6 +1130,7 @@ de suicide de Cottard. Mais cette impression lui paraissait
 déraisonnable. Il l’attribuait à l’énervement et aux
 préoccupations dont il était assailli et il admit qu’il était
 urgent de mettre un peu d’ordre dans ses idées.
+
 Quand il arriva, le commissaire n’était pas encore là.
 Grand attendait sur le palier et ils décidèrent d’entrer
 d’abord chez lui en laissant la porte ouverte. L’employé de
@@ -1134,10 +1144,12 @@ matin, souffrant de la tête et incapable d’aucune réaction.
 Grand paraissait fatigué et nerveux, se promenant de
 long en large, ouvrant et refermant sur la table un gros
 dossier rempli de feuilles manuscrites.
+
 Il raconta cependant au docteur qu’il connaissait mal
 Cottard, mais qu’il lui supposait un petit avoir. Cottard
 était un homme bizarre. Longtemps, leurs relations
 s’étaient bornées à quelques saluts dans l’escalier.
+
 – Je n’ai eu que deux conversations avec lui. Il y a
 quelques jours, j’ai renversé sur le palier une boîte de
 craies que je ramenais chez moi. Il y avait des craies
@@ -1145,19 +1157,24 @@ rouges et des craies bleues. À ce moment, Cottard est
 sorti sur le palier et m’a aidé à les ramasser. Il m’a
 demandé à quoi servaient ces craies de différentes
 couleurs.
+
 Grand lui avait alors expliqué qu’il essayait de refaire
 un peu de latin. Depuis le lycée, ses connaissances
 s’étaient estompées.
+
 – Oui, dit-il au docteur, on m’a assuré que c’était utile
 pour mieux connaître le sens des mots français.
+
 Il écrivait donc des mots latins sur son tableau. Il
 recopiait à la craie bleue la partie des mots qui changeait
 suivant les déclinaisons et les conjugaisons, et, à la craie
 rouge, celle qui ne changeait jamais.
+
 – Je ne sais pas si Cottard a bien compris, mais il a
 paru intéressé et m’a demandé une craie rouge. J’ai été
 un peu surpris mais après tout… Je ne pouvais pas
 deviner, bien sûr, que cela servirait son projet.
+
 Rieux demanda quel était le sujet de la deuxième
 conversation. Mais, accompagné de son secrétaire, le
 commissaire arrivait qui voulait d’abord entendre les
@@ -1169,41 +1186,54 @@ montra tatillon sur le choix des termes. On s’arrêta enfin
 sur les mots « chagrins intimes ». Le commissaire
 demanda si rien dans l’attitude de Cottard ne laissait
 prévoir ce qu’il appelait « sa détermination ».
+
 – Il a frappé hier à ma porte, dit Grand, pour me
 demander des allumettes. Je lui ai donné ma boîte. Il s’est
 excusé en me disant qu’entre voisins… Puis il m’a assuré
 qu’il me rendrait ma boîte. Je lui ai dit de la garder.
 Le commissaire demanda à l’employé si Cottard ne lui
 avait pas paru bizarre.
+
 – Ce qui m’a paru bizarre, c’est qu’il avait l’air de
 vouloir engager conversation. Mais moi j’étais en train de
 travailler.
+
 Grand se tourna vers Rieux et ajouta, d’un air
 embarrassé :
+
 – Un travail personnel.
+
 Le commissaire voulait voir cependant le malade. Mais
 Rieux pensait qu’il valait mieux préparer d’abord Cottard
 à cette visite. Quand il entra dans la chambre, ce dernier,
 vêtu seulement d’une flanelle grisâtre, était dressé dans
 son lit et tourné vers la porte avec une expression
 d’anxiété.
+
 – C’est la police, hein ?
+
 – Oui, dit Rieux, et ne vous agitez pas. Deux ou trois
 formalités et vous aurez la paix.
+
 Mais Cottard répondit que cela ne servait à rien et
 qu’il n’aimait pas la police. Rieux marqua de l’impatience.
+
 – Je ne l’adore pas non plus. Il s’agit de répondre vite
 et correctement à leurs questions, pour en finir une bonne
 fois.
+
 Cottard se tut et le docteur retourna vers la porte.
 Mais le petit homme l’appelait déjà et lui prit les mains
 quand il fut près du lit :
+
 – On ne peut pas toucher à un malade, à un homme
 qui s’est pendu, n’est-ce pas, docteur ?
+
 Rieux le considéra un moment et l’assura enfin qu’il
 n’avait jamais été question de rien de ce genre et qu’aussi
 bien, il était là pour protéger son malade. Celui-ci parut se
 détendre et Rieux fit entrer le commissaire.
+
 On lut à Cottard le témoignage de Grand et on lui
 demanda s’il pouvait préciser les motifs de son acte. Il
 répondit seulement et sans regarder le commissaire que
@@ -1211,16 +1241,22 @@ répondit seulement et sans regarder le commissaire que
 pressa de dire s’il avait envie de recommencer. Cottard,
 s’animant, répondit que non et qu’il désirait seulement
 qu’on lui laissât la paix.
+
 – Je vous ferai remarquer, dit le commissaire sur un
 ton irrité, que, pour le moment, c’est vous qui troublez
 celle des autres.
+
 Mais sur un signe de Rieux, on en resta là.
+
 – Vous pensez, soupira le commissaire en sortant,
 nous avons d’autres chats à fouetter, depuis qu’on parle
 de cette fièvre…
+
 Il demanda au docteur si la chose était sérieuse et
 Rieux dit qu’il n’en savait rien.
+
 – C’est le temps, voilà tout, conclut le commissaire.
+
 C’était le temps, sans doute. Tout poissait aux mains à
 mesure que la journée avançait et Rieux sentait son
 appréhension croître à chaque visite. Le soir de ce même
@@ -1239,6 +1275,7 @@ saignaient, écartelés. Mais des taches apparaissaient au
 ventre et aux jambes, un ganglion cessait de suppurer,
 puis se regonflait. La plupart du temps, le malade
 mourait, dans une odeur épouvantable.
+
 La presse, si bavarde dans l’affaire des rats, ne parlait
 plus de rien. C’est que les rats meurent dans la rue et les
 hommes dans leur chambre. Et les journaux ne s’occupent
@@ -1253,9 +1290,12 @@ ceux qui se préoccupaient de ce mal curieux qu’il
 s’agissait d’une véritable épidémie. C’est le moment que
 choisit Castel, un confrère de Rieux, beaucoup plus âgé
 que lui, pour venir le voir.
+
 – Naturellement, lui dit-il, vous savez ce que c’est,
 Rieux ?
+
 – J’attends le résultat des analyses.
+
 – Moi, je le sais. Et je n’ai pas besoin d’analyses. J’ai
 fait une partie de ma carrière en Chine, et j’ai vu quelques
 cas à Paris, il y a une vingtaine d’années. Seulement, on
@@ -1265,23 +1305,33 @@ d’affolement. Et puis comme disait un confrère : « C’est
 impossible, tout le monde sait qu’elle a disparu de
 l’Occident. » Oui, tout le monde le savait, sauf les morts.
 Allons, Rieux, vous savez aussi bien que moi ce que c’est.
+
 Rieux réfléchissait. Par la fenêtre de son bureau, il
 regardait l’épaule de la falaise pierreuse qui se refermait
 au loin sur la baie. Le ciel, quoique bleu, avait un éclat
 terne qui s’adoucissait à mesure que l’après-midi
 s’avançait.
+
 – Oui, Castel, dit-il, c’est à peine croyable. Mais il
 semble bien que ce soit la peste.
+
 Castel se leva et se dirigea vers la porte.
+
 – Vous savez ce qu’on nous répondra, dit le vieux
 docteur : « Elle a disparu des pays tempérés depuis des
 années. »
+
 – Qu’est-ce que ça veut dire, disparaître ? répondit
 Rieux en haussant les épaules.
+
 – Oui. Et n’oubliez pas : à Paris encore, il y a presque
 vingt ans.
+
 – Bon. Espérons que ce ne sera pas plus grave
 aujourd’hui qu’alors. Mais c’est vraiment incroyable.
+
+<div id="sec5" style="page-break-after: always;"></div>
+
 Le mot de « peste » venait d’être prononcé pour la
 première fois. À ce point du récit qui laisse Bernard Rieux
 derrière sa fenêtre, on permettra au narrateur de justifier
@@ -1317,6 +1367,7 @@ voyages et ils avaient des opinions. Comment auraient-ils
 pensé à la peste qui supprime l’avenir, les déplacements
 et les discussions ? Ils se croyaient libres et personne ne
 sera jamais libre tant qu’il y aura des fléaux.
+
 Même lorsque le docteur Rieux eut reconnu devant
 son ami qu’une poignée de malades dispersés venaient,
 sans avertissement, de mourir de la peste, le danger
@@ -1352,6 +1403,7 @@ compter les rats. On faisait son calcul approximativement,
 en gros, avec des chances évidentes d’erreur. Pourtant, si
 un rat a trente centimètres de long, quarante mille rats
 mis bout à bout feraient…
+
 Mais le docteur s’impatientait. Il se laissait aller et il ne
 le fallait pas. Quelques cas ne font pas une épidémie et il
 suffit de prendre des précautions. Il fallait s’en tenir à ce
@@ -1367,6 +1419,7 @@ au bout de tout cela, on était pendu à un fil et les trois
 quarts des gens, c’était le chiffre exact, étaient assez
 impatients pour faire ce mouvement imperceptible qui les
 précipitait.
+
 Le docteur regardait toujours par la fenêtre. D’un côté
 de la vitre, le ciel frais du printemps, et de l’autre côté le
 mot qui résonnait encore dans la pièce : la peste. Le mot
@@ -1407,6 +1460,7 @@ bûchers rougeoyants devant l’eau tranquille et sombre,
 les combats de torches dans la nuit crépitante d’étincelles
 et d’épaisses vapeurs empoisonnées montant vers le ciel
 attentif. On pouvait craindre…
+
 Mais ce vertige ne tenait pas devant la raison. Il est
 vrai que le mot de « peste » avait été prononcé, il est vrai
 qu’à la minute même le fléau secouait et jetait à terre une
@@ -1419,6 +1473,7 @@ s’imaginait faussement. Si elle s’arrêtait, et c’était le plus
 probable, tout irait bien. Dans le cas contraire, on saurait
 ce qu’elle était et s’il n’y avait pas moyen de s’en arranger
 d’abord pour la vaincre ensuite.
+
 Le docteur ouvrit la fenêtre et le bruit de la ville
 s’enfla d’un coup. D’un atelier voisin montait le sifflement
 bref et répété d’une scie mécanique. Rieux se secoua. Là
@@ -1426,6 +1481,9 @@ bref et répété d’une scie mécanique. Rieux se secoua. Là
 tenait à des fils et à des mouvements insignifiants, on ne
 pouvait s’y arrêter. L’essentiel était de bien faire son
 métier.
+
+<div id="sec6" style="page-break-after: always;"></div>
+
 Le docteur Rieux en était là de ses réflexions quand on
 lui annonça Joseph Grand. Employé à la mairie, et bien
 que ses occupations y fussent très diverses, on l’utilisait
@@ -1433,25 +1491,33 @@ périodiquement au service des statistiques, à l’état civil. Il
 était amené ainsi à faire les additions des décès. Et, de
 naturel obligeant, il avait consenti à apporter lui-même
 chez Rieux une copie de ses résultats.
+
 Le docteur vit entrer Grand avec son voisin Cottard.
 L’employé brandissait une feuille de papier.
+
 – Les chiffres montent, docteur, annonça-t-il : onze
 morts en quarante-huit heures.
+
 Rieux salua Cottard et lui demanda comment il se
 sentait. Grand expliqua que Cottard avait tenu à
 remercier le docteur et à s’excuser des ennuis qu’il lui
 avait causés. Mais Rieux regardait la feuille de
 statistiques :
+
 – Allons, dit Rieux, il faut peut-être se décider à
 appeler cette maladie par son nom. Jusqu’à présent, nous
 avons piétiné. Mais venez avec moi, je dois aller au
 laboratoire.
+
 – Oui, oui, disait Grand en descendant les escaliers
 derrière le docteur. Il faut appeler les choses par leur
 nom. Mais quel est ce nom ?
+
 – Je ne puis vous le dire, et d’ailleurs cela ne vous
 serait pas utile.
+
 – Vous voyez, sourit l’employé. Ce n’est pas si facile.
+
 Ils se dirigèrent vers la place d’Armes. Cottard se
 taisait toujours. Les rues commençaient à se charger de
 monde. Le crépuscule fugitif de notre pays reculait déjà
@@ -1460,26 +1526,34 @@ l’horizon encore net. Quelques secondes plus tard, les
 lampes au-dessus des rues obscurcirent tout le ciel en
 s’allumant et le bruit des conversations parut monter
 d’un ton.
+
 – Pardonnez-moi, dit Grand au coin de la place
 d’Armes. Mais il faut que je prenne mon tramway. Mes
 soirées sont sacrées. Comme on dit dans mon pays : « Il
 ne faut jamais remettre au lendemain… »
+
 Rieux avait déjà noté cette manie qu’avait Grand, né à
 Montélimar, d’invoquer les locutions de son pays et
 d’ajouter ensuite des formules banales qui n’étaient de
 nulle part comme « un temps de rêve » ou « un éclairage
 féerique ».
+
 – Ah ! dit Cottard, c’est vrai. On ne peut pas le tirer de
 chez lui après le dîner.
+
 Rieux demanda à Grand s’il travaillait pour la mairie.
 Grand répondit que non, il travaillait pour lui.
+
 – Ah ! dit Rieux pour dire quelque chose, et ça
 avance ?
+
 – Depuis des années que j’y travaille, forcément.
 Quoique dans un autre sens, il n’y ait pas beaucoup de
 progrès.
+
 – Mais, en somme, de quoi s’agit-il ? dit le docteur en
 s’arrêtant.
+
 Grand bredouilla en assurant son chapeau rond sur ses
 grandes oreilles. Et Rieux comprit très vaguement qu’il
 s’agissait de quelque chose sur l’essor d’une personnalité.
@@ -1491,6 +1565,7 @@ Rieux, qui tripotait dans ses poches la feuille de
 statistiques, l’invita à venir à sa consultation, puis, se
 ravisant, lui dit qu’il allait dans son quartier le lendemain
 et qu’il passerait le voir en fin d’après-midi.
+
 En quittant Cottard, le docteur s’aperçut qu’il pensait
 à Grand. Il l’imaginait au milieu d’une peste, et non pas de
 celle-ci qui sans doute ne serait pas sérieuse, mais d’une
@@ -1500,6 +1575,7 @@ lu que la peste épargnait les constitutions faibles et
 détruisait surtout les complexions vigoureuses. Et
 continuant d’y penser, le docteur trouvait à l’employé un
 air de petit mystère.
+
 À première vue, en effet, Joseph Grand n’était rien de
 plus que le petit employé de mairie dont il avait l’allure.
 Long et maigre, il flottait au milieu de vêtements qu’il
@@ -1520,6 +1596,7 @@ ménagères. Même pour un esprit non prévenu, il semblait
 avoir été mis au monde pour exercer les fonctions
 discrètes mais indispensables d’auxiliaire municipal
 temporaire à soixante-deux francs trente par jour.
+
 C’était en effet la mention qu’il disait faire figurer sur
 les feuilles d’emploi, à la suite du mot « qualification ».
 Lorsque vingt-deux ans auparavant, à la sortie d’une
@@ -1538,6 +1615,7 @@ partant, la possibilité de se livrer sans remords à ses
 occupations favorites lui souriait beaucoup. S’il avait
 accepté l’offre qui lui était faite, ce fut pour des raisons
 honorables et, si l’on peut dire, par fidélité à un idéal.
+
 Il y avait de longues années que cet état de choses
 provisoire durait, la vie avait augmenté dans des
 proportions démesurées, et le salaire de Grand, malgré
@@ -1551,6 +1629,7 @@ de bureau qui l’avait engagé était mort depuis longtemps
 et l’employé, au demeurant, ne se souvenait pas des
 termes exacts de la promesse qui lui avait été faite. Enfin,
 et surtout, Joseph Grand ne trouvait pas ses mots.
+
 C’est cette particularité qui peignait le mieux notre
 concitoyen, comme Rieux put le remarquer. C’est elle en
 effet qui l’empêchait toujours d’écrire la lettre de
@@ -1578,6 +1657,7 @@ finalement donc, on n’avait jamais vu personne mourir de
 faim. Dans tous les cas, la vie quasi ascétique que menait
 Joseph Grand l’avait finalement, en effet, délivré de tout
 souci de cet ordre. Il continuait de chercher ses mots.
+
 Dans un certain sens, on peut bien dire que sa vie était
 exemplaire. Il était de ces hommes, rares dans notre ville
 comme ailleurs, qui ont toujours le courage de leurs bons
@@ -1596,6 +1676,7 @@ peines. Finalement, cette difficulté avait fait son plus
 grand souci. « Ah ! docteur, disait-il, je voudrais bien
 apprendre à m’exprimer. » Il en parlait à Rieux chaque
 fois qu’il le rencontrait.
+
 Le docteur, ce soir-là, regardant partir l’employé,
 comprenait tout d’un coup ce que Grand avait voulu dire :
 il écrivait sans doute un livre ou quelque chose
@@ -1608,29 +1689,43 @@ d’honorables manies. Exactement, il n’imaginait pas la
 place de ces manies au milieu de la peste et il jugeait donc
 que, pratiquement, la peste était sans avenir parmi nos
 concitoyens.
+
+<div id="sec7" style="page-break-after: always;"></div>
+
 Le lendemain, grâce à une insistance jugée déplacée,
 Rieux obtenait la convocation à la préfecture d’une
 commission sanitaire.
+
 – Il est vrai que la population s’inquiète, avait reconnu
 Richard. Et puis les bavardages exagèrent tout. Le préfet
 m’a dit : « Faisons vite si vous voulez, mais en silence. » Il
 est d’ailleurs persuadé qu’il s’agit d’une fausse alerte.
+
 Bernard Rieux prit Castel dans sa voiture pour gagner
 la préfecture.
+
 – Savez-vous, lui dit ce dernier, que le département
 n’a pas de sérum ?
+
 – Je sais. J’ai téléphoné au dépôt. Le directeur est
 tombé des nues. Il faut faire venir ça de Paris.
+
 – J’espère que ce ne sera pas long.
+
 – J’ai déjà télégraphié, répondit Rieux.
+
 Le préfet était aimable, mais nerveux.
+
 – Commençons, messieurs, disait-il. Dois-je résumer la
 situation ?
+
 Richard pensait que c’était inutile. Les médecins
 connaissaient la situation. La question était seulement de
 savoir quelles mesures il convenait de prendre.
+
 – La question, dit brutalement le vieux Castel, est de
 savoir s’il s’agit de la peste ou non.
+
 Deux ou trois médecins s’exclamèrent. Les autres
 semblaient hésiter. Quant au préfet, il sursauta et se
 retourna machinalement vers la porte, comme pour
@@ -1650,9 +1745,12 @@ reculer ses confrères et, partant, il voulait bien admettre
 pour leur tranquillité que ce ne fût pas la peste. Le préfet
 s’agita et déclara que, dans tous les cas, ce n’était pas une
 bonne façon de raisonner.
+
 – L’important, dit Castel, n’est pas que cette façon de
 raisonner soit bonne, mais qu’elle fasse réfléchir.
+
 Comme Rieux se taisait, on lui demanda son avis :
+
 – Il s’agit d’une fièvre à caractère typhoïde, mais
 accompagnée de bubons et de vomissements. J’ai
 pratiqué l’incision des bubons. J’ai pu ainsi provoquer des
@@ -1660,9 +1758,11 @@ analyses où le laboratoire croit reconnaître le bacille trapu
 de la peste. Pour être complet, il faut dire cependant que
 certaines modifications spécifiques du microbe ne
 coïncident pas avec la description classique.
+
 Richard souligna que cela autorisait les hésitations et
 qu’il faudrait attendre au moins le résultat statistique de
 la série d’analyses, commencée depuis quelques jours.
+
 – Quand un microbe, dit Rieux, après un court silence,
 est capable en trois jours de temps de quadrupler le
 volume de la rate, de donner aux ganglions mésentériques
@@ -1674,14 +1774,17 @@ tuer la moitié de la ville avant deux mois. Par conséquent,
 il importe peu que vous l’appeliez peste ou fièvre de
 croissance. Il importe seulement que vous l’empêchiez de
 tuer la moitié de la ville.
+
 Richard trouvait qu’il ne fallait rien pousser au noir et
 que la contagion d’ailleurs n’était pas prouvée puisque les
 parents de ses malades étaient encore indemnes.
+
 – Mais d’autres sont morts, fit remarquer Rieux. Et,
 bien entendu, la contagion n’est jamais absolue, sans quoi
 on obtiendrait une croissance mathématique infinie et un
 dépeuplement foudroyant. Il ne s’agit pas de rien pousser
 au noir. Il s’agit de prendre des précautions.
+
 Richard, cependant, pensait résumer la situation en
 rappelant que pour arrêter cette maladie, si elle ne
 s’arrêtait pas d’elle-même, il fallait appliquer les graves
@@ -1689,51 +1792,70 @@ mesures de prophylaxie prévues par la loi ; que, pour ce
 faire, il fallait reconnaître officiellement qu’il s’agissait de
 la peste ; que la certitude n’était pas absolue à cet égard
 et qu’en conséquence, cela demandait réflexion.
+
 – La question, insista Rieux, n’est pas de savoir si les
 mesures prévues par la loi sont graves mais si elles sont
 nécessaires pour empêcher la moitié de la ville d’être
 tuée. Le reste est affaire d’administration et, justement,
 nos institutions ont prévu un préfet pour régler ces
 questions.
+
 – Sans doute, dit le préfet, mais j’ai besoin que vous
 reconnaissiez officiellement qu’il s’agit d’une épidémie de
 peste.
+
 – Si nous ne le reconnaissons pas, dit Rieux, elle risque
 quand même de tuer la moitié de la ville.
 Richard intervint avec quelque nervosité.
+
 – La vérité est que notre confrère croit à la peste. Sa
 description du syndrome le prouve.
+
 Rieux répondit qu’il n’avait pas décrit un syndrome, il
 avait décrit ce qu’il avait vu. Et ce qu’il avait vu c’étaient
 des bubons, des taches, des fièvres délirantes, fatales en
 quarante-huit heures. Est-ce que M. Richard pouvait
 prendre la responsabilité d’affirmer que l’épidémie
 s’arrêterait sans mesures de prophylaxie rigoureuses ?
+
 Richard hésita et regarda Rieux :
+
 – Sincèrement, dites-moi votre pensée, avez-vous la
 certitude qu’il s’agit de la peste ?
+
 – Vous posez mal le problème. Ce n’est pas une
 question de vocabulaire, c’est une question de temps.
+
 – Votre pensée, dit le préfet, serait que, même s’il ne
 s’agissait pas de la peste, les mesures prophylactiques
 indiquées en temps de peste devraient cependant être
 appliquées.
+
 – S’il faut absolument que j’aie une pensée, c’est en
 effet celle-ci.
+
 Les médecins se consultèrent et Richard finit par dire :
+
 – Il faut donc que nous prenions la responsabilité
 d’agir comme si la maladie était une peste.
+
 La formule fut chaleureusement approuvée :
+
 – C’est aussi votre avis, mon cher confrère ? demanda
 Richard.
+
 – La formule m’est indifférente, dit Rieux. Disons
 seulement que nous ne devons pas agir comme si la moitié
 de la ville ne risquait pas d’être tuée, car alors elle le
 serait.
+
 Au milieu de l’agacement général, Rieux partit.
 Quelques moments après, dans le faubourg qui sentait la
 friture et l’urine, une femme qui hurlait à la mort, les
 aines ensanglantées, se tournait vers lui.
+
+<div id="sec8" style="page-break-after: always;"></div>
+
 Le lendemain de la conférence, la fièvre fit encore un
 petit bond. Elle passa même dans les journaux, mais sous
 une forme bénigne, puisqu’ils se contentèrent d’y faire
@@ -1758,6 +1880,7 @@ mesures étaient de nature à arrêter net toute menace
 d’épidémie. En conséquence, le préfet ne doutait pas un
 instant que ses administrés n’apportassent la plus
 dévouée des collaborations à son effort personnel.
+
 L’affiche annonçait ensuite des mesures d’ensemble,
 parmi lesquelles une dératisation scientifique par injection
 de gaz toxiques dans les égouts et une surveillance étroite
@@ -1774,18 +1897,26 @@ supplémentaires soumettaient à la désinfection obligatoire
 la chambre du malade et le véhicule de transport. Pour le
 reste, on se bornait à recommander aux proches de se
 soumettre à une surveillance sanitaire.
+
 Le docteur Rieux se détourna brusquement de
 l’affiche et reprit le chemin de son cabinet. Joseph Grand,
 qui l’attendait, leva de nouveau les bras en l’apercevant.
+
 – Oui, dit Rieux, je sais, les chiffres montent.
+
 La veille, une dizaine de malades avaient succombé
 dans la ville. Le docteur dit à Grand qu’il le verrait peutêtre
 le soir, puisqu’il allait rendre visite à Cottard.
+
 – Vous avez raison, dit Grand. Vous lui ferez du bien,
 car je le trouve changé.
+
 – Et comment cela ?
+
 – Il est devenu poli.
+
 – Ne l’était-il pas auparavant ?
+
 Grand hésita. Il ne pouvait dire que Cottard fût impoli,
 l’expression n’aurait pas été juste. C’était un homme
 renfermé et silencieux qui avait un peu l’allure du
@@ -1798,28 +1929,34 @@ au cinéma qui se trouvait en face de la maison. L’employé
 avait même remarqué que Cottard semblait voir de
 préférence les films de gangsters. En toutes occasions, le
 représentant demeurait solitaire et méfiant.
+
 Tout cela, selon Grand, avait bien changé :
+
 – Je ne sais pas comment dire, mais j’ai l’impression,
 voyez-vous, qu’il cherche à se concilier les gens, qu’il veut
 mettre tout le monde avec lui. Il me parle souvent, il
 m’offre de sortir avec lui et je ne sais pas toujours refuser.
 Au reste, il m’intéresse, et, en somme, je lui ai sauvé la
 vie.
+
 Depuis sa tentative de suicide, Cottard n’avait plus
 reçu aucune visite. Dans les rues, chez les fournisseurs, il
 cherchait toutes les sympathies. On n’avait jamais mis
 tant de douceur à parler aux épiciers, tant d’intérêt à
 écouter une marchande de tabacs.
+
 – Cette marchande de tabacs, remarquait Grand, est
 une vraie vipère. Je l’ai dit à Cottard, mais il m’a répondu
 que je me trompais et qu’elle avait de bons côtés qu’il
 fallait savoir trouver.
-Deux ou trois fois enfin, Cottard avait emmené Grand
+
 Deux ou trois fois enfin, Cottard avait emmené Grand
 dans les restaurants et les cafés luxueux de la ville. Il
 s’était mis à les fréquenter en effet.
+
 – On y est bien, disait-il, et puis on est en bonne
 compagnie.
+
 Grand avait remarqué les attentions spéciales du
 personnel pour le représentant et il en comprit la raison
 en observant les pourboires excessifs que celui-ci laissait.
@@ -1827,27 +1964,39 @@ Cottard paraissait très sensible aux amabilités dont on le
 payait de retour. Un jour que le maître d’hôtel l’avait
 reconduit et aidé à endosser son pardessus, Cottard avait
 dit à Grand :
+
 – C’est un bon garçon, il peut témoigner.
+
 – Témoigner de quoi ?
+
 Cottard avait hésité.
+
 – Eh bien, que je ne suis pas un mauvais homme.
+
 Du reste, il avait des sautes d’humeur. Un jour où
 l’épicier s’était montré moins aimable, il était revenu chez
 lui dans un état de fureur démesurée :
+
 – Il passe avec les autres, cette crapule, répétait-il.
+
 – Quels autres ?
+
 – Tous les autres.
+
 Grand avait même assisté à une scène curieuse chez la
 marchande de tabacs. Au milieu d’une conversation
 animée, celle-ci avait parlé d’une arrestation récente qui
 avait fait du bruit à Alger. Il s’agissait d’un jeune employé
 de commerce qui avait tué un Arabe sur une plage.
+
 – Si l’on mettait toute cette racaille en prison, avait dit
 la marchande, les honnêtes gens pourraient respirer.
+
 Mais elle avait dû s’interrompre devant l’agitation
 subite de Cottard qui s’était jeté hors de la boutique, sans
 un mot d’excuse. Grand et la marchande, les bras
 ballants, l’avaient regardé fuir.
+
 Par la suite, Grand devait signaler à Rieux d’autres
 changements dans le caractère de Cottard. Ce dernier
 avait toujours été d’opinions très libérales. Sa phrase
@@ -1860,48 +2009,67 @@ quelques jours après s’être levé, il avait prié Grand, qui
 allait à la poste, de bien vouloir expédier un mandat de
 cent francs qu’il envoyait tous les mois à une soeur
 éloignée. Mais au moment où Grand partait :
+
 – Envoyez-lui deux cents francs, demanda Cottard, ce
 sera une bonne surprise pour elle. Elle croit que je ne
 pense jamais à elle. Mais la vérité est que je l’aime
 beaucoup.
+
 Enfin il avait eu avec Grand une curieuse conversation.
 Celui-ci avait été obligé de répondre aux questions de
 Cottard intrigué par le petit travail auquel Grand se
 livrait chaque soir.
+
 – Bon, avait dit Cottard, vous faites un livre.
+
 – Si vous voulez, mais c’est plus compliqué que cela !
+
 – Ah ! s’était écrié Cottard, je voudrais bien faire
 comme vous.
+
 Grand avait paru surpris et Cottard avait balbutié
 qu’être un artiste devait arranger bien des choses.
+
 – Pourquoi ? avait demandé Grand.
+
 – Eh bien, parce qu’un artiste a plus de droits qu’un
 autre, tout le monde sait ça. On lui passe plus de choses.
+
 – Allons, dit Rieux à Grand, le matin des affiches,
 l’histoire des rats lui a tourné la tête comme à beaucoup
 d’autres, voilà tout. Ou encore il a peur de la fièvre.
+
 Grand répondit :
+
 – Je ne crois pas, docteur, et si vous voulez mon avis…
+
 La voiture de dératisation passa sous leur fenêtre dans
 un grand bruit d’échappement. Rieux se tut jusqu’à ce
 qu’il fût possible de se faire entendre et demanda
 distraitement l’avis de l’employé. L’autre le regardait
 avec gravité :
+
 – C’est un homme, dit-il, qui a quelque chose à se
 reprocher.
+
 Le docteur haussa les épaules. Comme disait le
 commissaire, il y avait d’autres chats à fouetter.
 Dans l’après-midi, Rieux eut une conférence avec
 Castel. Les sérums n’arrivaient pas.
+
 – Du reste, demandait Rieux, seraient-ils utiles ? Ce
 bacille est bizarre.
+
 – Oh ! dit Castel, je ne suis pas de votre avis. Ces
 animaux ont toujours un air d’originalité. Mais, dans le
 fond, c’est la même chose.
+
 – Vous le supposez du moins. En fait, nous ne savons
 rien de tout cela.
+
 – Évidemment, je le suppose. Mais tout le monde en
 est là.
+
 Pendant toute la journée, le docteur sentit croître le
 petit vertige qui le prenait chaque fois qu’il pensait à la
 peste. Finalement, il reconnut qu’il avait peur. Il entra
@@ -1909,6 +2077,7 @@ deux fois dans des cafés pleins de monde. Lui aussi,
 comme Cottard, sentait un besoin de chaleur humaine.
 Rieux trouvait cela stupide, mais cela l’aida à se souvenir
 qu’il avait promis une visite au représentant.
+
 Le soir, le docteur trouva Cottard devant la table de sa
 salle à manger. Quand il entra, il y avait sur la table un
 roman policier étalé. Mais la soirée était déjà avancée et,
@@ -1919,25 +2088,32 @@ demanda comment il allait. Cottard, en s’asseyant,
 bougonna qu’il allait bien et qu’il irait encore mieux s’il
 pouvait être sûr que personne ne s’occupât de lui. Rieux
 fit observer qu’on ne pouvait pas toujours être seul.
+
 – Oh ! ce n’est pas cela. Moi, je parle des gens qui
 s’occupent de vous apporter des ennuis.
+
 Rieux se taisait.
+
 – Ce n’est pas mon cas, remarquez-le bien. Mais je
 lisais ce roman. Voilà un malheureux qu’on arrête un
 matin, tout d’un coup. On s’occupait de lui et il n’en savait
 rien. On parlait de lui dans les bureaux, on inscrivait son
 nom sur des fiches. Vous trouvez que c’est juste ? Vous
 trouvez qu’on a le droit de faire ça à un homme ?
+
 – Cela dépend, dit Rieux. Dans un sens, on n’a jamais
 le droit, en effet. Mais tout cela est secondaire. Il ne faut
 pas rester trop longtemps enfermé. Il faut que vous
 sortiez.
+
 Cottard sembla s’énerver, dit qu’il ne faisait que cela,
 et que, s’il le fallait, tout le quartier pourrait témoigner
 pour lui. Hors du quartier même, il ne manquait pas de
 relations.
+
 – Vous connaissez M. Rigaud, l’architecte ? Il est de
 mes amis.
+
 L’ombre s’épaississait dans la pièce. La rue du
 faubourg s’animait et une exclamation sourde et soulagée
 salua, au-dehors, l’instant où les lampes s’allumèrent.
@@ -1951,19 +2127,27 @@ invisibles, la rumeur qui montait de la mer et de la foule
 qui s’écoulait, cette heure que Rieux connaissait bien et
 aimait autrefois lui paraissait aujourd’hui oppressante à
 cause de tout ce qu’il savait.
+
 – Pouvons-nous allumer ? dit-il à Cottard.
+
 La lumière une fois revenue, le petit homme le regarda
 avec des yeux clignotants :
+
 – Dites-moi, docteur, si je tombais malade, est-ce que
 vous me prendriez dans votre service à l’hôpital ?
+
 – Pourquoi pas ?
+
 Cottard demanda alors s’il était arrivé qu’on arrêtât
 quelqu’un qui se trouvait dans une clinique ou dans un
 hôpital. Rieux répondit que cela s’était vu, mais que tout
 dépendait de l’état du malade.
+
 – Moi, dit Cottard, j’ai confiance en vous.
+
 Puis il demanda au docteur s’il voulait bien le mener
 en ville dans son auto.
+
 Au centre de la ville, les rues étaient déjà moins
 peuplées et les lumières plus rares. Des enfants jouaient
 encore devant les portes. Quand Cottard le demanda, le
@@ -1975,22 +2159,30 @@ intimidants. Le docteur détourna son regard. Cottard,
 debout sur le trottoir, lui serrait la main. Le représentant
 parlait d’une voix rauque et difficile. Deux ou trois fois, il
 regarda derrière lui.
+
 – Les gens parlent d’épidémie. Est-ce que c’est vrai,
 docteur ?
+
 – Les gens parlent toujours, c’est naturel, dit Rieux.
+
 – Vous avez raison. Et puis quand nous aurons une
 dizaine de morts, ce sera le bout du monde. Ce n’est pas
 cela qu’il nous faudrait.
+
 Le moteur ronflait déjà. Rieux avait la main sur son
 levier de vitesse. Mais il regardait à nouveau l’enfant qui
 n’avait pas cessé de le dévisager avec son air grave et
 tranquille. Et soudain, sans transition, l’enfant lui sourit
 de toutes ses dents.
+
 – Qu’est-ce donc qu’il nous faudrait ? demanda le
 docteur en souriant à l’enfant.
+
 Cottard agrippa soudain la portière et, avant de
 s’enfuir, cria d’une voix pleine de larmes et de fureur :
+
 – Un tremblement de terre. Un vrai !
+
 Il n’y eut pas de tremblement de terre et la journée du
 lendemain se passa seulement, pour Rieux, en longues
 courses aux quatre coins de la ville, en pourparlers avec
@@ -2006,17 +2198,25 @@ asthmatique qu’il visitait en dernier lieu, Rieux avait de la
 peine à s’arracher à son siège. Il s’attardait à regarder la
 rue sombre et les étoiles qui apparaissaient et
 disparaissaient dans le ciel noir.
+
 Le vieil asthmatique était dressé dans son lit. Il
 semblait respirer mieux et comptait les pois chiches qu’il
 faisait passer d’une des marmites dans l’autre. Il accueillit
 le docteur avec une mine réjouie.
+
 – Alors, docteur, c’est le choléra ?
+
 – Où avez-vous pris ça ?
+
 – Dans le journal, et la radio l’a dit aussi.
+
 – Non, ce n’est pas le choléra.
+
 – En tout cas, dit le vieux très surexcité, ils y vont fort,
 hein, les grosses têtes !
+
 – N’en croyez rien, dit le docteur.
+
 Il avait examiné le vieux et maintenant il était assis au
 milieu de cette salle à manger misérable. Oui, il avait
 peur. Il savait que dans le faubourg même une dizaine de
@@ -2034,35 +2234,48 @@ leurs autres malades, leurs fenêtres calfeutrées, entourés
 d’un cordon sanitaire. Si l’épidémie ne s’arrêtait pas
 d’elle-même, elle ne serait pas vaincue par les mesures
 que l’administration avait imaginées.
+
 Cependant, le soir, les communiqués officiels restaient
 optimistes. Le lendemain, l’agence Ransdoc annonçait que
 les mesures préfectorales avaient été accueillies avec
 sérénité et que, déjà, une trentaine de malades s’étaient
 déclarés. Castel avait téléphoné à Rieux :
+
 – Combien de lits offrent les pavillons ?
+
 – Quatre-vingts.
+
 – Il y a certainement plus de trente malades dans la
 ville ?
+
 – Il y a ceux qui ont peur et les autres, les plus
 nombreux, ceux qui n’ont pas eu le temps.
+
 – Les enterrements ne sont pas surveillés ?
+
 – Non. J’ai téléphoné à Richard qu’il fallait des
 mesures complètes, non des phrases, et qu’il fallait élever
 contre l’épidémie une vraie barrière ou rien du tout.
+
 – Et alors ?
+
 – Il m’a répondu qu’il n’avait pas pouvoir. À mon avis,
 ça va monter.
+
 En trois jours, en effet, les deux pavillons furent
 remplis. Richard croyait savoir qu’on allait désaffecter
 une école et prévoir un hôpital auxiliaire. Rieux attendait
 les vaccins et ouvrait les bubons. Castel retournait à ses
 vieux livres et faisait de longues stations à la bibliothèque.
+
 – Les rats sont morts de la peste ou de quelque chose
 qui lui ressemble beaucoup, concluait-il. Ils ont mis dans
 la circulation des dizaines de milliers de puces qui
 transmettront l’infection suivant une proportion
 géométrique, si on ne l’arrête pas à temps.
+
 Rieux se taisait.
+
 À cette époque le temps parut se fixer. Le soleil
 pompait les flaques des dernières averses. De beaux ciels
 bleus débordant d’une lumière jaune, des ronronnements
@@ -2075,17 +2288,27 @@ maternelle. Nos concitoyens qui, jusque-là, avaient
 continué de masquer leur inquiétude sous des
 plaisanteries, semblaient dans les rues plus abattus et
 plus silencieux.
+
 Rieux décida de téléphoner au préfet :
+
 – Les mesures sont insuffisantes.
+
 – J’ai les chiffres, dit le préfet, ils sont en effet
 inquiétants.
+
 – Ils sont plus qu’inquiétants, ils sont clairs.
+
 – Je vais demander des ordres au Gouvernement
 général.
+
 Rieux raccrocha devant Castel :
+
 – Des ordres ! Et il faudrait de l’imagination.
+
 – Et les sérums ?
+
 – Ils arriveront dans la semaine.
+
 La préfecture, par l’intermédiaire de Richard,
 demanda à Rieux un rapport destiné à être envoyé dans
 la capitale de la colonie pour solliciter des ordres. Rieux y
@@ -2102,6 +2325,7 @@ cas en traitement. Ils étaient insuffisants si l’épidémie
 devait s’étendre. On répondit au télégramme de Rieux
 que le stock de sécurité était épuisé et que de nouvelles
 fabrications étaient commencées.
+
 Pendant ce temps, et de toutes les banlieues
 environnantes, le printemps arrivait sur les marchés. Des
 milliers de roses se fanaient dans les corbeilles des
@@ -9825,6 +10049,11 @@ https://github.com/kaicarver/lapeste
         * [2](#sec2)
         * [3](#sec3)
         * [4](#sec4)
+        * [5](#sec5)
+        * [6](#sec6)
+        * [7](#sec7)
+        * [8](#sec8)
+        * [9](#sec9)
     * [II](#ch2)
     * [III](#ch3)
     * [IV](#ch4)

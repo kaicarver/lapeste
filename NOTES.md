@@ -55,3 +55,6 @@ And there could even be a kind of read and play mode, a la YH Chang Industries
 
 Might be fun and easy to add an index. Not sure how useful though.
 
+### Vocal assistant for proof reading
+
+Reads out loud first words of every paragraph, for someone to follow as they check a printed copy.

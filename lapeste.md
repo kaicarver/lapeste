@@ -6121,6 +6121,7 @@ convient, à ce sommet de la chaleur et de la maladie, de
 décrire la situation générale et, à titre d’exemple, les
 violences de nos concitoyens vivants, les enterrements
 des défunts et la souffrance des amants séparés.
+
 C’est au milieu de cette année-là que le vent se leva et
 souffla pendant plusieurs jours sur la cité empestée. Le
 vent est particulièrement redouté des habitants d’Oran
@@ -6144,6 +6145,7 @@ soulevée et toujours invisible montait une odeur d’algues
 et de sel. Cette ville déserte, blanchie de poussière,
 saturée d’odeurs marines, toute sonore des cris du vent,
 gémissait alors comme une île malheureuse.
+
 Jusqu’ici la peste avait fait beaucoup plus de victimes
 dans les quartiers extérieurs, plus peuplés et moins
 confortables, que dans le centre de la ville. Mais elle
@@ -6200,6 +6202,7 @@ tribut à la maladie. Du point de vue supérieur de la peste,
 tout le monde, depuis le directeur jusqu’au dernier
 détenu, était condamné et, pour la première fois peutêtre,
 il régnait dans la prison une justice absolue.
+
 C’est en vain que les autorités essayèrent d’introduire
 de la hiérarchie dans ce nivellement, en concevant l’idée
 de décorer les gardiens de prison morts dans l’exercice de
@@ -6221,6 +6224,7 @@ l’inconvénient de ne pas produire l’effet moral qu’on avait
 obtenu par l’attribution d’une décoration militaire,
 puisqu’en temps d’épidémie il était banal d’obtenir une
 décoration de ce genre. Tout le monde fut mécontent.
+
 De plus, l’administration pénitentiaire ne put opérer
 comme les autorités religieuses et, dans une moindre
 mesure, militaires. Les moines des deux seuls couvents de
@@ -6233,6 +6237,7 @@ qui, apparemment, avait forcé les habitants à une
 solidarité d’assiégés, brisait en même temps les
 associations traditionnelles et renvoyait les individus à
 leur solitude. Cela faisait du désarroi.
+
 On peut penser que toutes ces circonstances, ajoutées
 au vent, portèrent aussi l’incendie dans certains esprits.
 Les portes de la ville furent attaquées de nouveau
@@ -6267,6 +6272,7 @@ autorités fissent mine d’intervenir. La seule mesure qui
 sembla impressionner tous les habitants fut l’institution
 du couvre-feu. À partir de onze heures, plongée dans la
 nuit complète, la ville était de pierre.
+
 Sous les ciels de lune, elle alignait ses murs blanchâtres
 et ses rues rectilignes, jamais tachées par la masse noire
 d’un arbre, jamais troublées par le pas d’un promeneur ni
@@ -6319,6 +6325,7 @@ en quarantaine si elle avait vécu auprès du malade. Dans
 le cas où la famille n’habitait pas avec le défunt, elle se
 présentait à l’heure indiquée qui était celle du départ pour
 le cimetière, le corps ayant été lavé et mis en bière.
+
 Supposons que cette formalité ait eu lieu à l’hôpital
 auxiliaire dont s’occupait le docteur Rieux. L’école avait
 une sortie placée derrière le bâtiment principal. Un grand
@@ -6346,6 +6353,7 @@ peu avant pour se soumettre à un arrosage désinfectant
 et, pendant que les pelletées de glaise résonnaient de plus
 en plus sourdement, la famille s’engouffrait dans le taxi.
 Un quart d’heure après, elle avait retrouvé son domicile.
+
 Ainsi, tout se passait vraiment avec le maximum de
 rapidité et le minimum de risques. Et sans doute, au
 début du moins, il est évident que le sentiment naturel
@@ -6365,6 +6373,7 @@ mourraient un jour. Ainsi, ces difficultés matérielles qui
 devaient être un mal se révélèrent un bienfait par la suite.
 Et tout aurait été pour le mieux, si l’épidémie ne s’était
 pas étendue, comme on l’a déjà vu.
+
 Car les cercueils se firent alors plus rares, la toile
 manqua pour les linceuls et la place au cimetière. Il fallut
 aviser. Le plus simple, et toujours pour des raisons
@@ -6386,6 +6395,7 @@ les chroniques des anciennes pestes.
 
 – Oui, dit Rieux, c’est le même enterrement, mais
 nous, nous faisons des fiches. Le progrès est incontestable.
+
 Malgré ces succès de l’administration, le caractère
 désagréable que revêtaient maintenant les formalités
 obligea la préfecture à écarter les parents de la
@@ -6405,7 +6415,6 @@ du fléau. Dans la période qui nous occupe, la séparation
 des fosses existait et la préfecture y tenait beaucoup. Au
 fond de chacune d’elles, une grosse épaisseur de chaux
 vive fumait et bouillonnait. Sur les bords du trou, un
-vive fumait et bouillonnait. Sur les bords du trou, un
 monticule de la même chaux laissait ses bulles éclater à
 l’air libre. Quand les voyages de l’ambulance étaient
 terminés, on amenait les brancards en cortège, on laissait
@@ -6417,6 +6426,7 @@ des hôtes à venir. Le lendemain, les parents étaient
 invités à signer sur un registre, ce qui marquait la
 différence qu’il peut y avoir entre les hommes et, par
 exemple, les chiens : le contrôle était toujours possible.
+
 Pour toutes ces opérations, il fallait du personnel et
 l’on était toujours à la veille d’en manquer. Beaucoup de
 ces infirmiers et de ces fossoyeurs d’abord officiels, puis
@@ -6447,6 +6457,7 @@ préfet qui avait longtemps hésité à utiliser les condamnés,
 à temps ou à vie, pour ce genre de travail, put éviter d’en
 arriver à cette extrémité. Aussi longtemps qu’il y aurait
 des chômeurs, il était d’avis qu’on pouvait attendre.
+
 Tant bien que mal, et jusqu’à la fin du mois d’août, nos
 concitoyens purent donc être conduits à leur dernière
 demeure sinon décemment, du moins dans un ordre
@@ -6489,6 +6500,7 @@ maritime, et qui se trouvaient sans emploi. À cet effet, on
 aménagea l’intérieur des baladeuses et des motrices en
 enlevant les sièges, et on détourna la voie à hauteur du
 four, qui devint ainsi une tête de ligne.
+
 Et pendant toute la fin de l’été, comme au milieu des
 pluies de l’automne, on put voir le long de la corniche, au
 coeur de chaque nuit, passer d’étranges convois de
@@ -6532,6 +6544,7 @@ et que la ville verrait, sur les places publiques, les
 et que la ville verrait, sur les places publiques, les
 mourants s’accrocher aux vivants avec un mélange de
 haine légitime et de stupide espérance.
+
 C’était ce genre d’évidence ou d’appréhensions, en
 tout cas, qui entretenait chez nos concitoyens le sentiment
 de leur exil et de leur séparation. À cet égard, le narrateur
@@ -6592,6 +6605,7 @@ souvenir. Tout au bout de ce long temps de séparation, ils
 n’imaginaient plus cette intimité qui avait été la leur, ni
 comment avait pu vivre près d’eux un être sur lequel, à
 tout moment, ils pouvaient poser la main.
+
 De ce point de vue, ils étaient entrés dans l’ordre
 même de la peste, d’autant plus efficace qu’il était plus
 médiocre. Personne, chez nous, n’avait plus de grands
@@ -6659,6 +6673,7 @@ l’examen de conscience, cette heure est dure pour le
 prisonnier ou l’exilé qui n’ont à examiner que du vide. Elle
 les tenait suspendus un moment, puis ils retournaient à
 l’atonie, ils s’enfermaient dans la peste.
+
 On a déjà compris que cela consistait à renoncer à ce
 qu’ils avaient de plus personnel. Alors que dans les
 premiers temps de la peste, ils étaient frappés par la
@@ -6681,6 +6696,7 @@ avec une sorte de distraction, les lèvres irritées,
 retrouvant en un éclair leur souffrance, soudain rajeunie,
 et, avec elle, le visage bouleversé de leur amour. Au
 matin, ils revenaient au fléau, c’est-à-dire à la routine.
+
 Mais de quoi, dira-t-on, ces séparés avaient-ils l’air ?
 Eh bien, cela est simple, ils n’avaient l’air de rien. Ou, si on
 préfère, ils avaient l’air de tout le monde, un air tout à fait
@@ -6702,6 +6718,7 @@ dit, ils ne choisissaient plus rien. La peste avait supprimé
 les jugements de valeur. Et cela se voyait à la façon dont
 personne ne s’occupait plus de la qualité des vêtements
 ou des aliments qu’on achetait. On acceptait tout en bloc.
+
 On peut dire pour finir que les séparés n’avaient plus
 ce curieux privilège qui les préservait au début. Ils
 avaient perdu l’égoïsme de l’amour, et le bénéfice qu’ils en
@@ -6748,6 +6765,8 @@ nos coeurs, remplaçait alors l’amour.
 <div id="ch4" style="page-break-after: always;"></div>
 
 IV
+
+<div id="sec19" style="page-break-after: always;"></div>
 
 Pendant les mois de septembre et d’octobre, la peste
 garda la ville repliée sous elle. Puisqu’il s’agissait de
@@ -11112,6 +11131,7 @@ https://github.com/kaicarver/lapeste
     * [III](#ch3)
         * [1](#sec18)
     * [IV](#ch4)
+        * [1](#sec19)
     * [V](#ch5)
 
 * Appendices

@@ -31,6 +31,18 @@ When words are hyphenated for a line break in the PDF, the hyphen disappears in 
 
 Actually many such cases may be automatically found, because such lines are longer than normal, but since it's proportional-width characters, there's no such thing as a standard line length.
 
+### Special paragraph breaks
+
+At the beginning of every section, the first paragraph has more space after it than the usual paragraphs.
+
+And there are cases where this happens inside the text, for example:
+
+> C’était ce genre d’évidence ou d’appréhensions, en
+tout cas, qui entretenait chez nos concitoyens le sentiment
+de leur exil et de leur séparation.
+
+Need to deal with this somehow, with extra markup?
+
 ## Ideas to do
 
 ### Reading out loud 

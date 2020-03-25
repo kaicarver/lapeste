@@ -25,6 +25,10 @@ https://stackoverflow.com/questions/22601053/pagebreak-in-markdown-while-creatin
 
 Lines are sometimes duplicated, corresponding to page breaks in the PDF. This should be easily corrected by program, as it's unlikely there are intentionally repeated lines in the text.
 
+Used this:
+
+    perl -ne 'print if $_ eq "\n" || $_ ne $prev; $prev = $_' < lapeste.md > foo 
+
 ### Missing hyphens
 
 When words are hyphenated for a line break in the PDF, the hyphen disappears in the text, and the two parts are stuck together. Correcting this requires tedious spotting of all occurrences of such line-ending hyphens in the PDF and adding them by hand back in the text.

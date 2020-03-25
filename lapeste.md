@@ -6801,6 +6801,7 @@ indifférence distraite qu’on imagine aux combattants des
 grandes guerres, épuisés de travaux, appliqués seulement
 à ne pas défaillir dans leur devoir quotidien et n’espérant
 plus ni l’opération décisive, ni le jour de l’armistice.
+
 Grand, qui continuait à effectuer les calculs nécessités
 par la peste, eût certainement été incapable d’en indiquer
 les résultats généraux. Au contraire de Tarrou, de
@@ -6835,6 +6836,7 @@ et que lui aurait peut-être aidé sa femme à triompher de
 sa maladie, alors qu’aujourd’hui, elle devait se sentir tout
 à fait seule. Puis il s’était tu et n’avait plus répondu
 qu’évasivement aux questions de Grand.
+
 Les autres étaient dans le même état. Tarrou résistait
 mieux, mais ses carnets montrent que si sa curiosité
 n’avait pas diminué de profondeur, elle avait perdu de sa
@@ -6882,6 +6884,7 @@ vingt heures par jour où il voyait mourir des hommes qui
 étaient faits pour vivre. Il lui servait à recommencer tous
 les jours. Désormais, il avait juste assez de coeur pour ça.
 Comment ce coeur aurait-il suffi à donner la vie ?
+
 Non, ce n’étaient pas des secours qu’il distribuait à
 longueur de journée, mais des renseignements. Cela ne
 pouvait pas s’appeler un métier d’homme, bien entendu.
@@ -6932,6 +6935,7 @@ instillations nécessaires. Là était le vrai danger, car c’était
 la lutte elle-même contre la peste qui les rendait alors le
 plus vulnérables à la peste, ils pariaient en somme sur le
 hasard et le hasard n’est à personne.
+
 Il y avait pourtant dans la ville un homme qui ne
 paraissait ni épuisé, ni découragé, et qui restait l’image
 vivante de la satisfaction. C’était Cottard. Il continuait à
@@ -6993,6 +6997,7 @@ considérer les symptômes d’angoisse et de désarroi que
 présentaient nos concitoyens avec cette satisfaction
 indulgente et compréhensive qui pouvait s’exprimer par
 un : « Parlez toujours, je l’ai eue avant vous. »
+
 « J’ai eu beau lui dire que la seule façon de ne pas être
 séparé des autres, c’était après tout d’avoir une bonne
 conscience, il m’a regardé méchamment et il m’a dit :
@@ -7010,7 +7015,7 @@ la mauvaise humeur qu’on lui témoigne d’autres fois ; la
 précipitation des gens vers les restaurants de luxe, leur
 satisfaction de s’y trouver et de s’y attarder ; l’affluence
 désordonnée qui fait queue, chaque jour, au cinéma, qui
-remplit toutes les salles de spectacle et les dancings euxmêmes,
+remplit toutes les salles de spectacle et les dancings eux-mêmes,
 qui se répand comme une marée déchaînée dans
 tous les lieux publics ; le recul devant tout contact,
 l’appétit de chaleur humaine qui pousse cependant les
@@ -7020,6 +7025,7 @@ avant eux, c’est évident. Sauf les femmes, parce qu’avec
 sa tête… Et je suppose que lorsqu’il s’est senti près d’aller
 chez les filles, il s’y est refusé, pour ne pas se donner un
 mauvais genre qui, par la suite, eût pu le desservir.
+
 « En somme, la peste lui réussit. D’un homme solitaire
 et qui ne voulait pas l’être, elle fait un complice. Car
 visiblement c’est un complice et un complice qui se
@@ -7077,6 +7083,7 @@ moi : après mon arrestation, je ferai ceci ? L’arrestation
 est un commencement, ce n’est pas une fin. Tandis que la
 peste… Vous voulez mon avis ? Ils sont malheureux parce
 qu’ils ne se laissent pas aller. Et je sais ce que je dis.”
+
 « Il sait en effet ce qu’il dit, ajoutait Tarrou. Il juge à
 leur vrai prix les contradictions des habitants d’Oran qui,
 dans le même temps où ils ressentent profondément le
@@ -7112,8 +7119,9 @@ qui illustre cette conscience singulière qui venait en même
 temps à Cottard et aux pestiférés. Ce récit restitue à peu
 près l’atmosphère difficile de cette époque et c’est
 pourquoi le narrateur y attache de l’importance.
+
 Ils étaient allés à l’Opéra municipal où l’on jouait
-Orphée et Eurydice. Cottard avait invité Tarrou. Il
+_Orphée_ et _Eurydice_. Cottard avait invité Tarrou. Il
 s’agissait d’une troupe qui était venue, au printemps de la
 peste, donner des représentations dans notre ville.
 Bloquée par la maladie, cette troupe s’était vue
@@ -7147,6 +7155,7 @@ maître des Enfers, de se laisser toucher par ses pleurs.
 Certains gestes saccadés qui lui échappèrent apparurent
 aux plus avisés comme un effet de stylisation qui ajoutait
 encore à l’interprétation du chanteur.
+
 Il fallut le grand duo d’Orphée et d’Eurydice au
 troisième acte (c’était le moment où Eurydice échappait à
 son amant) pour qu’une certaine surprise courût dans la
@@ -7175,6 +7184,8 @@ leur vie d’alors : la peste sur la scène sous l’aspect d’un
 histrion désarticulé et, dans la salle, tout un luxe devenu
 inutile sous la forme d’éventails oubliés et de dentelles
 traînant sur le rouge des fauteuils.
+
+<div id="sec20" style="page-break-after: always;"></div>
 
 Rambert, pendant les premiers jours du mois de
 septembre, avait sérieusement travaillé aux côtés de
@@ -11108,6 +11119,7 @@ https://github.com/kaicarver/lapeste
         * [1](#sec18)
     * [IV](#ch4)
         * [1](#sec19)
+        * [2](#sec20)
     * [V](#ch5)
 
 * Appendices

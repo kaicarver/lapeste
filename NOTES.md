@@ -35,6 +35,12 @@ When words are hyphenated for a line break in the PDF, the hyphen disappears in 
 
 Actually many such cases may be automatically found, because such lines are longer than normal, but since it's proportional-width characters, there's no such thing as a standard line length.
 
+### Closing quotes wrong?
+
+maybe not
+
+Start with « and end with » unless multiple paragraphs then end all but last paragraph with ”... Need to check if this is a rule.
+
 ### Special paragraph breaks
 
 At the beginning of every section, the first paragraph has more space after it than the usual paragraphs.

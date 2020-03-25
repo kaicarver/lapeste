@@ -142,7 +142,6 @@ vérité de ce qu’il dit.
 
 Du reste, le narrateur, qu’on connaîtra toujours à
 temps, n’aurait guère de titre à faire valoir dans une
-temps, n’aurait guère de titre à faire valoir dans une
 entreprise de ce genre si le hasard ne l’avait mis à même
 de recueillir un certain nombre de dépositions et si la
 force des choses ne l’avait mêlé à tout ce qu’il prétend
@@ -258,7 +257,6 @@ chez lui.
 – Il y a un télégramme pour vous là-haut, dit
 M. Michel.
 
-Le docteur lui demanda s’il avait vu de nouveaux rats.
 Le docteur lui demanda s’il avait vu de nouveaux rats.
 
 – Ah ! non, dit le concierge, je fais le guet, vous
@@ -958,7 +956,6 @@ doivent courir dans les caves et que le petit vieux est
 décontenancé. Il est moins bien peigné, moins vigoureux.
 On le sent inquiet. Au bout d’un moment, il est rentré.
 Mais il avait craché, une fois, dans le vide.
-Mais il avait craché, une fois, dans le vide.
 
 « Dans la ville, on a arrêté un tram aujourd’hui parce
 qu’on y avait découvert un rat mort, parvenu là on ne sait
@@ -1062,7 +1059,6 @@ droits, mais les mâchoires saillantes. Le nez fort est
 régulier. Cheveux noirs coupés très court. La bouche est
 arquée avec des lèvres pleines et presque toujours
 serrées. Il a un peu l’air d’un paysan sicilien avec sa peau
-cuite, son poil noir et ses vêtements de teintes toujours
 cuite, son poil noir et ses vêtements de teintes toujours
 foncées, mais qui lui vont bien.
 
@@ -2973,7 +2969,6 @@ sonneries de clairon dans le ciel encore doré témoignaient
 seulement que les militaires se donnaient l’air de faire
 leur métier. Pendant ce temps, le long des rues abruptes,
 entre les murs bleus, ocre et violets des maisons
-entre les murs bleus, ocre et violets des maisons
 mauresques, Rambert parlait, très agité. Il avait laissé sa
 femme à Paris. À vrai dire, ce n’était pas sa femme, mais
 c’était la même chose. Il lui avait télégraphié dès la
@@ -3392,7 +3387,6 @@ vitraux, retentit avec un tel accent que quelques
 auditeurs, après une seconde d’hésitation, se laissèrent
 glisser de leur chaise sur le prie-Dieu. D’autres crurent
 qu’il fallait suivre leur exemple si bien que, de proche en
-proche, sans un autre bruit que le craquement de
 proche, sans un autre bruit que le craquement de
 quelques chaises, tout l’auditoire se trouva bientôt à
 genoux. Paneloux se redressa alors, respira profondément
@@ -4120,7 +4114,6 @@ Mais M. Othon ne changeait pas pour si peu et, cette
 fois, la peste en était pour ses frais. Il entrait de la même
 façon dans la salle de restaurant, s’asseyait avant ses
 enfants et leur tenait toujours des propos distingués et
-hostiles. Seul, le petit garçon avait changé d’aspect. Vêtu
 hostiles. Seul, le petit garçon avait changé d’aspect. Vêtu
 de noir comme sa soeur, un peu plus tassé sur lui-même, il
 semblait la petite ombre de son père. Le veilleur de nuit,
@@ -4931,7 +4924,6 @@ fatigué que Rieux.
 Oui, il était fatigué par cette recherche qui l’absorbait
 tout entier, mais il n’en continuait pas moins à faire les
 additions et les statistiques dont avaient besoin les
-additions et les statistiques dont avaient besoin les
 formations sanitaires. Patiemment, tous les soirs, il
 mettait des fiches au clair, il les accompagnait de courbes
 et il s’évertuait lentement à présenter des états aussi
@@ -5351,7 +5343,6 @@ d’ailleurs Rambert n’avait plus besoin de lui.
 Lorsque, le lendemain, le journaliste entra dans le
 restaurant espagnol, toutes les têtes se tournèrent sur
 son passage. Cette cave ombreuse, située en contrebas
-d’une petite rue jaune et desséchée par le soleil, n’était
 d’une petite rue jaune et desséchée par le soleil, n’était
 fréquentée que par des hommes, de type espagnol pour la
 plupart. Mais dès que Raoul, installé à une table du fond,
@@ -6541,7 +6532,6 @@ monter, aucune organisation, si excellente fût-elle, n’y
 résisterait, que les hommes viendraient mourir dans
 l’entassement, pourrir dans la rue, malgré la préfecture,
 et que la ville verrait, sur les places publiques, les
-et que la ville verrait, sur les places publiques, les
 mourants s’accrocher aux vivants avec un mélange de
 haine légitime et de stupide espérance.
 
@@ -7421,7 +7411,6 @@ Tarrou le regarda et, tout d’un coup, lui sourit.
 Ils suivirent un petit couloir dont les murs étaient
 peints en vert clair et où flottait une lumière d’aquarium.
 Juste avant d’arriver à une double porte vitrée, derrière
-Juste avant d’arriver à une double porte vitrée, derrière
 laquelle on voyait un curieux mouvement d’ombres,
 Tarrou fit entrer Rambert dans une très petite salle,
 entièrement tapissée de placards. Il ouvrit l’un d’eux, tira
@@ -7528,7 +7517,6 @@ dura longtemps, jusqu’à ce qu’on approchât de la maison
 du docteur. Et Rambert, de nouveau, posa sa dernière
 question, avec plus de force encore. Et, seul, Rieux se
 tourna vers lui. Il se souleva avec effort :
-tourna vers lui. Il se souleva avec effort :
 
 – Pardonnez-moi, Rambert, dit-il, mais je ne le sais
 pas. Restez avec nous puisque vous le désirez.
@@ -7624,7 +7612,6 @@ enfant.
 La quarantaine, qui au début n’était qu’une simple
 formalité, avait été organisée par Rieux et Rambert, de
 façon très stricte. En particulier, ils avaient exigé que les
-membres d’une même famille fussent toujours isolés les
 membres d’une même famille fussent toujours isolés les
 uns des autres. Si l’un des membres de la famille avait été
 infecté sans le savoir, il ne fallait pas multiplier les chances
@@ -8045,7 +8032,6 @@ devait chercher, c’était son bénéfice, et de quoi le bénéfice
 était fait, et comment on pouvait le trouver.
 À ce moment, autour de Rieux, les gens parurent se
 carrer entre les accoudoirs de leur banc et s’installer aussi
-carrer entre les accoudoirs de leur banc et s’installer aussi
 confortablement qu’ils le pouvaient. Une des portes
 capitonnées de l’entrée battit doucement. Quelqu’un se
 dérangea pour la maintenir. Et Rieux, distrait par cette
@@ -8230,7 +8216,6 @@ trottoir mouillé qui leur laissait deviner l’aspect de la ville
 avant qu’ils fussent sortis. Devant le docteur Rieux, un
 vieux prêtre et un jeune diacre qui sortaient à ce moment
 eurent du mal à retenir leur coiffure. Le plus âgé ne cessa
-eurent du mal à retenir leur coiffure. Le plus âgé ne cessa
 pas pour autant de commenter le prêche. Il rendait
 hommage à l’éloquence de Paneloux, mais il s’inquiétait
 des hardiesses de pensée que le père avait montrées. Il
@@ -8389,7 +8374,6 @@ regardait le père.
 – Je resterai près de vous, lui dit-il doucement.
 L’autre parut se ranimer et tourna vers le docteur des
 yeux où une sorte de chaleur semblait revenir. Puis il
-articula difficilement, de manière qu’il était impossible de
 articula difficilement, de manière qu’il était impossible de
 savoir s’il le disait avec tristesse ou non :
 
@@ -8918,7 +8902,6 @@ ventre qui m’enlevait toute autre attention que celle que
 je portais au prévenu. Je n’écoutais presque rien, je
 sentais qu’on voulait tuer cet homme vivant et un instinct
 formidable comme une vague me portait à ses côtés avec
-formidable comme une vague me portait à ses côtés avec
 une sorte d’aveuglement entêté. Je ne me réveillai
 vraiment qu’avec le réquisitoire de mon père.
 « Transformé par sa robe rouge, ni bonhomme ni
@@ -9008,7 +8991,6 @@ poitrine ? Savez-vous qu’à cette courte distance, les
 fusilleurs concentrent leur tir sur la région du coeur et
 qu’à eux tous, avec leurs grosses balles, ils y font un trou
 où l’on pourrait mettre le poing ? Non, vous ne le savez
-pas parce que ce sont là des détails dont on ne parle pas.
 pas parce que ce sont là des détails dont on ne parle pas.
 Le sommeil des hommes est plus sacré que la vie pour les
 pestiférés. On ne doit pas empêcher les braves gens de
@@ -9104,7 +9086,6 @@ que la mort.
 
 « D’ici là, je sais que je ne vaux plus rien pour ce
 monde lui-même et qu’à partir du moment où j’ai renoncé
-à tuer, je me suis condamné à un exil définitif. Ce sont les
 à tuer, je me suis condamné à un exil définitif. Ce sont les
 autres qui feront l’histoire. Je sais aussi que je ne puis
 apparemment juger ces autres. Il y a une qualité qui me
@@ -9206,7 +9187,6 @@ sert qu’il se batte ?
 – Oui, dit Rieux, allons-y.
 
 Un moment après, l’auto s’arrêtait près des grilles du
-port. La lune s’était levée. Un ciel laiteux projetait partout
 port. La lune s’était levée. Un ciel laiteux projetait partout
 des ombres pâles. Derrière eux s’étageait la ville et il en
 venait un souffle chaud et malade qui les poussait vers la
@@ -9417,7 +9397,6 @@ comme ça. Mais il m’a toujours fallu un énorme effort
 pour être seulement normal. Alors maintenant, c’est
 encore trop.
 
-Il s’arrêta, tremblant de tous ses membres et les yeux
 Il s’arrêta, tremblant de tous ses membres et les yeux
 fous. Rieux lui prit la main. Elle brûlait.
 
@@ -9736,7 +9715,6 @@ Certes, dans beaucoup de maisons, les volets restèrent
 clos et des familles passèrent en silence cette veillée que
 d’autres remplissaient de cris. Cependant, pour beaucoup
 de ces êtres endeuillés, le soulagement aussi était profond,
-soit que la peur de voir d’autres parents emportés fût
 soit que la peur de voir d’autres parents emportés fût
 enfin calmée, soit que le sentiment de leur conservation
 personnelle ne fût plus en alerte. Mais les familles qui
@@ -10205,7 +10183,6 @@ Des passants, profitant de l’accalmie, marchaient
 rapidement sur le trottoir. Leurs pas décroissaient et
 s’éloignaient. Le docteur, pour la première fois, reconnut
 que cette nuit, pleine de promeneurs tardifs et privée des
-timbres d’ambulances, était semblable à celles d’autrefois.
 timbres d’ambulances, était semblable à celles d’autrefois.
 C’était une nuit délivrée de la peste. Et il semblait que la
 maladie chassée par le froid, les lumières et la foule, se fût
@@ -10736,7 +10713,6 @@ Pour tous ceux, au contraire, qui s’étaient adressés
 par-dessus l’homme à quelque chose qu’ils n’imaginaient
 même pas, il n’y avait pas eu de réponse. Tarrou avait
 semblé rejoindre cette paix difficile dont il avait parlé,
-mais il ne l’avait trouvée que dans la mort, à l’heure où
 mais il ne l’avait trouvée que dans la mort, à l’heure où
 elle ne pouvait lui servir de rien. Si d’autres, au contraire,
 que Rieux apercevait sur les seuils des maisons, dans la

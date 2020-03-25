@@ -53,6 +53,14 @@ de leur exil et de leur séparation.
 
 Need to deal with this somehow, with extra markup?
 
+### Generating HTML etc.
+
+This nice blog post taught me stuff about using Markdown in VS Code (snippets! Ctrl-Space link) and led me to installing a bunch of stuff, extension for lintin Markdown, Pandoc, Pandoc extension, TexLive for PDF
+
+https://thisdavej.com/build-an-amazing-markdown-editor-using-visual-studio-code-and-pandoc/
+
+Hmm could use a Markdown spellchecker... Is Code Spell Checker good enough?
+
 ## Ideas to do
 
 ### Reading out loud 

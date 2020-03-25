@@ -1,8 +1,8 @@
 <div id="front"></div>
 
-Albert Camus
+# Albert Camus
 
-LA PESTE
+# LA PESTE
 
 (1947)
 
@@ -11080,7 +11080,6 @@ VOUS POUVEZ NOUS AIDER À FAIRE CONNAÎTRE
 
 CES CLASSIQUES LITTÉRAIRES.
 
-
 <div id="apropos2" style="page-break-after: always;"></div>
 
 ## Mise en page supplémentaire
@@ -11089,38 +11088,39 @@ Kai Carver
 
 https://github.com/kaicarver/lapeste
 
-
 <div id="toc" style="page-break-after: always;"></div>
 
 # Table des matières
+
 * La Peste
-    * [Couverture](#front)
-    * [Épigraphe](#epigraph)
-    * [I](#ch1)
-        * [1](#sec1)
-        * [2](#sec2)
-        * [3](#sec3)
-        * [4](#sec4)
-        * [5](#sec5)
-        * [6](#sec6)
-        * [7](#sec7)
-        * [8](#sec8)
-    * [II](#ch2)
-        * [1](#sec9)
-        * [2](#sec10)
-        * [3](#sec11)
-        * [4](#sec12)
-        * [5](#sec13)
-        * [6](#sec14)
-        * [7](#sec15)
-        * [8](#sec16)
-        * [9](#sec17)
-    * [III](#ch3)
-        * [1](#sec18)
-    * [IV](#ch4)
-        * [1](#sec19)
-        * [2](#sec20)
-    * [V](#ch5)
+
+  * [Couverture](#front)
+  * [Épigraphe](#epigraph)
+  * [I](#ch1)
+    * [1](#sec1)
+    * [2](#sec2)
+    * [3](#sec3)
+    * [4](#sec4)
+    * [5](#sec5)
+    * [6](#sec6)
+    * [7](#sec7)
+    * [8](#sec8)
+  * [II](#ch2)
+    * [1](#sec9)
+    * [2](#sec10)
+    * [3](#sec11)
+    * [4](#sec12)
+    * [5](#sec13)
+    * [6](#sec14)
+    * [7](#sec15)
+    * [8](#sec16)
+    * [9](#sec17)
+  * [III](#ch3)
+    * [1](#sec18)
+  * [IV](#ch4)
+    * [1](#sec19)
+    * [2](#sec20)
+  * [V](#ch5)
 
 * Appendices
   * [Édition électronique](#apropos)

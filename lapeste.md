@@ -7259,6 +7259,7 @@ remarquer. »
 – Cela veut dire qu’il faut vous dépêcher.
 
 – Merci, dit Rambert, en serrant la main du docteur.
+
 Sur la porte, il se retourna tout d’un coup. Rieux
 remarqua que, pour la première fois depuis le début de la
 peste, il souriait.
@@ -7273,6 +7274,7 @@ d’arguments à lui opposer. Il se sentait incapable de juger
 de ce qui était bien ou de ce qui était mal en cette affaire.
 
 – Pourquoi me dire de faire vite, dans ces conditions ?
+
 Rieux sourit à son tour.
 
 – C’est peut-être que j’ai envie, moi aussi, de faire
@@ -7305,6 +7307,7 @@ séparés pour toujours.
 – Je crois.
 
 – Ah ! disait-elle, c’est pour cela.
+
 Rambert réfléchissait. C’était sans doute pour cela,
 mais il était impossible que ce fût seulement pour cela.
 
@@ -7363,6 +7366,7 @@ restaient quand même, malgré la chaleur meurtrière.
 Rambert montra son laissez-passer au sergent qui lui
 indiqua le bureau de Tarrou. La porte en donnait sur la
 cour. Il croisa le père Paneloux, qui sortait du bureau.
+
 Dans une sale petite pièce blanche qui sentait la
 pharmacie et le drap humide, Tarrou, assis derrière un
 bureau de bois noir, les manches de chemise retroussées,
@@ -7379,6 +7383,7 @@ lui, il vaudrait mieux.
 – Pourquoi ?
 
 – Il est surmené. Je lui évite ce que je peux.
+
 Rambert regardait Tarrou. Celui-ci avait maigri. La
 fatigue lui brouillait les yeux et les traits. Ses fortes
 épaules étaient ramassées en boule. On frappa à la porte,
@@ -7419,6 +7424,7 @@ Excusez-moi.
 s’arrêta.
 
 Tarrou le regarda et, tout d’un coup, lui sourit.
+
 Ils suivirent un petit couloir dont les murs étaient
 peints en vert clair et où flottait une lumière d’aquarium.
 Juste avant d’arriver à une double porte vitrée, derrière
@@ -7470,6 +7476,7 @@ Rieux se retourna. Par-dessus le masque, ses yeux se
 plissèrent en apercevant le journaliste.
 
 – Que faites-vous ici ? dit-il. Vous devriez être ailleurs.
+
 Tarrou dit que c’était pour ce soir à minuit et Rambert
 ajouta : « En principe. »
 
@@ -7496,6 +7503,7 @@ Tarrou ne broncha pas. Il continuait de conduire.
 Rieux semblait incapable d’émerger de sa fatigue.
 
 – Et elle ? dit-il d’une voix sourde.
+
 Rambert dit qu’il avait encore réfléchi, qu’il continuait
 à croire ce qu’il croyait, mais que s’il partait, il aurait
 honte. Cela le gênerait pour aimer celle qu’il avait laissée.
@@ -7531,6 +7539,7 @@ tourna vers lui. Il se souleva avec effort :
 
 – Pardonnez-moi, Rambert, dit-il, mais je ne le sais
 pas. Restez avec nous puisque vous le désirez.
+
 Une embardée de l’auto le fit taire. Puis il reprit en
 regardant devant lui :
 
@@ -7554,11 +7563,14 @@ du quartier qu’il était chargé de prospecter, quand Tarrou
 regarda sa montre. Relevant la tête, il rencontra le regard
 de Rambert.
 
-– Avez-vous prévenu ? Le journaliste détourna les
-yeux :
+– Avez-vous prévenu ? 
+
+Le journaliste détourna les yeux :
 
 – J’avais envoyé un mot, dit-il avec effort, avant
 d’aller vous voir.
+
+<div id="sec21" style="page-break-after: always;"></div>
 
 Ce fut dans les derniers jours d’octobre que le sérum
 de Castel fut essayé. Pratiquement, il était le dernier
@@ -7637,6 +7649,7 @@ préfecture était en train d’organiser, sur le stade
 municipal, à l’aide de tentes prêtées par le service de
 voirie. Rieux s’en excusa, mais M. Othon dit qu’il n’y avait
 qu’une règle pour tous et qu’il était juste d’obéir.
+
 Quant à l’enfant, il fut transporté à l’hôpital auxiliaire,
 dans une ancienne salle de classe où dix lits avaient été
 installés. Au bout d’une vingtaine d’heures, Rieux jugea
@@ -7685,6 +7698,7 @@ lunettes :
 – Avez-vous des nouvelles du père ?
 
 – Non, dit Rieux, il est au camp d’isolement.
+
 Le docteur serrait avec force la barre du lit où
 gémissait l’enfant. Il ne quittait pas des yeux le petit
 malade qui se raidit brusquement et, les dents de
@@ -7695,6 +7709,7 @@ laine et d’aigre sueur. L’enfant se détendit peu à peu,
 ramena bras et jambes vers le centre du lit et, toujours
 aveugle et muet, parut respirer plus vite. Rieux rencontra
 le regard de Tarrou qui détourna les yeux.
+
 Ils avaient déjà vu mourir des enfants puisque la
 terreur, depuis des mois, ne choisissait pas, mais ils
 n’avaient jamais encore suivi leurs souffrances minute
@@ -7742,9 +7757,11 @@ semblait un peu affaissé contre le mur, dit alors
 sourdement :
 
 – S’il doit mourir, il aura souffert plus longtemps.
+
 Rieux se retourna brusquement vers lui et ouvrit la
 bouche pour parler, mais il se tut, fit un effort visible pour
 se dominer et ramena son regard sur l’enfant.
+
 La lumière s’enflait dans la salle. Sur les cinq autres
 lits, des formes remuaient et gémissaient, mais avec une
 discrétion qui semblait concertée. Le seul qui criât, à
@@ -7799,6 +7816,7 @@ pendant que les autres gémissaient de plus en plus fort.
 Une marée de sanglots déferla dans la salle, couvrant la
 prière de Paneloux, et Rieux, accroché à sa barre de lit,
 ferma les yeux, ivre de fatigue et de dégoût.
+
 Quand il les rouvrit, il trouva Tarrou près de lui.
 
 – Il faut que je m’en aille, dit Rieux. Je ne peux plus
@@ -7862,7 +7880,7 @@ une folie. Et il y a des heures dans cette ville où je ne sens
 plus que ma révolte.
 
 – Je comprends, murmura Paneloux. Cela est
-révoltant parce que cela passe notre mesure. Mais peutêtre
+révoltant parce que cela passe notre mesure. Mais peut-être
 devons-nous aimer ce que nous ne pouvons pas
 comprendre.
 
@@ -7873,11 +7891,13 @@ capable, et secouait la tête.
 – Non, mon père, dit-il. Je me fais une autre idée de
 l’amour. Et je refuserai jusqu’à la mort d’aimer cette
 création où des enfants sont torturés.
+
 Sur le visage de Paneloux, une ombre bouleversée
 passa.
 
 – Ah ! docteur, fit-il avec tristesse, je viens de
 comprendre ce qu’on appelle la grâce.
+
 Mais Rieux s’était laissé aller de nouveau sur son banc.
 Du fond de sa fatigue revenue, il répondit avec plus de
 douceur :
@@ -7921,8 +7941,10 @@ les combattre.
 
 Rieux retenait la main de Paneloux.
 
-– Vous voyez, dit-il en évitant de le regarder, Dieu luimême
+– Vous voyez, dit-il en évitant de le regarder, Dieu lui-même
 ne peut maintenant nous séparer.
+
+<div id="sec22" style="page-break-after: always;"></div>
 
 Depuis qu’il était entré dans les formations sanitaires,
 Paneloux n’avait pas quitté les hôpitaux et les lieux où se
@@ -8022,6 +8044,7 @@ parla d’un ton plus doux et plus réfléchi que la première
 fois et, à plusieurs reprises, les assistants remarquèrent
 une certaine hésitation dans son débit. Chose curieuse
 encore, il ne disait plus « vous », mais « nous ».
+
 Cependant, sa voix s’affermit peu à peu. Il commença
 par rappeler que, depuis de longs mois, la peste était
 parmi nous et que maintenant que nous la connaissions
@@ -8041,6 +8064,7 @@ L’épreuve la plus cruelle était encore bénéfice pour le
 chrétien. Et, justement, ce que le chrétien en l’espèce
 devait chercher, c’était son bénéfice, et de quoi le bénéfice
 était fait, et comment on pouvait le trouver.
+
 À ce moment, autour de Rieux, les gens parurent se
 carrer entre les accoudoirs de leur banc et s’installer aussi
 confortablement qu’ils le pouvaient. Une des portes
@@ -8112,6 +8136,7 @@ sans doute des époques où ce Purgatoire ne devait pas
 être trop espéré, il était des époques où l’on ne pouvait
 parler de péché véniel. Tout péché était mortel et toute
 indifférence criminelle. C’était tout ou ce n’était rien.
+
 Paneloux s’arrêta, et Rieux entendit mieux à ce
 moment, sous les portes, les plaintes du vent qui semblait
 redoubler au-dehors. Le père disait au même instant que
@@ -8138,6 +8163,7 @@ il fallait sauter au coeur de cet inacceptable qui nous était
 offert, justement pour que nous fissions notre choix. La
 souffrance des enfants était notre pain amer, mais sans ce
 pain, notre âme périrait de sa faim spirituelle.
+
 Ici le remue-ménage assourdi qui accompagnait
 généralement les pauses du père Paneloux commençait à
 se faire entendre quand, inopinément, le prédicateur
@@ -8203,6 +8229,7 @@ devions nous persuader qu’il n’est pas d’île dans la peste.
 Non, il n’y avait pas de milieu. Il fallait admettre le
 scandale parce qu’il nous fallait choisir de haïr Dieu ou de
 l’aimer. Et qui oserait choisir la haine de Dieu ?
+
 « Mes frères, dit enfin Paneloux en annonçant qu’il
 concluait, l’amour de Dieu est un amour difficile. Il
 suppose l’abandon total de soi-même et le dédain de sa
@@ -8220,6 +8247,7 @@ pestiférés dorment depuis des siècles sous les dalles du
 choeur, et des prêtres parlent au-dessus de leurs
 tombeaux, et l’esprit qu’ils propagent jaillit de cette
 cendre où des enfants ont pourtant mis leur part. »
+
 Quand Rieux sortit, un vent violent s’engouffra par la
 porte entrouverte et assaillit en pleine face les fidèles. Il
 apportait dans l’église une odeur de pluie, un parfum de
@@ -8236,7 +8264,7 @@ d’être inquiet. Le jeune diacre, la tête baissée pour se
 protéger du vent, assura qu’il fréquentait beaucoup le
 père, qu’il était au courant de son évolution et que son
 traité serait beaucoup plus hardi encore et n’aurait sans
-doute pas l’imprimatur.
+doute pas l’_imprimatur_.
 
 – Quelle est donc son idée ? dit le vieux prêtre.
 Ils étaient arrivés sur le parvis et le vent les entourait
@@ -8255,6 +8283,7 @@ homme aux yeux crevés.
 les yeux crevés, un chrétien doit perdre la foi ou accepter
 d’avoir les yeux crevés. Paneloux ne veut pas perdre la
 foi, il ira jusqu’au bout. C’est ce qu’il a voulu dire.
+
 Cette observation de Tarrou permet-elle d’éclairer un
 peu les événements malheureux qui suivirent et où la
 conduite de Paneloux parut incompréhensible à ceux qui
@@ -8335,6 +8364,7 @@ fixité plus véhémente que toute l’agitation précédente.
 Mais la vieille dame hésitait encore à appeler un médecin
 et à contrarier son malade. Ce pouvait être un simple
 accès de fièvre, si spectaculaire qu’il parût.
+
 Dans l’après-midi, cependant, elle essaya de parler au
 prêtre et ne reçut en réponse que quelques paroles
 confuses. Elle renouvela sa proposition. Mais, alors, le
@@ -8383,6 +8413,7 @@ mais se tut. Rieux sortit pour téléphoner et revint. Il
 regardait le père.
 
 – Je resterai près de vous, lui dit-il doucement.
+
 L’autre parut se ranimer et tourna vers le docteur des
 yeux où une sorte de chaleur semblait revenir. Puis il
 articula difficilement, de manière qu’il était impossible de
@@ -8393,6 +8424,7 @@ ont tout placé en Dieu.
 
 Il demanda le crucifix qui était placé à la tête du lit et,
 quand il l’eut, se détourna pour le regarder.
+
 À l’hôpital, Paneloux ne desserra pas les dents. Il
 s’abandonna comme une chose à tous les traitements
 qu’on lui imposa, mais il ne lâcha plus le crucifix.
@@ -8411,6 +8443,8 @@ regard indifférent et quand, le lendemain matin, on le
 trouva mort, à demi versé hors du lit, son regard
 n’exprimait rien. On inscrivit sur sa fiche : « Cas
 douteux. »
+
+<div id="sec23" style="page-break-after: always;"></div>
 
 La Toussaint de cette année-là ne fut pas ce qu’elle
 était d’ordinaire. Certes, le temps était de circonstance. Il
@@ -8447,6 +8481,7 @@ oublier. Voilà pourquoi la Fête des Morts, cette année-là,
 fut en quelque sorte escamotée. Selon Cottard, à qui
 Tarrou reconnaissait un langage de plus en plus ironique,
 c’était tous les jours la Fête des Morts.
+
 Et réellement, les feux de joie de la peste brûlaient
 avec une allégresse toujours plus grande dans le four
 crématoire. D’un jour à l’autre, le nombre de morts, il est
@@ -8542,6 +8577,7 @@ ou dans un des camps d’isolement qui avaient été
 organisés par l’administration. Il se trouve que le
 narrateur, appelé ailleurs, ne les a pas connus. Et c’est
 pourquoi il ne peut citer ici que le témoignage de Tarrou.
+
 Tarrou rapporte, en effet, dans ses carnets, le récit
 d’une visite qu’il fit avec Rambert au camp installé sur le
 stade municipal. Le stade est situé presque aux portes de
@@ -8660,6 +8696,7 @@ rien, ni les soins du ménage, ni la mouche qui vole, ni les
 repas, ni une démangeaison. Mais il y a toujours des
 mouches et des démangeaisons. C’est pourquoi la vie est
 difficile à vivre. Et ceux-ci le savent bien. »
+
 L’administrateur, qui revenait vers eux, leur dit qu’un
 M. Othon demandait à les voir. Il conduisit Gonzalès dans
 son bureau, puis les mena vers un coin des tribunes d’où
@@ -8685,6 +8722,7 @@ deux nuages, ses rayons entraient latéralement dans les
 tribunes, dorant leurs trois visages.
 
 – Non, dit Tarrou, non, il n’a vraiment pas souffert.
+
 Quand ils se retirèrent, le juge continuait de regarder
 du côté d’où venait le soleil.
 
@@ -8728,6 +8766,8 @@ sur un aiguillage, de l’autre côté des murs.
 portes. Il faudrait faire quelque chose pour lui. Mais
 comment aider un juge ?
 
+<div id="sec24" style="page-break-after: always;"></div>
+
 Il y avait ainsi, dans la ville, plusieurs autres camps
 dont le narrateur, par scrupule et par manque
 d’information directe, ne peut dire plus. Mais ce qu’il peut
@@ -8747,6 +8787,7 @@ tous les matins, sur la ville, une lumière étincelante et
 glacée. Vers le soir, au contraire, l’air devenait tiède à
 nouveau. Ce fut le moment que choisit Tarrou pour se
 découvrir un peu auprès du docteur Rieux.
+
 Un jour, vers dix heures, après une longue et
 épuisante journée, Tarrou accompagna Rieux, qui allait
 faire au vieil asthmatique sa visite du soir. Le ciel luisait
@@ -11120,6 +11161,10 @@ https://github.com/kaicarver/lapeste
   * [IV](#ch4)
     * [1](#sec19)
     * [2](#sec20)
+    * [3](#sec21)
+    * [4](#sec22)
+    * [5](#sec23)
+    * [6](#sec24)
   * [V](#ch5)
 
 * Appendices

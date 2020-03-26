@@ -8817,7 +8817,7 @@ Ils trouvèrent la terrasse vide, et garnie de trois
 chaises. D’un côté, aussi loin que la vue pouvait s’étendre,
 on n’apercevait que des terrasses qui finissaient par
 s’adosser à une masse obscure et pierreuse où ils
-reconnurent la première colline. De l’autre côté, pardessus
+reconnurent la première colline. De l’autre côté, par-dessus
 quelques rues et le port invisible, le regard
 plongeait sur un horizon où le ciel et la mer se mêlaient
 dans une palpitation indistincte. Au-delà de ce qu’ils
@@ -8880,6 +8880,7 @@ me réussissait, j’étais à l’aise dans l’intelligence, au mieux
 avec les femmes, et si j’avais quelques inquiétudes, elles
 passaient comme elles étaient venues. Un jour, j’ai
 commencé à réfléchir. Maintenant…
+
 « Il faut vous dire que je n’étais pas pauvre comme
 vous. Mon père était avocat général, ce qui est une
 situation. Pourtant, il n’en portait pas l’air, étant de
@@ -8896,6 +8897,7 @@ que s’il n’a pas vécu comme un saint, il n’a pas été non
 plus un mauvais homme. Il tenait le milieu, voilà tout, et
 c’est le type d’homme pour lequel on se sent une affection
 raisonnable, celle qui fait qu’on continue.
+
 « Il avait cependant une particularité : le grand
 indicateur Chaix était son livre de chevet. Ce n’était pas
 qu’il voyageât, sauf aux vacances, pour aller en Bretagne
@@ -8915,10 +8917,11 @@ beaucoup liés l’un à l’autre, car je lui fournissais un
 auditoire dont il appréciait la bonne volonté. Quant à moi,
 je trouvais que cette supériorité qui avait trait aux
 chemins de fer en valait bien une autre.
+
 « Mais je me laisse aller et je risque de donner trop
 d’importance à cet honnête homme. Car, pour finir, il n’a
 eu qu’une influence indirecte sur ma détermination. Tout
-au plus m’a-t-il fourni une occasion. Quand j’ai eu dixsept
+au plus m’a-t-il fourni une occasion. Quand j’ai eu dix-sept
 ans, en effet, mon père m’a invité à aller l’écouter. Il
 s’agissait d’une affaire importante, en cour d’assises, et,
 certainement, il avait pensé qu’il apparaîtrait sous son
@@ -8957,6 +8960,7 @@ sentais qu’on voulait tuer cet homme vivant et un instinct
 formidable comme une vague me portait à ses côtés avec
 une sorte d’aveuglement entêté. Je ne me réveillai
 vraiment qu’avec le réquisitoire de mon père.
+
 « Transformé par sa robe rouge, ni bonhomme ni
 affectueux, sa bouche grouillait de phrases immenses, qui,
 sans arrêt, en sortaient comme des serpents. Et je
@@ -8972,6 +8976,7 @@ bien plus vertigineuse que ne l’eut jamais mon père.
 Celui-ci devait pourtant, selon la coutume, assister à ce
 qu’on appelait poliment les derniers moments et qu’il faut
 bien nommer le plus abject des assassinats.
+
 « À partir de ce jour, je ne pus regarder l’indicateur
 Chaix qu’avec un dégoût abominable. À partir de ce jour,
 je m’intéressai avec horreur à la justice, aux
@@ -8986,6 +8991,7 @@ m’aida à lui pardonner, comme je disais alors. Plus tard, je
 sus qu’il n’y avait rien à lui pardonner, parce qu’elle avait
 été pauvre toute sa vie jusqu’à son mariage et que la
 pauvreté lui avait appris la résignation.
+
 « Vous attendez sans doute que je vous dise que je suis
 parti aussitôt. Non, je suis resté plusieurs mois, presque
 une année. Mais j’avais le coeur malade. Un soir, mon père
@@ -9005,6 +9011,7 @@ suffirent, je crois. Pour moi, je n’avais pas d’animosité
 contre lui, seulement un peu de tristesse au coeur. Quand
 il mourut, je pris ma mère avec moi et elle y serait encore
 si elle n’était pas morte à son tour.
+
 « J’ai longuement insisté sur ce début parce qu’il fut
 en effet au début de tout. J’irai plus vite maintenant. J’ai
 connu la pauvreté à dix-huit ans, au sortir de l’aisance.
@@ -9020,6 +9027,7 @@ et, pour finir, c’était vrai en grande partie. Je me suis
 donc mis avec les autres que j’aimais et que je n’ai pas
 cessé d’aimer. J’y suis resté longtemps et il n’est pas de
 pays en Europe dont je n’aie partagé les luttes. Passons.
+
 « Bien entendu, je savais que, nous aussi, nous
 prononcions, à l’occasion, des condamnations. Mais on me
 disait que ces quelques morts étaient nécessaires pour
@@ -9050,7 +9058,7 @@ pestiférés. On ne doit pas empêcher les braves gens de
 dormir. Il y faudrait du mauvais goût, et le goût consiste à
 ne pas insister, tout le monde sait ça. Mais moi, je n’ai pas
 bien dormi depuis ce temps-là. Le mauvais goût m’est
-resté dans la bouche et je n’ai pas cessé d’insister, c’est-àdire
+resté dans la bouche et je n’ai pas cessé d’insister, c’est-à-dire
 d’y penser.
 
 « J’ai compris alors que moi, du moins, je n’avais pas
@@ -9168,6 +9176,9 @@ difficile. C’est pourquoi j’ai décidé de me mettre du côté
 des victimes, en toute occasion, pour limiter les dégâts. Au
 milieu d’elles, je peux du moins chercher comment on
 arrive à la troisième catégorie, c’est-à-dire à la paix. »
+
+<div id="space" style=""></div>
+
 En terminant, Tarrou balançait sa jambe et frappait
 doucement du pied contre la terrasse. Après un silence, le
 docteur se souleva un peu et demanda si Tarrou avait une
@@ -9193,6 +9204,7 @@ m’intéresse, c’est de savoir comment on devient un saint.
 
 – Justement. Peut-on être un saint sans Dieu, c’est le
 seul problème concret que je connaisse aujourd’hui.
+
 Brusquement, une grande lueur jaillit du côté d’où
 étaient venus les cris et, remontant le fleuve du vent, une
 clameur obscure parvint jusqu’aux deux hommes. La
@@ -9205,6 +9217,7 @@ levé et écoutait. On n’entendait plus rien.
 – On s’est encore battu aux portes.
 
 – C’est fini maintenant, dit Rieux.
+
 Tarrou murmura que ce n’était jamais fini et qu’il y
 aurait encore des victimes, parce que c’était dans l’ordre.
 
@@ -9249,6 +9262,7 @@ terre-pleins couverts de tonneaux, parmi les senteurs de
 vin et de poisson, ils prirent la direction de la jetée. Peu
 avant d’y arriver, l’odeur de l’iode et des algues leur
 annonça la mer. Puis ils l’entendirent.
+
 Elle sifflait doucement au pied des grands blocs de la
 jetée et, comme ils les gravissaient, elle leur apparut,
 épaisse comme du velours, souple et lisse comme une
@@ -9261,6 +9275,7 @@ sous ses doigts le visage grêlé des rochers, était plein d’un
 étrange bonheur. Tourné vers Tarrou, il devina, sur le
 visage calme et grave de son ami, ce même bonheur qui
 n’oubliait rien, pas même l’assassinat.
+
 Ils se déshabillèrent. Rieux plongea le premier.
 Froides d’abord, les eaux lui parurent tièdes quand il
 remonta. Au bout de quelques brasses, il savait que la
@@ -9285,6 +9300,7 @@ et de la peste. Rieux s’arrêta le premier et ils revinrent
 lentement, sauf à un moment où ils entrèrent dans un
 courant glacé. Sans rien dire, ils précipitèrent tous deux
 leur mouvement, fouettés par cette surprise de la mer.
+
 Habillés de nouveau, ils repartirent sans avoir
 prononcé un mot. Mais ils avaient le même coeur et le
 souvenir de cette nuit leur était doux. Quand ils
@@ -9292,6 +9308,8 @@ aperçurent de loin la sentinelle de la peste, Rieux savait
 que Tarrou se disait, comme lui, que la maladie venait de
 les oublier, que cela était bien, et qu’il fallait maintenant
 recommencer.
+
+<div id="sec25" style="page-break-after: always;"></div>
 
 Oui, il fallait recommencer et la peste n’oubliait
 personne trop longtemps. Pendant le mois de décembre,
@@ -9350,6 +9368,7 @@ Rieux s’étonna :
 
 – Je me suis mal fait comprendre. On m’a dit qu’il y
 avait des volontaires de l’administration, dans ce camp.
+
 Le juge roulait un peu ses yeux ronds et essayait
 d’aplatir une de ses touffes…
 
@@ -9378,6 +9397,7 @@ avait un langage qu’il avait perdu. La lettre partit. La
 réponse tardait à venir. De son côté, Cottard prospérait et
 ses petites spéculations l’enrichissaient. Quant à Grand, la
 période des fêtes ne devait pas lui réussir.
+
 Le Noël de cette année-là fut plutôt la fête de l’Enfer
 que celle de l’Évangile. Les boutiques vides et privées de
 lumières, les chocolats factices ou les boîtes vides dans les
@@ -9405,6 +9425,7 @@ Rambert vint à l’hôpital avertir le docteur qu’il avait
 aperçu Grand de loin, errant dans les rues, la figure
 décomposée. Puis il l’avait perdu de vue. Le docteur et
 Tarrou partirent en voiture à sa recherche.
+
 À midi, heure glacée, Rieux, sorti de la voiture,
 regardait de loin Grand, presque collé contre une vitrine,
 pleine de jouets grossièrement sculptés dans le bois. Sur
@@ -9428,6 +9449,7 @@ pleurer, il se retourna et s’adossa à la vitrine pour le
 regarder venir.
 
 – Ah ! docteur, ah ! docteur, faisait-il.
+
 Rieux hochait la tête pour l’approuver, incapable de
 parler. Cette détresse était la sienne et ce qui lui tordait le
 coeur à ce moment était l’immense colère qui vient à
@@ -9497,9 +9519,10 @@ disposaient de façons diverses. L’ouvrage comportait
 aussi des explications, parfois démesurément longues, et
 des variantes. Mais à la fin de la dernière page, une main
 appliquée avait seulement écrit, d’une encre fraîche :
-« Ma bien chère Jeanne, c’est aujourd’hui Noël… » Audessus,
+« Ma bien chère Jeanne, c’est aujourd’hui Noël… » Au-dessus,
 soigneusement calligraphiée, figurait la dernière
 version de la phrase. « Lisez », disait Grand. Et Rieux lut.
+
 « Par une belle matinée de mai, une svelte amazone,
 montée sur une somptueuse jument alezane, parcourait,
 au milieu des fleurs, les allées du Bois… »
@@ -9574,9 +9597,11 @@ Depuis le mois d’avril, aucun rat mort n’avait été
 découvert.
 
 – Est-ce que ça va recommencer ? dit Tarrou à Rieux.
+
 Le vieux se frottait les mains.
 
 – Il faut les voir courir ! C’est un plaisir.
+
 Il avait vu deux rats vivants entrer chez lui, par la
 porte de la rue. Des voisins lui avaient rapporté que, chez
 eux aussi, les bêtes avaient fait leur réapparition. Dans
@@ -9589,6 +9614,8 @@ maladie.
 <div id="ch5" style="page-break-after: always;"></div>
 
 V
+
+<div id="sec26" style="page-break-after: always;"></div>
 
 Quoique cette brusque retraite de la maladie fût
 inespérée, nos concitoyens ne se hâtèrent pas de se
@@ -11166,7 +11193,9 @@ https://github.com/kaicarver/lapeste
     * [4](#sec22)
     * [5](#sec23)
     * [6](#sec24)
+    * [7](#sec25)
   * [V](#ch5)
+    * [1](#sec26)
 
 * Appendices
   * [Édition électronique](#apropos)

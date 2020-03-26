@@ -53,6 +53,10 @@ de leur exil et de leur séparation.
 
 Need to deal with this somehow, with extra markup?
 
+for now marked with
+
+    <div id="space" style=""></div>
+
 ### Generating HTML etc.
 
 This nice blog post taught me stuff about using Markdown in VS Code (snippets! Ctrl-Space link) and led me to installing a bunch of stuff, extension for lintin Markdown, Pandoc, Pandoc extension, TexLive for PDF
@@ -63,7 +67,7 @@ Hmm could use a Markdown spellchecker... Is Code Spell Checker good enough?
 
 ## Ideas to do
 
-### Reading out loud 
+### Reading out loud
 
 #### By machine
 

@@ -8836,6 +8836,7 @@ peste n’était jamais montée là.
 Tarrou lui tournait le dos et regardait la mer.
 
 – Oui, dit-il après un moment, il fait bon.
+
 Il vint s’asseoir auprès du docteur et le regarda
 attentivement. Trois fois, la lueur reparut dans le ciel. Un
 bruit de vaisselle choquée monta jusqu’à eux des

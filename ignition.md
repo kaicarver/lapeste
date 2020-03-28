@@ -1,67 +1,67 @@
-IGNITION 
+<div id="front"></div>
 
+IGNITION!
 
+<div id="frontphoto1" style="page-break-after: always;"></div>
 
+U.S. Navy photo
 
-U.S. Navy photo 
+This is what a test firing should look like. Note the mach diamonds in the exhaust stream.
 
-This is what a test firing should look like. Note the mach diamonds in the ex- 
-haust stream. 
+<div id="frontphoto2" style="page-break-after: always;"></div>
 
-
-
-U.S. Navy photo 
+U.S. Navy photo
 
 And this is what it may look like if something goes wrong. The same test cell, 
 or its remains, is shown. 
 
+<div id="blank" style="page-break-after: always;"></div>
+
+<div id="front2" style="page-break-after: always;"></div>
+
+IGNITION!
+
+An Informal History of
+
+Liquid Rocket Propellants
+
+by John D. Clark
+
+
+Those who cannot remember the past are condemned to
+repeat it.
+
+George Santayana
 
 
 
-IGNITION ! 
+RUTGERS UNIVERSITY PRESS
 
-An Informal History of 
-Liquid Rocket Propellants 
+New Brunswick, New Jersey
 
-by John D. Clark 
+<div id="libcongress" style="page-break-after: always;"></div>
 
+Copyright © 1972 by Rutgers University, the State University of New Jersey
 
-Those who cannot remember the past are condemned to 
-repeat it. 
+library of Congress Catalog Card Number-. 72-185390
 
-George Santayana 
-
+ISBN: 0-8135-0725-1
 
 
-RUTGERS UNIVERSITY PRESS 
-New Brunswick, New Jersey 
+Manufactured in the Unitied States of America by Quinn &amp; Boden Company, Inc.,
+Rahway. New Jersey
 
+<div id="epigraph" style="page-break-after: always;"></div>
 
+This book is dedicated to my wife Inga, who heckled me into writing it with such wifely remarks as, “You talk a hell of a fine history. Now set yourself down in front of the typewriter — and write the damned thing!”
 
-Copyright © 1972 by Rutgers University, the State University of New Jersey 
-library of Congress Catalog Card Number-. 72-185390 
-ISBN: 0-8135-0725-1 
+<div id="foreword" style="page-break-after: always;"></div>
 
-Manufactured in the Uniied Stales of America by Quinn &amp; Boden Company, Inc., 
-Rahway. New Jersey 
+In Re John D. Clark
 
+by Isaac Asimov
 
-
-This book is dedicated to my wife Inga, who 
-heckled me into writing it with such wifely re- 
-marks as, “You talk a hell of a fine history. Now 
-set yourself down in front of the typewriter — 
-and write the damned thing!” 
-
-
-
-
-In Re John D. Clark 
-
-by Isaac Asimov 
-
-
-1 first met John in 1942 when I came to Philadelphia to live. Oh, I 
+I first met John in 1942 when I came to Philadelphia to live. Oh, I 
 had known of him before. Back in 1937, he had published a pair of 
 science fiction shorts, “Minus Planet” and “Space Blister,” which had 
 hit me right between the eyes. The first one, in particular, was the 
@@ -91,16 +91,8 @@ mid he loved displaying them to me. He explained that one wall was
 devoted to fiction, one to histories, one to books on military affairs 
 and so on. 
 
-
-
-X 
-
-
-In Re John D. Clark 
-
 “Here,” he said, “is the Bible.” Then, with a solemn look on his 
 face, he added, “I have it in the fiction section, you’ll notice, under 
-
 J” 
 
 “Why J?” I asked. 
@@ -141,10 +133,9 @@ business of science is really conducted.
 It is a story only John can tel] so caustically well from the depths 
 within. 
 
+<div id="preface" style="page-break-after: always;"></div>
 
-
-Preface 
-
+Preface
 
 Millions of words have been written about rocketry and space travel, 
 and almost as many about the history and development of the rocket. 

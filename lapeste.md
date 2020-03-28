@@ -9645,6 +9645,7 @@ espoir insensé se débridait du même coup et à tel point
 que nos concitoyens en prenaient parfois conscience et
 affirmaient alors, avec précipitation, qu’en tout état de
 cause, la délivrance n’était pas pour le lendemain.
+
 Et, en effet, la peste ne s’arrêta pas le lendemain, mais,
 en apparence, elle s’affaiblissait plus vite qu’on n’eût pu
 raisonnablement l’espérer. Pendant les premiers jours de
@@ -9754,6 +9755,7 @@ première espérance suffit à détruire ce que la peur et le
 désespoir n’avaient pu entamer. Ils se précipitèrent
 comme des fous pour devancer la peste, incapables de
 suivre son allure jusqu’au dernier moment.
+
 Dans le même temps, d’ailleurs, des signes spontanés
 d’optimisme se manifestèrent. C’est ainsi qu’on enregistra
 une baisse sensible des prix. Du point de vue de
@@ -9791,6 +9793,7 @@ s’associer à l’allégresse générale, le préfet donna l’ordre
 de restituer l’éclairage du temps de la santé. Dans les rues
 illuminées, sous un ciel froid et pur, nos concitoyens se
 déversèrent alors en groupes bruyants et rieurs.
+
 Certes, dans beaucoup de maisons, les volets restèrent
 clos et des familles passèrent en silence cette veillée que
 d’autres remplissaient de cris. Cependant, pour beaucoup
@@ -9807,9 +9810,10 @@ elles, comme il en avait fini avec les autres. Celles-là
 concevaient certes de l’espoir, mais elles en faisaient une
 provision qu’elles tenaient en réserve, et dans laquelle
 elles se défendaient de puiser avant d’en avoir vraiment
-le droit. Et cette attente, cette veillée silencieuse, à midistance
+le droit. Et cette attente, cette veillée silencieuse, à mi-distance
 de l’agonie et de la joie, leur paraissait plus
 cruelle encore, au milieu de la jubilation générale.
+
 Mais ces exceptions n’enlevaient rien à la satisfaction
 des autres. Sans doute, la peste n’était pas encore finie et
 elle devait le prouver. Pourtant, dans tous les esprits déjà,
@@ -9831,6 +9835,7 @@ fatigue, ils ne pouvaient séparer cette souffrance, qui se
 prolongeait derrière les volets, de la joie qui emplissait les
 rues un peu plus loin. La délivrance qui approchait avait
 un visage mêlé de rires et de larmes.
+
 À un moment où la rumeur se fit plus forte et plus
 joyeuse, Tarrou s’arrêta. Sur le pavé sombre, une forme
 courait légèrement. C’était un chat, le premier qu’on eût
@@ -9839,6 +9844,8 @@ milieu de la chaussée, hésita, lécha sa patte, la passa
 rapidement sur son oreille droite, reprit sa course
 silencieuse et disparut dans la nuit. Tarrou sourit. Le petit
 vieux aussi serait content.
+
+<div id="sec27" style="page-break-after: always;"></div>
 
 Mais au moment où la peste semblait s’éloigner pour
 regagner la tanière inconnue d’où elle était sortie en

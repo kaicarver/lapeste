@@ -81,7 +81,13 @@ Both of these chould be easily correctable with a little program.
 Got 1. done with:
 
 ```bash
-    perl -pe 's/[ \t]+$//' ignition.md  > foo
+    perl -pe 's/[ \t]+$//' ignition.md > foo
+```
+
+Another one is hyphenated words.
+
+```bash
+    perl -pe 's/-\n$//' ignition.md > foo
 ```
 
 Also, this book has photos. Need to look at including them.

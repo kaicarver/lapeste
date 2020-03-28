@@ -249,19 +249,19 @@ January 1971
 
 <div id="toc" style="page-break-after: always;"></div>
 
-Contents
+# Contents
 
-In Re John D. Clark ix
+[In Re John D. Clark](#foreword)
 
-Preface xi
+[Preface](#preface)
 
-1 How It Started 3
+[1 How It Started](#ch1)
 
-2 Peenemunde and JPL 12
+[2 Peenemunde and JPL](#ch2)
 
-3 The Hunting of the Hypergol ... 24
+[3 The Hunting of the Hypergol . . .](#ch3)
 
-4 ... and Its Mate 47
+[4 . . . and Its Mate](#ch4)
 
 5 Peroxide — Always a Bridesmaid 66
 
@@ -297,7 +297,7 @@ IGNITION!
 
 # 1
 
-# How It Started
+# [How It Started](#toc)
 
 The dear Queen had finally gone to her reward, and King Edward
 VII was enjoying himself immensely as he reigned over the Empire
@@ -706,13 +706,11 @@ From now on, rocket research was to be paid for by the military,
 and was to be classified. GALCIT had lost her virginity with Malina’s
 first explosion. Now she had lost her amateur standing.
 
+<div id="ch2" style="page-break-after: always;"></div>
 
+# 2
 
-2
-
-
-Peenemunde and JPL
-
+# [Peenemunde and JPL](#toc)
 
 Von Braun started work on his PhD thesis (rocket combustion
 processes) in November 1932. All of his experimental work was done
@@ -1216,13 +1214,11 @@ which naturally detonated at once.
 And then the war was over, and the German work came to fight —
 and things started to get really complicated.
 
+<div id="ch3" style="page-break-after: always;"></div>
 
+# 3
 
-3
-
-
-The Hunting of the
-Hypergol . . .
+# [The Hunting of the Hypergol . . .](#toc)
 
 As the American interrogators moved into Germany close behind —
 and sometimes ahead of— the armies, they found the German rocket
@@ -2231,13 +2227,11 @@ chooses — or composes for the occasion — depends upon the specific
 requirements of the job at hand. And he knows that it will work. That,
 at least, is progress.
 
+<div id="ch4" style="page-break-after: always;"></div>
 
+# 4
 
-4
-
-
-. . . and Its Mate
-
+# [. . . and Its Mate](#toc)
 
 The RFNA of 1945 was hated by everybody who had anything to do
 with it, with a pure and abiding hatred. And with reason. In the first

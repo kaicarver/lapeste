@@ -78,6 +78,12 @@ Two immediately obvious different ones:
 
 Both of these chould be easily correctable with a little program.
 
+Got 1. done with:
+
+```bash
+    perl -pe 's/[ \t]+$//' ignition.md  > foo
+```
+
 Also, this book has photos. Need to look at including them.
 
 The Internet Archive, where the text comes from, also has an easy-to-read visual version of the book, useful for copyediting.

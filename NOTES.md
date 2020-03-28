@@ -65,6 +65,30 @@ https://thisdavej.com/build-an-amazing-markdown-editor-using-visual-studio-code-
 
 Hmm could use a Markdown spellchecker... Is Code Spell Checker good enough?
 
+## Ignition!
+
+### First look
+
+The text has some similar issues to _La Peste_, some different.
+
+Two immediately obvious different ones:
+
+1. extra space at the end of every line
+2. chapter headers of each page mixed in the text, should be removed.
+
+Both of these chould be easily correctable with a little program.
+
+Also, this book has photos. Need to look at including them.
+
+The Internet Archive, where the text comes from, also has an easy-to-read visual version of the book, useful for copyediting.
+
+https://archive.org/details/ignition_201612/
+
+Note: I downloaded the PDF, but to prevent the two-page display from being off-by-one, use the option in Adobe Acrobat Reader DC: 
+
+> View, Page Display,<br>
+> Show Cover Page in Two Page View.
+
 ## Ideas to do
 
 ### Reading out loud

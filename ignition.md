@@ -138,19 +138,15 @@ But if anyone is curious about the parallel history and development
 of rocket propellants — the fuels and the oxidizers that make them
 go — he will find that there is no book which will tel] him what he
 wants to know. There are a few texts which describe the propellants
-currently in use, but nowhere can he learn why these and not some-
-thing else fuel Saturn V or Titan II, or SS-9. In this book I have tried
-to make that information available, and to tell the story of the de-
-velopment of liquid rocket propellants: the who, and when, and where
+currently in use, but nowhere can he learn why these and not something else fuel Saturn V or Titan II, or SS-9. In this book I have tried
+to make that information available, and to tell the story of the development of liquid rocket propellants: the who, and when, and where
 and how and why of their development. The story of solid propellants
 will have to be told by somebody else.
 
-This is, in many ways, an auspicious moment for such a book. Liq-
-uid propellant research, active during the late 40’s, the 50’s, and
+This is, in many ways, an auspicious moment for such a book. Liquid propellant research, active during the late 40’s, the 50’s, and
 the first half of the 60’s, has tapered off to a trickle, and the time
 seems ripe for a summing up, while the people who did the work are
-still around to answer questions. Everyone whom I have asked for in-
-formation has been more than cooperative, practically climbing into
+still around to answer questions. Everyone whom I have asked for information has been more than cooperative, practically climbing into
 my lap and licking my face. I have been given reams of unofficial and
 quite priceless information, which would otherwise have perished with
 the memories of the givers. As one of them wrote to me, “What an
@@ -164,18 +160,14 @@ presented at various meetings, the memories of participants in the
 
 xii Preface
 
-story, intelligence reports; all have contributed. Since this is not a for-
-mal history, but an informal attempt by an active participant to tell
+story, intelligence reports; all have contributed. Since this is not a formal history, but an informal attempt by an active participant to tell
 the story as it happened, I haven’t attempted formal documentation.
-Particularly as in many cases such documentation would be embar-
-rassing— not to say hazardous! It’s not only newsmen who have to pro-
-tect their sources.
+Particularly as in many cases such documentation would be embarrassing— not to say hazardous! It’s not only newsmen who have to protect their sources.
 
 And, of course, I have drawn on my own records and recollections.
 For something more than twenty years, from 1 November 1949, when
 I joined the U.S. Naval Air Rocket Test Station, until 2 January 1970,
-when I retired from its successor, the Liquid Rocket Propulsion Lab-
-oratory of Picatinny Arsenal, I was a member of the unofficial, but
+when I retired from its successor, the Liquid Rocket Propulsion Laboratory of Picatinny Arsenal, I was a member of the unofficial, but
 very real, liquid propellant community, and was acutely aware of what
 was going on in the field, in this country and in England. (It wasn’t
 until the late 50’s that it was possible to learn much about the work in
@@ -185,32 +177,23 @@ has been negligible.)
 The book is written not only for the interested layman — and for
 him I have tried to make things as simple as possible — but also for the
 professional engineer in the rocket business. For 1 have discovered
-that he is frequently abysmally ignorant of the history of his own pro-
-fession, and, unless forcibly restrained, is almost certain to do some-
-thing which, as we learned fifteen years ago, is not only stupid but is
+that he is frequently abysmally ignorant of the history of his own profession, and, unless forcibly restrained, is almost certain to do something which, as we learned fifteen years ago, is not only stupid but is
 likely to result in catastrophe. Santayana knew exactly what he was
 talking about.
 
 So I have described not only the brilliantly conceived programs of
 research and development, but have given equal time to those which,
 to put it mildly, were not so well advised. And I have told the stories
-of the triumphs of propellant research; and I have described the nu-
-merous blind alleys up which, from time to time, the propellant com-
-munity unanimously charged, yapping as they went. .
+of the triumphs of propellant research; and I have described the numerous blind alleys up which, from time to time, the propellant community unanimously charged, yapping as they went. .
 
-This book is opinionated. I have not hesitated to give my own opin-
-ion of a program, or of the intelligence — or lack of it — of the pro-
-posals made by various individuals. I make no apology for this, and
-can assure the reader that such criticism was not made with the ad-
-vantage of 20-20 hindsight. At one point, in writing this book, when
-I had subjected one particular person’s proposals to some rather caus-
-tic criticism, I wondered whether or not I had felt that way at the time
+This book is opinionated. I have not hesitated to give my own opinion of a program, or of the intelligence — or lack of it — of the proposals made by various individuals. I make no apology for this, and
+can assure the reader that such criticism was not made with the advantage of 20-20 hindsight. At one point, in writing this book, when
+I had subjected one particular person’s proposals to some rather caustic criticism, I wondered whether or not I had felt that way at the time
 they were made. Delving into my (very private) logbook, I found that
 I had described them then, simply as “Brainstorms and bullbleep!”
 So my opinion had not changed — at least, not noticeably.
 
-I make no claim to completeness, but I have tried to give an accu-
-rate account of the main lines of research. If anyone thinks that I
+I make no claim to completeness, but I have tried to give an accurate account of the main lines of research. If anyone thinks that I
 
 
 
@@ -221,41 +204,29 @@ as I do, let him write to me, and the matter will be set right in the
 next (d.v.) edition. And if I seem to have placed undue emphasis on
 what happened in my own laboratory, it is not because my laboratory
 was unusual (although more nutty things seem to have happened there
-than in most labs) but that it was not, so that an account of what hap-
-pened there is a good sample of the sort of things which were hap-
-pening, simultaneously, in a dozen other laboratories around the
+than in most labs) but that it was not, so that an account of what happened there is a good sample of the sort of things which were happening, simultaneously, in a dozen other laboratories around the
 country.
 
 The treatment of individuals’ names is, I know, inconsistent. The
-fact that the family name of somebody mentioned in the text is pre-
-ceded by his given name rather than by his initials signifies only that
-I know him very well. Titles and degrees are generally ignored. Ad-
-vanced degrees were a dime a dozen in the business. And the fact that
+fact that the family name of somebody mentioned in the text is preceded by his given name rather than by his initials signifies only that
+I know him very well. Titles and degrees are generally ignored. Advanced degrees were a dime a dozen in the business. And the fact that
 an individual is identified in one chapter with one organization, and
 with another in the next, should be no cause for confusion. People
 in the business were always changing jobs. I think I set some sort of
 a record by staying with the same organization for twenty years.
 
 One thing that is worth mentioning here is that this book is about a
-very few people. The propellant community — comprising those di-
-recting or engaged in liquid propellant research and development—
-was never large. It included, at the most, perhaps two hundred peo-
-ple, three-quarters of whom were serving merely as hands, and doing
-what the other quarter told them to do. That one quarter was a re-
-markably interesting and amusing group of people, including a sur-
-prisingly small number (compared to most other groups of the same
+very few people. The propellant community — comprising those directing or engaged in liquid propellant research and development—
+was never large. It included, at the most, perhaps two hundred people, three-quarters of whom were serving merely as hands, and doing
+what the other quarter told them to do. That one quarter was a remarkably interesting and amusing group of people, including a surprisingly small number (compared to most other groups of the same
 size) of dopes or phoneys. We all knew each other, of course, which
-made for the informal dissemination of information at a velocity ap-
-proaching that of light. I benefited particularly from this, since, as I
-was working for Uncle, and not for a rival contractor, nobody hes-
-ilaled to give me “proprietory” information. If I wanted the straight
-dope from somebody, I knew I could get it at the bar at the next pro-
-pellant meeting. (Many of the big propellant meetings were held in
+made for the informal dissemination of information at a velocity approaching that of light. I benefited particularly from this, since, as I
+was working for Uncle, and not for a rival contractor, nobody hesilaled to give me “proprietory” information. If I wanted the straight
+dope from somebody, I knew I could get it at the bar at the next propellant meeting. (Many of the big propellant meetings were held in
 liotcls, whose management, intelligently, would always set up a bar
 just outside the meeting hall. If the meeting wasn’t in a hotel, I’d just
 look around for the nearest cocktail lounge; my man would probably
-he (here.) I would sit down beside him, and, when my drink had ar-
-rived, ask, “Joe, what did happen on that last test bring you made?
+he (here.) I would sit down beside him, and, when my drink had arrived, ask, “Joe, what did happen on that last test bring you made?
 Sure, I’ve read your report, but I’ve written reports myself. What
 really happened?” Instant and accurate communication, without pain.
 
@@ -267,11 +238,9 @@ were howling individualists. Sometimes they got along together —
 xiv Preface
 
 sometimes they didn’t, and management had to take that into account.
-When Charlie Tait left Wyandotte, and Lou Rapp left Reaction Mo-
-tors, and they both came to Aerojet, the management of the latter,
+When Charlie Tait left Wyandotte, and Lou Rapp left Reaction Motors, and they both came to Aerojet, the management of the latter,
 with surprising intelligence, stationed one of them in Sacramento and
-one in Azusa, separated by most of the length of the state of Califor-
-nia. Lou had been in the habit, when Charlie was giving a paper at a
+one in Azusa, separated by most of the length of the state of California. Lou had been in the habit, when Charlie was giving a paper at a
 meeting, of slipping a nude or two into Charlie’s collection of slides,
 and Charlie was no longer amused.
 
@@ -280,21 +249,17 @@ with one eye on the rest of the group. Not only were we all intellectual
 rivals — “anything you can do I can do better” — but each of us knew
 that the others were the only people around competent to judge his
 work. Management seldom had the technical expertise, and since most
-of our work was classified, we couldn’t publish it to the larger scien-
-tific community. So praise from the in-group was valued accordingly.
-(When Irv Glassman, presenting a paper, mentioned “Clark’s clas-
-sical work on explosive sensitivity,” it put me on cloud nine for a week.
+of our work was classified, we couldn’t publish it to the larger scientific community. So praise from the in-group was valued accordingly.
+(When Irv Glassman, presenting a paper, mentioned “Clark’s classical work on explosive sensitivity,” it put me on cloud nine for a week.
 Classical, yet!) The result was a sort of group Narcissism which was
 probably undesirable — but it made us work like Hell.
 
-We did that anyway. We were in a new and exciting field, possibil-
-ities were unlimited, and the world was our oyster just waiting to be
+We did that anyway. We were in a new and exciting field, possibilities were unlimited, and the world was our oyster just waiting to be
 opened. We knew that we didn’t have the answers to the problems in
 front of us, but we were sublimely confident of our ability to find them
 in a hurry, and set about the search with a “gusto” — the only word for
 it — that I have never seen before or since. I wouldn’t have missed the
-experience for the world. So, to my dear friends and once deadly ri-
-vals, I say, “Gentlemen, I’m glad to have known you!”
+experience for the world. So, to my dear friends and once deadly rivals, I say, “Gentlemen, I’m glad to have known you!”
 
 John D. Clark
 
@@ -361,8 +326,7 @@ building battleships and making indiscreet remarks, and in the United
 States President Theodore Roosevelt was making indiscreet remarks
 and building battleships. The year was 1903, and before its end the
 Wright brothers’ first airplane was to stagger briefly into the air. And
-in his city of St. Petersburg, in the realm of the Czar of All the Rus-
-sias, a journal whose name can be translated as “Scientific Review”
+in his city of St. Petersburg, in the realm of the Czar of All the Russias, a journal whose name can be translated as “Scientific Review”
 published an article which attracted no attention whatsoever from
 anybody.
 
@@ -371,8 +335,7 @@ Space with Reactive Devices,” and its author was one Konstantin
 Eduardovitch Tsiolkovsky, an obscure schoolteacher in the equally
 obscure town of Borovsk in Kaluga Province.
 
-The substance of the article can be summarized in five simple state-
-ments.
+The substance of the article can be summarized in five simple statements.
 
 1. Space travel is possible.
 
@@ -380,8 +343,7 @@ ments.
 rocket propulsion, since a rocket is the only known propulsive
 device which will work in empty space.
 
-3. Gunpowder rockets cannot be used, since gunpowder (or smoke-
-less powder either, for that matter) simply does not have enough
+3. Gunpowder rockets cannot be used, since gunpowder (or smokeless powder either, for that matter) simply does not have enough
 energy to do the job.
 
 4. Certain liquids do possess the necessary energy.
@@ -392,8 +354,7 @@ energy to do the job.
 4 Ignition
 
 5. Liquid hydrogen would be a good fuel and liquid oxygen a good
-oxidizer, and the pair would make a nearly ideal propellant com-
-bination.
+oxidizer, and the pair would make a nearly ideal propellant combination.
 
 The first four of these statements might have been expected to
 raise a few eyebrows if anybody had been listening, but nobody was,
@@ -403,38 +364,28 @@ not merely surprising, but utterly meaningless. For liquid hydrogen
 and liquid oxygen were new things in the world.
 
 Starting with Michael Faraday in 1823, scientists all over Europe
-had been trying to convert the various common gases to liquids — cool-
-ing them, compressing them, and combining the two processes. Chlo-
-rine was the first to succumb, followed by ammonia, carbon dioxide,
+had been trying to convert the various common gases to liquids — cooling them, compressing them, and combining the two processes. Chlorine was the first to succumb, followed by ammonia, carbon dioxide,
 and many others, and by the seventies only a few recalcitrants still
 stubbornly resisted liquefaction. These included oxygen, hydrogen
 and nitrogen (fluorine had not yet been isolated and the rare gases
 hadn’t even been discovered), and the holdouts were pessimistically
 called the “permanent gases.”
 
-Until 1883. In April of that year, Z. F. Wroblewski, of the Univer-
-sity of Krakow, in Austrian Poland, announced to the French Acad-
-emy that he and his colleague K. S. Olszewski had succeeded in their
+Until 1883. In April of that year, Z. F. Wroblewski, of the University of Krakow, in Austrian Poland, announced to the French Academy that he and his colleague K. S. Olszewski had succeeded in their
 efforts to liquefy oxygen. Liquid nitrogen came a few days later, and
-liquid air within two years. By 1891 liquid oxygen was available in ex-
-perimental quantities, and by 1895 Linde had developed a practical,
+liquid air within two years. By 1891 liquid oxygen was available in experimental quantities, and by 1895 Linde had developed a practical,
 large-scale process for making liquid air, from which liquid oxygen
-(and liquid nitrogen) could be obtained, simply by fractional distilla-
-tion.
+(and liquid nitrogen) could be obtained, simply by fractional distillation.
 
 James Dewar (later Sir James, and the inventor of the Dewar flask
 and hence of the thermos botde), of the Royal Institute in London,
 in 1897 liquefied fluorine, which had been isolated by Moisson only
 eleven years before, and reported that the density of the liquid was
-1.108. This wildly (and inexplicably) erroneous value (the actual den-
-sity is 1.50) was duly embalmed in the literature, and remained there,
+1.108. This wildly (and inexplicably) erroneous value (the actual density is 1.50) was duly embalmed in the literature, and remained there,
 unquestioned, for almost sixty years, to the confusion of practically
 everybody.
 
-The last major holdout — hydrogen — finally succumbed to his ef-
-forts, and was liquefied in May of 1898. And, as he triumphantly re-
-ported, “on the thirteenth of June, 1901, five liters of it (liquid hydro-
-gen) were successfully conveyed through the streets of London from
+The last major holdout — hydrogen — finally succumbed to his efforts, and was liquefied in May of 1898. And, as he triumphantly reported, “on the thirteenth of June, 1901, five liters of it (liquid hydrogen) were successfully conveyed through the streets of London from
 the laboratory of the Royal Institution to the chambers of the Royal
 Society 1”
 
@@ -461,16 +412,12 @@ them. The man who did was Robert H. Goddard.
 As early as 1909 Dr. Goddard was thinking of liquid rockets, and
 came to the same conclusions as had his Russian predecessor (of whom
 he had never heard); that liquid hydrogen and liquid oxygen would
-be a near-ideal combination. In 1922, when he was Professor of Phys-
-ics at Clark University, he started actual experimental work on liquid
-rockets and their components. Liquid hydrogen at that time was prac-
-tically impossible to come by, so he worked with gasoline and liquid
-oxygen, a combination which he used in all of his subsequent experi-
-mental work. By November 1923 he had fired a rocket motor on the
+be a near-ideal combination. In 1922, when he was Professor of Physics at Clark University, he started actual experimental work on liquid
+rockets and their components. Liquid hydrogen at that time was practically impossible to come by, so he worked with gasoline and liquid
+oxygen, a combination which he used in all of his subsequent experimental work. By November 1923 he had fired a rocket motor on the
 test stand, and on March 16, 1926, he achieved the first flight of a
 liquid-propelled rocket. It flew 184 feet in 2.5 seconds. (Exactly forty
-years later, to the day, Armstrong and Scott were struggling desper-
-ately to bring the wildly rolling Gemini 8 under control.)
+years later, to the day, Armstrong and Scott were struggling desperately to bring the wildly rolling Gemini 8 under control.)
 
 One odd aspect of Goddard’s early work with gasoline and oxygen
 is the very low oxidizer-to-fuel ratio that he employed. For every
@@ -482,16 +429,14 @@ impulse is a measure of performance of a rocket and its propellants.
 It is obtained by dividing the thrust of the rocket in pounds, say, by
 the consumption of propellants in pounds per second. For instance,
 if the thrust is 200 pounds and the propellant consumption is one
-pound per second, the specific impulse is 200 seconds.) It seems prob-
-able that he worked off-ratio to reduce the combustion temperature
+pound per second, the specific impulse is 200 seconds.) It seems probable that he worked off-ratio to reduce the combustion temperature
 and prolong the life of his hardware — that is, simply to keep his motor
 from burning up.
 
 The impetus for the next generation of experimenters came in
 1923, from a book by a completely unknown Transylvanian German,
 one Herman Oberth. The title was Die Rakete zu den Planetenraumen,
-or The Rocket into Planetary Space, and it became, surprisingly, some-
-thing of a minor best seller. People started thinking about rockets —
+or The Rocket into Planetary Space, and it became, surprisingly, something of a minor best seller. People started thinking about rockets —
 
 
 
@@ -501,10 +446,8 @@ practically nobody had heard of Goddard, who worked in exaggerated
 and unnecessary secrecy — and some of the people who thought about
 rockets decided to do something about them. First, they organized
 societies. The Verein fur Raumschiffart, or Society for Space Travel,
-generally known as the VfR, was the first, in June 1927. The Ameri-
-can Interplanetary Society was founded early in 1930, the British
-Interplanetary Society in 1933, and two Russian groups, one in Len-
-ingrad and one in Moscow, in 1929. Then, they lectured and wrote
+generally known as the VfR, was the first, in June 1927. The American Interplanetary Society was founded early in 1930, the British
+Interplanetary Society in 1933, and two Russian groups, one in Leningrad and one in Moscow, in 1929. Then, they lectured and wrote
 books about rockets and interplanetary travel. Probably the most
 important of these was Robert Esnault-Pelterie’s immensely detailed
 L’Astronautique, in 1930. And Fritz Lang made a movie about space
@@ -537,8 +480,7 @@ Oberth’s equipment, and could start work on their own in early 1930.
 
 But here the story starts to get complicated. Unknown to the VfR —
 or to anybody else — at least three other groups were hard at work.
-F. A. Tsander, in Moscow, headed one of these. He was an aeronau-
-tical engineer who had written extensively — and imaginatively — on
+F. A. Tsander, in Moscow, headed one of these. He was an aeronautical engineer who had written extensively — and imaginatively — on
 rockets and space travel, and in one of his publications had suggested
 that an astronaut might stretch his fuel supply by imitating Phileas
 Fogg. When a fuel tank was emptied, the astronaut could simply grind
@@ -568,9 +510,7 @@ part of 1930 was ready for test firings. His work is notable not only
 for the surprising sophistication of his motor design, but above all for
 his propellants. He used gasoline for his fuel, which is not surprising,
 but for his oxidizer he broke away from oxygen, and used nitrogen
-tetroxide, N 2 0 4 . This was a big step — nitrogen tetroxide, unlike oxy-
-gen, can be stored indefinitely at room temperature — but nobody out-
-side of his own small group heard of the work for twenty-four years! f
+tetroxide, N 2 0 4 . This was a big step — nitrogen tetroxide, unlike oxygen, can be stored indefinitely at room temperature — but nobody outside of his own small group heard of the work for twenty-four years! f
 
 V. P. Glushko, another aeronautical engineer, headed the rocket
 group in Leningrad. He had suggested suspensions of powdered
@@ -583,8 +523,7 @@ work. Oberth had originally wanted to use methane as fuel, but as it
 was hard to come by in Berlin, their brst work was with gasoline and
 
 
-* The fact that the whole project was headed by a General G. A. Crocco is no coinci-
-dence. He was Luigi’s father, and an Italian father is comparable to a Jewish mother.
+* The fact that the whole project was headed by a General G. A. Crocco is no coincidence. He was Luigi’s father, and an Italian father is comparable to a Jewish mother.
 
 t In a letter to El Comercio, of Lima, Peru, 7 October, 1927, one Pedro A. Paulet, a
 Peruvian chemical engineer, claimed to have experimented -in 1895-97 (!)-with a
@@ -611,8 +550,7 @@ place.
 
 8 Ignition
 
-oxygen. Johannes Winkler, however, picked up the idea, and work-
-ing independently of the VfR, was able to fire a liquid oxygen-liquid
+oxygen. Johannes Winkler, however, picked up the idea, and working independently of the VfR, was able to fire a liquid oxygen-liquid
 methane motor before the end of 1930. This work led nowhere in
 particular, since, as methane has a performance only slightly superior
 to that of gasoline, and is much harder to handle, nobody could see
@@ -623,36 +561,29 @@ Sander, a pyrotechnician by trade (he made commercial gunpowder
 rockets) who bred a motor early in March 1931. He was somewhat
 coy about his fuel, calling it merely a “carbon carrier,” but Willy Ley
 has suggested that it may well have been a light fuel oil, or benzene,
-into which had been stirred considerable quantities of powdered car-
-bon or lampblack. As a pyrotechnician, Sander would naturally think
+into which had been stirred considerable quantities of powdered carbon or lampblack. As a pyrotechnician, Sander would naturally think
 of carbon as the fuel, and one Hermann Noordung (the pseudonym
-of Captain Potocnik of the old Imperial Austrian army), the year be-
-fore, had suggested a suspension of carbon in benzene as a fuel. (The
+of Captain Potocnik of the old Imperial Austrian army), the year before, had suggested a suspension of carbon in benzene as a fuel. (The
 idea was to increase the density of the fuel, so that smaller tanks might
-be used.) The important thing about Sander’s work is that he intro-
-duced another oxidizer, red fuming nitric acid. (This is nitric acid
-containing considerable quantities — 5 to 20 or so percent — of dis-
-solved nitrogen tetroxide.) His experiments were the start of one of
+be used.) The important thing about Sander’s work is that he introduced another oxidizer, red fuming nitric acid. (This is nitric acid
+containing considerable quantities — 5 to 20 or so percent — of dissolved nitrogen tetroxide.) His experiments were the start of one of
 the main lines of propellant development.
 
 Esnault-Pelterie, an aviation pioneer and aeronautical engineer,
 during 1931, worked first with gasoline and oxygen, and then with
 benzene and nitrogen tetroxide, being the third experimenter to
-come up, independently, with this oxidizer. But that was to be a re-
-peating pattern in propellant research — half a dozen experimenters
+come up, independently, with this oxidizer. But that was to be a repeating pattern in propellant research — half a dozen experimenters
 generally surface simultaneously with identical bones in their teeth!
 His use of benzene (as Glushko’s of toluene) as a fuel is rather odd.
 Neither of them is any improvement on gasoline as far as performance
-goes, and they are both much more expensive. And then Esnault-
-Pelterie tried to use tetranitro methane, C(N0 2 ) 4 for his oxidizer, and
+goes, and they are both much more expensive. And then EsnaultPelterie tried to use tetranitro methane, C(N0 2 ) 4 for his oxidizer, and
 promptly blew off four fingers. (This event was to prove typical of
 TNM work.)
 
 Glushko in Leningrad took up where Sander had left off, and from
 1932 to 1937 worked with nitric acid and kerosene, with great success.
 The combination is still used in the USSR. And in 1937, in spite of
-Esnault-Pelterie’s experience, which was widely known, he success-
-fully fired kerosene and tetranitromethane. This work, however, was
+Esnault-Pelterie’s experience, which was widely known, he successfully fired kerosene and tetranitromethane. This work, however, was
 not followed up.
 
 Late in 1931 Klaus Riedel of the VfR designed a motor for a new
@@ -733,23 +664,20 @@ who worked on his own at the University of Syracuse. By the middle
 of 1932 he had used gaseous oxygen to burn gasoline, ether, kerosene,
 fuel oil, and alcohol. Later he tried, without success, to burn alcohol
 with 30 percent hydrogen peroxide (the highest strength available
-in the U.S. at the time), and to burn turpentine with (probably 70 per-
-cent) nitric acid. Then, in 1934 he tried a monopropellant of his own
+in the U.S. at the time), and to burn turpentine with (probably 70 percent) nitric acid. Then, in 1934 he tried a monopropellant of his own
 invention, which he called “Atalene,” but did not otherwise identify.
 It exploded and put him in the hospital. Dead end.
 
 And Helmuth Walter, at the Chemical State Institute in Berlin, in
 1934 and 1935 developed a monopropellant motor which fired 80
 percent hydrogen peroxide, which had only lately become available.
-When suitably catalyzed, or when heated, hydrogen peroxide de-
-composes into oxygen and superheated steam, and thus can be used
+When suitably catalyzed, or when heated, hydrogen peroxide decomposes into oxygen and superheated steam, and thus can be used
 as a monopropellant. This work was not made public — the Luftwaffe
 could see uses for it — but it was continued and led to many things in
 the next few years.
 
 Tjhe last strictly prewar work that should be considered is that of
-Frank Malina’s group at GALCIT. (Guggenheim Aeronautical Lab-
-oratories, California Institute of Technology.) In February of 1936
+Frank Malina’s group at GALCIT. (Guggenheim Aeronautical Laboratories, California Institute of Technology.) In February of 1936
 he planned his PhD thesis project, which was to be the development of
 a liquid-fueled sounding rocket. The group that was to do the job
 was gradually assembled, and was complete by the summer of 1937:
@@ -771,8 +699,7 @@ How It Started
 11
 
 
-propellants were considered, and by June 1937, Parsons had com-
-piled lists, and calculated the performances (assuming, as had
+propellants were considered, and by June 1937, Parsons had compiled lists, and calculated the performances (assuming, as had
 Sanger, 100 percent efficiency) of dozens of propellant combinations.
 In addition to Sanger’s fuels, he listed various alcohols and saturated
 and unsaturated hydrocarbons, and such exotic items as lithium
@@ -780,11 +707,8 @@ methoxide, dekaborane, lithium hydride, and aluminum triemethyl.
 He listed oxygen, red fuming nitric acid, and nitrogen tetroxide as
 oxidizers.
 
-The next combination that the group tried then, was nitrogen te-
-troxide and methanol. Tests began in August 1937. But Malina, in-
-stead of working outdoors, as any sane man would have done, was so
-ill advised as to conduct his tests in the Mechanical Engineering build-
-ing, which, on the occasion of a misfire, was filled with a mixture of
+The next combination that the group tried then, was nitrogen tetroxide and methanol. Tests began in August 1937. But Malina, instead of working outdoors, as any sane man would have done, was so
+ill advised as to conduct his tests in the Mechanical Engineering building, which, on the occasion of a misfire, was filled with a mixture of
 methanol and N 2 0 4 fumes. The latter, reacting with the oxygen and
 the moisture in the air, cleverly converted itself to nitric acid, which
 settled corrosively on all the expensive machinery in the building.
@@ -814,9 +738,7 @@ Von Braun started work on his PhD thesis (rocket combustion
 processes) in November 1932. All of his experimental work was done
 at Kummersdorf-West, an artillery range near Berlin — and the
 Reichswehr paid the freight, and built up a rocket establishment
-around him. When he got his degree, in 1937, he was made the tech-
-nical director of the organization, which was soon moved to Peene-
-munde. There the A-4, better known by its propaganda name
+around him. When he got his degree, in 1937, he was made the technical director of the organization, which was soon moved to Peenemunde. There the A-4, better known by its propaganda name
 “V-2” was designed and developed.
 
 Very little propellant development was involved in the A-4. From
@@ -824,8 +746,7 @@ the beginning, liquid oxygen was the intended oxidizer, and 70-30
 alcohol-water mixture (as had been used by the VfR) the fuel. And
 Helmuth Walter’s 80 percent hydrogen peroxide was used to drive
 the fuel pumps. The peroxide entered a decomposition chamber,
-where it was mixed with a small quantity of a solution of calcium per-
-manganate in water. This catalyzed its decomposition into oxygen and
+where it was mixed with a small quantity of a solution of calcium permanganate in water. This catalyzed its decomposition into oxygen and
 superheated steam, which drove the turbines which drove the pumps
 which forced the oxygen and the alcohol into the main combustion
 chamber.
@@ -856,13 +777,11 @@ The Reichswehr was rather slow to realize the need for AA rockets
 British ever bomb Berlin, you can call me Meyer!” — but when they
 did they found that work on storable propellants was well under way.
 It was, at first, concentrated at Helmuth Walter’s Witte Werke at Kiel.
-As has been mentioned, high strength hydrogen peroxide (80-83 per-
-cent) first became available in about 1934, and Walter had bred it as
+As has been mentioned, high strength hydrogen peroxide (80-83 percent) first became available in about 1934, and Walter had bred it as
 a monopropellant, and the Luftwaffe was immensely interested. Like
 General Arnold, in the U.S. they could appreciate the fact that a
 JATO rocket would enable a bomber to take off with a heavier load
-than it could normally carry, and by February 1937, a Walter hydro-
-gen peroxide JATO had helped a Heinkel Kadett airplane to get off
+than it could normally carry, and by February 1937, a Walter hydrogen peroxide JATO had helped a Heinkel Kadett airplane to get off
 the ground. Later in the year, a rocket powered airplane was flown —
 again using a hydrogen peroxide motor. The Messerschmitt 163-A
 interceptor used the same propellant.
@@ -870,49 +789,36 @@ interceptor used the same propellant.
 But peroxide is not only a monopropellant, it’s also a pretty good
 oxidizer. And Walter worked out a fuel for it that he called “C-Stoff.”
 (The peroxide itself was called “T-Stoff.”) Hydrazine hydrate,
-N 2 H 4 H 2 0 ignited spontaneously when it came in contact with per-
-oxide (Walter was probably the first propellant man to discover such
-a phenomenon) and C-Stoff consisted of 30 percent hydrazine hy-
-drate, 57 of methanol, and 13 of water, plus thirty milligrams per liter
-of copper as potassium cuprocyanide, to act as an ignition and com-
-bustion catalyst. The reason for the methanol and the water was the
+N 2 H 4 H 2 0 ignited spontaneously when it came in contact with peroxide (Walter was probably the first propellant man to discover such
+a phenomenon) and C-Stoff consisted of 30 percent hydrazine hydrate, 57 of methanol, and 13 of water, plus thirty milligrams per liter
+of copper as potassium cuprocyanide, to act as an ignition and combustion catalyst. The reason for the methanol and the water was the
 fact that hydrazine hydrate was hard to come by — so hard, in fact, that
 by the end of the war its percentage in C-Stoff was down to fifteen.
 The Messerschmitt 163-B interceptor used C-Stoff and T-Stoff.
 
-The next organization to get into the rocket business was the Aero-
-nautical Research Institute at Braunschweig. There, in 1937-38, Dr.
+The next organization to get into the rocket business was the Aeronautical Research Institute at Braunschweig. There, in 1937-38, Dr.
 Otto Lutz and Dr. Wolfgang C. Noeggerath started to work on the
 C-Stoff-T-Stoff combination. Next, BMW (Bavarian Motor Works —
-yes, the people who make the motorcycles) were invited by the Luft-
-waffe to get into the act. Helmut Philip von Zborowski, the nephew
+yes, the people who make the motorcycles) were invited by the Luftwaffe to get into the act. Helmut Philip von Zborowski, the nephew
 of the famous pre -World War 1 racing driver, was in charge of the
 operation, and Heinz Mueller was his second. In the summer of 1939
-BMW got a contract to develop a JATO unit, using the C-T-Stoff com-
-bination, and they worked with it for some months. But von Zbor-
-owski was convinced that 98 percent nitric acid was the better oxi-
-
+BMW got a contract to develop a JATO unit, using the C-T-Stoff combination, and they worked with it for some months. But von Zborowski was convinced that 98 percent nitric acid was the better oxi
 
 
 1 4 Ignition
 
 dizer, as well as being immensely easier to get (I.G. Farben guaranteed
 unlimited quantities), and set out to convert the brass to his point of
-view. From the beginning of 1940, he and Mueller worked on the ni-
-tric acid-methanol combination, and in 1941 proved his point, con-
-vincingly, with a perfect thirty-second run at the three thousand
+view. From the beginning of 1940, he and Mueller worked on the nitric acid-methanol combination, and in 1941 proved his point, convincingly, with a perfect thirty-second run at the three thousand
 pounds force thrust level. He even convinced Eugen Sanger, who was
 sure that oxygen was the only oxidizer worth thinking about.
 
 And in the meantime, early in 1940, he and Mueller had made an
-immensely important discovery — that certain fuels (aniline and tur-
-pentine were the first they found) ignited spontaneously upon con-
-tact with nitric acid. Noeggerath learned of this, and joined the BMW
+immensely important discovery — that certain fuels (aniline and turpentine were the first they found) ignited spontaneously upon contact with nitric acid. Noeggerath learned of this, and joined the BMW
 people in their search for fuels with this interesting property. His
 code name for nitric acid was “Ignol” and for his fuels “Ergol,” and,
 a fast man with a Greek root, he came up with “Hypergol” for the
-spontaneous igniters. “Hypergol” and its derivatives, such as the ad-
-jective “hypergolic” have become a permanent part not only of the
+spontaneous igniters. “Hypergol” and its derivatives, such as the adjective “hypergolic” have become a permanent part not only of the
 German, but of the English language, and even, in spite of the efforts
 of Charles de Gaulle to keep the language “pure,” of the French as
 well.
@@ -920,18 +826,11 @@ well.
 The discovery of hypergolicity was of major importance. Running
 a rocket motor is relatively easy. Shutting it down without blowing
 something up is harder. But starting it up without disaster is a real
-problem. Sometimes electrical igniters are used — sometimes pyro-
-technic devices. But neither can always be trusted, and either is a nui-
-sance, an added complication, when you already have more complica-
-tions than you want. Obviously, if your combination is hypergolic, you
-can throw out all the ignition schemes and devices, and let the chem-
-istry do the work. The whole business is much simpler and more re-
-liable.
+problem. Sometimes electrical igniters are used — sometimes pyrotechnic devices. But neither can always be trusted, and either is a nuisance, an added complication, when you already have more complications than you want. Obviously, if your combination is hypergolic, you
+can throw out all the ignition schemes and devices, and let the chemistry do the work. The whole business is much simpler and more reliable.
 
-But as usual, there’s a catch. If your propellants flow into the cham-
-ber and ignite immediately, you’re in business. But if they flow in,
-collect in a puddle, and then ignite, you have an explosion which gen-
-erally demolishes the engine and its immediate surroundings. The
+But as usual, there’s a catch. If your propellants flow into the chamber and ignite immediately, you’re in business. But if they flow in,
+collect in a puddle, and then ignite, you have an explosion which generally demolishes the engine and its immediate surroundings. The
 accepted euphemism for this sequence of events is a “hard start.”
 Thus, a hypergolic combustion must be very fast, or it is worse than
 useless. The Germans set an upper limit of 50 milliseconds on the
@@ -950,15 +849,11 @@ worked with, I can’t think of more inappropriate namesl
 
 Peenemunde and JPL
 
-The first ignition delay tests were, to put it mildly, somewhat prim-
-itive. After a long night session, searching through old chemistry
-texts for substances that were violently reactive with nitric acid, Zbor-
-owski and Mueller would soak a wiping rag with a promising candi-
-date and spray it with nitric acid and see how quickly — or if— it burst
+The first ignition delay tests were, to put it mildly, somewhat primitive. After a long night session, searching through old chemistry
+texts for substances that were violently reactive with nitric acid, Zborowski and Mueller would soak a wiping rag with a promising candidate and spray it with nitric acid and see how quickly — or if— it burst
 into flames. And they ran into a peculiar phenomenon. An old, used
 wiping rag from the machine shop would sometimes ignite much
-faster than a new clean one soaked with the same fuel. Their chem-
-istry laboratory furnished them with the answer. Traces of iron and
+faster than a new clean one soaked with the same fuel. Their chemistry laboratory furnished them with the answer. Traces of iron and
 copper from the shop, as the metals or as salts, catalyzed the ignition
 reaction. So they modified their 98 percent nitric acid, “Salbei” by
 adding to it 6 percent of hydrated ferric chloride, and called the new
@@ -978,15 +873,11 @@ code names at first, and labeled their mixtures with code numbers
 like T93/441 1.
 
 The fuels that the three organizations developed were many and
-various, but at the same time very much alike, since there was a lim-
-ited number of compounds which were hypergolic with nitric acid —
+various, but at the same time very much alike, since there was a limited number of compounds which were hypergolic with nitric acid —
 and available in any quantity. Tertiary amines, such as triethyl amine
-were hypergolic, and aromatic amines, such as aniline, toluidine, xyl-
-idine, N methyl aniline were even more so. Most of the mixtures tried
+were hypergolic, and aromatic amines, such as aniline, toluidine, xylidine, N methyl aniline were even more so. Most of the mixtures tried
 — neat fuels consisting of a single pure compound were unheard of—
-were based on the aniline family, frequently with the addition of tri-
-ethylamine, plus, at times, things like xylene, benzene, gasoline, tet-
-rahydrofuran, pyrocatechol, and occasionally other aliphatic amines.
+were based on the aniline family, frequently with the addition of triethylamine, plus, at times, things like xylene, benzene, gasoline, tetrahydrofuran, pyrocatechol, and occasionally other aliphatic amines.
 The BMW Tonka 250 comprised 57 percent of raw xylidine and 43
 of triethylamine (it was used in the “Taifun” missile) and Tonka 500
 contained toluidine, triethylamine, aniline, gasoline, benzene, and
@@ -1012,8 +903,7 @@ Around 1942 or 1943 I. G. Farben shifted the emphasis of their fuel
 work away from the mixtures they had been working with at first, and
 which were so similar to the Tonkas and the Ergols, to a series of fuels
 based on the “Visols,” which were vinyl ethers. The vinyl ethers were
-very rapidly hypergolic with MS- 10, a mixed acid consisting of 10 per-
-cent sulfuric acid and 90 percent nitric, and the ignition delay was less
+very rapidly hypergolic with MS- 10, a mixed acid consisting of 10 percent sulfuric acid and 90 percent nitric, and the ignition delay was less
 sensitive to temperature than it was with straight nitric. (This had been
 a serious problem. A propellant pair might ignite in 50 milliseconds
 at room temperature, and wait around a whole second at 40 below.)
@@ -1029,22 +919,17 @@ put his iron catalyst in his fuel rather than in his oxidizer, since the
 latter contained sulfuric acid, and iron sulfates are insoluble in nitric
 acid.) There were many variations on these fuels, vinylisobutyl ether
 being substituted at times for the n-buty] compound. All in all, more
-than 200 mixtures were tried, of which less than ten were found sat-
-isfactory. “Optolin” was a mixture of aniline, a Visol, aromatics, some-
-times amines, gasoline, and pyrocatechol. The Wasserfall SAM used
+than 200 mixtures were tried, of which less than ten were found satisfactory. “Optolin” was a mixture of aniline, a Visol, aromatics, sometimes amines, gasoline, and pyrocatechol. The Wasserfall SAM used
 a Visol fuel.
 
-Several agencies tried to discover additives which, in small quan-
-tities, would make gasoline or benzene or methanol hypergolic with
+Several agencies tried to discover additives which, in small quantities, would make gasoline or benzene or methanol hypergolic with
 acid. Things like iron carbonyl and sodium selenide were more or less
-successful, but the success was academic at best, since the useful ad-
-ditives were all either too rare, too expensive, or too active to live
+successful, but the success was academic at best, since the useful additives were all either too rare, too expensive, or too active to live
 with.
 
 But nitric acid was definitely the winner. Many German missiles
 were designed, at first, to use peroxide, but as the war went on, the
-Walter Type XVII submarines threatened to use up the whole pro-
-duction, and as the nitric acid work was so successful, the shift to the
+Walter Type XVII submarines threatened to use up the whole production, and as the nitric acid work was so successful, the shift to the
 
 
 
@@ -1056,15 +941,11 @@ Peenemunde and JPL
 latter oxidizer for missile work was inevitable. During this period
 many other combinations than those actually tried were considered,
 and theoretical performances were calculated. These calculations were
-not the early naive estimates of Sanger et ah, but considered the com-
-bustion pressure, the exhaust pressure, thermal efficiency, tempera-
-ture of combustion, dissociation — the whole business. Such exact cal-
-culations are outrageously tedious — a single one done with a desk
+not the early naive estimates of Sanger et ah, but considered the combustion pressure, the exhaust pressure, thermal efficiency, temperature of combustion, dissociation — the whole business. Such exact calculations are outrageously tedious — a single one done with a desk
 calculator, can easily take a whole day. But Dr. Grete Range and others
 struggled through them, considering as fuels, alcohol, alcohol-water,
 gasoline, diesel fuel, ammonia, propargyl alcohol, and God only knows
-what else, and as oxidizers, oxygen, nitric acid, N 2 0 4 , tetranitro-
-methane, ozone, and OF 2 , although the laboratory men were never
+what else, and as oxidizers, oxygen, nitric acid, N 2 0 4 , tetranitromethane, ozone, and OF 2 , although the laboratory men were never
 able to lay their hands on enough of the last to characterize it. And as
 early as 1943 they were thinking of using chlorine trifluoride, which
 before that had been nothing but a laboratory curiosity. But it had
@@ -1080,18 +961,14 @@ than the oxygen-alcohol combination actually used, which they did
 not, but because their higher density allowed more propellant to be
 stuffed into the tanks. This calculation had no particular effect at that
 time, although the A- 10, a planned successor to the A-4, was to have
-used the new combination, but some years later, in Russia, the con-
-sequences were to be hilarious.
+used the new combination, but some years later, in Russia, the consequences were to be hilarious.
 
-The oxidizer that was always a “might have been” was tetranitro-
-methane. It’s a good oxidizer, with several advantages. It’s storable,
-has a better performance than nitric acid, and has a rather high den-
-sity, so you can get a lot of it in a small tank. But it melts at+14.1°C
+The oxidizer that was always a “might have been” was tetranitromethane. It’s a good oxidizer, with several advantages. It’s storable,
+has a better performance than nitric acid, and has a rather high density, so you can get a lot of it in a small tank. But it melts at+14.1°C
 so that at any time other than a balmy summer day it’s frozen solid.
 And it can explode — as Esnault-Pelterie had discovered, and it took
 out at least one German laboratory. The eutectic mixture with N 2 0 4 ,
-64 percent TNM, 36 N 2 0 4 , doesn’t freeze above — 30°C, and is con-
-siderably less touchy than is straight TNM, but it was still considered
+64 percent TNM, 36 N 2 0 4 , doesn’t freeze above — 30°C, and is considerably less touchy than is straight TNM, but it was still considered
 dangerous, and Noeggerath refused to have anything to do with it or,
 even to permit it in his laboratory. But the engineers kept looking at
 it wistfully, and when they received a (completely false) intelligence
@@ -1105,24 +982,20 @@ Germans heroically started synthesis, and had accumulated some eight
 or ten tons of the stuff by the end of the war. Nobody ever found any
 use for it.
 
-Another idea which didn’t get anywhere, was that of a heteroge-
-neous fuel— a suspension, or slurry, of a powdered metal, such as
+Another idea which didn’t get anywhere, was that of a heterogeneous fuel— a suspension, or slurry, of a powdered metal, such as
 aluminum, in a liquid fuel such as gasoline. This had been suggested
 by several writers, among them Tsander in Russia and Sanger in
 Austria, and Heinz Mueller of BMW tried it out, using powdered
 aluminum or magnesium in diesel oil. The performance was very
 poor— the chamber pressure was 50 to 100 psi instead of the 300 they
 were shooting for — due to the incomplete combustion of the metal.
-But the other results were spectacular. The motor was fired in a hori-
-zontal position against an inclined wall to deflect the exhaust stream
-upwards. But the unburned metal particles settled down and deco-
-rated all the pine trees in the vicinity with a nice, shiny, silvery coating
+But the other results were spectacular. The motor was fired in a horizontal position against an inclined wall to deflect the exhaust stream
+upwards. But the unburned metal particles settled down and decorated all the pine trees in the vicinity with a nice, shiny, silvery coating
 — very suitable for Christmas trees. The slurry idea was to emerge
 again twenty years later, to drive another generation of experimenters
 crazy.
 
-Experimentation on mo nopropellants (which were called “Moner-
-gols”) continued until the end of the war. In 1937-1938 a good deal
+Experimentation on mo nopropellants (which were called “Monergols”) continued until the end of the war. In 1937-1938 a good deal
 of work was attempted with solutions of N 2 0 or NH 4 N0 3 in ammonia.
 (The latter mixture, under the name of Driver’s solution, had been
 known for many years.) The only result of these experiments was a
@@ -1131,8 +1004,7 @@ Peenemunde, a Dr. Wahrmke tried dissolving alcohol in 80 percent
 H 2 0 2 and then firing that in a motor. It detonated, and killed him.
 The Wm. Schmidding firm, nevertheless, kept on experimenting
 with a monopropellant they called “Myrol,” an 80-20 mixture of
-methyl nitrate and methanol —very similar to the nitroglycerine-
-methanol mixture that Crocco had tried years before. They managed
+methyl nitrate and methanol —very similar to the nitroglycerinemethanol mixture that Crocco had tried years before. They managed
 to fire the material, and got a fairly respectable performance, but
 they were plagued by explosion after explosion, and were never able
 to make the system reliable.
@@ -1143,10 +1015,8 @@ a throwback to the original hybrid motor tried by Oberth during the
 UFA period. Peroxide or nitrous oxide, N 2 0, was injected into a
 motor in which several sticks of porous carbon were secured. Nitrous
 oxide can decompose exothermically into oxygen and nitrogen, as
-peroxide does to oxygen and steam, and can thus act as a monopro-
-pellant, but the experimenters wanted to get extra energy from the
-combustion of the carbon by the oxygen formed. When they sur-
-rendered to the Americans at the end of the war, they assured their
+peroxide does to oxygen and steam, and can thus act as a monopropellant, but the experimenters wanted to get extra energy from the
+combustion of the carbon by the oxygen formed. When they surrendered to the Americans at the end of the war, they assured their
 
 
 
@@ -1162,10 +1032,8 @@ anybody could make a hybrid work.
 Meanwhile, back at the ranch —
 
 The most striking thing about propellant research in the United
-States during the war years is how closely it paralleled that in Ger-
-many. True, there was no American A-4, and high strength hydrogen
-peroxide was unobtainable in this country, but the other develop-
-ments were closely similar.
+States during the war years is how closely it paralleled that in Germany. True, there was no American A-4, and high strength hydrogen
+peroxide was unobtainable in this country, but the other developments were closely similar.
 
 As mentioned in the first chapter, GALCIT’s first job for the armed
 forces was to produce a JATO to help the Army Air Corps get its
@@ -1179,9 +1047,7 @@ insufficient energy, and Malina, Parsons, and Forman who, with the
 assistance of Dr. H. R. Moody, did a survey of the subject, considered
 that N 2 0 4 was impractical. It is difficult to say why, but the extremely
 poisonous nature of the beast may have had something to do with its
-rejection. They considered 76 percent perchloric acid, and tetranitro-
-methane, and finally settled on red fuming nitric acid, RFNA, con-
-taining 6 or 7 percent N 2 0 4 . They tried crucible burning of various
+rejection. They considered 76 percent perchloric acid, and tetranitromethane, and finally settled on red fuming nitric acid, RFNA, containing 6 or 7 percent N 2 0 4 . They tried crucible burning of various
 fuels with this acid — gasoline, petroleum ether, kerosene, methyl
 and ethyl alcohol, turpentine, linseed oil, benzene, and so on, and
 found that the acid would support combustion. Further, they found
@@ -1193,24 +1059,19 @@ Malina’s group had become the Jet Propulsion Laboratory, with von
 KArman at the head.)
 
 “The only possible source of trouble connected with the acid is its
-corrosive nature, which can be overcome by the use of corrosion-
-resistant materials.” Ha! If they had known the trouble that nitric
+corrosive nature, which can be overcome by the use of corrosionresistant materials.” Ha! If they had known the trouble that nitric
 acid was to cause before it was finally domesticated, the authors would
 probably have stepped out of the lab and shot themselves.
 
 Be that as it may, the report was an excellent survey of the field as
-it was at that time, and contained sophisticated and accurate perform-
-ance calculations. The procedure had been developed in Malina’s
+it was at that time, and contained sophisticated and accurate performance calculations. The procedure had been developed in Malina’s
 1940 PhD thesis, and was essentially and inevitably the same as that
-developed in Germany. One of the first compilations of the thermo-
-
+developed in Germany. One of the first compilations of the thermo
 
 
 20 Ignition
 
-dynamic properties of exhaust gases was published by J. O. Hirsch-
-felder in November 1942, as necessary raw data for such computa-
-tions.
+dynamic properties of exhaust gases was published by J. O. Hirschfelder in November 1942, as necessary raw data for such computations.
 
 Malina and company started experimental work with RFNA and
 gasoline as early as 1941— and immediately ran into trouble. This is
@@ -1220,31 +1081,24 @@ impossible to get it started. JPL was using a spark plug for ignition,
 and more often than not, getting an explosion rather than the smooth
 start that they were looking for. And when they did get it going, the
 motor would cough, chug, scream and hiccup — and then usually
-blow anyway. Metallic sodium suspended in the fuel helped the igni-
-don somewhat, and benzene was a little better than gasoline — but
+blow anyway. Metallic sodium suspended in the fuel helped the ignidon somewhat, and benzene was a little better than gasoline — but
 not much, or enough. It took an accidental discovery from the other
 side of the country to solve their immediate problems.
 
 Here we must backtrack. From 1936 to 1939, Robert C. Truax,
-then a midshipman at the U.S. Naval Academy, had been experiment-
-ing with liquid fueled rockets, on his own time and with scrounged
+then a midshipman at the U.S. Naval Academy, had been experimenting with liquid fueled rockets, on his own time and with scrounged
 material. He graduated, spent the required two years on sea duty, and
-in 1941, then a lieutenant commander, was ordered to the Engineer-
-ing Experiment Station at Annapolis, with orders to develop a JATO.
+in 1941, then a lieutenant commander, was ordered to the Engineering Experiment Station at Annapolis, with orders to develop a JATO.
 For the Navy was having trouble getting their underpowered and
 overloaded PBM and PBY patrol bombers off the water. And he, too,
 ran into ignition and combustion difficulties. But one of his small
 staff, Ensign Stiff, while working on gas generators (small combustion
 devices designed to supply hot gas under pressure) discovered that
-aniline and RFNA ignited automatically upon contact. (Such dis-
-coveries are usually surprising, not to say disconcerting, and one
+aniline and RFNA ignited automatically upon contact. (Such discoveries are usually surprising, not to say disconcerting, and one
 wonders whether or not Ensign Stiff retained his eyebrows.)
 
 At any rate, Frank Malina, visiting EES in February of 1942, learned
-of this discovery, and instantly phoned JPL in Pasadena; and JPL im-
-mediately switched from gasoline to aniline. And their immediate dif-
-ficulties miraculously disappeared. Ignition was spontaneous and im-
-mediate, and combustion was smooth. They had a 1000-pound thrust
+of this discovery, and instantly phoned JPL in Pasadena; and JPL immediately switched from gasoline to aniline. And their immediate difficulties miraculously disappeared. Ignition was spontaneous and immediate, and combustion was smooth. They had a 1000-pound thrust
 motor running by the first of April (these people were professionals
 by that time) and on the fifteenth it boosted an A20-A medium bomber
 into the air — the first flight of a liquid JATO in the United States.
@@ -1272,12 +1126,9 @@ by a handful of veterans of the Americal Rocket Society including
 James Wyld, Lovell Lawrence, and John Shesta, and undertook to
 build a JATO unit. They first used liquid oxygen — all the ARS work
 had been with that oxidizer — and gasoline. But they found that the
-combination was too hot, and burned out their motors. So, as the gas-
-oline entered the chamber, they mixed it with water through a meter-
-ing valve. Combustion was smoother, and the motor stayed in one
+combination was too hot, and burned out their motors. So, as the gasoline entered the chamber, they mixed it with water through a metering valve. Combustion was smoother, and the motor stayed in one
 piece. This was a somewhat less elegant solution to the problem of
-combustion temperatures than was that used by the VfR (and Peene-
-munde) when they mixed water with their alcohol fuel. The RMI unit
+combustion temperatures than was that used by the VfR (and Peenemunde) when they mixed water with their alcohol fuel. The RMI unit
 was successfully flown in the PBM in 1943. During the trials, run on
 ihe Severn River, the exhaust jet set the tail of the seaplane on fire,
 hut the test pilot rose (or sank) to the occasion and set the plane down,
@@ -1301,10 +1152,7 @@ I lie war period. One was designed to reduce the freezing point of
 aniline, the other was to make gasoline, somehow, hypergolic with
 nil ric acid. American Cyanamid was given a contract to investigate
 additives which might have the latter effect and JPL worked both sides
-of l lie street, as well as experimenting with changes in the composi-
-tion of the acid. Besides their usual RFNA, containing about 6 per-
-mit N 2 0 4 , they experimented with one containing about 13 per-
-l nil, as well as with a mixed acid rather similar to that the Germans
+of l lie street, as well as experimenting with changes in the composition of the acid. Besides their usual RFNA, containing about 6 permit N 2 0 4 , they experimented with one containing about 13 perl nil, as well as with a mixed acid rather similar to that the Germans
 were using, but a little more potent. One mixture they used contained
 NN percent nitric acid, 9.6 percent sulfuric, and 2.4 percent S0 3 . (This
 wiin very similar to the mixed acids used in explosives manufacture.)
@@ -1324,34 +1172,29 @@ mix it with something that is. Both lines of endeavor were pursued
 with enthusiasm.
 
 At LPL they mixed aniline with orthotoluide, its near relative, and
-got a eutectic freezing at — 32°C. But o-toluidine was as scarce as ani-
-line, and although the mixture was successfully fired, it never became
+got a eutectic freezing at — 32°C. But o-toluidine was as scarce as aniline, and although the mixture was successfully fired, it never became
 operational. A more practical additive was furfuryl alcohol, for which
 Zborowski was pining. Furfuryl alcohol comes from oat hulls and
 Quaker Oats had tank cars of the stuff, which they were delighted to
 sell to anybody who would take it off their hands. And 20 percent of
 furfuryl alcohol in aniline reduced the freezing point to 0°F, or
-— 17.8°C, and the eutectic mixture, 51 percent aniline, 49 furfuryl al-
-cohol, had a freezing point of — 42°C. And furfuryl alcohol itself was
+— 17.8°C, and the eutectic mixture, 51 percent aniline, 49 furfuryl alcohol, had a freezing point of — 42°C. And furfuryl alcohol itself was
 about as hypergolic as aniline.
 
 And to gasoline, JPL added aniline, diphenylamine, mixed xylidines
-and other relatives of aniline; assorted aliphatic amines, and every-
-thing else they could think of, and then measured the ignition delay.
+and other relatives of aniline; assorted aliphatic amines, and everything else they could think of, and then measured the ignition delay.
 But they never found an additive which, in small percentages, would
 make gasoline rapidly hypergolic, with either RFNA or mixed acid.
 One of their best additives was mixed xylidines, but it took about 50
 percent of the xylidines in the mixture to make it reliably and rapidly
 hypergolic — which took it out of the additives class, and made it a
-major component. To make it more discouraging, there were no pro-
-duction facilities for the xylidines in the United States, and although
+major component. To make it more discouraging, there were no production facilities for the xylidines in the United States, and although
 Aerojet looked at a similar mixture a few years later (in 1949) it never
 came to anything.
 
 American Cyanamid was having a similar experience. They started
 with #2 fuel oil, diesel oil, and gasoline, and added to the particular
-fuel aniline, dimethylaniline, mono- and diethylaniline, crude mono-
-ethylaniline — and turpentine. Most of their work was done with mixed
+fuel aniline, dimethylaniline, mono- and diethylaniline, crude monoethylaniline — and turpentine. Most of their work was done with mixed
 acid, a little with RFNA, and some with straight 98 percent nitric acid
 (White Fuming Nitric Acid, or WFNA). And in no case did they find
 an effective additive. But they found that turpentine was magnificently
@@ -1359,9 +1202,7 @@ hypergolic with mixed acid or RFNA, and might well be a good fuel
 all by itself. (And think of all those lovely votes from the piney woods
 of the South!)
 
-Aerojet Engineering was founded in March of 1942, to act, essen-
-tially, as the manufacturing arm of JPL. The founders were von Kar-
-man, Malina, Parsons, Summerfield, and Forman, all of JPL, plus
+Aerojet Engineering was founded in March of 1942, to act, essentially, as the manufacturing arm of JPL. The founders were von Karman, Malina, Parsons, Summerfield, and Forman, all of JPL, plus
 Andrew Haley, who was von K&amp;rman’s attorney. And they started
 
 
@@ -1374,25 +1215,18 @@ was difficult to disentangle it from JPL’s.
 Aerojet was the first organization to work extensively with crude
 N-ethyl aniline, sometimes called monoethylaniline, as a fuel. This is
 almost as rapidly hypergolic as aniline. The crude or commercial
-product contains about 10 percent diethyl aniline and 26 straight ani-
-line, the remainder being the monoethyl compound, and its freezing
+product contains about 10 percent diethyl aniline and 26 straight aniline, the remainder being the monoethyl compound, and its freezing
 point is about — 63°C. All in all, it was an elegant answer to the
-freezing point problem, but it was just about as poisonous as its an-
-cestor, and just as hard to come by.
+freezing point problem, but it was just about as poisonous as its ancestor, and just as hard to come by.
 
 But it could be lived with. The propellants for the Aerojet JATO,
-in production by the end of the war, were mixed acid and mono-
-ethylaniline, as were those of RMI’s motor for the Navy’s surface-to-
-air missile, Lark, whose development started in 1944. The surface-to-
-surface Corporal, started the same year, was designed around the
+in production by the end of the war, were mixed acid and monoethylaniline, as were those of RMI’s motor for the Navy’s surface-toair missile, Lark, whose development started in 1944. The surface-tosurface Corporal, started the same year, was designed around the
 RFNA-aniline-furfuryl alcohol combination.
 
 Three organizations worked on monopropellants during the war
-•although the effort was limited. All of them concentrated on nitro-
-methane. JPL worked on it first, in 1944, or earlier, and found that
+•although the effort was limited. All of them concentrated on nitromethane. JPL worked on it first, in 1944, or earlier, and found that
 its combustion was improved by the addition of small quantities of
-chromium trioxide (later chromium acetylacetonate) to the fuel. Aero-
-jet also worked with it, and found that it was necessary to desensitize
+chromium trioxide (later chromium acetylacetonate) to the fuel. Aerojet also worked with it, and found that it was necessary to desensitize
 it by the addition of 8 percent of butyl alcohol. And Bob Truax, at
 KES, tried his hand — and was almost killed when somebody connected
 (lie wrong pipe to the right valve and the tank blew. And finally Dave
@@ -1418,26 +1252,22 @@ get almost all the top scientists — they got everything else that wasn’t
 nailed down, including the complete Peenemunde archives (which von
 Braun’s crew had thoughtfully deposited in an abandoned mine) and
 all the A-4 rockets, complete or otherwise. And, red-blooded young
-Americans all, with larceny in their hearts, they liberated every mil-
-ligram of hydrazine hydrate and high-strength hydrogen peroxide
-that they could find in Germany. Plus, naturally, the special alumi-
-num tank cars built to carry the latter. Everything was promptly
+Americans all, with larceny in their hearts, they liberated every milligram of hydrazine hydrate and high-strength hydrogen peroxide
+that they could find in Germany. Plus, naturally, the special aluminum tank cars built to carry the latter. Everything was promptly
 shipped to the United States.
 
 These steps were obvious. The next step was not.
 
 The alcohol-oxygen combination seemed all right for long-range
 missiles, but the United States had no immediate plans for building
-such things. The Tonkas and Visols were no improvements on mono-
-ethylaniline, or on the aniline-furfuryl alcohol mixtures that had been
+such things. The Tonkas and Visols were no improvements on monoethylaniline, or on the aniline-furfuryl alcohol mixtures that had been
 developed in the U.S. And there was nothing new about nitric acid.
 The Americans thought they knew all about it — as had the Germans.
 Unwarranted euphoria and misplaced confidence are international
 phenomena.
 
 They had no doubt that missiles, guided and ballistic, were to be the
-artillery of the future. The question — or one of many — was the iden-
-tity of the optimum propellant combination for a given, or projected,
+artillery of the future. The question — or one of many — was the identity of the optimum propellant combination for a given, or projected,
 
 
 
@@ -1449,18 +1279,14 @@ The Hunting of the Hypergol . . .
 
 missile. And so everybody even remotely connected with the business
 made his own survey of every conceivable fuel and oxidizer, and tried
-to decide which ones to choose. Lemmon, of JPL, presented the re-
-sults of such a comprehensive survey to the Navy in the spring of
+to decide which ones to choose. Lemmon, of JPL, presented the results of such a comprehensive survey to the Navy in the spring of
 1945, and a half a dozen more, by North American Aviation, Reaction
-Motors, the Rand Corporation, M. W. Kellogg Co., and others, ap-
-peared in the next few years. Each survey listed the characteristics of
+Motors, the Rand Corporation, M. W. Kellogg Co., and others, appeared in the next few years. Each survey listed the characteristics of
 every propellant, or prospective propellant, that the compiler could
 think of, and presented the results of dozens of tedious performance
-calculations. To the surprise of nobody with any chemical sophistica-
-tion at all, everybody came to just about the same conclusions.
+calculations. To the surprise of nobody with any chemical sophistication at all, everybody came to just about the same conclusions.
 
-There were two sets of these. The first related to long-range ballis-
-tic missiles, or to rockets designed to orbit an artificial satellite. (As
+There were two sets of these. The first related to long-range ballistic missiles, or to rockets designed to orbit an artificial satellite. (As
 early as 1946 both the Air Force and the Navy were making serious
 studies of the problem of orbiting an artificial Earth satellite.) In these
 applications, cryogenics (substances that cannot be liquefied except
@@ -1472,12 +1298,9 @@ good, but its density is too low, and it’s a holy terror to handle.”)
 
 2. As far as performance is concerned, liquid hydrogen is tops as a
 fuel. (But it was extremely hard to handle, and to come by, and
-its density is so low that the necessary tankage would be im-
-mense.) Below hydrogen it didn’t much matter. Alcohol, gas-
-oline, kerosene — they’d all work pretty well, and could be lived
+its density is so low that the necessary tankage would be immense.) Below hydrogen it didn’t much matter. Alcohol, gasoline, kerosene — they’d all work pretty well, and could be lived
 with. (“But maybe somebody could do something with things
-like diborane and pentaborane?” Their performances, as cal-
-culated, looked awfully impressive. “Sure, they were rare and
+like diborane and pentaborane?” Their performances, as calculated, looked awfully impressive. “Sure, they were rare and
 expensive and poisonous to boot, but — ?”)
 
 '1'he second set of conclusions — or the lack of them — concerned
@@ -1499,9 +1322,7 @@ somehow — ? And what about weirdies like CIF 3 — ?”)
 
 2. The conclusions were much less clean-cut when storable fuels
 were considered. With few exceptions, none of the possible fuels
-had a performance much better than any of the others. Deci-
-sions would have to be made based on their secondary charac-
-teristics: availability, hypergolicity, smoothness of combustion,
+had a performance much better than any of the others. Decisions would have to be made based on their secondary characteristics: availability, hypergolicity, smoothness of combustion,
 toxicity, and so on. The one important exception was hydrazine.
 (Not the hydrazine hydrate the Germans had been using, but
 anhydrous N 2 H 4 . Dave Horvitz, at RMI, fired the hydrate with
@@ -1510,8 +1331,7 @@ in this country at least, in which it was involved. Almost all the
 hydrazine hydrate looted from Germany was converted to the
 anhydrous base before being distributed fortesting. One method
 of conversion was to reflux the hydrate over barium oxide, and
-then to distil over the anhydrous hydrazine under reduced pres-
-sure.) Hydrazine was hypergolic with the prospective oxidizers,
+then to distil over the anhydrous hydrazine under reduced pressure.) Hydrazine was hypergolic with the prospective oxidizers,
 it had a high density for a fuel (1.004) and its performance was
 definitely better than those of the other prospective fuels. But
 — its freezing point was 1.5°C higher than that of water! And it
@@ -1528,14 +1348,12 @@ the missile just before firing, which meant handling it in the field.
 And when poured it gives off dense clouds of highly poisonous N0 2 ,
 and the liquid itself produces dangerous and extremely painful burns
 when it touches the human hide. And . . . but nitric acid and the
-struggle to domesticate it deserve, and will get, a chapter all to them-
-selves.
+struggle to domesticate it deserve, and will get, a chapter all to themselves.
 
 The aniline is almost as bad, but a bit more subtle in its actions. If
 a man is spashed generously with it, and it isn’t removed immediately,
 he usually turns purple and then blue and is likely to die of cyanosis
-in a matter of minutes. So the combination was understandably un-
-popular, and the call went out for a new one that was, at least, not
+in a matter of minutes. So the combination was understandably unpopular, and the call went out for a new one that was, at least, not
 quite so poisonous and miserable to handle.
 
 Kaplan and Borden at JPL suggested one at the beginning of 1946.
@@ -1551,8 +1369,7 @@ The Hunting of the Hypergol . . .
 
 while it was just as corrosive as RFNA, and was just as hard on the
 anatomy, at least didn’t give off those clouds of N0 2 . They fired the
-combination in a WAC Corporal motor, comparing it to the 20 per-
-cent furfuryl alcohol, 80 percent aniline mixture and RFNA, and
+combination in a WAC Corporal motor, comparing it to the 20 percent furfuryl alcohol, 80 percent aniline mixture and RFNA, and
 found no measurable difference in performance between the two
 systems. (The WAC Corporal was conceived as a sounding rocket,
 the “Litde Sister” to the 20,000 pound thrust “Corporal” then under
@@ -1561,8 +1378,7 @@ they found that ignition was fast and smooth, and much more tolerant
 to water in the acid than was the Corporal combination.
 
 At about the same time, RMI was making a similar set of tests.
-These were all run in a 220-pound thrust Lark motor, whose mixed-
-acid, monoethylaniline combination was the reference propellant
+These were all run in a 220-pound thrust Lark motor, whose mixedacid, monoethylaniline combination was the reference propellant
 system. They used three fuels — 80 octane gasoline, furfuryl alcohol,
 and turpentine; and three types of nitric acid oxidizer — mixed acid,
 WFNA, and RFNA containing 15% N 2 0 4 .* They used a hypergolic
@@ -1584,8 +1400,7 @@ At JPL mixtures of aniline with ethanol or with isopropanol were
 investigated and burned with RFNA. Ammonia was bred there (with
 RFNA) as early as 1949, and the next year Cole and Foster fired it
 with N 2 0 4 . The M. W. Kellogg Co. burned it with WFNA, and by 1951,
-R. J. Thompson of that company was beating the drum for this com-
-bination as the workhorse propellant for all occasions. Reaction
+R. J. Thompson of that company was beating the drum for this combination as the workhorse propellant for all occasions. Reaction
 Motors experimented with mixtures of ammonia and methylamine
 (to reduce the vapor pressure of the ammonia) and showed that the
 addition of 1.5 percent of dekaborane made ammonia hypergolic
@@ -1602,20 +1417,15 @@ end could be achieved by flowing the ammonia over lithium wire
 just upstream of the injector.
 
 JPL fired various oddities with RFNA, such as furfural and two
-methylated and partially reduced pyridines, tetrapyre and penta-
-prim. The object of these tests is not readily apparent, nor is the rea-
-son why RMI bothered to fire cyclooctatetraene with WFNA. The
+methylated and partially reduced pyridines, tetrapyre and pentaprim. The object of these tests is not readily apparent, nor is the reason why RMI bothered to fire cyclooctatetraene with WFNA. The
 fuel is not only expensive and hard to get, but it has a very high
 freezing point and has nothing in particular to recommend it. And
 the reason that the Naval Air Rocket Test Station went to the trouble
-of burning ethylene oxide with WFNA is equally baffling. The Edison-
-ian approach has much to recommend it, but can be run into the
+of burning ethylene oxide with WFNA is equally baffling. The Edisonian approach has much to recommend it, but can be run into the
 ground. One of the oddest combinations to be investigated was tried
-by RMI, who burned d-limonene with WFNA. d-limonene is a ter-
-pene which can be extracted from the skins of citrus fruits, and all
+by RMI, who burned d-limonene with WFNA. d-limonene is a terpene which can be extracted from the skins of citrus fruits, and all
 during the runs the test area was blanketed with a delightful odor of
-lemon oil. The contrast with the odors of most other rocket propel-
-lants makes the event worth recording.
+lemon oil. The contrast with the odors of most other rocket propellants makes the event worth recording.
 
 It had long since become obvious to everybody concerned that
 firing a combination in a rocket motor is not the ideal way to find out
@@ -1631,16 +1441,12 @@ Most of these devices were intended not only to determine whether
 or not a combination was hypergolic, but also to measure the ignition
 delay if it was. In construction they varied wildly, the designs being
 limited only by the imagination of the investigator. The simplest
-tester consisted of an eyedropper, a small beaker, and a finely cali-
-brated eyeball — and the most complicated was practically a small
+tester consisted of an eyedropper, a small beaker, and a finely calibrated eyeball — and the most complicated was practically a small
 rocket motor setup. And there was everything in between. One of the
 fancier rigs was conceived by my immediate boss, Paul Terlizzi, at
 NARTS. He wanted to take high-speed Schlieren (shadow) movies of
-the ignition process. (What information he thought they would pro-
-vide escaped me at the time, and still does.) * There was a small ig-
-
-* An incurable inventor of acronyms, he called it ’“STIDA,” for Schlieren Type Igni-
-tion Delay Apparatus.
+the ignition process. (What information he thought they would provide escaped me at the time, and still does.) * There was a small ig
+* An incurable inventor of acronyms, he called it ’“STIDA,” for Schlieren Type Ignition Delay Apparatus.
 
 
 
@@ -1649,8 +1455,7 @@ tion Delay Apparatus.
 
 The Hunting of the Hypergol . . .
 
-nition chamber, with high-speed valves and injectors for the propel-
-lants under investigation. Viewing ports, a high-speed Fastex camera,
+nition chamber, with high-speed valves and injectors for the propellants under investigation. Viewing ports, a high-speed Fastex camera,
 and about forty pounds of lenses, prisms, and what not, most of them
 salvaged from German submarine periscopes, completed the setup.
 Dr. Milton Scheer (Uncle Milty) labored over the thing for weeks,
@@ -1662,12 +1467,9 @@ up, when Uncle Milty warned, “Hold it — the acid valve is leaking!”
 
 “Go ahead — fire anyway!” Paul ordered.
 
-I looked around and signaled to my own gang, and we started back-
-ing gently away, like so many cats with wet feet. Howard Streim
-opened his mouth to protest, but as he said later, “I saw that dog-
-eating grin on Doc’s face and shut it again,” and somebody pushed
-the button. There was a little flicker of yellow flame, and then a bril-
-liant blue-white flash and an ear-splitting crack. The lid to the chamber
+I looked around and signaled to my own gang, and we started backing gently away, like so many cats with wet feet. Howard Streim
+opened his mouth to protest, but as he said later, “I saw that dogeating grin on Doc’s face and shut it again,” and somebody pushed
+the button. There was a little flicker of yellow flame, and then a brilliant blue-white flash and an ear-splitting crack. The lid to the chamber
 went through the ceiling (we found it in the attic some weeks later),
 the viewports vanished, and some forty pounds of high-grade optical
 glass was reduced to a fine powder before I could blink.
@@ -1684,8 +1486,7 @@ Other agencies had their troubles with ignition delay apparatus,
 although their experiences weren’t often as spectacular as ours, but
 l hey eventually started cranking out results. Not too surprisingly,
 no two laboratories got the same numbers, and from 1945 until 1955
-one would be hard put to End a period when there wasn’t a coopera-
-tive ignition delay program going on, as the various laboratories
+one would be hard put to End a period when there wasn’t a cooperative ignition delay program going on, as the various laboratories
 I tied to reconcile their results. One of the difficulties was that the
 different testers varied widely in the speed and the efficiency with
 which they mixed the two reactants. And another lay in the fact that
@@ -1693,8 +1494,7 @@ different criteria for ignition were used by various experimenters.
 One might take the first appearance of flame (as shown by a photo
 cell or an ionization gage or a high-speed camera) as the moment of
 ignition, while another, with a micro-motor setup, might take the
-moment at which his motor arrived at full thrust or the design cham-
-ber pressure.
+moment at which his motor arrived at full thrust or the design chamber pressure.
 
 
 
@@ -1702,10 +1502,8 @@ ber pressure.
 
 But although the various investigators didn’t often come up with
 the same numbers, they generally rated propellant combinations in
-the same order. While they seldom agreed on the number of milli-
-seconds it took combination A to light off, they were generally in
-complete agreement that it was a Hell of a lot faster than combina-
-tion B.
+the same order. While they seldom agreed on the number of milliseconds it took combination A to light off, they were generally in
+complete agreement that it was a Hell of a lot faster than combination B.
 
 Which was enough for many purposes. After all, everybody knew
 that WFNA and furfuryl alcohol were fast enough to live with, and
@@ -1722,8 +1520,7 @@ close to the 49FA, 51 aniline eutectic (melting point — 43°C) and the
 Corporal fuel (the missile was still under development) was changed
 from the 20 percent FA mixture to a 50-50 one.
 
-Otherwise, they confirmed the hypergolic reaction of furan com-
-pounds and of aromatic amines with nitric acid, and demonstrated
+Otherwise, they confirmed the hypergolic reaction of furan compounds and of aromatic amines with nitric acid, and demonstrated
 the beneficial effect of N 2 0 4 in the latter case. And they showed that
 amines, particularly tertiary amines, and unsaturated compounds
 were generally hypergolic, while aliphatic alcohols and saturates
@@ -1731,13 +1528,11 @@ generally were not. Most of their work was done with nitric acid, but
 a good deal, from 1948 on, was done with N 2 0 4 , whose hypergolic
 nature generally resembled that of acid.
 
-Reaction Motors investigated the hypergolicity of similar com-
-pounds, as well as such things as the furans, vinyl and allyl amines,
+Reaction Motors investigated the hypergolicity of similar compounds, as well as such things as the furans, vinyl and allyl amines,
 and polyacetylenics, such as di-propargyl, with the skeleton structure
 (without the hydrogens) C=C — C — C — C=C. And they found that
 many silanes were hypergolic with acid. The University of Texas, in
-1948, also worked with these, and showed that 30 percent of tetra-
-allyl silane would make gasoline hypergolic. The University of Texas
+1948, also worked with these, and showed that 30 percent of tetraallyl silane would make gasoline hypergolic. The University of Texas
 also investigated the zinc alkyls, as Sanger had done sixteen years
 earlier.
 
@@ -1746,8 +1541,7 @@ into rocket propellant research in a big way, when Mike Pino, at the
 company’s research arm, California Research, started measuring
 ignition delays in the fall of 1948.
 
-At first his work resembled that of the other workers, as he demon-
-strated fast ignition with dienes, acetylenics, and allyl amines. (Some
+At first his work resembled that of the other workers, as he demonstrated fast ignition with dienes, acetylenics, and allyl amines. (Some
 
 
 
@@ -1757,15 +1551,13 @@ strated fast ignition with dienes, acetylenics, and allyl amines. (Some
 The Hunting of the Hypergol . . .
 
 years later, in 1954, Lou Rapp at RMI assembled the results of all the
-early ignition delay work, and attempted to make some generaliza-
-tions. His major conclusion was that the ignition of a hydrocarbon or
+early ignition delay work, and attempted to make some generalizations. His major conclusion was that the ignition of a hydrocarbon or
 an alcohol involved the reaction of the acid with a double or triple
 bond, and that if none existed it had to be created before the ignition
 could take place. Later, in speaking of nitric acid, the plausibility of
 this postulate will be examined.)
 
-But then Pino, in 1949, made a discovery that can fairly be de-
-scribed as revolting. He discovered that butyl mercaptan was very
+But then Pino, in 1949, made a discovery that can fairly be described as revolting. He discovered that butyl mercaptan was very
 rapidly hypergolic with mixed acid. This naturally delighted Standard
 of California, whose crudes contained large quantities of mercaptans
 and sulfides which had to be removed in order to make their gasoline
@@ -1775,26 +1567,22 @@ life would indeed be beautiful.
 
 Well, it had two virtues, or maybe three. It was hypergolic with
 mixed acid, and it had a rather high density for a fuel. And it wasn’t
-corrosive. But its performance was below that of a straight hydro-
-carbon, and its odor — ! Well, its odor was something to consider.
+corrosive. But its performance was below that of a straight hydrocarbon, and its odor — ! Well, its odor was something to consider.
 Intense, pervasive and penetrating, and resembling the stink of an
 enraged skunk, but surpassing, by far, the best efforts of the most
 vigorous specimen of Mephitis mephitis. It also dings to the clothes and
 the skin. But rocketeers are a hardy breed, and the stuff was duly and
-successfully fired, although it is rumored that certain rocket mechan-
-ics were excluded from their car pools and had to run behind. Ten
+successfully fired, although it is rumored that certain rocket mechanics were excluded from their car pools and had to run behind. Ten
 years after it was fired at the Naval Air Rocket Test Station — N ARTS
 — the odor was still noticeable around the test areas. (And at NARTS,
 with more zeal than judgment, I actually developed an analysis for it!)
 
 California Research had an extremely posh laboratory at Richmond,
-on San Francisco Bay, and that was where Pino started his investiga-
-tions. But when he started working on the mercaptans, he and his
+on San Francisco Bay, and that was where Pino started his investigations. But when he started working on the mercaptans, he and his
 accomplices were exiled to a wooden shack out in the boondocks at
 least two hundred yards from the main building. Undeterred and
 unrepentant, he continued his noisome endeavors, but it is very
-much worth noting that their emphasis had changed. His next candi-
-dates were not petroleum by-products, nor were they chemicals
+much worth noting that their emphasis had changed. His next candidates were not petroleum by-products, nor were they chemicals
 which were commercially available. They were synthesized by his
 own crew, specifically for fuels. Here, at the very beginning of the
 . r &gt;()’s, the chemists started taking over from the engineers, synthesizing
@@ -1823,14 +1611,10 @@ sulfur, and whose odor can’t, with all the resources of the English
 language, even be described. It also drew flies. This was too much,
 even for Pino and his unregenerate crew, and they banished it to a
 hole in the ground another two hundred yards farther out into the
-tide marshes. Some months later, in the dead of night, they surrep-
-titiously consigned it to the bottom of San Francisco Bay.
+tide marshes. Some months later, in the dead of night, they surreptitiously consigned it to the bottom of San Francisco Bay.
 
-To understand the entry of the next group of workers into the pro-
-pellant field, it’s necessary to go back a bit and pick up another thread.
-From the beginning, the services had disliked the fuels that the re-
-searchers had offered them, not only because of their inherent dis-
-advantages, but above all because they weren’t gasoline. They already
+To understand the entry of the next group of workers into the propellant field, it’s necessary to go back a bit and pick up another thread.
+From the beginning, the services had disliked the fuels that the researchers had offered them, not only because of their inherent disadvantages, but above all because they weren’t gasoline. They already
 had gasoline and used huge quantities of it — and why should they
 have to bother with something else? But, as we have seen, gasoline is
 not a good fuel to burn with nitric acid, and the services had to accept
@@ -1844,17 +1628,14 @@ fueled with jet fuel.
 Now, what is jet fuel? That depends. A turbojet has a remarkably
 undiscriminating appetite, and will run, or can be made to run, on
 just about anything that will burn and can be made to flow, from coal
-dust to hydrogen. But the services decided, in setting up the specifica-
-tions for the jet fuel that they were willing to buy, that the most im-
-portant considerations should be availability and ease of handling.
+dust to hydrogen. But the services decided, in setting up the specifications for the jet fuel that they were willing to buy, that the most important considerations should be availability and ease of handling.
 So since petroleum was the most readily available source of thermal
 energy in the country, and since they had been handling petroleum
 products for years, and knew all about it, the services decided that jet
 fuel should be a petroleum derivative — a kerosene.
 
 The first fuel that they specified was JP-1, a rather narrow cut, high
-paraffinic kerosene. The oil companies pointed out that not many re-
-
+paraffinic kerosene. The oil companies pointed out that not many re
 
 
 33
@@ -1862,10 +1643,7 @@ paraffinic kerosene. The oil companies pointed out that not many re-
 
 The Hunting of the Hypergol . . .
 
-fineries in the country could produce such a product with their avail-
-able equipment and crudes, and that the supply might thus be some-
-what limited. So the next specification, for JP-3 (JP-2 was an exper-
-imental fuel that never got anywhere), was remarkably liberal, with a
+fineries in the country could produce such a product with their available equipment and crudes, and that the supply might thus be somewhat limited. So the next specification, for JP-3 (JP-2 was an experimental fuel that never got anywhere), was remarkably liberal, with a
 wide cut (range of distillation temperatures) and with such permissive
 limits on olefins and aromatics that any refinery above the level of a
 Kentucky moonshiner’s pot still could convert at least half of any
@@ -1884,8 +1662,7 @@ But trying to burn JP-3 or JP-4 in a rocket motor with nitric acid
 was a harrowing experience. In the first place, the specifications being
 what they were, no two barrels of it were alike. (A jet engine doesn’t
 care about the shape of the molecules it burns as long as they give up
-the right number of BTU’s per pound, but a nitric acid rocket is fus-
-sier.) It wasn’t hypergolic with acid, but reacted with it to produce all
+the right number of BTU’s per pound, but a nitric acid rocket is fussier.) It wasn’t hypergolic with acid, but reacted with it to produce all
 sorts of tars, goos, weird colored compounds of cryptic composition
 — and troubles. And if you got it going — using a hypergolic slug, say —
 sometimes everything went well, but usually not. It was acid-gasoline
@@ -1894,11 +1671,8 @@ managed to reduce itself to fragments, and the engineers to frustrated
 blasphemy. Everything was tried to make the stuff burn smoothly,
 from catalysts in the acid down — or up — to voodoo. The farthest-out
 expedient that I heard of was tried at Bell Aeronautic .|Somebody had
-the bright idea that the sonic vibrations of a rocket motor might pro-
-mote combustion. So he made a tape recording of the sound of a run-
-ning motor and played it back at the interacting propellants in the
-hope that they might be shaken — or shamed — into smooth combus-
-tion. (Why not? He’d tried everything else!) But alas, this didn’t work
+the bright idea that the sonic vibrations of a rocket motor might promote combustion. So he made a tape recording of the sound of a running motor and played it back at the interacting propellants in the
+hope that they might be shaken — or shamed — into smooth combustion. (Why not? He’d tried everything else!) But alas, this didn’t work
 either. Obviously JP was a lost cause as far as the rocket business was
 concerned.
 
@@ -1912,8 +1686,7 @@ you couldn’t make JP work, maybe you could derive something else
 34 Ignition
 
 (cheaply, for choice) from petroleum that would. Or, one hoped, that
-could be mixed with JP and make the latter burn smoothly over a rea-
-sonable mixture-ratio range.
+could be mixed with JP and make the latter burn smoothly over a reasonable mixture-ratio range.
 
 The title of the program was deceptive. “Derivable” is an elastic
 term, and it is to be doubted that the higher-ups of the Bureau of
@@ -1929,8 +1702,7 @@ The contractors now joining their endeavors to those of California
 Research were the Shell Development Co., Standard Oil of Indiana,
 Phillips Petroleum, and the Chemical Engineering Department of
 New York University (NYU). And for the next two or three years
-there was a continuous ignition delay project going on. Each labora-
-tory, as it came up with a new hypergolic additive, would ship samples
+there was a continuous ignition delay project going on. Each laboratory, as it came up with a new hypergolic additive, would ship samples
 to all the others, who would mix it with standard nonhypergolic fuels
 and then measure the ignition delay of the mixtures. The standard
 nonhypergols were generally toluene and n-heptane, although NYU,
@@ -1940,12 +1712,9 @@ of it were alike.)
 
 As for the fuels and/or additives that they synthesized, Shell and
 NYU concentrated on acetylenic compounds, and Phillips put their
-major effort into amines. As for Standard of Indiana, that organiza-
-tion went off on a wild tangent. Apparently jealous of their sister
+major effort into amines. As for Standard of Indiana, that organization went off on a wild tangent. Apparently jealous of their sister
 company of California and determined to do them one better, they
-went beyond mere sulfur compounds, and came down hard on phos-
-phorous derivatives. They investigated assorted substituted phos-
-phines, from the timethyl phosphine, through butyl and octyl
+went beyond mere sulfur compounds, and came down hard on phosphorous derivatives. They investigated assorted substituted phosphines, from the timethyl phosphine, through butyl and octyl
 phosphines, on to monochloro (dimethylamino) phosphine, and then
 they settled happily on the alkyl trithiophosphites, with the general
 formula (RS) 3 P, where R could be methyl, ethyl, or whatever. The
@@ -1968,8 +1737,7 @@ their structures had an unnerving resemblance to those of the G
 agents, or “nerve gases” or of some of the insecticides which so
 alarmed Rachel Carlson. This disquietude was justified. When some
 of the alkylthiophosphites were fired at NARTS, they put two rocket
-mechanics in the hospital, whereupon they were summarily and vio-
-lently thrown off the station. Standard of Indiana plugged them hard,
+mechanics in the hospital, whereupon they were summarily and violently thrown off the station. Standard of Indiana plugged them hard,
 and there was even a conference devoted to them in March of 1953,
 but somehow they, like the mercaptans, never roused the enthusiasm
 of the prospective users. Neither type of propellant, now, is anything
@@ -1980,19 +1748,15 @@ been shown (by Lou Rapp and Mike Pino, among others) that double
 and triple bonds aided hypergolic ignition, and it was reasonable
 to assume that they might promote smooth combustion, if only by
 furnishing the fuel molecule with a weak point where the oxidation
-might start. Furthermore, the parent molecule of the family, acety-
-lene itself, had always been regarded hopefully by the workers in the
+might start. Furthermore, the parent molecule of the family, acetylene itself, had always been regarded hopefully by the workers in the
 field. The extra energy conferred upon it by the triple bond should
 lead to good performance, although the low percentage of hydrogen
-in the molecule might work against it. (See the chapter on perform-
-ance.) But pure liquid acetylene was just too dangerous to live with —
+in the molecule might work against it. (See the chapter on performance.) But pure liquid acetylene was just too dangerous to live with —
 having a lamentable tendency to detonate without warning and for
 no apparent reason. Perhaps some of its derivatives might be less
-temperamental. And these was another reason for looking at the acety-
-lenics.
+temperamental. And these was another reason for looking at the acetylenics.
 
-A good many people, in the early 50’s, were considering some un-
-usual, not to say bizarre, propulsion cycles. Among these was the ram
+A good many people, in the early 50’s, were considering some unusual, not to say bizarre, propulsion cycles. Among these was the ram
 rocket. This is a rocket, generally a monopropellant rocket, inside of
 and surrounded by a ramjet. A ramjet will not function except at
 high speed relative to the atmosphere, and hence has to be boosted
@@ -2015,19 +1779,14 @@ products are methane and carbon monoxide, was considered for the
 
 same sort of cycle.) So the acetylenics looked good for the ram rocket.
 
-And finally, the acetylenics are rather easy to produce from petro-
-leum feed-stock, by cracking and partial oxidation. The approaches
-of NYU and of Shell to the acetylenic problem were completely dis-
-similar. NYU tried dozens of compounds of the family, while Shell
+And finally, the acetylenics are rather easy to produce from petroleum feed-stock, by cracking and partial oxidation. The approaches
+of NYU and of Shell to the acetylenic problem were completely dissimilar. NYU tried dozens of compounds of the family, while Shell
 concentrated on just two, and then went hunting for additives which
-would make them into useful fuels. One of the two was 1,6-hepta-
-diyne, with the skeletal structure C=C — C — C — C — C=C. And the
-other was 2-methyl- l-buten-3-yne, otherwise known as “iso-
-propenyl acetylene” or “methyl vinyl acetylene,” whose skeleton is
+would make them into useful fuels. One of the two was 1,6-heptadiyne, with the skeletal structure C=C — C — C — C — C=C. And the
+other was 2-methyl- l-buten-3-yne, otherwise known as “isopropenyl acetylene” or “methyl vinyl acetylene,” whose skeleton is
 C
 
-C=C — C=C . One source of confusion in the history of the acety-
-lenics is the multiplicity of systems by \vhich they were named!
+C=C — C=C . One source of confusion in the history of the acetylenics is the multiplicity of systems by \vhich they were named!
 
 The first additives that they investigated thoroughly were methyl
 derivatives of phosphorous triamide, P(NH 2 ) 3 , with methyl groups
@@ -2043,8 +1802,7 @@ O
 
 
 
-and finally settled on 2-dimethylamino-4-methyl- 1,3,2-dioxaphospho-
-lane, which was usually, and mercifully, known as “Reference Fuel
+and finally settled on 2-dimethylamino-4-methyl- 1,3,2-dioxaphospholane, which was usually, and mercifully, known as “Reference Fuel
 208.” Again, it wasn’t a success as an additive, but taken neat, it was
 one of the fastest hypergols ever seen. It wasn’t particularly toxic, and
 might have made a fairly good workhorse fuel, but before much work
@@ -2058,8 +1816,7 @@ methyl acetylene, C — C=C to such things as dimethyldivinyldiacetylen
 C C
 
 C=C — C=C — G===C — C=C with no less than four multiple bonds.
-The climax of unsaturation came with butyne di-nitrile, or dicyano-
-
+The climax of unsaturation came with butyne di-nitrile, or dicyano
 
 
 The Hunting of the Hypergol ... 37 (
@@ -2078,36 +1835,27 @@ form explosive peroxides on exposure to the atmosphere. Many of
 them were shock sensitive, and would decompose explosively with
 little or no provocation. Something like divinyldiacetylene can fairly
 be described as an accident looking for a place to happen. While
-some of them were fired successfully in a rocket (RMI burned pro-
-pyne, methylvinylacetylene methyldivinylacetylene, and dimethyl-
-divinylacetylene, all with oxygen) they turned out not to be suitable
-fuels for nitric acid. They usually detonated on contact with the oxi-
-dizer, as several possessors of piles of junk that had originally been
+some of them were fired successfully in a rocket (RMI burned propyne, methylvinylacetylene methyldivinylacetylene, and dimethyldivinylacetylene, all with oxygen) they turned out not to be suitable
+fuels for nitric acid. They usually detonated on contact with the oxidizer, as several possessors of piles of junk that had originally been
 ignition delay equipment could testify, and did.
 
-But some of them showed promise as monopropellants and as ad-
-ditives, and the Air Reduction Co., which had entered the field around
-the middle of 1953, had propyne, methylvinylacetylene, and dimethyl-
-divinylacetylene in commercial production by 1955.
+But some of them showed promise as monopropellants and as additives, and the Air Reduction Co., which had entered the field around
+the middle of 1953, had propyne, methylvinylacetylene, and dimethyldivinylacetylene in commercial production by 1955.
 
 Some of them were excellent additives for JP-4. By August, 1953,
 RMI had shown that as little as 10 percent of methylvinylacetylene
 in JP-4 led to smooth combustion with RFNA over a wide range of
 mixture ratios, and greatly improved ignition. If a hypergolic slug
-was used, transition to the working fuel was smooth and without in-
-cident, and, for that matter, ignition could easily be achieved with a
+was used, transition to the working fuel was smooth and without incident, and, for that matter, ignition could easily be achieved with a
 powder squib, and without a starting slug at all. Several of the others
-had the same effect, but by the time that this was determined the acet-
-ylenics had been overtaken by history, and had been developed only
+had the same effect, but by the time that this was determined the acetylenics had been overtaken by history, and had been developed only
 to be abandoned.
 
 Homer Fox and Howard Bost ran the amine program at Phillips
 Petroleum. The relationship of amines to petroleum is exiguous at
 best, but they had been used as fuels for some time (triethylamine had
 been used in the Tonkas) and looked good, although they had never
-been examined systematically for propellant use. This Phillips pro-
-ceeded to do, and investigated amines in infinite variety. Primary, sec-
-ondary, and tertiary amines. Saturated and unsaturated amines, allyl
+been examined systematically for propellant use. This Phillips proceeded to do, and investigated amines in infinite variety. Primary, secondary, and tertiary amines. Saturated and unsaturated amines, allyl
 and propargyl amines. Monoamines, diamines, even triamines and
 letramines. They must have synthesized and characterized at least
 
@@ -2125,19 +1873,15 @@ amine might be more so. (Their guess turned out to be right, but one
 is reminded of E. T. Bell’s remark that the great vice of the Greeks
 was not sodomy but extrapolation.) The compounds they investigated
 ranged from 1,2 bis (dimethylamino) ethane, up to such curiosities as
-1,2,3, tris (dimethylamino) propane and tetrakis (dimethylamino-
-methyl) methane, which can be visualized as a neopentane molecule
+1,2,3, tris (dimethylamino) propane and tetrakis (dimethylaminomethyl) methane, which can be visualized as a neopentane molecule
 with a dimethylamine group on each corner. Incidentally, it turned
 out to have an unacceptably high freezing point, which, considering
 the symmetry of the molecule, might have been expected. One is led
-to suspect that some of the fancier amines were synthesized, not be-
-cause there was any reason to believe that they would be an improve-
-ment on the ones they already had, but to demonstrate the virtuosity
+to suspect that some of the fancier amines were synthesized, not because there was any reason to believe that they would be an improvement on the ones they already had, but to demonstrate the virtuosity
 of the bench man, who wanted to prove that he could do it.
 
 The tertiary diamines were the ones that really got a workout. Just
-about every possible structural change, and its consequences, were in-
-vestigated. Thus they investigated the consequences of varying the
+about every possible structural change, and its consequences, were investigated. Thus they investigated the consequences of varying the
 terminal groups, as in the series:
 
 1,2 bis (dimethyl, or ethyl, or allylamino) ethane.
@@ -2157,8 +1901,7 @@ ethane
 
 1,3
 
--bis (dimethylamino)-
-
+-bis (dimethylamino)
 propane
 
 1,4
@@ -2200,21 +1943,16 @@ The Hunting of the Hypergol ... 39
 And they tried every conceivable permutation and combination of
 these changes, as well as adding OH groups or ether linkages.
 
-As might have been expected, introducing an hydroxyl group pro-
-duced a compound which was excessively viscous at low temperatures.
+As might have been expected, introducing an hydroxyl group produced a compound which was excessively viscous at low temperatures.
 (Triethanolamine, which had been considered as a fuel, is an extreme
-example of this effect, and therefore was never used.) The allyl-ter-
-minated amines were also rather viscous, and were subject to atmos-
-pheric oxidation. Otherwise, as might have been expected, they were
+example of this effect, and therefore was never used.) The allyl-terminated amines were also rather viscous, and were subject to atmospheric oxidation. Otherwise, as might have been expected, they were
 all very much alike, the complicated ones being in no way superior to
 the simple compounds, as might also have been expected.
 
-None of them was any good as a jet fuel additive. They neither im-
-proved combustion nor, except in overwhelming proportions, made
+None of them was any good as a jet fuel additive. They neither improved combustion nor, except in overwhelming proportions, made
 the jet fuel hypergolic. However, they looked promising as straight
 fuels, and Phillips shipped samples of four of them to the Wright Air
-Development Center to be test fired. They were all of the bis (di-
-methylamino) type, the 1,2 ethane, the 1,2, and 1,3 propane, and the
+Development Center to be test fired. They were all of the bis (dimethylamino) type, the 1,2 ethane, the 1,2, and 1,3 propane, and the
 1,3-1 butene.
 
 At WADC, in 1956, Jack Gordon checked out their properties and
@@ -2225,9 +1963,7 @@ and suitable for regenerative cooling.
 
 And they, too, were obsolete at birth.
 
-For all this work had been done, as it were, with the left hand. Hy-
-drazine was the name of the big game. That was the fuel that every-
-body wanted to use. High performance, good density, hypergolic with
+For all this work had been done, as it were, with the left hand. Hydrazine was the name of the big game. That was the fuel that everybody wanted to use. High performance, good density, hypergolic with
 the storable oxidizers — it had everything. Almost,
 
 Its price was high, but the nature of the chemical industry being
@@ -2257,30 +1993,23 @@ properties. Which turned out to be impossible. This could have been
 predicted, but at that time we were all hoping for miracles.
 
 From first to last, at least eight agencies were involved in the effort,
-Aerojet, JPL, the Metalectro Co., NARTS, Naval Ordnance Test Sta-
-tion (NOTS), North American Aviation, Reaction Motors, and Syra-
-cuse University.
+Aerojet, JPL, the Metalectro Co., NARTS, Naval Ordnance Test Station (NOTS), North American Aviation, Reaction Motors, and Syracuse University.
 
-The first freezing point depressant to be tried — although involun-
-tarily— was water. Hydrazine hydrate, which is 36 percent water, has
+The first freezing point depressant to be tried — although involuntarily— was water. Hydrazine hydrate, which is 36 percent water, has
 a freezing point of —51.7°, and a mixture containing 42 percent water
 freezes at —54°. (V. I. Semishin, in Russia, had determined part of the
 hydrazine-water phase diagram in 1938, and Mohr and Audrieth, in
-this country, in 1949, and Hill and Summer, in England, in 1951 com-
-pleted the job.) But water was an extremely bad additive for a fuel. It
+this country, in 1949, and Hill and Summer, in England, in 1951 completed the job.) But water was an extremely bad additive for a fuel. It
 contributed nothing to the energetics of the system, and the mass of
-the water, just going along for the ride, seriously degraded the per-
-formance.
+the water, just going along for the ride, seriously degraded the performance.
 
 Ammonia wasn’t quite as bad. F. Fredericks, in 1913 and in 1923,
 had reported on the hydrazine-ammonia phase diagram, which was
 also investigated by D. D. Thomas, at JPL, in 1948. Ammonia, unlike
-water, was a fuel, but it is a very stable compound and its heat of com-
-bustion is not what might be desired. And it took something like 61
+water, was a fuel, but it is a very stable compound and its heat of combustion is not what might be desired. And it took something like 61
 percent of ammonia in the hydrazine to reduce its freezing point to
 — 54°! This not only reduced the performance sharply, but decreased
-the density of the fuel, and, on top of that increased its vapor pres-
-sure so much that it boiled at about —25° instead of at the +113.5°
+the density of the fuel, and, on top of that increased its vapor pressure so much that it boiled at about —25° instead of at the +113.5°
 boiling point of pure hydrazine. Dave Horvitz of RM1 investigated
 ternary mixtures of hydrazine, water, and ammonia in 1950, but
 couldn’t End any mixture that possessed both an acceptable freezing
@@ -2291,13 +2020,11 @@ Another additive investigated by RMI (in 1947) was methanol. A
 mixture containing 44 percent of the hydrazine and 56 of the alcohol
 freezes at —54°, and its other physical properties are acceptable, but
 it yields a performance considerably below that of the neat hydrazine.
-Some years later, under circumstances which will be described, inter-
-est in the mixture was revived.
+Some years later, under circumstances which will be described, interest in the mixture was revived.
 
 Don Armstrong, of Aerojet, came up with something in the summer
 of 1948 that for a time looked extremely promising. He found that
-the addition of 1 3 percent of lithium borohydride to hydrazine pro-
-duced a mixture whose (eutectic) freezing point was —49°. Not the
+the addition of 1 3 percent of lithium borohydride to hydrazine produced a mixture whose (eutectic) freezing point was —49°. Not the
 
 
 
@@ -2311,43 +2038,31 @@ from 1.004 to about 0.93, but as the borohydride itself is such an
 energetic compound there was no reason to expect any appreciable
 degradation of the performance. But, alas, his triumph was illusory.
 After some time had elapsed the mixture was found to be inherendy
-unstable, and slowly and inexorably to decompose, with a steady evo-
-lution of hydrogen. They gave the whole idea up around 1952, but
+unstable, and slowly and inexorably to decompose, with a steady evolution of hydrogen. They gave the whole idea up around 1952, but
 RMI was looking at it as late as 1958, and only around 1966 or
-1967 somebody else suggested using LiBH 4 as a freezing point de-
-pressant for hydrazine! This may indicate something beyond a pro-
-found and depressing ignorance of the history of one’s own technol-
-ogy, but I’m not exactly sure what.
+1967 somebody else suggested using LiBH 4 as a freezing point depressant for hydrazine! This may indicate something beyond a profound and depressing ignorance of the history of one’s own technology, but I’m not exactly sure what.
 
 At about the same time T. L. Thompson, of North American, came
-up with another freezing point additive, whose major drawback, al-
-though its thermal stability was poor, was that it scared everybody to
+up with another freezing point additive, whose major drawback, although its thermal stability was poor, was that it scared everybody to
 death. He found that 15 percent of hydrocyanic acid, HCN, would
 reduce the freezing point of hydrazine to —54°. But the mere thought
-of the HCN so alarmed everybody (although much more toxic com-
-pounds had been and would be investigated, and without any par-
-ticular notice being taken of it) that the mixture was never accepted.
+of the HCN so alarmed everybody (although much more toxic compounds had been and would be investigated, and without any particular notice being taken of it) that the mixture was never accepted.
 
 At about this time (1949-50) the LAR missile was being developed
 at NOTS, and E. D. Campbell and his associates came up with a low
-freezing fuel for it — a mixture of 67 percent hydrazine and 33 am-
-monium thiocyanate, with a freezing point of —54°. This could be lived
-with, although the performance was somewhat degraded and the va-
-por pressure was inconveniently high.
+freezing fuel for it — a mixture of 67 percent hydrazine and 33 ammonium thiocyanate, with a freezing point of —54°. This could be lived
+with, although the performance was somewhat degraded and the vapor pressure was inconveniently high.
 
 Early in 1951, Dave Horvitz at the Metallectro Co. (where he had
 moved from RMI) investigated hydrazine-aniline mixtures, and
 found that the eutectic composition, with a freezing point of —36°,
-contained only 17 percent hydrazine. He then started adding methyl-
-amine to the mixture, to reduce the viscosity as well as the freezing
+contained only 17 percent hydrazine. He then started adding methylamine to the mixture, to reduce the viscosity as well as the freezing
 point, and finally came up with a hydrazine-aniline-methylamine
 mixture (regrettably called “HAM Juice”), which froze at —50°, but
 contained only 9.1 percent of hydrazine, with 19.3 of methylamine
 and 71.6 of aniline. This was investigated rather thoroughly, and was
 test fired, but it wasn’t the answer that people were looking for. (But
-the Army, in 1953 added 5 percent of hydrazine to their aniline-fur-
-furyl alcohol Corporal fuel, and three years later raised the percent-
-age to seven.)
+the Army, in 1953 added 5 percent of hydrazine to their aniline-furfuryl alcohol Corporal fuel, and three years later raised the percentage to seven.)
 
 One of the most thoroughly investigated additives was hydrazine
 nitrate. The ammonia analogue of the mixture — ammonium nitrate
@@ -2357,37 +2072,30 @@ in ammonia, Diver’s solution — had been around for years, so the idea
 
 42 Ignition
 
-was obvious enough, and apparently several people thought of it in-
-dependently at about the same time. Dwiggins at the Naval Ordnance
+was obvious enough, and apparently several people thought of it independently at about the same time. Dwiggins at the Naval Ordnance
 Laboratory (NOL) and my group at NARTS investigated the system
 in 1951, and by the end of 1953 J. M. Corcoran and his colleagues at
-NOTS had worked out the whole hydrazine-hydrazine nitrate-wa-
-ter system. A mixture containing 55 percent hydrazine and 45 hydra-
-zine nitrate froze below —40°, and the magic —54° could be attained
+NOTS had worked out the whole hydrazine-hydrazine nitrate-water system. A mixture containing 55 percent hydrazine and 45 hydrazine nitrate froze below —40°, and the magic —54° could be attained
 with one containing 54 percent hydrazine, 33 of the nitrate, and 13
 water. This was not bad, but there was, as usual, a catch or two. The
 mixtures were quite viscous at low temperatures, and had a tendency
 to froth, which could lead to trouble if a pumped feed system were
 used. And, particularly, most of the really useful mixtures, with low
 percentages of water, could be detonated with alarming ease. (And
-the dry hydrazine nitrate, if mistreated, could produce a very plau-
-sible simulation of a turret fire. The NARTS group found that out!)
+the dry hydrazine nitrate, if mistreated, could produce a very plausible simulation of a turret fire. The NARTS group found that out!)
 But some of the mixtures could be used as monopropellants, and as
 such, were studied extensively for some years, and some of them were
 tried as liquid gun propellants.
 
-The NARTS group, not content with mere nitrates, tried hydra-
-zine perchlorate as a depressant in 1951, and found that a mixture
+The NARTS group, not content with mere nitrates, tried hydrazine perchlorate as a depressant in 1951, and found that a mixture
 containing 49 percent hydrazine, 41.5 of the perchlot'ate, and 8.5
 water was still liquid at —54°. But it was even more likely to detonate
 than were the nitrate mixtures (while attempting to investigate its
 thermal stability we blew a hole in the ceiling of the laboratory), and
 I discovered, nearly blowing my head off in the process, that it is not
-advisable to attempt to dehydrate the hydrazinium perchlorate hemi-
-hydrate (the form in which it crystallizes) to the anhydrous salt. So,
+advisable to attempt to dehydrate the hydrazinium perchlorate hemihydrate (the form in which it crystallizes) to the anhydrous salt. So,
 although the perchlorate mixture was more energetic than the nitrate
-mixtures, its use was outside of the range of practical politics. Never-
-theless, Walker, at Syracuse University, tried sodium perchlorate
+mixtures, its use was outside of the range of practical politics. Nevertheless, Walker, at Syracuse University, tried sodium perchlorate
 monohydrate a year or so later, and found that a 50-percent mixture
 with hydrazine froze at approximately —46°. Somehow, he managed
 to do it without killing himself.
@@ -2395,12 +2103,10 @@ to do it without killing himself.
 Many other freezing point depressants were tried by various
 groups, with little or no success, and it was rapidly becoming obvious
 that the additive approach wasn’t going to get anywhere. You either
-ruined your performance or were likely to blow your head off. Some-
-thing new had to be added to people’s thinking.
+ruined your performance or were likely to blow your head off. Something new had to be added to people’s thinking.
 
 It was a Navy program that led to the breakout. At the beginning of
-1951 the Rocket Branch of the Bureau of Aeronautics granted con-
-tracts to Metallectro and to Aerojet to synthesize certain hydrazine
+1951 the Rocket Branch of the Bureau of Aeronautics granted contracts to Metallectro and to Aerojet to synthesize certain hydrazine
 derivatives, and to determine their suitability as rocket propellants.
 
 
@@ -2418,8 +2124,7 @@ freezing point without changing its energetics enough to matter.
 
 At NARTS, I had the same idea, and managing to lay my hands on
 a pound of monomethylhydrazine — it cost $50.00 — 1 investigated its
-mixtures with hydrazine, and before the end of the year recom-
-mended the eutectic, which contained 12 percent hydrazine and froze
+mixtures with hydrazine, and before the end of the year recommended the eutectic, which contained 12 percent hydrazine and froze
 at —61°, as the fuel to concentrate on.* The performance with HN0 3
 was about 98 percent of that of straight hydrazine, the density was
 not too bad (0.89) the freezing point was beautiful, the viscosity was
@@ -2430,28 +2135,23 @@ the parent compound.
 
 It didn’t take Metallectro and Aerojet very long to discover that
 they were on to something good. Symmetrical dimethyl hydrazine
-turned out to be a dog (it’s freezing point was only —8.9°), but mono-
-methylhydrazine (to be referred to from now on as MMH) melted
+turned out to be a dog (it’s freezing point was only —8.9°), but monomethylhydrazine (to be referred to from now on as MMH) melted
 at —52.4°, and unsymmetrical dimethyl hydrazine (UDMH) melted
 at —57.2°. And Dave Horvitz at Metallectro found that the 60-40
 UDMH-MMH eutectic mixture froze only at —80°, or — 112°F, thus
 exceeding the Navy’s mystic goal. What’s more, its viscosity at their
 magic —100°F was only 50 centipoises, so that it could really be used at
-that temperature. In the meantime, Aston and his colleagues at Penn-
-sylvania State College had been determining the thermodynamic prop-
-erties (heat of formation, heat capacity, heat of vaporization, etc.) of
+that temperature. In the meantime, Aston and his colleagues at Pennsylvania State College had been determining the thermodynamic properties (heat of formation, heat capacity, heat of vaporization, etc.) of
 the substituted hydrazines, and by 1953 just about every useful piece
 of information about UDMH and MMH had been firmly nailed down.
 
 They were both magnificent fuels — and the question that had to
-be decided was which one to concentrate on. A symposium on hydra-
-zine and its derivatives and applications was held in February 1953,
+be decided was which one to concentrate on. A symposium on hydrazine and its derivatives and applications was held in February 1953,
 and the question was argued at length and with heat. MMH was a
 little denser than UDMH, and had a slightly higher performance.
 On the other hand, UDMH was less liable to catalytic decomposition,
 and had such good thermal stability that it could easily be used for
-regenerative cooling. Either one could be used as a combustion addi-
-tive for JP-4, but UDMH was more soluble, and would tolerate a
+regenerative cooling. Either one could be used as a combustion additive for JP-4, but UDMH was more soluble, and would tolerate a
 
 
 * MHF-3, introduced by Reaction Motors a few years ago, is 86% monomethyl
@@ -2465,23 +2165,16 @@ larger percentage of water in the fuel without separating. Both were
 hypergolic with nitric acid, the UDMH being the faster — after all, it
 was not only a hydrazine, but also a tertiary amine. And they both
 performed well as propellants, with performances superior to those
-of the tertiary diamines or of any of the phosphorous or sulfur com-
-pounds or of the old aniline type or furfuryl alcohol fuels. My MMH-
-hydrazine mixture was fired at NARTS early in 1954, UDMH at
-WADC at about the same time, MMH a little later and the UDMH-
-MMH eutectic at the same agency during 1955 — all with red fuming
+of the tertiary diamines or of any of the phosphorous or sulfur compounds or of the old aniline type or furfuryl alcohol fuels. My MMHhydrazine mixture was fired at NARTS early in 1954, UDMH at
+WADC at about the same time, MMH a little later and the UDMHMMH eutectic at the same agency during 1955 — all with red fuming
 nitric acid. And UDMH in JP-4 was so successful in smoothing out
 combustion that the fuel decided upon for the Nike Ajax missile was
 17 percent UDMH in JP-4. The substituted hydrazine program was
-a resounding success. It had made all the other storable fuels com-
-pletely obsolete.
+a resounding success. It had made all the other storable fuels completely obsolete.
 
-The final decision to concentrate on UDMH was made on eco-
-nomic grounds. The two competitors for the first production con-
-tract for the substituted hydrazines were Metallectro and the Westvaco
+The final decision to concentrate on UDMH was made on economic grounds. The two competitors for the first production contract for the substituted hydrazines were Metallectro and the Westvaco
 Chlor-Alkali division of Food Machinery and Chemical Co. (FMC).
-Metallectro proposed using a modification of the classic Raschig proc-
-ess for hydrazine, by reacting chloroamine with mono or dimethyl
+Metallectro proposed using a modification of the classic Raschig process for hydrazine, by reacting chloroamine with mono or dimethyl
 amine, according to which of the two hydrazines the customer
 wanted. And in their bid they proposed a carefully worked out sliding
 scale of prices, depending on the size of the order.
@@ -2491,20 +2184,17 @@ synthesis in which nitrous acid reacts with dimethyl amine to form
 nitrosodimethylamine, which can easily be reduced to the UDMH.
 The process cannot be used for MMH, and so Westvaco ignored the
 latter, and being prepared to take a loss on the initial orders (after
-all, the money involved was trivial from the point of view of a com-
-pany the size of FMC), drastically underbid Metallectro. They got the
+all, the money involved was trivial from the point of view of a company the size of FMC), drastically underbid Metallectro. They got the
 order, and Metallectro dropped out of the picture for good. The
 first military specifications for UDMH were published in September
 1955. '
 
-But that didn’t inhibit Westvaco’s advertising department. Intoxi-
-cated with success, and military specification or no, they tried to get
+But that didn’t inhibit Westvaco’s advertising department. Intoxicated with success, and military specification or no, they tried to get
 away with a trade name, and called their stuff “DIMAZINE — the
 Westvaco brand of UDMH” and insisted that all of their people refer
 to it by that name. I pitied some of their chemists, visiting various
 agencies in the rocket business, dutifully and blushingly obeying
-orders, amidst the ribald hoots from their highly sophisticated audi-
-ences, who were as aware as they were themselves of the fact that
+orders, amidst the ribald hoots from their highly sophisticated audiences, who were as aware as they were themselves of the fact that
 
 
 
@@ -2517,34 +2207,26 @@ Some attempts were made to improve upon UDMH. Mike Pino at
 California Research had, as we have seen, worked with ally] amines,
 and in 1954 he carried this a bit further, and came up with the mono
 and the unsymmetrical diallyl hydrazines. These were interesting, but
-no particular improvement over UDMH, and were sensitive to oxida-
-tion and polymerization. And the people at Dow Chemical, a little
-later, produced monopropargyl hydrazine and unsymmetrical dipro-
-pargyl hydrazine. Again, no improvement, and both of them were
+no particular improvement over UDMH, and were sensitive to oxidation and polymerization. And the people at Dow Chemical, a little
+later, produced monopropargyl hydrazine and unsymmetrical dipropargyl hydrazine. Again, no improvement, and both of them were
 horribly viscous at low temperatures. And McBride and his group, at
 NOTS, studying the oxidation chemistry of UDMH, in 1956 came
-upon tetramethyl tetrazene (CH 3 ) 2 N — N=N — N(CH 3 ) 2 . But its per-
-formance advantage over UDMH was trivial, and its freezing point
+upon tetramethyl tetrazene (CH 3 ) 2 N — N=N — N(CH 3 ) 2 . But its performance advantage over UDMH was trivial, and its freezing point
 was quite high.
 
 So UDMH, for several years, was the fuel to be burned with nitric
 acid or N 2 0 4 . But, as designers have been trying to wring the last
 possible second of performance out of their motors, MMH has been
-growing in popularity. (It, too, has a Mil. Spec, now!) And, in applica-
-tions which do not require a low freezing point, hydrazine itself is
+growing in popularity. (It, too, has a Mil. Spec, now!) And, in applications which do not require a low freezing point, hydrazine itself is
 fused, either straight or mixed with one of its derivatives. The fuel of
 i the Titan II ICBM doesn’t have to have a low freezing point, since
 1 Titan II lives in a steam-heated hole in the ground, but it does need
-i the highest possible performance, and hydrazine was the first candi-
-date for the job. But, as hydrazine has an unfortunate tendency to
+i the highest possible performance, and hydrazine was the first candidate for the job. But, as hydrazine has an unfortunate tendency to
 detonate if you try to use it as a regenerative coolant, the fuel finally
-chosen was a 50-50 mixture of hydrazine and UDMH, called “Aero-
-zine 50” by Aerojet who came up with it first, and “50-50” by every-
-body else.
+chosen was a 50-50 mixture of hydrazine and UDMH, called “Aerozine 50” by Aerojet who came up with it first, and “50-50” by everybody else.
 
 Today there are a bewildering lot of hydrazine-type fuels around,
-with names like MAF-3 (Mixed Amine Fuel-3) or MHF-5 (Mixed Hy-
-drazine Fuel-5) or Hydyne, or Aerozine-50, or Hydrazoid N, or
+with names like MAF-3 (Mixed Amine Fuel-3) or MHF-5 (Mixed Hydrazine Fuel-5) or Hydyne, or Aerozine-50, or Hydrazoid N, or
 U-DETA or whatever. But whatever the name, the fuel is a mixture of
 two or more of the following: hydrazine, MMH, UDMH, diethylene
 triamine (DETA, added to increase the density), acetonitrile (added to
@@ -2581,8 +2263,7 @@ The RFNA of 1945 was hated by everybody who had anything to do
 with it, with a pure and abiding hatred. And with reason. In the first
 place, it was fantastically corrosive. If you kept it in an aluminum drum,
 apparently nothing in particular happened — as long as the weather
-was warm. But when it cooled down, a slimy, gelatinous, white pre-
-cipitate would appear and settle slowly to the bottom of the drum.
+was warm. But when it cooled down, a slimy, gelatinous, white precipitate would appear and settle slowly to the bottom of the drum.
 This sludge was just sticky enough to plug up the injector of the motor
 when you tried to fire it. People surmised that it was some sort of a
 solvated aluminum nitrate, but the aversion with which it was regarded
@@ -2590,15 +2271,13 @@ was equaled only by the difficulty of analyzing it.
 
 If you tried to keep the acid in stainless steel (SS-347 stood up the
 best) the results were even worse. Corrosion was faster than with
-aluminum, and the acid turned a ghastly green color and its perform-
-ance was seriously degraded. This became understandable when the
+aluminum, and the acid turned a ghastly green color and its performance was seriously degraded. This became understandable when the
 magnitude of the change in composition was discovered. Near the
 end of 1947, JPL published the results of two acid analyses. One was
 of a sample of RFNA fresh from the manufacturer, which had scarcely
 started to chew on the drum in which it was shipped. The other was a
 sample of “old” acid, which had been standing for several months in
-a SS-347 drum. The results were eloquenj,. And, if my own experi-
-ence is any criterion, there was a bit of insoluble matter of cryptic
+a SS-347 drum. The results were eloquenj,. And, if my own experience is any criterion, there was a bit of insoluble matter of cryptic
 composition on the bottom of the drum. Acid like that might have
 been useful in the manufacture of fertilizer, but as a propellant it was
 not*
@@ -2665,8 +2344,7 @@ then insists that he’s all right. And the next day, walking about, he’s
 just as likely as not to drop dead.
 
 So the propellant handlers had to wear protective suits (which are
-infernally hot and so awkward that they probably cause more ac-
-cidents than they prevent) and face shields, and frequently gas masks
+infernally hot and so awkward that they probably cause more accidents than they prevent) and face shields, and frequently gas masks
 or self-contained breathing apparatus.
 
 An alternative to RFNA was mixed acid, essentially WFNA to which
@@ -2697,8 +2375,7 @@ contain mixed acid.
 49
 
 
-Well, everybody had been wrong. The acid doesn’t corrode stain-
-less— at first. But after an induction period, which may vary from
+Well, everybody had been wrong. The acid doesn’t corrode stainless— at first. But after an induction period, which may vary from
 minutes to months, and which depends upon the acid composition
 and particularly the percentage of water, the temperature, the past
 history of the steel, and presumably upon the state of the moon, the
@@ -2714,20 +2391,17 @@ accelerates the corrosion. Within two years all the Navy’s expensive
 tank cars and drums had to be junked.
 
 Another possibility was white fuming nitric acid, which, at least,
-didn’t give off lethal clouds of N0 2 when it was poured. But its freez-
-ing point was too high to be acceptable. (Pure HN0 3 freezes at— 41.6°,
+didn’t give off lethal clouds of N0 2 when it was poured. But its freezing point was too high to be acceptable. (Pure HN0 3 freezes at— 41.6°,
 the commercial WFNA a few degrees lower.) It was just as corrosive
 as RFNA, if not more so, and was less hypergolic with many fuels
 than the red acid. And it had another trick up its sleeve. For years
-people had noted that a standing drum of acid slowly built up pres-
-sure, and had to be vented periodically. But they assumed that this
+people had noted that a standing drum of acid slowly built up pressure, and had to be vented periodically. But they assumed that this
 pressure was a by-product of drum corrosion, and didn’t think much
 about it. But then, around the beginning of 1950, they began to get
 suspicious. They put WFNA in glass containers and in the dark (to
 prevent any photochemical reaction from complicating the results)
 and found, to their dismay, that the pressure buildup was even faster
-than in an aluminum drum. Nitric acid, or WFNA at least, was in-
-herently unstable, and would decompose spontaneously, all by itself.
+than in an aluminum drum. Nitric acid, or WFNA at least, was inherently unstable, and would decompose spontaneously, all by itself.
 This was a revolting situation.
 
 The fourth possibility was N 2 0 4 . True, it was poisonous, but if
@@ -2752,28 +2426,24 @@ went on for some five years, and involved just about every chemist in
 the rocket business — and a lot who were not.
 
 There were certainly problems enough for everybody, more than
-enough to go around. As a result, research went off in a dozen differ-
-ent, and at times contradictory, directions. Several groups attacked
+enough to go around. As a result, research went off in a dozen different, and at times contradictory, directions. Several groups attacked
 the freezing point of WFNA directly, using all sorts of additives to
 bring it down to a reasonable (or, in the case of those shooting for
 — 100°F, an unreasonable) figure. R. W. Greenwood at Bell Aircraft,
 and R. O. Miller, of the Lewis Flight Propulsion Laboratory of NACA,
-both investigated ammonium nitrate and a 50 percent aqueous solu-
-tion of the salt; 72 percent perchloric acid (the anhydrous stuff was
+both investigated ammonium nitrate and a 50 percent aqueous solution of the salt; 72 percent perchloric acid (the anhydrous stuff was
 entirely too touchy to handle) and a 50 percent solution of potassium
 nitrate (the dry salt was almost insoluble in WFNA), which had been
 suggested by WADC. They got their freezing points down where they
 wanted them, but at an intolerable cost. Ignition in a motor was slow
-and frequendy explosive, and combustion was rough and unsatisfac-
-tory. And the KN0 3 solution had another disadvantage, which had not
+and frequendy explosive, and combustion was rough and unsatisfactory. And the KN0 3 solution had another disadvantage, which had not
 been anticipated. When it was fired, the exhaust stream contained a
 high concentration of potassium ions and free electrons — a plasma,
 in fact— which would absorb radio waves like mad and make radar
 guidance of a missile quite impossible. Greenwood tried a few organic
 addidves, acetic anhydride and 2,4,6 trinitrophenol among them, but
 that approach was a blind alley. Nitric acid does react with acetic
-anhydride in time — and as for the trinitrophenol, loading a propel-
-lant up with a high explosive isn’t a very appealing idea.
+anhydride in time — and as for the trinitrophenol, loading a propellant up with a high explosive isn’t a very appealing idea.
 
 W. H. Schechter, of the Callery Chemical Co., with more courage
 than judgment, investigated anhydrous perchloric acid, but found
@@ -2789,8 +2459,7 @@ freezing point of — 100°F was reached without any trouble, but the
 mixture was too sensitive and likely to explode to be of any use.
 
 Mike Pino, of California Research, tried sodium nitrite (it worked,
-but slowly reacted with the acid to form sodium nitrate, which pre-
-cipitated out) and sodium cobaltinitrite and found that 4 percent of
+but slowly reacted with the acid to form sodium nitrate, which precipitated out) and sodium cobaltinitrite and found that 4 percent of
 the salt plus 1 percent of water reduced the freezing point of anhydrous
 acid to — 65°F, but he couldn’t get to the magic — 100°F with any
 
@@ -2804,23 +2473,16 @@ acid to — 65°F, but he couldn’t get to the magic — 100°F with any
 
 reasonable amount of water. He was always very conscious of the
 effect (pernicious) of water on ignition delay, and shied away from any
-system that contained any great amount of it. The mixture was un-
-stable, too. So he took another tack, and went to work to see if he
+system that contained any great amount of it. The mixture was unstable, too. So he took another tack, and went to work to see if he
 could do anything with mixed acid. He had already tried nitrosyl
 sulfuric acid, N0HS0 4 , and had found that it was a better freezing
 point depressant than sulfuric acid, but that it was even worse as a
-sludge producer. He turned then to the alkane sulfonic acids, partic-
-ularly methane sulfonic acid, and found that 16 percent of this in
-WFNA gave a mixture that froze only at —59°, although upon oc-
-casion it could be supercooled considerably below that before solidify-
-ing. This looked promising. It gave good ignition with the fuels he
-was considering at the time (mixtures of allyl amines and triethyla-
-mine). Its corrosivity was similar to or a little less than that of WFNA
+sludge producer. He turned then to the alkane sulfonic acids, particularly methane sulfonic acid, and found that 16 percent of this in
+WFNA gave a mixture that froze only at —59°, although upon occasion it could be supercooled considerably below that before solidifying. This looked promising. It gave good ignition with the fuels he
+was considering at the time (mixtures of allyl amines and triethylamine). Its corrosivity was similar to or a little less than that of WFNA
 or of ordinary mixed acid, but it had one shining virtue — it didn’t
 produce any sludge. A similar mixed acid was investigated at North
-American Aviation at about the same time (1953). This used fluoro-
-sulfonic acid instead of the methanesulfonic, and most of its prop-
-erties were very similar to those of the other mixture. But by this
+American Aviation at about the same time (1953). This used fluorosulfonic acid instead of the methanesulfonic, and most of its properties were very similar to those of the other mixture. But by this
 time nobody cared.
 
 Many people were more interested in the ignition delay of WFNA
@@ -2835,8 +2497,7 @@ it was advisable to keep the carboy in a cold box — the colder the better
 — to slow down the decomposition of the acid.
 
 The work with this “anhydrous” acid extinguished any remaining
-doubt that ignition delay with WFNA was critically and overwhelm-
-ingly dependent on its water content. Nothing else really mattered.
+doubt that ignition delay with WFNA was critically and overwhelmingly dependent on its water content. Nothing else really mattered.
 
 It had become painfully obvious that you had to know how much
 water you had in your acid before you could load it into a missile and
@@ -2853,8 +2514,7 @@ if if couldn’t.
 
 52 Ignition
 
-Little black boxes like that aren’t too easy to come by. But two peo-
-ple tried to invent such a gadget.
+Little black boxes like that aren’t too easy to come by. But two people tried to invent such a gadget.
 
 The first was Dr. L. White, of the Southern Research Institute,
 working for the Air Force. His idea was simple and direct. Water,
@@ -2864,11 +2524,9 @@ measure the absorbtion, and there you are. (Another IR absorption
 band could be used to measure the N 2 0 4 content.) Neat, simple —
 any rocket mechanic can do it.
 
-But things didn’t turn out that way. There were the expected diffi-
-culties (only they were worse than expected) that stemmed from the
+But things didn’t turn out that way. There were the expected difficulties (only they were worse than expected) that stemmed from the
 corrosive nature of the acid and its fumes, both of which did their
-best to chew up the black box. But then something much more dis-
-concerting showed up. White would take a sample of acid which was,
+best to chew up the black box. But then something much more disconcerting showed up. White would take a sample of acid which was,
 as far as he could tell, absolutely anhydrous, with no water in it at all.
 And the IR absorpdon band was still there, as large as life, and twice
 as natural. Nitric acid appeared to be a somewhat more complicated
@@ -2883,8 +2541,7 @@ and 40’s had shown that there is an equilibrium:
 2HN0 3 ^ N0 2 + + NOg + H 2 0,
 
 so that there is some— not much, but some — “species” water present
-even in absolutely “anhydrous” acid. So the relation between “analyt-
-ical” water, which was what people were interested in, and optical
+even in absolutely “anhydrous” acid. So the relation between “analytical” water, which was what people were interested in, and optical
 absorption is not linear, and you have to analyze dozens of samples of
 acid in order to establish a calibration curve. White embarked upon
 the calibration.
@@ -2896,8 +2553,7 @@ happen. The conductivity increases at first, from the practically
 zero conductivity of pure water, to react a broad maximum at about
 33 percent acid. Then it declines, reaching a minimum at about 97.5
 percent acid, and then starts to rise again and is still increasing when
-you get to 100 percent HN0 3 . To make the whole thing more com-
-plicated, the presence of N 2 0 4 in the acid changes the conductivity,
+you get to 100 percent HN0 3 . To make the whole thing more complicated, the presence of N 2 0 4 in the acid changes the conductivity,
 too, since N 2 0 4 is partially ionized to NO + and NOT
 
 After blundering about a bit, in the spring of 1951 I took the
@@ -2914,9 +2570,7 @@ following approach: I would divide a specimen of acid into three
 parts. Part 1 was left alone. To part 2 I added a small amount of water,
 2.5 cc to 50 cc of acid. Part 3 was diluted more liberally, 30 cc of water
 to 10 of acid. I then measured the conductivities of all three parts
-and derived two ratios: conductance 1 conductance 2, and conduct-
-ance 2 : conductance 3. (Taking these ratios eliminated the conduc-
-tivity cell-constant and reduced the effect of temperature variations.)
+and derived two ratios: conductance 1 conductance 2, and conductance 2 : conductance 3. (Taking these ratios eliminated the conductivity cell-constant and reduced the effect of temperature variations.)
 The water and N 2 0 4 content of the acid could then, in principle, be
 deduced from the two ratios. After, of course, the method had been
 calibrated, by measuring the conductivities of 150 or so samples of
@@ -2933,8 +2587,7 @@ acit — routinely — to a tenth of a percent. The N 2 0 4 was easy — titrati
 with ceric sulfate was fast and accurate. But there was no direct
 method for determining the water. You had to determine the total
 acid (HN0 3 plus N 2 0 4 ) and then determine the N 2 0 4 , and then get
-the water by difference — a small difference between two large quan-
-lilies.
+the water by difference — a small difference between two large quanlilies.
 
 Suppose that your analysis said that you had 0.76 percent N 2 0 4 , and
 99.2 percent, plus or minus 0.2 percent, nitric acid (and it was a good
@@ -2949,8 +2602,7 @@ methods. Every conceivable source of error was investigated — and it
 was surprising to learn in how many ways a classical acid-base titration
 can go wrong. Nobody would have believed, until he learned the hard
 way, that when you make up five gallons of 1.4 normal NaOH, you
-have to stir the solution for an hour to make sure that its concentra-
-tion is uniform to within one part in 10,000 throughout the whole
+have to stir the solution for an hour to make sure that its concentration is uniform to within one part in 10,000 throughout the whole
 volume. Nor that when air is admitted to the stock bottle it has to be
 bubbled through a trap of the same solution. If it isn’t, the moisture
 in the laboratory air will dilute the upper layer of the NaOH and foul
@@ -2965,12 +2617,10 @@ splitting the last drop) until the pink color is the faintest discernible
 tint. But all those precautions and refinements are necessary if you
 need results that you can believe.
 
-The most important refinement was the use of specially made pre-
-cision burettes, thermostated and held at 25°. (The coefficient of
+The most important refinement was the use of specially made precision burettes, thermostated and held at 25°. (The coefficient of
 expansion of 1.4 N NaOH was not well known, and even if it were,
 somebody would be sure to put it in backwards!) The burettes were
-made for me by the Emil Greiner Co., and cost the taxpayer seventy-
-five dollars a throw. They worked so well that certain other agencies
+made for me by the Emil Greiner Co., and cost the taxpayer seventyfive dollars a throw. They worked so well that certain other agencies
 acquired the deplorable habit of borrowing one from me and then
 forgetting to return it.*
 
@@ -2982,8 +2632,7 @@ The calibration then went like a breeze, complicated only by the
 difficulties encountered when absolutely anhydrous acid was needed.
 The classical way of making such a substance was to mix P 2 0 5 with
 WFNA, and then distill the dry acid over under vacuum. This was an
-infernal nuisance — three hours work might get you ten cc of anhy-
-drous acid — and in our case we needed it by the liter. So we hit on a
+infernal nuisance — three hours work might get you ten cc of anhydrous acid — and in our case we needed it by the liter. So we hit on a
 simple method that required no effort or attention whatsoever. Into
 a big flask we would load about two liters of 100 percent sulfuric acid,
 and then three times as much WFNA. Then, holding the flask at
@@ -3034,14 +2683,12 @@ sample was destroyed with formaldehyde, and any formic acid
 formed was reacted with methanol and boiled off as methyl formate.
 (The emerging fumes invariably caught fire and burned with a
 spectacular blue flame.) What was left, then, was dumped into a
-boiling mixture of water and n-propanol, and titrated, conducti-
-metrically, with barium acetate. This sounds like a weird procedure,
+boiling mixture of water and n-propanol, and titrated, conductimetrically, with barium acetate. This sounds like a weird procedure,
 but it worked beautifully, and gave as precise results as anybody could
 wish. Mike Pino’s mixture had to be treated differently. The nitric
 acid was destroyed by reacting it with warm formic acid, and what was
 left was titrated, potentiometrically, with sodium acetate in acetic
-acid, in a medium of glacial acetic acid. One electrode was a conven-
-tional glass electrode as used for pH determination, the other a
+acid, in a medium of glacial acetic acid. One electrode was a conventional glass electrode as used for pH determination, the other a
 modified calomel electrode, using saturated lithium chloride in acetic
 acid. Again, a peculiar but effective analysis. And as soon as these
 methods had been worked out, everybody stopped using either
@@ -3067,12 +2714,9 @@ and discovered, upon examining his mixtures, that he had some
 56 Ignition
 
 extremely touchy and temperamental high explosives on his hands.
-T. L. Thompson, at North American, three years later, tried nitro-
-methane, nitroethane, and nitropropane, and made the same dis-
-covery. Collins, Lewis, and Schechter, at Callery Chemical Co., tried
+T. L. Thompson, at North American, three years later, tried nitromethane, nitroethane, and nitropropane, and made the same discovery. Collins, Lewis, and Schechter, at Callery Chemical Co., tried
 these same nitro-alkanes in 1953, as well as tetranitromethane, and
-worked out the ternary phase diagram for nitrogen tetroxide, nitro-
-methane, and TNM. Again — high explosives. At about the same time,
+worked out the ternary phase diagram for nitrogen tetroxide, nitromethane, and TNM. Again — high explosives. At about the same time,
 S. Burket, at Aerojet, went them one better by trying not only these
 compounds, but even the notoriously treacherous nitroform, plus
 diethyl carbonate, diethyl oxalate, and diethyl cellosolve. And his
@@ -3090,19 +2734,15 @@ to form the unstable N 2 0 3 , so that the eutectic appears between pure
 N 2 0 4 and the composition corresponding to N 2 0 3 , so that a small
 addition of NO has an inordinately large effect on the freezing point.
 G. R. Makepeace and his associates, at NOTS, were able to show, in
-1948, that 25 percent of NO would bring the freezing point of nitro-
-gen tetroxide down below the required — 65°F, and that 30 percent
+1948, that 25 percent of NO would bring the freezing point of nitrogen tetroxide down below the required — 65°F, and that 30 percent
 would depress it well below the magic — 100°F. However, the vapor
 pressure of the latter mixture at 160°F was unacceptably high, about
 300 psi. Several investigators examined the system, among them T. L.
-Thompson of North American and T. J. McGonnigle of, appropri-
-ately, the Nitrogen Division of Allied Chemical and Dye Co., but the
+Thompson of North American and T. J. McGonnigle of, appropriately, the Nitrogen Division of Allied Chemical and Dye Co., but the
 definitive work came from JPL and NOTS.
 
 Between 1950 and 1954, Whittaker, Sprague, and Skolnik and their
-group at NOTS, and B. H. Sage and his colleagues at JPL investi-
-gated the nitrogen tetroxide -nitric oxide systpm with a thorough-
-ness that left nothing to be discovered that could conceivably be worth
+group at NOTS, and B. H. Sage and his colleagues at JPL investigated the nitrogen tetroxide -nitric oxide systpm with a thoroughness that left nothing to be discovered that could conceivably be worth
 the trouble of discovering. Their meticulous investigations were to
 bear fruit years later, when Titan II, with its N 2 0 4 oxidizer, was
 developed.
@@ -3124,17 +2764,11 @@ inexplicable.
 
 MON-30 or whatever, with the number designating the percentage
 of NO in the mix) with various fuels, and discovered that it was more
-difficult to get a good performance (a high percentage of the theoreti-
-cal performance) with MON than with neat nitrogen tetroxide. Ap-
-parently the great kinetic stability of the NO slowed down the com-
-bustion reaction. For this reason, and because of its high vapor pres-
-sure, investigators turned away from MON for some years. (Certain
+difficult to get a good performance (a high percentage of the theoretical performance) with MON than with neat nitrogen tetroxide. Apparently the great kinetic stability of the NO slowed down the combustion reaction. For this reason, and because of its high vapor pressure, investigators turned away from MON for some years. (Certain
 space rockets, today, use MON-10.)*
 
 And there was another reason. RFNA had been domesticated. Two
-things had done it: A series of meticulous studies at Ohio State Uni-
-versity and at JPL solved the problem of decomposition and pres-
-sure buildup, and a completely unexpected breakthrough at NARTS
+things had done it: A series of meticulous studies at Ohio State University and at JPL solved the problem of decomposition and pressure buildup, and a completely unexpected breakthrough at NARTS
 reduced the corrosion problem to negligible proportions. With these
 problems solved the acid could be “packaged” or loaded into a missile
 at the factory, so that it didn’t have to be handled in the field. And that
@@ -3146,9 +2780,7 @@ had become comprehensible. True, it was a fiendishly complicated
 system — one could hardly call it a substance — but some sense could be
 made out of it. The monumental work of Professor C. K. Ingold and
 his colleagues, published in a series of articles in 1950, had clarified
-the equilibria existing among the various species present in the sys-
-tem, and Frank and Schirmer, in Germany, in the same year, ex-
-plained its decomposition. Briefly, this is what their work showed:
+the equilibria existing among the various species present in the system, and Frank and Schirmer, in Germany, in the same year, explained its decomposition. Briefly, this is what their work showed:
 First, in very strong nitric acid, there is an equilibrium:
 
 (1) 2HN0 3 ** H 2 NCtf + NO 3 .
@@ -3219,11 +2851,9 @@ and
 
 h 2 o
 
-N0 3 -
+N0 3 
 
-
-Plus possible traces of H 3 0 + and H 2 N0 3 . And all of them in inter-
-locking equilibria. But this didn’t explain the pressure buildup. Nitric
+Plus possible traces of H 3 0 + and H 2 N0 3 . And all of them in interlocking equilibria. But this didn’t explain the pressure buildup. Nitric
 acid decomposes by the gross reaction.
 
 (6) 4HN0 3 2N 2 0 4 + 2H 2 0 + 0 2
@@ -3273,8 +2903,7 @@ anhydrous acid were definitely out.
 
 It was D. M. Mason and his crew at JPL and Kay and his group at
 Ohio State who undertook — and completed — the heroic task of
-mapping the phase behavior and equilibrium pressure and composi-
-tion of the nitric acid-N 2 0 4 -H 2 0 system over the whole composition
+mapping the phase behavior and equilibrium pressure and composition of the nitric acid-N 2 0 4 -H 2 0 system over the whole composition
 range of interest, up to 50% N 2 0 4 and up to 10 percent or so H 2 0 —
 and from room temperature up to 120°C. By the time these groups
 were finished (all of the work was published by 1955) there was
@@ -3296,8 +2925,7 @@ mapped out over the whole range of interest. R. O. Miller at LFPL,
 G. W. ElverUm at JPL, and Jack Gordon at WADC among others,
 were involved in this job, which was completed by 1955.
 
-Their results were not in the best of agreement (the mixtures fre-
-quently supercooled and, as I have mentioned, RFNA is not the
+Their results were not in the best of agreement (the mixtures frequently supercooled and, as I have mentioned, RFNA is not the
 
 
 
@@ -3323,13 +2951,11 @@ the pipelines that conveyed HF from one part of the plant to another.
 Then Eric tested these samples for corrosion resistance, and found
 that they corroded just as badly as did the untreated steel. But, this
 corrosion was delayed, and didn’t start, apparently, until a day or two
-had passed. The inference was that (1) a fluoride coating was protec-
-tive, but (2) it didn’t last long in WFNA. He thought then that it might
+had passed. The inference was that (1) a fluoride coating was protective, but (2) it didn’t last long in WFNA. He thought then that it might
 be possible to make the fluoride coating self-healing by putting some
 HF in the WFNA. However the only HF that we had in the lab was
 the common 50 percent aqueous solution of that acid, and Eric didn’t
-want to add any water to his WFNA. So I suggested that he try am-
-monium bifluoride, NH 4 F HF, which is more than two-thirds HF
+want to add any water to his WFNA. So I suggested that he try ammonium bifluoride, NH 4 F HF, which is more than two-thirds HF
 anyway, and a lot easier to handle. Also, we had it on the shelf. He
 tried it, and to our incredulous delight it worked — worked with an
 effectiveness beyond our wildest hopes. A few weeks of messing
@@ -3341,8 +2967,7 @@ July, 1951, but NARTS was just two years old then, and apparently
 nobody bothered to read our reports.
 
 But there was a meeting at the Pentagon devoted to the problems
-of nitric acid on October 10-11-12, attended by about 1 50 propellant-
-oriented people from industry, government and the services. 1 went,
+of nitric acid on October 10-11-12, attended by about 1 50 propellantoriented people from industry, government and the services. 1 went,
 and so did Dr. Milton Scheer (“Uncle Milty”) of our group, and on
 the afternoon of the 11th he reported Eric’s discovery. What made
 the occasion delightful (for us) was the fact that that very morning, in
@@ -3381,10 +3006,8 @@ many rocket engineers wanted to use it, the question of its resistance
 to RFNA couldn’t be neglected. But these corrosion studies were
 interrupted by a completely unexpected accident. On December 29,
 1953, a technician at Edwards Air Force Base was examining a set of
-titanium samples immersed in RFNA, when, absolutely without warn-
-ing, one or more of them detonated, smashing him up, spraying him
-with acid and flying glass, and filling the room with N0 2 . The tech-
-nician, probably fortunately for him, died of asphyxiation without
+titanium samples immersed in RFNA, when, absolutely without warning, one or more of them detonated, smashing him up, spraying him
+with acid and flying glass, and filling the room with N0 2 . The technician, probably fortunately for him, died of asphyxiation without
 regaining consciousness.
 
 There was a terrific brouhaha, as might be expected, and JPL
@@ -3406,8 +3029,7 @@ got together under Air Force sponsorship to do just that. I was there,
 as one of the Navy representatives.
 
 Various users still argued over the relative merits of 14 percent
-RFNA and 22 percent RFNA, and a few still liked WFNA. The chem-
-
+RFNA and 22 percent RFNA, and a few still liked WFNA. The chem
 
 
 62 Ignition
@@ -3418,8 +3040,7 @@ you want!” So we decided to write one specification which would
 make everybody happy. We officially threw out the terms WFNA and
 RFNA and described no less than four types of nitric acid, which we
 designated, with stunning unoriginally as “Nitric Acid, Type I, II,
-III and IV.” These contained, in the order named, nominally 0 per-
-cent, —7 percent, 14 percent, and 21 percent N 2 0 4 . If you wanted HF
+III and IV.” These contained, in the order named, nominally 0 percent, —7 percent, 14 percent, and 21 percent N 2 0 4 . If you wanted HF
 inhibited acid, you asked for I-A or III-A, or whatever, and your acid
 would contain 0.6 percent HF.
 
@@ -3436,11 +3057,8 @@ running the show and I was overruled. And when the specs were
 published, the gaff was blown for good.
 
 Included in the specs were the procedures for analyzing the acids.
-These were conventional, except the one for HF, which was a compli-
-cated and tricky optical method involving the bleaching of a zir-
-conium-alizarin dye by fluoride ion. In my own lab I declined to have
-anything to do with it, and whomped up a simple — not to say simple-
-minded— test that required no effort or intelligence whatever. You
+These were conventional, except the one for HF, which was a complicated and tricky optical method involving the bleaching of a zirconium-alizarin dye by fluoride ion. In my own lab I declined to have
+anything to do with it, and whomped up a simple — not to say simpleminded— test that required no effort or intelligence whatever. You
 put one volume of acid and two of water in a polyethylene beaker, and
 dropped into it a magnetic stirring rod enclosed in soft glass tubing
 and weighed. You then let the thing stir overnight and reweighed the
@@ -3469,8 +3087,7 @@ Able used type I-A acid (IWFNA) which it burned with UDMH.
 
 
 aware that there ever was another sort — or of what “inhibited”
-means. A few years ago I saw one alleged rocket engineer fill a stain-
-less steel tank with RFNA without any HF in it — and then wonder why
+means. A few years ago I saw one alleged rocket engineer fill a stainless steel tank with RFNA without any HF in it — and then wonder why
 his acid turned green.
 
 The only other sort of acid worth mentioning is “Maximum Density
@@ -3481,8 +3098,7 @@ satisfactory acid had been found, interest in its analysis dropped to
 zero. III-A was so smoothly hypergolic with UDMH, and a little water
 more or less didn’t make any difference, and you could keep it sealed
 so it wouldn’t pick up water — and with the HF in it there wasn’t
-any corrosion to worry about — so why bother? An occasional pur-
-chasing agent may have a drum analyzed now and then, but the
+any corrosion to worry about — so why bother? An occasional purchasing agent may have a drum analyzed now and then, but the
 general custom is to accept the manufacturer’s analysis — slap the
 acid into the tank — and fire it. And it works.
 
@@ -3501,8 +3117,7 @@ and the 50-50 hydrazine-UDMH mixture.
 
 Many other N 2 0 4 motors are used in space, ranging from the
 21,500-pound Apollo service engine, which also uses 50-50, down to
-tiny one-pound thrusters used for attitude control. The fuel is in-
-variably a hydrazine or a hydrazine mixture. And the users have
+tiny one-pound thrusters used for attitude control. The fuel is invariably a hydrazine or a hydrazine mixture. And the users have
 reason to be happy with their performance and reliability.
 
 As have the chemists, and engineers, who don’t have to go through
@@ -3518,23 +3133,18 @@ on May 23 and 24, 1955. If the October 1951 meeting was devoted
 
 64 Ignition
 
-mainly to difficulties, the May 1955 meeting described a series of bat-
-tles fought and triumphantly won.
+mainly to difficulties, the May 1955 meeting described a series of battles fought and triumphantly won.
 
 The high points were the narration by Bernard Hornstein of ONR
-of the development of MMH and UDMH, and that by S. P. Green-
-field, of North American, of the vicissitudes of NALAR.
+of the development of MMH and UDMH, and that by S. P. Greenfield, of North American, of the vicissitudes of NALAR.
 
 NALAR was a 2.75” diameter air-to-air missile for the Air Force.
-The requirements were rough. The liquid propellants had to be hy-
-pergolic. They also had to be packageable, so that the missile could be
+The requirements were rough. The liquid propellants had to be hypergolic. They also had to be packageable, so that the missile could be
 stored, fully fueled, for five years and be in a condition to fire. And
 they had to perform at any temperature from — 65 ? F to+165°F. North
 American started development in July 1950.
 
-The first oxidizer they tried was RFNA, 18% N 2 0 4 . From the be-
-ginning they were contending with a pressure buildup, and with cor-
-
+The first oxidizer they tried was RFNA, 18% N 2 0 4 . From the beginning they were contending with a pressure buildup, and with cor
 
 rosion. However, trying to get good ignition and smooth combustion,
 they fired it with:
@@ -3575,8 +3185,7 @@ got nowhere.
 
 
 Then they shifted to MON-30 for their oxidizer, 70% N 2 0 4 , 30%
-NO, and resumed their quest for smooth ignition and smooth com-
-bustion with:
+NO, and resumed their quest for smooth ignition and smooth combustion with:
 
 
 Turpentine
@@ -3613,28 +3222,24 @@ and JP-4 plus Alkyl thiophosphites
 
 and JP-4 plus 10-30% Xylidine
 
-and achieved a succession of hard starts, usu-
-
+and achieved a succession of hard starts, usu
 ally followed by rough combustion.
 
 By this time the spring of 1953 had arrived, and the engineers
 learned of the uses of HF in inhibiting nitric acid corrosion. (The fact
 that this effect had been discovered two years before, and that North
 American’s own chemists had been working with HF for at least a year
-suggest that there was a lack of communication somewhere, or, per-
-haps, that engineers don’t read!)
+suggest that there was a lack of communication somewhere, or, perhaps, that engineers don’t read!)
 
 Be that as it may, they returned, probably with a sense of deja vu, to
 turpentine and RFNA — but inhibited this time. To improve ignition
-they added up to 20 percent of Reference Fuel 208, the alias of 2-di-
-methylamino-4-methyl-l-3-2-dioxaphospholane, to the turpentine.
+they added up to 20 percent of Reference Fuel 208, the alias of 2-dimethylamino-4-methyl-l-3-2-dioxaphospholane, to the turpentine.
 Then the Air Force, who, you will recollect, was paying for all of this,
 suggested that they substitute UDMH for the RF-208. They did, and
 the results were so good that they went to straight UDMH, and to Hell
 with the turps.
 
-It had taken them four years to arrive at today’s standard work-
-horse combination of UDMH-IRFNA, but they had finally arrived.
+It had taken them four years to arrive at today’s standard workhorse combination of UDMH-IRFNA, but they had finally arrived.
 And recently, a NALAR missile which had been sitting around for
 about twelve years was hauled off the shelf and tired. And it worked.
 The hypergol and his mate had been captured and tamed. (Fade out
@@ -3652,11 +3257,8 @@ Always a Bridesmaid
 
 Hydrogen peroxide can be called the oxidizer that never made it.
 (At least, it hasn’t yet.) Not that people weren’t interested in it — they
-were, both in this country and, even more so, in England. Its perfor-
-mance with most fuels was close to that of nitric acid, as was its den-
-sity, and in certain respects it was superior to the other oxidizer. First,
-no toxic fumes, and it didn’t chew on skin as the acid did. If you re-
-ceived a splash of it, and didn’t delay too long about washing it off,
+were, both in this country and, even more so, in England. Its performance with most fuels was close to that of nitric acid, as was its density, and in certain respects it was superior to the other oxidizer. First,
+no toxic fumes, and it didn’t chew on skin as the acid did. If you received a splash of it, and didn’t delay too long about washing it off,
 all the damage you got was a persistent itch, and skin bleached bone
 white — to stay that way until replaced by new. And it didn’t corrode
 metals as the acid did.
@@ -3664,17 +3266,13 @@ metals as the acid did.
 But (as is usual in the propellant business, there were lots of “buts”)
 the freezing point of 100 percent H 2 0 2 was only half a degree below
 that of water. (Of course, 85 or 90 percent stuff, which was the best
-available in the 40’s, had a better freezing point, but diluting a pro-
-pellant with an inert, just to improve its freezing point, is not a proc-
-ess that appeals to men interested in propulsion!) And it was unstable.
+available in the 40’s, had a better freezing point, but diluting a propellant with an inert, just to improve its freezing point, is not a process that appeals to men interested in propulsion!) And it was unstable.
 
 Hydrogen peroxide decomposes according to the equation H 2 0 2 — »
-H 2 0 + V 2 O 2 , with the evolution of heat. Of course, WFNA also decom-
-posed, but not exothermically. The difference is crucial: It meant that
+H 2 0 + V 2 O 2 , with the evolution of heat. Of course, WFNA also decomposed, but not exothermically. The difference is crucial: It meant that
 peroxide decomposition is self-accelerating. Say that you have a tank
 of peroxide, with no efficient means of sucking heat out of it. Your
-peroxide starts to decompose for some reason or other. This decom-
-position produces heat, which warms up the rest of the peroxide,
+peroxide starts to decompose for some reason or other. This decomposition produces heat, which warms up the rest of the peroxide,
 which naturally then starts to decompose faster — producing more
 heat. And so the faster it goes the faster it goes until the whole thing
 
@@ -3683,11 +3281,9 @@ heat. And so the faster it goes the faster it goes until the whole thing
 
 Peroxide —Always a Bridesmaid 67
 
-goes up in a magnificent whoosh or bang as the case may be, spread-
-ing superheated steam and hot oxygen ail over the landscape.
+goes up in a magnificent whoosh or bang as the case may be, spreading superheated steam and hot oxygen ail over the landscape.
 
-And a disconcerting number of things could start the decomposi-
-tion in the first place: most of the transition metals (Fe, Cu, Ag, Co,
+And a disconcerting number of things could start the decomposition in the first place: most of the transition metals (Fe, Cu, Ag, Co,
 etc.) and their compounds; many organic compounds (a splash of
 peroxide on a wool suit can turn the wearer into a flaming torch,
 suitable for decorating Nero’s gardens); ordinary dirt, of ambiguous
@@ -3697,8 +3293,7 @@ peroxide decomposition.
 
 There were certain substances, stannates and phosphates, for
 instance, that could be added to peroxide in trace quantities and would
-stabilize it a bit by taking certain transition metal ions out of circula-
-tion, but their usefulness and potency was strictly limited; and they
+stabilize it a bit by taking certain transition metal ions out of circulation, but their usefulness and potency was strictly limited; and they
 made trouble when you wanted to decompose the stuff catalytically.
 The only thing to do was to keep the peroxide in a tank made of
 something that didn’t catalyze its decomposition (very pure aluminum
@@ -3706,12 +3301,10 @@ was best) and to keep it clean. The cleanliness required was not merely
 surgical — it was levitical. Merely preparing an aluminum tank to
 hold peroxide was a project, a diverting ceremonial that could take
 days. Scrubbing, alkaline washes, acid washes, flushing, passivation
-with dilute peroxide — it went on and on. And even when it was suc-
-cessfully completed, the peroxide would still decompose slowly; not
+with dilute peroxide — it went on and on. And even when it was successfully completed, the peroxide would still decompose slowly; not
 enough to start a runaway chain reaction, but enough to build up an
 oxygen pressure in a sealed tank, and make packaging impossible.
-And it is a nerve-wracking experience to put your ear against a pro-
-pellant tank and hear it go “glub” — long pause — “glub” and so on.
+And it is a nerve-wracking experience to put your ear against a propellant tank and hear it go “glub” — long pause — “glub” and so on.
 After such an experience many people, myself (particularly) included,
 tended to look dubiously at peroxide and to pass it by on the other
 side.
@@ -3724,10 +3317,8 @@ using a solution of calcium permanganate to decompose the peroxide,
 and with furfural as the fuel, and for several years they worked with
 it and various (mainly hydrocarbon) fuels.
 
-The rest of it came to this country. However, it contained consider-
-able sodium stannate (as a stabilizer) and was not too suitable for
-experimental work. So the Navy made a deal with the Buffalo Electro-
-chemical Co., which was just getting into production itself making
+The rest of it came to this country. However, it contained considerable sodium stannate (as a stabilizer) and was not too suitable for
+experimental work. So the Navy made a deal with the Buffalo Electrochemical Co., which was just getting into production itself making
 high-strength peroxide. The Navy turned over most of the German
 
 
@@ -3743,11 +3334,8 @@ workers in the Held.
 JPL was one of the first agencies in this country to look at peroxide
 seriously. From late 1944 through 1948 they worked it out, using 87
 percent to 100 percent peroxide, and a variety of fuels, including
-methanol, kerosene, hydrazine, and ethylene diamine. Only the hy-
-drazine was hypergolic with the peroxide; all the other combinations
-had to be started with a pyrotechnic igniter. One very odd combina-
-tion that they investigated during this period was peroxide and nitro-
-methane, either straight or with 35 percent nitroethane or with 30
+methanol, kerosene, hydrazine, and ethylene diamine. Only the hydrazine was hypergolic with the peroxide; all the other combinations
+had to be started with a pyrotechnic igniter. One very odd combination that they investigated during this period was peroxide and nitromethane, either straight or with 35 percent nitroethane or with 30
 percent methanol. One oddity was the very low O/F ratio, which ran
 from 0. 1 to 0.5 or so. (With hydrazine as a fuel, it would be about 2.0!
 The large amount of oxygen in the fuel explains the low O/F.)
@@ -3757,9 +3345,7 @@ them, burned peroxide with hydrazines of various concentrations —
 from 54 percent up to 100 percent, and Kellogg even tried it with
 K 3 Cu(CN) 4 catalyst in the hydrazine, as the Germans had done.
 
-In general, everybody got respectable performances out of perox-
-ide, although there were some difficulties with ignition and with com-
-bustion stability, but that freezing point was a tough problem, and
+In general, everybody got respectable performances out of peroxide, although there were some difficulties with ignition and with combustion stability, but that freezing point was a tough problem, and
 most organizations rather lost interest in the oxidizer.
 
 Except the Navy. At just that time the admirals were kicking and
@@ -3779,8 +3365,7 @@ and down and sideways, and had dissolved all sorts of things in it,
 from salt to sucrose. And many of these things were excellent freezing
 point depressants: 9.5 percent of ammonia, for instance, formed a
 eutectic which froze at —40°, and a mixture containing 59 percent
-froze at —54°. (In between, at 33 percent, was the compound NH 4 -
-OOH, which melted at about 25°. ) And one containing 45 percent of
+froze at —54°. (In between, at 33 percent, was the compound NH 4 OOH, which melted at about 25°. ) And one containing 45 percent of
 
 
 
@@ -3790,12 +3375,10 @@ methanol froze at —40°. These mixtures, however, had one slight
 drawback — they were sensitive and violent explosives.
 
 The British, as has been mentioned, were intensely interested in
-peroxide, and Wiseman, of ERDE (Explosives Research and Develop-
-ment Establishment) at Waltham Abbey, pointed out in 1948 that
+peroxide, and Wiseman, of ERDE (Explosives Research and Development Establishment) at Waltham Abbey, pointed out in 1948 that
 ammonium nitrate was a good freezing point depressant and didn’t
 make it into a high explosive. So the NOTS team (G. R. Makepeace
-and G. M. Dyer) mapped out the relevant part of the peroxide-AN-
-water held, and came up with a mixture that didn’t freeze above— 54°.
+and G. M. Dyer) mapped out the relevant part of the peroxide-ANwater held, and came up with a mixture that didn’t freeze above— 54°.
 It was 55 percent peroxide, 25 percent ammonium nitrate and 20
 percent water. They bred it successfully with JP-1 early in 1951, but
 the performance was not impressive. Other peroxide-AN mixtures
@@ -3803,14 +3386,11 @@ were bred by NOTS, and, a little later, by NARTS. In the meantime,
 L. V. Wisniewski, at Becco, had been adding things like ethylene
 glycol, diethylene glycol, and tetrahydrofuran to peroxide. These
 mixtures were designed as monopropellants, but they froze at —40°,
-and RMI tried them as oxidizers for gasoline and JP-4, with indiffer-
-ent success. Below +10°C, RMI just couldn’t get the mixtures to ig-
-nite. Also, they were dangerously explosive.
+and RMI tried them as oxidizers for gasoline and JP-4, with indifferent success. Below +10°C, RMI just couldn’t get the mixtures to ignite. Also, they were dangerously explosive.
 
 So, the only low-freezing peroxide mixtures which could be used
 were those containing ammonium nitrate— and these had serious
-limitations. One of these was that adding AN to the peroxide in-
-creased its instability so much that it was likely to detonate in the
+limitations. One of these was that adding AN to the peroxide increased its instability so much that it was likely to detonate in the
 injector, and was almost certain to go off, taking the motor with it, if
 you tried to use it for regenerative cooling.
 
@@ -3818,25 +3398,20 @@ Ignition of a hydrogen peroxide system, particularly one burning
 gasoline or jet fuel, was always a problem. In some cases, a solution
 of calcium permanganate was injected along with the propellants at
 the start of the run, but this was an awkward complication. In some
-tests (at MIT) a small amount of catalyst (cobaltons nitrate) was dis-
-solved in the peroxide, but this reduced its stability. The fuel was
+tests (at MIT) a small amount of catalyst (cobaltons nitrate) was dissolved in the peroxide, but this reduced its stability. The fuel was
 kerosene with a few percent of o-toluidine. A hypergolic or easily
 ignited starting slug (generally hydrazine, sometimes containing a
-catalyst) could lead the fuel. An energebc solid-propellant pyrotech-
-nic igniter was used in some cases. Probably the most reliable, and
-hence the safest, technique was to decompose part or all of the per-
-oxide in a separate catalyst chamber, lead the hot products into the
+catalyst) could lead the fuel. An energebc solid-propellant pyrotechnic igniter was used in some cases. Probably the most reliable, and
+hence the safest, technique was to decompose part or all of the peroxide in a separate catalyst chamber, lead the hot products into the
 main chamber, and inject the fuel (and the rest of the oxidizer, if
 any) there. (A stack of screens made of silver wire was an efficient
-catalyst array.) NARTS designed and bred a motor which incorpo-
-rated the catalyst chamber in the main chamber.
+catalyst array.) NARTS designed and bred a motor which incorporated the catalyst chamber in the main chamber.
 
 
 
 70 Ignition
 
-Most of the Navy work on peroxide was not directed toward mis-
-siles, but toward what was called “super performance” for fighter
+Most of the Navy work on peroxide was not directed toward missiles, but toward what was called “super performance” for fighter
 planes — an auxiliary rocket propulsion unit that could be brought
 into play to produce a burst of very high speed — so that when a pilot
 found six Migs breathing down his neck he could hit the panic button
@@ -3851,16 +3426,12 @@ peroxide made the latter peculiarly corrosive to aluminum. How to
 keep traces of chloride out of anything when you’re sitting on an ocean
 of salt water was a problem whose solution was not entirely obvious.
 
-And there was always the problem of gross pollution. Say that some-
-body dropped (accidentally or otherwise) a greasy wrench into 10,000
+And there was always the problem of gross pollution. Say that somebody dropped (accidentally or otherwise) a greasy wrench into 10,000
 gallons of 90 percent peroxide in the hold of the ship. What would
 happen — and would the ship survive? This question so worried
-people that one functionary in the Rocket Branch (safely in Wash-
-ington) who had apparently been reading Captain Horatio Horn-
-blower, wanted us at NARTS to build ourselves a 10,000-gallon tank,
+people that one functionary in the Rocket Branch (safely in Washington) who had apparently been reading Captain Horatio Hornblower, wanted us at NARTS to build ourselves a 10,000-gallon tank,
 fill it up with 90 percent peroxide, and then drop into it — so help me
-God — one rat. (He didn’t specify the sex of the rat.) It was with con-
-siderable difficulty that our chief managed to get him to scale his order
+God — one rat. (He didn’t specify the sex of the rat.) It was with considerable difficulty that our chief managed to get him to scale his order
 down to one test tube of peroxide and one quarter inch of rat tail.
 
 Carrier admirals are — with good reason — deadly afraid of fire.
@@ -3869,10 +3440,7 @@ fuel.
 
 A broken missile on deck — or any sort of shipboard accident that
 brought fuel and acid together —would inevitably start a fire. On the
-other hand, they reasoned that jet fuel wouldn’t even mix with per-
-oxide, but would just float on top of it, doing nothing. And if, some-
-how, it caught fire, it might be possible to put it out — with foam per-
-haps— without too much trouble.
+other hand, they reasoned that jet fuel wouldn’t even mix with peroxide, but would just float on top of it, doing nothing. And if, somehow, it caught fire, it might be possible to put it out — with foam perhaps— without too much trouble.
 
 So, at NARTS we tried it. A few drums of peroxide (about 55
 gallons per drum) were poured out into a big pan, a drum or two of
@@ -3891,8 +3459,7 @@ couple of dozen bystanders, and me.
 
 For when we — and other people — tried it again (fortunately on a
 smaller scale) the results were different. The jet fuel burns quietly
-at first, then the flare burning starts coming, and its frequency in-
-creases. (That’s the time to start running.) Then, as the layer of JP
+at first, then the flare burning starts coming, and its frequency increases. (That’s the time to start running.) Then, as the layer of JP
 gets thinner, the peroxide underneath gets warmer, and starts to
 boil and decompose, and the overlying fuel is permeated with oxygen
 and peroxide vapor. And then the whole shebang detonates, with
@@ -3907,12 +3474,9 @@ decision.
 
 It is amusing to note that when actual tests were made of the effects
 of a big spill of acid and UDMH, the results weren’t so frightening
-after all. There was a big flare, but the two propellants were so reac-
-tive that the bulk liquids could never really mix and explode, but were,
+after all. There was a big flare, but the two propellants were so reactive that the bulk liquids could never really mix and explode, but were,
 rather, driven apart. So the flare was soon over, and plain water — and
-not much of it, considering — was enough to bring things under con-
-trol. And so acid-UDMH propelled missiles finally got into the car-
-riers’ magazines after all.
+not much of it, considering — was enough to bring things under control. And so acid-UDMH propelled missiles finally got into the carriers’ magazines after all.
 
 But peroxide didn’t. Research on it continued for some years, and
 the British designed and built a rocket-driven plane and a missile or
@@ -3920,8 +3484,7 @@ two around the peroxide -JP combination, but that was about all,
 and for some ten years peroxide, as an oxidizer, has been pretty
 much out of the picture. (Monopropellant peroxide is another story.)
 
-Higher concentrations (you can buy 98 percent stuff now) have ap-
-peared in the last few years, and they appear to be rather more stable
+Higher concentrations (you can buy 98 percent stuff now) have appeared in the last few years, and they appear to be rather more stable
 than the 90 percent material, but all the drum beating indulged in
 by the manufacturers hasn’t got the bridesmaid into a bridal bed.
 Peroxide just didn’t make it.
@@ -3940,29 +3503,23 @@ convinced that peroxide, or acid, or nitrogen tetroxide was the last
 word in storable oxidizers, nor that something a bit more potent
 couldn’t be found. An oxygen-based oxidizer is all very well, but it
 seemed likely that one containing fluorine would pack an impressive
-wallop. And so everybody started looking around for an easily de-
-composed fluorine compound that could be used as a storable oxi-
-dizer.
+wallop. And so everybody started looking around for an easily decomposed fluorine compound that could be used as a storable oxidizer.
 
-“Easily decomposed” is the operative phrase. Most fluorine com-
-pounds are pretty final — so final that they can be thought of as the
+“Easily decomposed” is the operative phrase. Most fluorine compounds are pretty final — so final that they can be thought of as the
 ash of an element which has been burned with fluorine, and are quite
 useless as propellants. Only when fluorine is combined with nitrogen,
 or oxygen, or another halogen, can it be considered as available to
-burn something else. And in 1945 not very many compounds of fluo-
-rine with these elements were known.
+burn something else. And in 1945 not very many compounds of fluorine with these elements were known.
 
 OF 2 was known, but it was difficult to make and its boiling point was
-so low that it had to be considered a cryogenic. 0 2 F 2 had been re-
-ported, but was unstable at room temperature. NF 3 was known, but
+so low that it had to be considered a cryogenic. 0 2 F 2 had been reported, but was unstable at room temperature. NF 3 was known, but
 its boiling point was too low for a storable. ONF and 0 2 NF both had
 low boiling points, and couldn’t be kept liquid at room temperature
 by any reasonable pressure. (It was specified, arbitrarily, a few years
 later, that a storable propellant must not have a vapor pressure greater
 than 500 psia at 71° (160°F). Fluorine nitrate and perchlorate, FN0 3
 and FC10 4 , were well known, but both were sensitive and treacherous
-explosives. Of the latter it had been reported that it frequently det-
-
+explosives. Of the latter it had been reported that it frequently det
 
 
 
@@ -3989,27 +3546,20 @@ properties of OF 2 .
 So C1F 3 it had to be. Otto Ruff had discovered the stuff in 1930 (as
 he had also discovered the majority of the compounds listed above)
 and the Germans had done a little work with it during the war, and
-so quite a lot was known about it. The efflorescence of fluorine chem-
-istry sparked by the Manhattan Project led to studies in this country,
+so quite a lot was known about it. The efflorescence of fluorine chemistry sparked by the Manhattan Project led to studies in this country,
 and the Oak Ridge people, among others, investigated it exhaustively
 during the late 40’s and early 50’s. So it wasn’t exactly an unknown
 quantity when the rocket people started in on it.
 
-Chlorine trifluoride, C1F 3 , or “CTF” as the engineers insist on call-
-ing it, is a colorless gas, a greenish liquid, or a white solid. It boils at
+Chlorine trifluoride, C1F 3 , or “CTF” as the engineers insist on calling it, is a colorless gas, a greenish liquid, or a white solid. It boils at
 12° (so that a trivial pressure will keep it liquid at room temperature)
 and freezes at a convenient —76°. It also has a nice fat density, about
 1.81 at room temperature.
 
-It is also quite probably the most vigorous fluorinating agent in ex-
-istence-much more vigorous than fluorine itself. Gaseous fluorine,
-of course, is much more dilute than the liquid C1F 3 , and liquid fluo-
-rine is so cold that its activity is very much reduced.
+It is also quite probably the most vigorous fluorinating agent in existence-much more vigorous than fluorine itself. Gaseous fluorine,
+of course, is much more dilute than the liquid C1F 3 , and liquid fluorine is so cold that its activity is very much reduced.
 
-All this sounds fairly academic and innocuous, but when it is trans-
-lated into the problem of handling the stuff, the results are horren-
-dous. It is, of course, extremely toxic, but that’s the least of the prob-
-lem. It is hypergolic with every known fuel, and so rapidly hypergolic
+All this sounds fairly academic and innocuous, but when it is translated into the problem of handling the stuff, the results are horrendous. It is, of course, extremely toxic, but that’s the least of the problem. It is hypergolic with every known fuel, and so rapidly hypergolic
 that no ignition delay has ever been measured. It is also hypergolic
 with such things as cloth, wood, and test engineers, not to mention
 asbestos, sand, and water — with which it reacts explosively. It can be
@@ -4024,18 +3574,15 @@ is unstable except at cryogenic temperatures.
 
 Ignition
 
-kept in some of the ordinary structural metals — steel, copper, alumi-
-num, etc. — because of the formation of a thin him of insoluble metal
+kept in some of the ordinary structural metals — steel, copper, aluminum, etc. — because of the formation of a thin him of insoluble metal
 fluoride which protects the bulk of the metal, just as the invisible coat
 of oxide on aluminum keeps it from burning up in the atmosphere.
 If, however, this coat is melted or scrubbed off, and has no chance to
 reform, the operator is confronted with the problem of coping with a
-metal-fluorine fire. For dealing with this situation, I have always rec-
-ommended a good pair of running shoes. And even if you don’t have
+metal-fluorine fire. For dealing with this situation, I have always recommended a good pair of running shoes. And even if you don’t have
 a fire, the results can be devastating enough when chlorine trifluoride
 gets loose, as the General Chemical Co. discovered when they had a
-big spill. Their salesmen were awfully coy about discussing the mat-
-ter, and it wasn’t until I threatened to buy my RFNA from Du Pont
+big spill. Their salesmen were awfully coy about discussing the matter, and it wasn’t until I threatened to buy my RFNA from Du Pont
 that one of them would come across with the details.
 
 It happened at their Shreveport, Louisiana, installation, while they
@@ -4044,8 +3591,7 @@ of CTF. The cylinder had been cooled with dry ice to make it easier
 to load the material into it, and the cold had apparently embrittled
 the steel. For as they were maneuvering the cylinder onto a dolly,
 it split and dumped one ton of chlorine trifluoride onto the floor. It
-chewed its way through twelve inches of concrete and dug a three-
-foot hole in the gravel underneath, filled the place with fumes which
+chewed its way through twelve inches of concrete and dug a threefoot hole in the gravel underneath, filled the place with fumes which
 corroded everything in sight, and, in general, made one hell of a mess.
 Civil Defense turned out, and started to evacuate the neighborhood,
 and to put it mildly, there was quite a brouhaha before things quieted
@@ -4056,17 +3602,14 @@ and was still picking up speed when he was stopped by a heart attack.
 
 This episode was still in the future when the rocket people started
 working with CTF, but they nevertheless knew enough to be scared
-to death, and proceeded with a degree of caution appropriate to den-
-tal work on a king cobra. And they never had any reason to regret
+to death, and proceeded with a degree of caution appropriate to dental work on a king cobra. And they never had any reason to regret
 that caution. The stuff consistently lived up to its reputation.
 
 Bert Abramson of Bell Aircraft fired it in the spring of 1948, using
 hydrazine as the fuel, NACA and North American followed suit the
-next year, and in 1951 NARTS burned it with both ammonia and hy-
-drazine. '
+next year, and in 1951 NARTS burned it with both ammonia and hydrazine. '
 
-The results were excellent, but the difficulties were infuriating. Ig-
-nition was beautiful — so smooth that it was like turning on a hose.
+The results were excellent, but the difficulties were infuriating. Ignition was beautiful — so smooth that it was like turning on a hose.
 Performance was high— very close to theoretical. And the reaction
 was so fast that you could burn it in a surprisingly small chamber. But.
 If your hardware was dirty, and there was a smear of oil or grease
@@ -4083,32 +3626,25 @@ reduce itself to ashes. Gaskets and O-rings generally had to be of
 metal; no organic material could be restrained from ignition. Teflon
 would stand up under static conditions, but if the CTF flowed over it
 with any speed at all, it would erode away like so much sugar in hot
-water, even if it didn’t ignite. So joints had to be welded whenever pos-
-sible, and the welds had to be good. An enclosure of slag in the weld
+water, even if it didn’t ignite. So joints had to be welded whenever possible, and the welds had to be good. An enclosure of slag in the weld
 could react and touch off a fire without even trying. So the welds had
 to be made, and inspected and polished smooth and reinspected, and
 then all the plumbing had to be cleaned out and passivated before you
 dared put the CTF into the system. First there was a water flush, and
 the lines were blown dry with nitrogen. Then came one with ethylene
 trichloride to catch any traces of oil or grease, followed by another
-nitrogen blow-down. Then gaseous CTF was introduced into the sys-
-tem, and left there for some hours to catch anything the flushing
+nitrogen blow-down. Then gaseous CTF was introduced into the system, and left there for some hours to catch anything the flushing
 might have missed, and then the liquid chlorine trifluoride could be
 let into the propellant lines.
 
-It was when the stuff got into the motor that the real difficulties be-
-gan, for a chlorine trifluoride motor opei'ates at a chamber tempera-
-ture close to 4000 K, where injectors and nozzle throats have a de-
-plorable tendency to wash away, and unless the materials of which
+It was when the stuff got into the motor that the real difficulties began, for a chlorine trifluoride motor opei'ates at a chamber temperature close to 4000 K, where injectors and nozzle throats have a deplorable tendency to wash away, and unless the materials of which
 they are made are chosen with considerable astuteness, and unless the
 design is very good, the motor isn’t going to last long. The propellant
 man liked CTF because of its performance, and the engineer hated
 the beast because it was so rough on motors and so miserable to
 handle. Although he had to learn to live with it, he postponed the
-learning process as long as he could. It is only recently, as the cus-
-tomers have been demanding a better performance than can be wrung
-out of IRFNA-UDMH, that CTF has been the subject of much inten-
-sive, large scale, testing.
+learning process as long as he could. It is only recently, as the customers have been demanding a better performance than can be wrung
+out of IRFNA-UDMH, that CTF has been the subject of much intensive, large scale, testing.
 
 Bromine pentafluoride, BrF 5 is very similar to C1F 3 as far as its
 handling properties are concerned, except that its boiling point
@@ -4121,27 +3657,22 @@ Very early in the game it was apparent to several of us in propellant
 chemistry that there really wasn’t any fuel available that was right for
 C1F 3 . Ammonia’s performance was too low, and hydrazine, with an
 excellent performance and density, froze at a temperature that was
-much too high. And everything else had carbon in it. And with a fluo-
-rine type oxidizer that is bad. (See the chapter on performance.) It
+much too high. And everything else had carbon in it. And with a fluorine type oxidizer that is bad. (See the chapter on performance.) It
 
 
 
 7 6 Ignition
 
-degrades the performance, and produces a conspicuous smoky ex-
-haust stream. So in the latter part of 1958 Tom Reinhardt of Bell,
+degrades the performance, and produces a conspicuous smoky exhaust stream. So in the latter part of 1958 Tom Reinhardt of Bell,
 Stan Tannenbaum of RMI and I at NARTS, unknown to each other,
-tried to do something about it. And since chemists with similar prob-
-lems are likely to come up with similar answers, we went about it in
+tried to do something about it. And since chemists with similar problems are likely to come up with similar answers, we went about it in
 very much the same way. Stan and Tom considered that the best place
 to start was with MMH, CH 6 N 2 , which was about as close to hydrazine
 as you could get, and then get enough oxygen into the system to burn
-the single carbon to CO. And they did this by mixing one mole of wa-
-ter with one of MMH, to get a mixture equivalent to COH 8 N 2 . When
+the single carbon to CO. And they did this by mixing one mole of water with one of MMH, to get a mixture equivalent to COH 8 N 2 . When
 this was burned with CTF the carbon and oxygen went to CO and the
 hydrogens burned to HCl and HF. The performance was somewhat
-below that of hydrazine, since considerable energy was wasted in de-
-composing the water, but it was still better than that of ammonia. And
+below that of hydrazine, since considerable energy was wasted in decomposing the water, but it was still better than that of ammonia. And
 they found that they could add considerable hydrazine (0.85 moles
 to one of MMH) to the mixture without raising the freezing point
 above —54°. Bell Aerosystems now calls the mixture BAF-1185.
@@ -4164,12 +3695,9 @@ ran it through the wringer, characterizing it as well as we could, which
 was pretty well. We ran card-gap tests * on it, and found that it was
 
 
-* The card-gap test is used to determine the shock sensitivity of a potentially explo-
-sive liquid. A 50-gram block of tetryl (high explosive) is detonated beneath a 40 cc
+* The card-gap test is used to determine the shock sensitivity of a potentially explosive liquid. A 50-gram block of tetryl (high explosive) is detonated beneath a 40 cc
 sample of the liquid in question, contained in a 3” length of 1” iron pipe sealed at the
-botton with a thin sheet of Teflon. If the liquid detonates, it punches a hole in the tar-
-get plate, of 3 /s” boiler plate, sitting on top of it. The sensitivity of the liquid is mea-
-sured by the number of “cards,” discs of 0.0 1” thick cellulose acetate, which must be
+botton with a thin sheet of Teflon. If the liquid detonates, it punches a hole in the target plate, of 3 /s” boiler plate, sitting on top of it. The sensitivity of the liquid is measured by the number of “cards,” discs of 0.0 1” thick cellulose acetate, which must be
 slacked between the tetryl and the sample to keep the latter from going off. Zero cards
 means relatively insensitive, a hundred cards means that you’d better forget the whole
 business. As may be imagined, the test is somewhat noisy, and best done some distance
@@ -4203,8 +3731,7 @@ to tell my people to fire something without knowing what’s in it
 you’ve got rocks in the head.”
 
 A longer pause. I suspect that my reaction wasn’t unexpected.
-Then, “Well, it’s a substituted hydrazine with some oxidizing ma-
-terial ...”
+Then, “Well, it’s a substituted hydrazine with some oxidizing material ...”
 
 “Don’t tell me, Stan,” I broke in. My subconscious had put all the
 pieces together. “Let me tell you. You’ve got three moles of MMH
@@ -4224,8 +3751,7 @@ answer at the same time and that nobody had swiped anything from
 anybody. The time to stop that sort of rumor is before it starts!
 
 A few years later (in 1961), thinking that if hydrazine nitrate was
-good, hydrazine perchlorate ought to be better, I put together Hy-
-drazoid P, which consisted of one mole of the latter, N 2 H 5 C]0 4 , four
+good, hydrazine perchlorate ought to be better, I put together Hydrazoid P, which consisted of one mole of the latter, N 2 H 5 C]0 4 , four
 of MMH, and four of straight hydrazine. It was definitely superior
 to Hydrazoid N, with a performance 98 percent of that of hydrazine
 itself, and a somewhat higher density. In putting it together, though,
@@ -4242,8 +3768,7 @@ and easy to handle) to the hydrazine, and blew out the displaced
 ammonia with a stream of nitrogen. Then I added the MMH, and I
 was in business. The mixture turned out to be somewhat corrosive to
 stainless steel at 71° (hydrazine perchlorate in hydrazine is a strong
-acid) but its behavior when it was spilled was what scared the engi-
-neers. If it caught fire as it lay on the ground, it would burn quietly
+acid) but its behavior when it was spilled was what scared the engineers. If it caught fire as it lay on the ground, it would burn quietly
 for some time, and theh s as the hydrazine perchlorate became more
 concentrated, it would detonate — violently. (Hydrazoid N, or any
 similar mixture, it turned out, would do the same thing.)
@@ -4252,10 +3777,7 @@ It seemed likely that if the burning rate of the mixture could be
 increased so much that the combustion would take place in the liquid
 and not in the vapor phase, the perchlorate would never have a
 chance to get concentrated, and the problem might be licked. I knew,
-of course, that certain metal oxides and ions catalyzed hydrazine de-
-composition, but I didn’t want this to happen except under combus-
-tion conditions. The answer seemed to be to wrap the ion in a protec-
-tive structure of some sort, which would be stripped off at combustion
+of course, that certain metal oxides and ions catalyzed hydrazine decomposition, but I didn’t want this to happen except under combustion conditions. The answer seemed to be to wrap the ion in a protective structure of some sort, which would be stripped off at combustion
 temperatures. So I told one of the gang to make the acetylacetonate
 complex of every metal ion he could find in the stockroom.
 
@@ -4264,20 +3786,16 @@ them did nothing at all. Others started decomposing the Hydrazoid
 P as soon as they got into solution. But the nickel acetylacetonate did
 a beautiful job. It did nothing at all at room temperature or in storage.
 But half a percent or so speeded up Hydrazoid P combustion, either
-in the air, or when we burned the stuff under pressure as a mono-
-propellant, by orders of magnitude. But when we did fire tests in the
+in the air, or when we burned the stuff under pressure as a monopropellant, by orders of magnitude. But when we did fire tests in the
 open, the results weren’t so good. An uncertainty factor had been
 introduced into Hydrazoid burning, and instead of detonating every
 time it did it about one time in three. So the engineers were still
 afraid of it.
 
-A pity, too. For the nickel complex gave the fuel a peculiarly beau-
-tiful purple color, and somehow I’d always wanted a purple propel-
-lant!
+A pity, too. For the nickel complex gave the fuel a peculiarly beautiful purple color, and somehow I’d always wanted a purple propellant!
 
 Other fuels for C1F 3 have been developed, but they’re generally
-rather similar to those I’ve described, with the carbon in them bal-
-anced out to CO by the addition of oxygen, somehow, to the mixture.
+rather similar to those I’ve described, with the carbon in them balanced out to CO by the addition of oxygen, somehow, to the mixture.
 On the whole, the problem can be considered to be pretty well under
 control. The detonation hazard after a spill is important on the test
 stand, but not with a prepackaged missile. '
@@ -4294,13 +3812,10 @@ an endothermic heat of formation of +63.4 kcal/mole, was one of
 
 Halogens and Politics and Deep Space
 
-the most powerful liquid oxidizers known in the early 50’s, and pre-
-liminary calculations showed that it should give a remarkably high
+the most powerful liquid oxidizers known in the early 50’s, and preliminary calculations showed that it should give a remarkably high
 performance with any number of fuels. It had, however, one slight
 drawback— it would detonate violently at the slightest provocation
-or none at all. From first to last, at least five laboratories tried to do-
-mesticate it, with no success at all. The approach was to hunt for addi-
-tives which would desensitize or stabilize it — Olin Mathieson, alone,
+or none at all. From first to last, at least five laboratories tried to domesticate it, with no success at all. The approach was to hunt for additives which would desensitize or stabilize it — Olin Mathieson, alone,
 tried some seventy — and was a dismal failure.
 
 The closely related perchloric acid, at first, appeared to be a more
@@ -4342,8 +3857,7 @@ be reasonably stable. And it should be a real nice oxidizer.
 
 So, one day in the spring of 1954, Tom Reinhardt, then the chief
 engineer of NARTS, Dr. John Gall, director of research of Pennsalt
-Chemicals, and I were sitting around the table in my laboratory shoot-
-ing the breeze and discussing propellants in general. John was trying
+Chemicals, and I were sitting around the table in my laboratory shooting the breeze and discussing propellants in general. John was trying
 to sell us NF 3 , but we weren’t interested in anything with a boiling
 point of —129°. Then I brought up the subject of this hypothetical
 derivative of perchloric acid, added my guess that it would probably
@@ -4364,8 +3878,7 @@ the man who discovered it.”
 My delighted whoop woke up the firehouse dog half a mile away
 — and was the beginning of the perchloryl fluoride program. It seems
 that in 1951, some workers in Germany had treated sodium chlorate,
-NaC10 3 , with fluorine gas and had obtained sodium fluoride and var-
-ious unidentified gaseous products which they did not identify — but
+NaC10 3 , with fluorine gas and had obtained sodium fluoride and various unidentified gaseous products which they did not identify — but
 one of them, in hindsight, must have been perchloryl fluoride. Then,
 in 1952, Englebrecht and Atzwanger, in Austria, dissolved sodium
 perchlorate in anhydrous hydrofluoric acid, HF, and electrolyzed the
@@ -4373,9 +3886,7 @@ solution, mainly, I suspect, to see what would happen. They collected
 the gases involved, sorted them out, and isolated perchloryl fluoride
 among them. Since hydrogen, fluorine, and a few other items were
 all mixed together, they were plagued by explosions, but managed to
-survive the process somehow. (Englebrecht was just naturally ventur-
-some to the point of lunacy. One of his other exploits was the devel-
-opment of a fearsome cutting torch burning powdered aluminum
+survive the process somehow. (Englebrecht was just naturally ventursome to the point of lunacy. One of his other exploits was the development of a fearsome cutting torch burning powdered aluminum
 with gaseous fluorine. He could slice through a concrete block with
 it, to the accompaniment of an horrendous display of sparks, flames,
 and fumes which suggested an inadequately controlled catastrophe.)
@@ -4384,20 +3895,16 @@ journal which I didn’t normally see) but Pennsalt apparently had not,
 and decided that Englebrecht was just the sort of person they wanted
 on their staff.
 
-In June BuAer authorized NARTS. to investigate perchloryl fluo-
-ride, and Pennsalt sent us thirty-three grams of it in October— pain-
-fully produced by Englebrecht’s method. And then, while we tried to
+In June BuAer authorized NARTS. to investigate perchloryl fluoride, and Pennsalt sent us thirty-three grams of it in October— painfully produced by Englebrecht’s method. And then, while we tried to
 characterize the material, they started looking for a simpler way to
 make it. Dr. Barth-Wehrenalp of their laboratories came up with —
 and patented — a synthesis by which it could be made rather easily
 and cheaply. It worked by the reaction KC10 4 + (excess) HS0 3 F —*
-KHS0 4 + FC10 3 , which looks simpler than it is. Nobody really under-
-stands the reaction mechanism.
+KHS0 4 + FC10 3 , which looks simpler than it is. Nobody really understands the reaction mechanism.
 
 While we were characterizing it, Pennsalt was doing the same, and
 passing their results over to us, and in a few months we knew just
-about everything we wanted to know about it. It was a pleasure work-
-ing with that outfit. I’d phone one day asking, say, for the viscosity
+about everything we wanted to know about it. It was a pleasure working with that outfit. I’d phone one day asking, say, for the viscosity
 as a function of temperature, and within a week they would have made
 the measurements (and measuring the viscosity of a liquid under its
 own vapor pressure isn’t exactly easy) and passed the results on to me.
@@ -4413,35 +3920,28 @@ Halogens and Politics and Deep Space
 
 rather hand-carried — ten pounds of perchloryl fluoride to us. (It was
 made by the old process, since the new one wasn’t yet ready, and cost
-us $540 per pound. We didn’t mind. We’d expected it to cost a thou-
-sand!)
+us $540 per pound. We didn’t mind. We’d expected it to cost a thousand!)
 
 With ten pounds of it we were able to make small motor tests (the
 fuel was MMH) and found that we had a very fine oxidizer on our
 hands. Its performance with MMH was very close to that of C1F 3 with
 hydrazine, and there wasn’t any freezing point trouble to worry about.
-It was hypergolic with MMH, but starts were hard,* so we used a start-
-ing slug of RFNA. Later, Barth-Wehrenalp tried mixing a small
+It was hypergolic with MMH, but starts were hard,* so we used a starting slug of RFNA. Later, Barth-Wehrenalp tried mixing a small
 amount of chloryl fluoride, C10 2 F with it, and got hypergolic ignition
 that way.f But what made the rocket mechanics happy^was the fact
 that it varied from all other oxidizers in that you just couldn’t hurt
-yourself with it, unless, as Englebrecht suggested, “you drop a cylin-
-der of it on your foot.” Its toxicity was surprisingly low, it didn’t attack
+yourself with it, unless, as Englebrecht suggested, “you drop a cylinder of it on your foot.” Its toxicity was surprisingly low, it didn’t attack
 either inflammables or human hide, it wouldn’t set fire to you — in fact,
 it was a joy to live with.
 
-What did it in, finally, was the fact that its density at room tempera-
-ture was rather low, 1.411 compared to 1.809 for CTF, and since its
-critical temperature was only 95°, it had a very high coefficient of ex-
-pansion. Its volume would increase by 20 percent between 25° and
-71°, so your tanks always had to be oversized. It is, however, com-
-pletely miscible with all-halogen oxidizers such as CTF, and can be
+What did it in, finally, was the fact that its density at room temperature was rather low, 1.411 compared to 1.809 for CTF, and since its
+critical temperature was only 95°, it had a very high coefficient of expansion. Its volume would increase by 20 percent between 25° and
+71°, so your tanks always had to be oversized. It is, however, completely miscible with all-halogen oxidizers such as CTF, and can be
 added to the latter to help them burn carbon-containing fuels, which
 need oxygen. This will probably be its future role.
 
 While PF (so called for security and in deference to the engineers,
-who were apparently quite incapable of pronouncing the word “per-
-chloryl”) was being investigated, the next candidate was about to make
+who were apparently quite incapable of pronouncing the word “perchloryl”) was being investigated, the next candidate was about to make
 its appearance. Several laboratories, at this time, were trying to come
 up with storable oxidizers with a better performance than C1F 3 , and
 in 1957, Colburn and Kennedy, at Rohm and Haas, reacted nitrogen
@@ -4449,16 +3949,14 @@ trifluoride $ with copper turnings at 450° and produced N 2 F 4 by the
 reaction 2NF 3 + Cu — » CuF 2 + N 2 F 4 .
 
 * It seems that liquid perchloryl fluonde reacts with liquid amines, hydrazines, or
-ammonia, FCIO 3 + H 2 N — R — &gt; HF + 0 3 C1 — NH — R and the perchloramide-type com-
-pound is remarkably and violently explosive. Hence the hard starts.
+ammonia, FCIO 3 + H 2 N — R — &gt; HF + 0 3 C1 — NH — R and the perchloramide-type compound is remarkably and violently explosive. Hence the hard starts.
 
 t Chloryl fluoride, C10 2 F, was first reported by Schmitz and Schumacher in 1942. It
 is indecently reactive, and the hardest to keep of all the Cl-O-F compounds, since it
 apparently dissolves the protective metal fluoride coatings that make the storage of
 C1F 3 comparatively simple.
 
-t Making NF S is tricky enough. It’s done by electrolyzing molten ammonium bifluo-
-ride, using graphite electrodes. They have to be graphite -if you use nickel you don’t
+t Making NF S is tricky enough. It’s done by electrolyzing molten ammonium bifluoride, using graphite electrodes. They have to be graphite -if you use nickel you don’t
 gel any NF 3 -and the yield depends upon who manufactured the graphite. Don’t ask
 me why.
 
@@ -4468,15 +3966,12 @@ me why.
 
 Here was something interesting, and the propellant community
 leaped into the act with glad cries and both feet. Research went off
-in two directions — improving the synthetic method of hydrazine tet-
-rafluoride, as it was called,* for one, and determining its physical
+in two directions — improving the synthetic method of hydrazine tetrafluoride, as it was called,* for one, and determining its physical
 properties and its chemistry for another.
 
-Rohm and Haas came up with a somewhat esoteric, not to say pe-
-culiar, synthesis when they reacted NF 3 with hot arsenic, of all things.
+Rohm and Haas came up with a somewhat esoteric, not to say peculiar, synthesis when they reacted NF 3 with hot arsenic, of all things.
 Stauffer Chemical reacted NF 3 with hot fluidized carbon in a reaction
-which was easy to control, but which gave a product grossly contami-
-nated with large amounts of C 2 F 6 , just about impossible to remove. Du
+which was easy to control, but which gave a product grossly contaminated with large amounts of C 2 F 6 , just about impossible to remove. Du
 Pont developed a completely different synthesis, in which NF 3 and
 NO are reacted at 600° in a nickel flow tube to form N 2 F 4 and NOF.
 Other syntheses took a route through difluoramine, HNF 2 , which was
@@ -4488,11 +3983,9 @@ strongly alkaline solution; Aerojet, as well as Rohm and Haas, did it
 with ferric ion in acid solution. The Du Pont process, and the HNF 2
 -route syntheses are those used today.
 
-(There was some desire to use HNF 2 itself as an oxidizer— its boil-
-ing point is —23.6° and its density is greater than 1.4 — but it is so
+(There was some desire to use HNF 2 itself as an oxidizer— its boiling point is —23.6° and its density is greater than 1.4 — but it is so
 violently explosive that the idea never got very far. When it is used as
-an intermediate, the drill is to make it as a gas and use it up immedi-
-ately.)
+an intermediate, the drill is to make it as a gas and use it up immediately.)
 
 Dinitrogentetrafluoride was definitely a high-energy oxidizer,
 with a high theoretical performance with fuels such as hydrazine.
@@ -4503,16 +3996,12 @@ so that accurate calculations could be made) and when Aerojet, in
 good density — 1.397 at its boiling point. But that boiling point was
 — 73° ,t which put it out of the class of storable propellants.
 
-* N 2 F 4 is an inorganic compound, and should have been named according to the no-
-menclature rules of inorganic chemistry, “dinitrogen tetrafluoride” in strict analogy
+* N 2 F 4 is an inorganic compound, and should have been named according to the nomenclature rules of inorganic chemistry, “dinitrogen tetrafluoride” in strict analogy
 to "dinitrogen tetroxide” for N 2 0 4 . Instead it was named by the nomenclature rules of
 organic chemistry, as a derivative of hydrazine. This sort of thing was happening all
-the time, as organic chemists tried to name inorganic compounds, and inorganic chem-
-ists made a mess of naming organics'
+the time, as organic chemists tried to name inorganic compounds, and inorganic chemists made a mess of naming organics'
 
-t This boiling point was a surprise to many, who had expected that it would be some-
-where near that of hydrazine, or around 100°. But some of us had noted that the boil-
-ing point of NF 3 was very near that of CF 4 , and hence expected that of N 2 F 4 to be not
+t This boiling point was a surprise to many, who had expected that it would be somewhere near that of hydrazine, or around 100°. But some of us had noted that the boiling point of NF 3 was very near that of CF 4 , and hence expected that of N 2 F 4 to be not
 too far from that of CjF 6 , which is —79°. So some of us, at least, weren’t disappointed,
 since we hadn’i hoped for much.
 
@@ -4524,48 +4013,34 @@ since we hadn’i hoped for much.
 Halogens and Politics and Deep Space
 
 And this fact led to the concept of “space-storable propellants.”
-As you will remember, 1957 was the year of Sputnik 1, when the pub-
-lic suddenly realized that there might be something to this science-
-fiction foolishness of space travel after all. Anything remotely con-
-nected with space had suddenly become eminently salable, and if the
-services weren’t able to use N 2 F 4 in missiles, perhaps the space agen-
-cies (NACA, later NASA) could use it in space. After all, the hard
+As you will remember, 1957 was the year of Sputnik 1, when the public suddenly realized that there might be something to this sciencefiction foolishness of space travel after all. Anything remotely connected with space had suddenly become eminently salable, and if the
+services weren’t able to use N 2 F 4 in missiles, perhaps the space agencies (NACA, later NASA) could use it in space. After all, the hard
 vacuum of space is a pretty good insulator, and when you have, in
 effect, a Dewar flask the size of the universe available, you can store a
 low-boiling liquid a long time. An arbitrary upper limit (—150°) was
 set for the boiling point of a space-storable, but the custom is to
-stretch this limit to include the propellant you want to sell. OF 2 , boil-
-ing at —144.8° is considered a space storable, but if you want to call
+stretch this limit to include the propellant you want to sell. OF 2 , boiling at —144.8° is considered a space storable, but if you want to call
 its ideal partner, methane, CH 4 , boiling at —161.5° one too, nobody is
 going to complain too loudly.
 
-NF 3 is a rather inert material, and its chemistry isn’t too compli-
-cated, but N 2 F 4 turned out to be a horse of another color, with a pe-
-culiarly rich and interesting chemistry. The propellant men were not
+NF 3 is a rather inert material, and its chemistry isn’t too complicated, but N 2 F 4 turned out to be a horse of another color, with a peculiarly rich and interesting chemistry. The propellant men were not
 exactly overjoyed by this development, since they much prefer to deal
 with an unenterprising propellant, which just sits in its tank, doing
 nothing, until they get around to burning it.
 
 N 2 F 4 reacts with water to form HF and various nitrogen oxides,
 with nitric oxide to form the unstable and brilliantly colored (purple)
-F 2 NNO, and with a bewildering number of oxygen-containing com-
-pounds to form NF 3 , NOF, N 2 and assorted nitrogen oxides, by re-
-actions which are generally strongly dependent upon the exact condi-
-tions, and frequently affected by traces of water or nitrogen oxides,
-by the material of the reactor, and by everything else that the experi-
-menter can (or cannot) think of. Many of its reactions result from
+F 2 NNO, and with a bewildering number of oxygen-containing compounds to form NF 3 , NOF, N 2 and assorted nitrogen oxides, by reactions which are generally strongly dependent upon the exact conditions, and frequently affected by traces of water or nitrogen oxides,
+by the material of the reactor, and by everything else that the experimenter can (or cannot) think of. Many of its reactions result from
 the fact that it is always partially dissociated to 2NF 2 , just as N 2 0 4 is
-always partially dissociated to 2N0 2 , and that the extent of the dis-
-sociation increases with the temperature. This is the way a halogen,
-such as Cl 2 , behaves, and N 2 F 4 can be considered to be a pseudo-
-halogen. Niederhauser, at Rohm and Haas, thought that as such, it
+always partially dissociated to 2N0 2 , and that the extent of the dissociation increases with the temperature. This is the way a halogen,
+such as Cl 2 , behaves, and N 2 F 4 can be considered to be a pseudohalogen. Niederhauser, at Rohm and Haas, thought that as such, it
 should add across a double bond, and reacted it, in the vapor phase,
 with ethylene — and came up with F 2 NCH 2 CH 2 NF 2 . The reaction
 proved to be general, and it led to many things, some of which will be
 described in the chapter on monopropellants.
 
-The handling and characteristics of N 2 F 4 are fairly well under-
-stood now, and it is undeniably a high-performing oxidizer, but it is
+The handling and characteristics of N 2 F 4 are fairly well understood now, and it is undeniably a high-performing oxidizer, but it is
 difficult to assess its future role as a propellant. It’s not going to be
 used for any military application, and liquid oxygen is better, and
 cheaper, in the big boosters. It may find some use, eventually, in deep
@@ -4580,23 +4055,18 @@ provided by empty space liquid oxygen might be hard to keep for
 that long. And N 2 0 4 would probably be frozen solid.
 
 When Kennedy and Colburn found dinitrogentetrafluoride they
-knew what they were hunting for. But the next oxidizer was dis-
-covered by people who were looking for something else.
+knew what they were hunting for. But the next oxidizer was discovered by people who were looking for something else.
 
-It seems that at the beginning of 1960, Dr. Emil Lawton of Rocket-
-dyne, armed with an Air Force contract, had an idea that looked
-wonderful at the time. It was to react chlorine trifluoride with di-
-fluoroamine,
+It seems that at the beginning of 1960, Dr. Emil Lawton of Rocketdyne, armed with an Air Force contract, had an idea that looked
+wonderful at the time. It was to react chlorine trifluoride with difluoroamine,
 
 C1F 3 + 3HNF 2 — 3HF + C1(NF 2 ) 3
 
 thusly. He put Dr. Donald Pilipovich, “Flip,” on the job. Flip built
 himself a metal vacuum line and started in. But he didn’t get what he
 wanted. He got mainly C1NF 2 , plus a small quantity of “Compound
-X.” Compound X showed a strong NF 2 0 + peak on the mass spectrom-
-eter, and the question was the source of the oxygen. He investigated,
-and found that the chlorine trifluoride he was using was heavily con-
-taminated with FC10 2 and C10 2 .
+X.” Compound X showed a strong NF 2 0 + peak on the mass spectrometer, and the question was the source of the oxygen. He investigated,
+and found that the chlorine trifluoride he was using was heavily contaminated with FC10 2 and C10 2 .
 
 Meanwhile, Dr. Walter Maya, of the same group, was making 0 2 F 2
 by an electical discharge in a mixture of fluorine and oxygen. And
@@ -4607,8 +4077,7 @@ Flip was tied up with another job at that. time, so Maya took over the
 Compound X problem. He found that an electrical discharge in a
 mixture of air and fluorine would give X, but that a discharge in a
 mixture of oxygen and NF 3 did even better. Dr. Bartholomew Tuffly
-of their analytical group invented a gelled fluorocarbon gas chroma-
-tograph column to separate the X from the NF 3 , and its mass spectrum
+of their analytical group invented a gelled fluorocarbon gas chromatograph column to separate the X from the NF 3 , and its mass spectrum
 and molecular weight identified it unambiguously as ONF 3 or the
 long-sought F 2 NOF.
 
@@ -4621,9 +4090,7 @@ around January 1961, and found that they had the same compound.
 Nuclear magnetic resonance (NMR) spectroscopy showed that it was
 ONF 3 , and not F 2 NOF.
 
-And the moral of this story is that it’s always worth trying an elec-
-trical discharge on your mixtures when you’re hunting for new com-
-
+And the moral of this story is that it’s always worth trying an electrical discharge on your mixtures when you’re hunting for new com
 
 
 85
@@ -4639,28 +4106,23 @@ NO, with a fast quench. The last synthesis is best for relatively large
 scale production.
 
 A little later, I was chairing a session on propellant synthesis at one
-of the big meetings, and found, on the program, that both Rocket-
-dyne and Allied were reporting on ONF 3 . I knew that they differed
-widely in their interpretations of the chemical bonding in the com-
-pound, so I rearranged the program to put the two papers back to
+of the big meetings, and found, on the program, that both Rocketdyne and Allied were reporting on ONF 3 . I knew that they differed
+widely in their interpretations of the chemical bonding in the compound, so I rearranged the program to put the two papers back to
 back, in the hope of starting a fight. No luck, though — they were both
 too polite. Too bad.
 
 Another meeting, some years later, had more interesting results.
 In June 1966, a symposium on fluorine chemistry was held at Ann
-Arbor and one of the papers, by Professor Neil Bartlett of the Uni-
-versity of British Columbia, was to be on the discovery and properties
+Arbor and one of the papers, by Professor Neil Bartlett of the University of British Columbia, was to be on the discovery and properties
 of ONF 3 . Bartlett, a virtuoso of fluorine chemistry, the discoverer of
 OIF 5 and of the xenon fluorides, had, of course, never heard of
 Rocketdyne’s and Allied’s classified research. But Bill Fox, seeing an
-advance program, hurriedly had his report on the compound declassi-
-fied, and presented it immediately after Bartlett’s, describing several
+advance program, hurriedly had his report on the compound declassified, and presented it immediately after Bartlett’s, describing several
 methods of synthesis, and just about every interesting property of the
 compound. Bill did his best not to make Bartlett look foolish, and
 Bartlett grinned and shrugged it off— “well, back to the old vacuum
 rack” — but the incident is something that should be noted by the ivory
-tower types who are convinced of the intellectual (and moral) superi-
-ority of “pure” undirected research to the applied and directed sort.
+tower types who are convinced of the intellectual (and moral) superiority of “pure” undirected research to the applied and directed sort.
 
 The compound has been called nitrogen oxidetrifluoride, nitrosyl
 trifluoride, and trifluoroamine oxide. The first is probably preferable.
@@ -4669,8 +4131,7 @@ much less active chemically than dinitrogentetrafluoride, and is
 hence much easier to handle. It is stable in most metals, reacts only
 very slowly with water or alkalis, or with glass or quartz even at 400°.
 In these respects it is very similar to perchloryl fluoride, which has a
-similar compact and symmetrical tetrahedral structure, with no reac-
-tive electrons. It reacts with fluorinated olefins to form C-0-NF 2
+similar compact and symmetrical tetrahedral structure, with no reactive electrons. It reacts with fluorinated olefins to form C-0-NF 2
 structures, and with SbF 5 to form the interesting salt ONFJSbFg .
 
 Its potential as an oxidizer seems to be similar to that of N 2 F 4 , and
@@ -4684,12 +4145,10 @@ less — and it takes less energy to inject the propellants than would be
 
 86 Ignition
 
-the case with motors designed for sea-level use, whose chamber pres-
-sure is usually around 1000 psia. (In a few years it will probably be
+the case with motors designed for sea-level use, whose chamber pressure is usually around 1000 psia. (In a few years it will probably be
 2500!) And for the low injection pressure requirements of the deep
 space motors, some of the “space storables” seem peculiarly well
-suited. During the coast period, they could be kept below their nor-
-mal boiling points. Then as the time for their use approached, a
+suited. During the coast period, they could be kept below their normal boiling points. Then as the time for their use approached, a
 small energy source (a small electrical heating coil or the like) could
 be employed to heat them up to a temperature at which their vapor
 pressure would be well above the low chamber pressure of the motor,
@@ -4701,30 +4160,23 @@ Aerojet, during 1963, did a great deal of work along these lines, with
 complete success.
 
 It’s a good idea, when choosing a pair of “space storables,” to
-choose a fuel and an oxidizer that have a common liquid (tempera-
-ture) range. If they are stored next to each other during a mission that
+choose a fuel and an oxidizer that have a common liquid (temperature) range. If they are stored next to each other during a mission that
 lasts several months, their temperatures are going to get closer and
 closer together, no matter how good the insulation is. And if the
-temperature toward which the two converge is one at which one pro-
-pellant is a solid and the other is a gas, there are going to be diffi-
-culties when it comes time for them to go to work. Likewise, if the
-self-pressurizing type of injection is used, design problems are simpli-
-fied if the two have vapor pressures that are pretty close to each other.
+temperature toward which the two converge is one at which one propellant is a solid and the other is a gas, there are going to be difficulties when it comes time for them to go to work. Likewise, if the
+self-pressurizing type of injection is used, design problems are simplified if the two have vapor pressures that are pretty close to each other.
 So, if the designer intends to use ONF 3 , with a boiling point of —87.5°,
 ethane, whose boiling point is —88.6°, would be a good choice for the
 fuel.
 
-Two space-storable systems have been investigated rather inten-
-sively. RMI andJPL, starting in 1963 or so, and continuing into 1969,
+Two space-storable systems have been investigated rather intensively. RMI andJPL, starting in 1963 or so, and continuing into 1969,
 worked out the diborane-OF 2 system, while Pratt and Whitney,
 Rocketdyne, and TRW, with NASA contracts, as well as NASA itself,
 have concentrated their efforts on OF 2 and the light hydrocarbons:
 methane, ethane, propane, 1-butene, and assorted mixtures of these.
 (In most of their motor work, they used a mixture of oxygen and
-fluorine as a reasonably inexpensive surrogate for OF 2 .) All the hy-
-drocarbons were good fuels, but methane was in a class by itself as a
-coolant, transpiration or regenerative, besides having the best per-
-formance. The OF 2 -methane combination is an extremely promising
+fluorine as a reasonably inexpensive surrogate for OF 2 .) All the hydrocarbons were good fuels, but methane was in a class by itself as a
+coolant, transpiration or regenerative, besides having the best performance. The OF 2 -methane combination is an extremely promising
 one. (It took a long time for Winkler’s fuel of 1930 to come into its
 own!)
 
@@ -4762,12 +4214,10 @@ make “A.” From this fact, from the further fact that “A” reacted with
 traces of water to form FC10 2 , and from the IR spectrum, Lawton
 suggested in a report submitted in September 1961, that “A” was
 C1F 5 . At that precise moment Rocketdyne’s contract (supported by
-the Advanced Research Projects Administration — ARPA — and moni-
-tored by the Office of Naval Research — ONR) was canceled.
+the Advanced Research Projects Administration — ARPA — and monitored by the Office of Naval Research — ONR) was canceled.
 
 It seems that somebody in Rocketdyne’s solid propellant operation
-in Texas, several hundred miles away, had made a security goof re-
-garding the ARPA program, and Dr. Jean Mock of ARPA felt that
+in Texas, several hundred miles away, had made a security goof regarding the ARPA program, and Dr. Jean Mock of ARPA felt that
 something had to be done by way of reproof. Besides, as he remarked
 to Dr. Bob Thompson, Lawton’s boss, “Lawton claimed he made C1F 5
 and we know that’s impossible.” So the project lay dormant for half
@@ -4791,8 +4241,7 @@ out of the office. By this time it was the middle of 1962.
 At this time Lawton had an Air Force research program, and he
 decided, in desperation, to use their program — and money — to try to
 solve the problem. The catch was that the AF program didn’t allow
-for work on interhalogens, but apparently he figured that if he suc-
-ceeded all would be forgiven. (In the old Royal Spanish Army there
+for work on interhalogens, but apparently he figured that if he succeeded all would be forgiven. (In the old Royal Spanish Army there
 was a decoration awarded to a general who won a battle fought against
 orders. Of course, if he lost it, he was shot.) Pilipovitch was Lawton’s
 Responsible Scientist by that time, and he put Dick Wilson on the job.
@@ -4812,21 +4261,17 @@ January 1963 the (bleep) hit the fan. Don McGregor, who had been
 monitoring Lawton’s program, was utterly infuriated, and wanted to
 kill him — slowly. Forrest “Woody” Forbes wanted to give him a medal.
 There was a fabulous brouhaha, people were shifted around from
-one job to another, and it took weeks for things to settle down. Law-
-ton was forgiven, Dick Holtzman apologized handsomely for ARPA
+one job to another, and it took weeks for things to settle down. Lawton was forgiven, Dick Holtzman apologized handsomely for ARPA
 and gave Lawton a new contract, and relative peace descended upon
 the propellant business. And when I heard, a few weeks later, of the
 discovery of C1F 5 (the code name, Compound “A” was kept for some
-years for security reasons) I sent Emil a letter which started, “Con-
-gratulations, you S.O.B.! I only wish I’d done it myself!” He was in-
-ordinately proud of it, and showed it to everybody at Rocketdyne.
+years for security reasons) I sent Emil a letter which started, “Congratulations, you S.O.B.! I only wish I’d done it myself!” He was inordinately proud of it, and showed it to everybody at Rocketdyne.
 
 C1F 5 is very similar to C1F 3 , but, with a given fuel, has a performance
 about twenty seconds better. It boils at —13.6°, has a density of 1.735
 at 25°. And all of the techniques developed for using and handling
 CTF could be applied, unchanged, to the new oxidizer. To say that
-the propellant community was enthusiastic would be a mad under-
-statement.
+the propellant community was enthusiastic would be a mad understatement.
 
 On their ARPA contract the Rocketdyne group, by grace of Dick
 Wilson’s tremendous laboratory skill, came up with “Florox” — but
@@ -4840,39 +4285,32 @@ Halogens and Politics and Deep Space
 
 that one’s still classified, and I can’t talk about it without getting into
 trouble.* But nobody has yet come up with what OClF 5 , which I called
-“Compound Omega,” because it would be just about the ultimate pos-
-sible storable oxidizer. It would be particularly useful with a fuel con-
-taining carbon, such as monomethyl hydrazine, CH e N 2 , with which it
+“Compound Omega,” because it would be just about the ultimate possible storable oxidizer. It would be particularly useful with a fuel containing carbon, such as monomethyl hydrazine, CH e N 2 , with which it
 would react, mole for mole, to produce 5HF + HC1 + CO + N 2 — a
 set of exhaust species to warm the heart of any thermodynamicist.
 Lawton and company tried, and are presumably still trying to get it,
 and Dr. Sam Hashman and Joe Smith, of my own group, hunted for
-it for more than three years, without any luck, although they em-
-ployed every known synthetic technique short of sacrificing a virgin
+it for more than three years, without any luck, although they employed every known synthetic technique short of sacrificing a virgin
 to the moon. (A critical shortage of raw material held that one up.)
-If anybody ever does synthesize Omega, it will probably be Neil Bart-
-lett or somebody in Lawton’s group.
+If anybody ever does synthesize Omega, it will probably be Neil Bartlett or somebody in Lawton’s group.
 
 A good deal of work has been done with mixed oxidizers, tailoring
 the mixture to match the intended fuel. NOTS for one, experimented
-in 1962 with “Triflox,” a mixture of C1F 3 , FC10 3 and N 2 F 4 , and Penn-
-salt, for another, examined “Halox,” comprising C1F 3 and FC10 3 . In
+in 1962 with “Triflox,” a mixture of C1F 3 , FC10 3 and N 2 F 4 , and Pennsalt, for another, examined “Halox,” comprising C1F 3 and FC10 3 . In
 this connection, it seems to me that a suitable mixture of C1F 5 and
 FC10 3 might be almost as good as the elusive Omega to burn with
 MMH.
 
 One attempt to upgrade the performance of C1F 5 by adding N 2 F 4
 to it came to an abrupt end when the vapor pressure of the liquid
-mixture (stored in steel pressure bottles) started to rise in an alarm-
-ing manner. It seems that the two oxidizers reacted thus:
+mixture (stored in steel pressure bottles) started to rise in an alarming manner. It seems that the two oxidizers reacted thus:
 
 C1F 5 + N 2 F 4 C1F 3 + 2NF 3 .
 
 And there was absolutely nothing that could be done about it.
 
 Oh, yes. About “Compound B.” That’s a sad story. It turned out to
-be tungsten hexafluoride — WF 6 — apparently from the tungsten fila-
-ment in the mass spectrometer. Even Lawton can’t win ’em all!
+be tungsten hexafluoride — WF 6 — apparently from the tungsten filament in the mass spectrometer. Even Lawton can’t win ’em all!
 
 * Emil Lawton has recently informed me (9/71) that Florox has been declassified
 since a Frenchman reported it independently late in 1970. It is OClF 3 , and is made by
@@ -4886,30 +4324,21 @@ Performance
 
 
 Since I’ve been talking about “performance” for some thousands of
-well chosen (I hope) words, it might not be a bad idea for me to ex-
-plain, at this point, exactly what I mean by the word.
+well chosen (I hope) words, it might not be a bad idea for me to explain, at this point, exactly what I mean by the word.
 
 The object of a rocket motor is to produce thrust— a force. This it
-does by ejecting a stream of gas at high velocity. And the thrust is de-
-pendent upon two factors, the rate at which the gas is being ejected,
+does by ejecting a stream of gas at high velocity. And the thrust is dependent upon two factors, the rate at which the gas is being ejected,
 in, say, kilograms per second, and the velocity at which it is ejected.
-Multiply rate by velocity and you get thrust. Thus, kilograms per sec-
-ond times meters per second gives the thrust in Newtons. (That is, if
-you’re a man of sense and are working with the MKS Systeme Inter-
-nationale of units.) If you want to increase your thrust you can do it
-either by increasing the mass flow (building a bigger motor) or by in-
-creasing the jet velocity, which generally means looking for a better
-propellant combination. The performance of a propellant combina-
-tion is simply the jet velocity it produces.
+Multiply rate by velocity and you get thrust. Thus, kilograms per second times meters per second gives the thrust in Newtons. (That is, if
+you’re a man of sense and are working with the MKS Systeme Internationale of units.) If you want to increase your thrust you can do it
+either by increasing the mass flow (building a bigger motor) or by increasing the jet velocity, which generally means looking for a better
+propellant combination. The performance of a propellant combination is simply the jet velocity it produces.
 
 Sometimes people not in the rocket business ask what is the “power”
-of, say, the Saturn V rocket. Power isn’t a very useful concept in rock-
-etry, since what you’re trying to give your vehicle is momentum, which
+of, say, the Saturn V rocket. Power isn’t a very useful concept in rocketry, since what you’re trying to give your vehicle is momentum, which
 is proportional to the thrust times the time it is exerted. But if you
 define the power as the rate at which thermal or chemical energy is
-being converted to kinetic energy in the exhaust stream, a meaning-
-ful figure can be dug out. The kinetic energy of a given mass of ex-
-haust gas (relative to the rocket, that is, not to the Earth or the Moon
+being converted to kinetic energy in the exhaust stream, a meaningful figure can be dug out. The kinetic energy of a given mass of exhaust gas (relative to the rocket, that is, not to the Earth or the Moon
 or Mars) is Mc 2 /2, where M is the mass, and c is the velocity (again,
 relative to the rocket). And the power, or rate of energy conversion,
 
@@ -4926,9 +4355,7 @@ Saturn V has a thrust of 7,500,000 pounds force. Not mass, mind
 you; the distinction is important. That is equal to 33.36 X 10 6 Newtons.
 (One pound force = 4.448 Newtons, the MKS unit of force. That’s
 a nice thing about MKS — there’s no confusion between mass and
-force!) I don’t remember the exact exhaust velocity of the Saturn en-
-gines, but it can’t be very far from 2500 meters per second. So, mul-
-tiply 33.36 X 10 6 by 2.5 X 10 3 and divide by two — and out comes the
+force!) I don’t remember the exact exhaust velocity of the Saturn engines, but it can’t be very far from 2500 meters per second. So, multiply 33.36 X 10 6 by 2.5 X 10 3 and divide by two — and out comes the
 power, neatly in watts.
 
 And the power so calculated is
@@ -4940,8 +4367,7 @@ or 41.7 X 10 6 Kilowatts
 or 41.7 X 10 3 Megawatts,
 
 which amounts to some 56 million horsepower. For comparison, the
-nuclear powerplant of the Enterprise, the most powerful afloat, gen-
-erates some 300,000 HP. And the mass flow of propellants into the
+nuclear powerplant of the Enterprise, the most powerful afloat, generates some 300,000 HP. And the mass flow of propellants into the
 engines and exhaust gases out of the nozzles is some fifteen tons a
 second. Considered as the through-put of a chemical reactor — which
 it is — the figure is impressive.
@@ -4949,16 +4375,14 @@ it is — the figure is impressive.
 So far, everything has been simple. But now things begin to get a
 little sticky. For the question arises, “How do you calculate the exhaust
 velocity, c, that you can get out of a given pair of propellants, burned
-at a definite chamber pressure, and properly expanded through a noz-
-zle?” As we saw above, the energy of a given mass of exhaust gas,
+at a definite chamber pressure, and properly expanded through a nozzle?” As we saw above, the energy of a given mass of exhaust gas,
 E = Mc 2 /2. Rearranging this, c = (2E/M) 1/2 . As all of the propellant
 injected into a motor comes out as exhaust gas (we hope!), the “M”
 in that equation is also the mass of the propellant which produced the
 mass of the exhaust gas that we’re considering. But the E is not equal
 to the thermal energy, H, in the exhaust gas before it was expanded.
 So, actually, c = (2H/M X rj) 112 , where r) is the efficiency of conversion
-of thermal to kinetic energy. And 17 depends upon the chamber pres-
-sure, upon the exhaust pressure, and upon the nature of the exhaust
+of thermal to kinetic energy. And 17 depends upon the chamber pressure, upon the exhaust pressure, and upon the nature of the exhaust
 gas, both as it exists unexpanded in the chamber and as it changes
 during expansion.
 
@@ -4974,8 +4398,7 @@ oxygen into the chamber you do not come out with two of water. You
 will have H 2 0 there, of course. But you will also, because of the high
 temperature, have a lot of dissociation, and the other species present
 will be H, H 2 , O, 0 2 , and OH. Six species in all, and you can’t know,
-a priori, in what proportions they will appear. And to solve for six un-
-knowns you need six equations.
+a priori, in what proportions they will appear. And to solve for six unknowns you need six equations.
 
 Two of these are simple. The first is derived from the atomic ratio
 between hydrogen and oxygen, and simply states that the sum of the
@@ -4985,14 +4408,10 @@ partial pressures of all of the oxygen bearing species, each multiplied
 by the number of oxygen atoms in it, is a certain value upon which you
 have already decided, in this case two. The second equation states that
 the sum of the partial pressures of all the species present shall equal
-the chamber pressure which you have chosen. The other four equa-
-tions are equilibrium equations of the type (H) 2 /(H 2 ) = K, where (H)
+the chamber pressure which you have chosen. The other four equations are equilibrium equations of the type (H) 2 /(H 2 ) = K, where (H)
 and (H 2 ) represent the partial pressures of those species, and K t is the
-constant for the equilibrium between them at the chamber tempera-
-ture. This is a very simple case. It gets worse exponentially as the
-number of different elements and the number of possible species in-
-creases. With a system containing carbon, hydrogen, oxygen, and ni-
-trogen, you may have to consider fifteen species or more. And if you
+constant for the equilibrium between them at the chamber temperature. This is a very simple case. It gets worse exponentially as the
+number of different elements and the number of possible species increases. With a system containing carbon, hydrogen, oxygen, and nitrogen, you may have to consider fifteen species or more. And if you
 toss in some boron, say, or aluminum, and perhaps a little chlorine
 and fluorine — the mind boggles.
 
@@ -5003,8 +4422,7 @@ here!) You then look up the relevant equilibrium constants for your
 chosen temperature. Devoted and masochistic savants have spent
 years in determining and compiling these. Your equations are now
 before you, waiting to be solved. It is rarely possible to do this directly.
-So you guess at the partial pressures of what you think will be the ma-
-jor constituents of the mixture (again, experience is a great help) and
+So you guess at the partial pressures of what you think will be the major constituents of the mixture (again, experience is a great help) and
 calculate the others from them. You add them all up, and see if
 they agree with the predetermined chamber pressure. They don’t, of
 course, so you go back and readjust your first guess, and try again.
@@ -5022,32 +4440,25 @@ same devoted savants have included the necessary heats of formation
 
 Performance 93
 
-and heat capacities in their compilations.) And, of course, the two fig-
-ures disagree, so you’re back on square one to guess another chamber
+and heat capacities in their compilations.) And, of course, the two figures disagree, so you’re back on square one to guess another chamber
 temperature. And so on.
 
 But all things come to an end, and eventually your heat (enthalpy)
 all balances, your equilibria all agree, your chamber pressure adds up,
-and you have the right elemental ratios. In short, you know the cham-
-ber conditions.
+and you have the right elemental ratios. In short, you know the chamber conditions.
 
 The next morning (the procedure described above has probably
 taken all day) you have to make a decision. Shall you make a frozen
-equilibrium calculation, or shall you make a shifting equilibrium cal-
-culation? If the first, you assume that the composition of the gas and
+equilibrium calculation, or shall you make a shifting equilibrium calculation? If the first, you assume that the composition of the gas and
 its heat capacity remains unchanged as it is expanded and cooled in
 the nozzle. If the latter, you assume that as the gases cool and expand
-the equilibria among the species shift in accordance with the chang-
-ing pressure and temperature, so that neither the composition nor the
+the equilibria among the species shift in accordance with the changing pressure and temperature, so that neither the composition nor the
 heat capacity of the exhaust gas is identical with what it was in the
-chamber. The first assumption amounts to a statement that all reac-
-tion rates are zero, the second to a statement that they are infinite, and
+chamber. The first assumption amounts to a statement that all reaction rates are zero, the second to a statement that they are infinite, and
 both assumptions are demonstrably false.
 
 If you want a conservative figure, you choose to make a frozen
-equilibrium calculation. (It gives a lower value than a shifting equilib-
-rium calculation.) And you plug the data from the chamber calcula-
-tions into the following horrendous formula.
+equilibrium calculation. (It gives a lower value than a shifting equilibrium calculation.) And you plug the data from the chamber calculations into the following horrendous formula.
 
 
 c
@@ -5086,16 +4497,14 @@ RICp ■
 
 
 where H is the sum of the enthalpies of all the species present. (The
-reference state of zero enthalpy is taken to be the perfect gas at abso-
-lute zero.) “M,” of course is the mass of propellants which produced
+reference state of zero enthalpy is taken to be the perfect gas at absolute zero.) “M,” of course is the mass of propellants which produced
 them. And the efficiency, rj, is
 
 
 
 94 Ignition
 
-If you feel optimistic — and energetic — you make a shifting equilib-
-rium calculation. This is based on the assumption that although the
+If you feel optimistic — and energetic — you make a shifting equilibrium calculation. This is based on the assumption that although the
 gas composition will change during the expansion process, the entropy
 will not. So your next step is to add up the entropies of all the species
 present in the chamber, and put the figure on a piece of paper where
@@ -5112,14 +4521,12 @@ r‘2tH — H )V 12
 there. And then, finally, c = — — ~ — — ,t) = (H c — H e )/H c .
 
 Solid and liquid exhaust products complicate the process somewhat
-when they appear, but that’s the general idea. There is nothing com-
-plicated about it, but the execution is insufferably tedious. And yet I
+when they appear, but that’s the general idea. There is nothing complicated about it, but the execution is insufferably tedious. And yet I
 know people who have been doing performance calculations for
 twenty years and are still apparently sanel
 
 The time and labor involved in an “exact” performance calculation
-had two quite predictable consequences. The first was that those calcu-
-lations which were made were cherished as fine gold (for shifting
+had two quite predictable consequences. The first was that those calculations which were made were cherished as fine gold (for shifting
 equilibrium calculations read “platinum”), circulated, compiled, and
 squirreled away by anyone who could get his hands on them. The
 second consequence was that everybody and his uncle was demanding
@@ -5129,13 +4536,10 @@ considerable variety.
 The most elaborate of these took the form of Mollier charts of the
 combustion products of various propellant combinations. These
 usually plotted enthalpy versus entropy, with isotherms and isobars
-cutting across the chart. A typical set of charts would be for the com-
-bustion products of jet fuel with various proportions of oxygen.
-Another, the decomposition products of 90 percent peroxide, an-
-other, ammonia and oxygen, at various O/F ratios. Some were more
+cutting across the chart. A typical set of charts would be for the combustion products of jet fuel with various proportions of oxygen.
+Another, the decomposition products of 90 percent peroxide, another, ammonia and oxygen, at various O/F ratios. Some were more
 general, applying to a defined mixture of carbon, oxygen, hydrogen,
-and nitrogen atoms, without specifying what propellants were in-
-volved. These charts were easy to use, and gave results in a hurry, but
+and nitrogen atoms, without specifying what propellants were involved. These charts were easy to use, and gave results in a hurry, but
 they seldom applied to exactly the combination you had in mind. They
 were also very difficult to construct, involving, as they did, dozens of
 calculations. The Bureau of Mines, with its extensive experience with
@@ -5152,16 +4556,12 @@ practically any combination in the CHON system, but using it for any
 chamber pressure other than 300 psia, or any exhaust pressure other
 than 14.7, was an involved and messy procedure. I later modified
 and streamlined the method, and made some provision for other
-elements, and published it in 1955 as the “NARTS Method of Per-
-formance Calculation.”
+elements, and published it in 1955 as the “NARTS Method of Performance Calculation.”
 
-These, and similar graphical methods, involve, essentially, an inter-
-polation between accurately calculated systems, and they gave a fairly
-good approximation of the results of a shifting equilibrium calcu-
-lation.
+These, and similar graphical methods, involve, essentially, an interpolation between accurately calculated systems, and they gave a fairly
+good approximation of the results of a shifting equilibrium calculation.
 
-The other group of methods gave, generally, results that approxi-
-mated those of a frozen equilibrium calculation, and were based on
+The other group of methods gave, generally, results that approximated those of a frozen equilibrium calculation, and were based on
 the equation c = (2H/M X rj) m . The usual procedure was to determine
 H by ignoring any minor products (pretending that there wasn’t
 any dissociation). The products in the CHON system were assumed to
@@ -5176,15 +4576,13 @@ determine the average C p of your gases at somewhere near what you
 thought your chamber temperature ought to be, and plug that into
 the efficiency term. Tom Reinhardt’s 1947 method included curves
 of temperature vs enthalpy for various exhaust gases, as well as C p
-vs temperature. You determined your temperature from your en-
-thalpy, and the C p from the temperature. The temperature, of course,
+vs temperature. You determined your temperature from your enthalpy, and the C p from the temperature. The temperature, of course,
 was much too high, since dissociation was ignored. Ten years later I
 modified the method, eliminating the curves, devising a fast and easy
 way of getting an R/C p averaged over the whole temperature range,
 and providing a nomograph for calculating r\ from that and the
 pressure ratio. It was called the NQD— NARTS Quick and Dirty —
-method. The thing worked astoundingly well, giving results agree-
-ing with complete shifting equilibrium calculations (I suppose that
+method. The thing worked astoundingly well, giving results agreeing with complete shifting equilibrium calculations (I suppose that
 the averaged R/C p helped there) to something like 1 percent. And you
 could make a calculation in fifteen minutes. It worked best, too, when
 you postulated the simplest— in fact the most simple minded — set of
@@ -5213,30 +4611,22 @@ There were other approximate methods developed, some as late as
 the shorthand method is gone — as is, thank God! — the complete hand
 calculation.
 
-The computers started getting into the act in the early 50’s, al-
-though considerable chemical sophistication was needed to make the
-most of their initially somewhat limited capabilities. At Bell Aerosys-
-tems they were considering fluorine as an oxidizer, and a mixture of
-hydrazine and methanol as the fuel, and demanded performance cal-
-culations. The programmer protested that he couldn’t handle that
+The computers started getting into the act in the early 50’s, although considerable chemical sophistication was needed to make the
+most of their initially somewhat limited capabilities. At Bell Aerosystems they were considering fluorine as an oxidizer, and a mixture of
+hydrazine and methanol as the fuel, and demanded performance calculations. The programmer protested that he couldn’t handle that
 many elements, and Tom Reinhardt retorted, “The carbon and the
 oxygen will go to CO, and you just tell the little man who lives inside
 that box to treat it exactly like nitrogen.” End of problem.
 
 All the compilations of thermodynamic data are on punch cards,
 now, versatile programs, which can handle a dozen or so elements,
-are on tape, and things are a lot simpler than they were. But the chem-
-ical sophistication is still useful, as is a little common sense in inter-
-preting the print-out. As an example of the first, calculations were
-made for years on systems containing aluminum, using thermody-
-namic data on gaseous A1 2 0 3 calculated from its assumed structure.
-And the results didn’t agree too well with the experimental perform-
-ances. And then an inconsiderate investigator proved that gaseous
+are on tape, and things are a lot simpler than they were. But the chemical sophistication is still useful, as is a little common sense in interpreting the print-out. As an example of the first, calculations were
+made for years on systems containing aluminum, using thermodynamic data on gaseous A1 2 0 3 calculated from its assumed structure.
+And the results didn’t agree too well with the experimental performances. And then an inconsiderate investigator proved that gaseous
 A1 2 0 3 didn’t exist. Red faces all over the place. As an example of the
 second, consider the case of a propellant combination that produces
 a lot of solid carbon, say, in the exhaust stream. The machine makes
-its calculations on the assumption that the carbon is in complete ther-
-mal and mechanical equilibrium with the gaseous part of the exhaust.
+its calculations on the assumption that the carbon is in complete thermal and mechanical equilibrium with the gaseous part of the exhaust.
 A bit of common sense suggests that this will not be so, since heat
 transfer is not an infinitely rapid process, and that the carbon may
 well be exhausted considerably hotter than the surrounding gas. So
@@ -5255,27 +4645,19 @@ change in the exhaust composition during expansion. These are called
 programs, and only the big computers make them possible. There is
 only one trouble with them. Reliable kinetic data are as hard to come
 by as honest aldermen — and when you feed questionable data into the
-machine, questionable results come out at the other end. As the com-
-puter boys say, “Garbage in — garbage out.”
+machine, questionable results come out at the other end. As the computer boys say, “Garbage in — garbage out.”
 
-And there is one disconcerting thing about working with a com-
-puter— it’s likely to talk back to you. You make some tiny mistake in
+And there is one disconcerting thing about working with a computer— it’s likely to talk back to you. You make some tiny mistake in
 your FORTRAN language — putting a letter in the wrong column,
 say, or omitting a comma — and the 360 comes to a screeching halt and
-prints out rude remarks, like “ILLEGAL FORMAT,” or “UN-
-KNOWN PROBLEM,” or, if the man who wrote the program was
-really feeling nasty that morning, “WHAT’S THE MATTER STU-
-PID? CAN’T YOU READ?” Everyone who uses a computer fre-
-quently has had, from time to time, a mad desire to attack the pre-
-cocious abacus with an axe.
+prints out rude remarks, like “ILLEGAL FORMAT,” or “UNKNOWN PROBLEM,” or, if the man who wrote the program was
+really feeling nasty that morning, “WHAT’S THE MATTER STUPID? CAN’T YOU READ?” Everyone who uses a computer frequently has had, from time to time, a mad desire to attack the precocious abacus with an axe.
 
-Rocket performance is not usually reported in terms of exhaust ve-
-locity, although the early workers wrote in those terms. Instead, it is
+Rocket performance is not usually reported in terms of exhaust velocity, although the early workers wrote in those terms. Instead, it is
 reported as “specific impulse,” which is the exhaust velocity divided
 by the standard acceleration of gravity, 9.8 meters or 32.2 feet per
 second 2 . This practice gives figures of a convenient size in the range
-of 200 to 400 or so, but it has led to some rather tortuous, if not lu-
-dicrous definitions. The most common one is that specific impulse is
+of 200 to 400 or so, but it has led to some rather tortuous, if not ludicrous definitions. The most common one is that specific impulse is
 the thrust divided by the weight flow of propellant, and it comes out
 in seconds. Putting the acceleration of gravity into the equation did
 that, but specifying the performance of a rocket, whose whole job is
@@ -5291,8 +4673,7 @@ Probably the best way of thinking of specific impulse is as a velocity
 expressed, not in meters or feet per second, but in units of 9.8 meters
 (or 32.2 feet) per second. That way you retain the concept of mass
 flow, which is relevant everywhere, and doesn’t depend upon the local
-properties of one particular planet, and at the same time lets Euro-
-
+properties of one particular planet, and at the same time lets Euro
 
 
 98
@@ -5308,8 +4689,7 @@ comes out with feet per second. (When will the U.S. ever change over
 to MKS?!)
 
 I’ve told you what performance is, and I’ve described the way you
-go about calculating it. But now comes the practical problem of pick-
-ing a propellant combination which will give you a good one. Here it
+go about calculating it. But now comes the practical problem of picking a propellant combination which will give you a good one. Here it
 will be helpful to go back to the velocity equation, c = [2H/M] 1/2 [1 —
 (Pe/Pc) R,Cp ] 1/2 and to consider the H/M term and the efficiency term
 separately. Obviously, you want to make H/M as large as possible.
@@ -5319,17 +4699,12 @@ equals the heat of formation of that molecule from its elements at
 25°C, plus its sensible heat above absolute zero (this is a very small
 item) minus the energy required to break down to their elements, at
 25°C, the propellants which formed it. This last term is generally
-much smaller than the first — otherwise we wouldn’t have useful pro-
-pellants. And sometimes it is negative; when a mole of hydrazine
-breaks down to hydrogen and nitrogen we get some twelve kilocalo-
-ries as a free bonus. But the important item is the heat of formation
-of the product molecule. That we want as big as possible. And, ob-
-viously, to maximize H/M, we must minimize M. So, to get a good
-energy term, we need an exhaust molecule with a high heat of forma-
-tion and a low molecular weight.
+much smaller than the first — otherwise we wouldn’t have useful propellants. And sometimes it is negative; when a mole of hydrazine
+breaks down to hydrogen and nitrogen we get some twelve kilocalories as a free bonus. But the important item is the heat of formation
+of the product molecule. That we want as big as possible. And, obviously, to maximize H/M, we must minimize M. So, to get a good
+energy term, we need an exhaust molecule with a high heat of formation and a low molecular weight.
 
-So far so good. But now let’s look at the efficiency term. Obvi-
-
+So far so good. But now let’s look at the efficiency term. Obvi
 
 ously, we want to get it as close to 1.0 as possible, which means that we
 /Pe\ B,c p
@@ -5371,17 +4746,14 @@ is out of the range of practical politics.) The triatomic gases, H 2 0,
 OBF, and C0 2 , with an R/C p between 0.12 and 0,15 are fair. The
 tetratomic HB0 2 and BF 3 , at about 0.1, are poor, and B 2 0 3 — well,
 perhaps it should be passed over in silence. As for the solids, C, A1 2 0 3 ,
-and B 2 0 3 , their R/C p is precisely zero, as would be the termal effi-
-ciency if they were ever the sole exhaust products.
+and B 2 0 3 , their R/C p is precisely zero, as would be the termal efficiency if they were ever the sole exhaust products.
 
 Faced with this situation, all the rocket man can do is hunt for a
 reasonable compromise. He would, if he could, choose pure hydrogen
-as his exhaust gas, since at any given temperature one gram of hydro-
-gen has more heat energy in it than a gram of any other molecule
+as his exhaust gas, since at any given temperature one gram of hydrogen has more heat energy in it than a gram of any other molecule
 around (one gram of H 2 at 1000 K has almost ten times the energy of
 one of HF at the same temperature), and its excellent R/C p makes it
-possible to use a large fraction of that energy for propulsion. So hy-
-drogen is the ideal working fluid, and you always try to get as much of
+possible to use a large fraction of that energy for propulsion. So hydrogen is the ideal working fluid, and you always try to get as much of
 it as possible into your mix. For it has to be a mix (in a chemical
 rocket, anyway) since you need an energy source of some sort to heat
 that hydrogen up to 1000 K or 3000 K or whatever. And the only
@@ -5395,8 +4767,7 @@ chamber temperature would be uncomfortably high, and the R/C p
 of the mixture would be lowered and the performance would drop.
 Hydrogen is so light that a considerable excess of it won’t harm the
 H/M term appreciably, and you get the maximum performance,
-generally, when you use only enough oxygen or fluorine to burn per-
-haps half of your fuel.
+generally, when you use only enough oxygen or fluorine to burn perhaps half of your fuel.
 
 If you’re burning a hydrocarbon with oxygen, or if you’re working
 
@@ -5414,16 +4785,14 @@ with the CHON system in general, you generally get the maximum
 performance from a mixture ratio which gives a 1.05 to 1.20 ratio of
 reducing to oxidizing valences in the chamber— that is, you work a
 little on the rich side of stoichiometric to get some CO and H 2 into
-the mixture and improve R/C p . (“Rich” and “lean” in the rocket busi-
-ness mean exactly what they do in a carburetor.)
+the mixture and improve R/C p . (“Rich” and “lean” in the rocket business mean exactly what they do in a carburetor.)
 
 If you’re using a halogen oxidizer with a storable fuel, the best
 results generally show up if your mixture ratio makes the number of
 fluorine atoms (plus chlorine atoms, if any) exactly equal the number
 of hydrogen atoms. If there is any carbon in the combination, it’s a
 good idea to get enough oxygen into the system to burn it to CO, so
-you won’t have any solid carbon in the exhaust. And if your energy-
-producing species is a solid or liquid at the exhaust temperature —
+you won’t have any solid carbon in the exhaust. And if your energyproducing species is a solid or liquid at the exhaust temperature —
 BeO, A1 2 0 3 are examples — the thing to do, of course, is to cram as
 much hydrogen as possible into the combination. *
 
@@ -5433,8 +4802,7 @@ propellant combinations which will perform as the engineers want
 them to is what he’s paid for. Inadequately.
 
 This is how he goes about it: The engineering group have been
-given the job of designing the propulsion system of a new surface-to-
-air missile — a SAM. It is specified by the customer that it must work
+given the job of designing the propulsion system of a new surface-toair missile — a SAM. It is specified by the customer that it must work
 at any temperature likely to be encountered in military operations.
 The maximum dimensions are fixed, so that the missile will fit on
 existing launchers. It must be a packaged job, loaded at the factory,
@@ -5451,8 +4819,7 @@ will make the missile do what the customer wants it to do. They also
 add some impossible demands of their own.
 
 The chemist crawls into his hole to consider the matter. What he’d
-like to recommend is the hydrazine-chlorine pentafluoride (for his-
-torical reasons, C1F 5 is generally called “compound A”) combination.
+like to recommend is the hydrazine-chlorine pentafluoride (for historical reasons, C1F 5 is generally called “compound A”) combination.
 It has the highest performance of any practical storable combination
 known (all the exhaust products are diatomic, and % of them are
 HF), and it has a nice fat density, so you can stuff a lot of it into a small
@@ -5467,19 +4834,16 @@ and that the freezing point of hydrazine is somewhat incompatible
 with the climate of Baffin Land. So — the next best bet is, probably
 MHF-3, a 14-86 mixture of hydrazine and methyl hydrazine with the
 empirical formula C 0 .s 1 H 5 .e 2 N 2 . Its freezing point is down to the
-magic —54°. (There are other possible fuels, but they may be some-
-what dangerous, and he knows that MHF-3 is safe, and works.) But,
+magic —54°. (There are other possible fuels, but they may be somewhat dangerous, and he knows that MHF-3 is safe, and works.) But,
 with C1F 5 , MHF-3 would leave a trail of black smoke leading right
 back to the launcher — definitely undesirable if the crew of the latter
 want to live to fire another round. Also, his professional soul (it’s
-the only soul he has left after all these years in the business) is re-
-volted by the thought of that free carbon and its effect on the R/C p
+the only soul he has left after all these years in the business) is revolted by the thought of that free carbon and its effect on the R/C p
 term and what it will do to his performance.
 
 So he decides to spike his oxidizer with a bit of oxygen to take care
 of the carbon. Which means spiking it with an oxygen containing
-storable oxidizer. The only one of these which can live with com-
-pound A is perchloryl fluoride, “PF.” So PF it will be.
+storable oxidizer. The only one of these which can live with compound A is perchloryl fluoride, “PF.” So PF it will be.
 
 He knows that when you have carbon and hydrogen in your system,
 along with oxygen and fluorine and chlorine, you generally get the
@@ -5499,13 +4863,11 @@ packs up his notes and pays a call on the IBM 360. The results of the
 consultation are pleasing, so he converts his mole fractions into weight
 percentages, and calls on the engineers.
 
-“Your fuel is MHF-3,” he announces, “and your oxidizer is 80 per-
-cent ‘A’ and 20 PF. And your O/F is 2.18. And Muttonhead says — ”
+“Your fuel is MHF-3,” he announces, “and your oxidizer is 80 percent ‘A’ and 20 PF. And your O/F is 2.18. And Muttonhead says — ”
 “Who’s Muttonhead? ” “Muttonhead’s the computer. He says that the
 performance, shifting, at 1000/14.7 pounds is 306.6 seconds, and I
 say that if you can’t wring out 290 on the test stand you’re not half as
-good as you say you are. But watch your O/F. If you’re lean the per-
-formance will drop off in a hurry, and if you go rich you’ll smoke like
+good as you say you are. But watch your O/F. If you’re lean the performance will drop off in a hurry, and if you go rich you’ll smoke like
 crazy: The density is 1.39, and the chamber temperature is 4160 K.
 If you want it in Fahrenheit, convert it yourself!”
 
@@ -5519,8 +4881,7 @@ of the engineers, who, (a) complain that the density is too low, and,
 (b) that the chamber temperature is much too high and who ever
 heard of anybody operating that hot anyway? (c) demand that he do
 something about the toxicity of C1F 5 . To which he replies that (a) he’d
-like a higher density himself, but that he’s a chemist and not a theolo-
-gian and that to change the properties of a compound you have to
+like a higher density himself, but that he’s a chemist and not a theologian and that to change the properties of a compound you have to
 consult God about it; (b) to get high performance you need energy,
 and that means a high chamber temperature, and unless they’re
 satisfied with RFNA and UDMH they’ll have to live with it, and for
@@ -5541,8 +4902,7 @@ want to blow your head off?”
 oxidizer in a fifty-gallon tank! Most of the PF is up in the ullage, and
 most of the A is down in the bottom of the tank. Use a smaller tank.”
 
-“No, there isn’t any additive I can put in the oxidizer that will re-
-duce the vapor pressure of the PF.”
+“No, there isn’t any additive I can put in the oxidizer that will reduce the vapor pressure of the PF.”
 
 “And no, I can’t repeal the first law of thermodynamics. You’ll
 have to talk to Congress!”
@@ -5567,8 +4927,7 @@ power source of the A-4, hydrogen peroxide, to drive the feed
 pumps, and so on. The X-l, the first supersonic plane, was driven by
 an RMI Lox-alcohol rocket motor.
 
-Other alcohols were tried as fuels to be used with oxygen — metha-
-nol by JPL as early as 1946, and isopropanol by North American early
+Other alcohols were tried as fuels to be used with oxygen — methanol by JPL as early as 1946, and isopropanol by North American early
 in 1951 — but they weren’t any particular improvement over ethanol.
 Neither was methylal, CH 3 OCH 2 OCH 3 , which Winternitz, at RMI,
 was pressured into trying, much against his will (he knew it was a lot
@@ -5583,8 +4942,7 @@ going on.
 
 But something more potent than alcohol was needed for the X-l 5
 rocket-driven supersonic research plane. Hydrazine was the first
-choice, but it sometimes exploded when used for regenerative cool-
-ing, and in 1949, when the program was conceived, there wasn’t
+choice, but it sometimes exploded when used for regenerative cooling, and in 1949, when the program was conceived, there wasn’t
 enough of it around anyway. Bob Truax of the Navy, along with
 
 
@@ -5597,33 +4955,25 @@ pounds thrust motor, settled on ammonia as a reasonably satisfactory
 second best. The oxygen-ammonia combination had been bred by
 JPL, but RMI really worked it out in the early 50’s. The great stability
 of the ammonia molecule made it a tough customer to burn and from
-the beginning they were plagued with rough running and combus-
-tion instability. All sorts of additives to the fuel were tried in the hope
+the beginning they were plagued with rough running and combustion instability. All sorts of additives to the fuel were tried in the hope
 of alleviating the condition, among them methylamine and acetylene.
 Twenty-two percent of the latter gave smooth combustion, but was
-dangerously unstable, and the mixture wasn’t used long. The com-
-bustion problems were eventually cured by improving the injector
+dangerously unstable, and the mixture wasn’t used long. The combustion problems were eventually cured by improving the injector
 design, but it was a long and noisy process. At night, I could hear the
 motor being fired, ten miles away over two ranges of hills, and could
 tell how far the injector design had progressed, just by the way the
 thing sounded. Even when the motor, finally, was running the way it
 should, and the first of the series was ready to be shipped to the West
 Coast to be test-flown by Scott Crossfield, everybody had his fingers
-crossed. Lou Rapp, of RMI, flying across the continent, found him-
-self with a knowledgeable seat mate, obviously in the aerospace busi-
-ness, who asked him his opinion of the motor. Lou blew up, and de-
-clared, with gestures, that it was a mechanical monster, an accident
+crossed. Lou Rapp, of RMI, flying across the continent, found himself with a knowledgeable seat mate, obviously in the aerospace business, who asked him his opinion of the motor. Lou blew up, and declared, with gestures, that it was a mechanical monster, an accident
 looking for a place to happen, and that he, personally, considered
-that flying with it was merely a somewhat expensive method of sui-
-cide. Then, remembering something he turned to his companion
+that flying with it was merely a somewhat expensive method of suicide. Then, remembering something he turned to his companion
 and asked. “By the way, I didn’t get your name. What is it?”
 
 The reply was simple. “Oh, I’m Scott Crossfield.”
 
-Our first real IRBM’s were Thor and Jupiter, and these were de-
-signed to burn oxygen and JP-4. And the pumps would be driven by a
-gas generator burning the same propellants, but with a very rich mix-
-ture, to produce gases which wouldn’t melt the turbine blades. JP had
+Our first real IRBM’s were Thor and Jupiter, and these were designed to burn oxygen and JP-4. And the pumps would be driven by a
+gas generator burning the same propellants, but with a very rich mixture, to produce gases which wouldn’t melt the turbine blades. JP had
 a better performance than alcohol, and getting rid of the peroxide
 simplified matters.
 
@@ -5631,10 +4981,7 @@ But there were troubles. The sloppy specifications for JP-4 arose to
 haunt the engineers. It burned all right, and gave the performance it
 should — but. In the cooling passages it had a tendency to polymerize
 (you will remember that the specifications allowed a high percentage
-of olefins) into tarry substances which slowed the fuel flow, where-
-upon the motor would cleverly burn itself up. And in the gas gener-
-ator it produced soot, coke, and other assorted deposits that com-
-pletely fouled up the works. And, of course, no two barrels of it
+of olefins) into tarry substances which slowed the fuel flow, whereupon the motor would cleverly burn itself up. And in the gas generator it produced soot, coke, and other assorted deposits that completely fouled up the works. And, of course, no two barrels of it
 were alike. (Also, believe it or not, it grows bacteria which produce
 sludgel)
 
@@ -5649,8 +4996,7 @@ Finally somebody in authority sat down and thought the problem
 through. The specifications of JP-4 were as sloppy as they were to
 insure a large supply of the stuff under all circumstances. But Jupiter
 and Thor were designed and intended to carry nuclear warheads,
-and it dawned upon the thinker that you don’t need a large and con-
-tinuing supply of fuel for an arsenal of such missiles. Each missile is
+and it dawned upon the thinker that you don’t need a large and continuing supply of fuel for an arsenal of such missiles. Each missile is
 bred, if at all, just once, and after a few dozen of them have been
 lobbed over by the contending parties, the problem of fuel for later
 salvos becomes academic, because everybody interested is dead. So the
@@ -5658,23 +5004,18 @@ only consideration is that the missile works right the first time — and
 you can make your fuel specifications just as tight as you like. Your
 first load of fuel is the only one you’ll ever need.
 
-The result was the specification for RP-1, which was issued in Janu-
-ary of 1957. The freezing point limit was —40°, the maximum olefin
-content was set at 1 percent, and of aromatics at 5 percent. As de-
-livered, it’s usually better than the specifications: a kerosene in the
+The result was the specification for RP-1, which was issued in January of 1957. The freezing point limit was —40°, the maximum olefin
+content was set at 1 percent, and of aromatics at 5 percent. As delivered, it’s usually better than the specifications: a kerosene in the
 C 12 region, with a H/C ratio between 1.95 and 2.00, containing about
 41 percent normal and branched paraffins, 56 of naphthenes, three
 of aromatics, and no olefins at all.
 
 The polymerization and coking problems were solved, but Madoff
 and Silverman, at Rocketdyne (which was the autonomous division
-formed at North American to do all their rocket work) weren’t en-
-tirely happy with the solution, and did extensive experimentation
+formed at North American to do all their rocket work) weren’t entirely happy with the solution, and did extensive experimentation
 with diethylcyclohexane which, while not a pure compound, was a
 highly reproducible mixture of isomers, and was easy to come by.
-The results of their experiments were excellent, the fuel being ap-
-preciably superior to RP-1, but it never got into an operational mis-
-sile. Atlas and Titan I, our first ICBM’s were designed around RP-1
+The results of their experiments were excellent, the fuel being appreciably superior to RP-1, but it never got into an operational missile. Atlas and Titan I, our first ICBM’s were designed around RP-1
 before Madoff and Silverman did their work, and Titan II used
 storable propellants. The F-l motors of Saturn V burn LOX and
 RP-1.*
@@ -5694,8 +5035,7 @@ exhaust, you’re probably watching a Titan II booster burning N 2 Q 4 and 50-50
 
 106 Ignition
 
-at Genera] Electric came up with an ingenious fix. They put 10 per-
-cent of ethyl silicate in their fuel, which was, in this case, methanol.
+at Genera] Electric came up with an ingenious fix. They put 10 percent of ethyl silicate in their fuel, which was, in this case, methanol.
 The silicate had the happy faculty of decomposing at the hot spots
 and depositing a layer of silicon dioxide, which acted as insulation and
 cut down the heat flux. And, although it was continuously ablated and
@@ -5709,8 +5049,7 @@ heat flux by 60 percent.
 
 Another tricky problem with an oxygen motor is that of getting it
 started. From the A-4 to Thor and Jupiter, a pyrotechnic start was the
-usual thing, but the complications were considerable and the reli-
-ability was poor. Sanger had used a starting slug of diethyl zinc, and
+usual thing, but the complications were considerable and the reliability was poor. Sanger had used a starting slug of diethyl zinc, and
 Bell Aerosystems, in 1957, went him one better by using one of
 triethyl aluminum to start an oxygen-JP-4 motor. This technique was
 used in the later Atlas and all subsequent oxygen-RP motors. A sealed
@@ -5724,10 +5063,8 @@ with LOX, but practically every other inflammable liquid available
 has been tried experimentally at one time or another. RMI tried, for
 instance, cyclopropane, ethylene, methyl acetylene, and methyl
 amine. None of these was any particular improvement on the usual
-fuels. Hydrazine was tried as early as 1947 (by the Bureau of Aero-
-nautics at EES, Annapolis) and UDMH was tried by Aerojet in 1954.
-But in this country, in contrast to Russia, the combination of a hydra-
-zine fuel and liquid oxygen is unusual. The only large-scale use of it
+fuels. Hydrazine was tried as early as 1947 (by the Bureau of Aeronautics at EES, Annapolis) and UDMH was tried by Aerojet in 1954.
+But in this country, in contrast to Russia, the combination of a hydrazine fuel and liquid oxygen is unusual. The only large-scale use of it
 was in the Jupiter-C, and the Juno-1 which were propelled by uprated
 Redstone motors, redesigned to burn Hydyne rather than alcohol.
 (Hydyne is a Rocketdyne developed 60-40 mixture of UDMH and
@@ -5740,8 +5077,7 @@ problems stemming from its low boiling point are formidable, so it
 was pretty well left alone until after World War II.
 
 Even then, it wasn’t exactly easy to come by. There were just three
-organizations equipped to produce liquid hydrogen in 1947: the Uni-
-
+organizations equipped to produce liquid hydrogen in 1947: the Uni
 
 
 107
@@ -5780,8 +5116,7 @@ But for years nobody observed this phenomenon. (The two forms
 should be distinguishable by their thermal conductivity.) Then, in
 1927, D. M. Dennison pointed out, in the Proceedings of the Royal
 Society, that the transition from the ortho to the para state might be a
-slow process, taking, perhaps, several days, and that if the investiga-
-tors waited a while before making their measurements, they might get
+slow process, taking, perhaps, several days, and that if the investigators waited a while before making their measurements, they might get
 some interesting results.
 
 Urey, Brickwedde and others in this country, as well as Clusius and
@@ -5794,9 +5129,7 @@ did matter was that each mole of hydrogen (2 grams) which changed
 from the ortho to the para state gave off 337 calories of heat in the
 process. And since it takes only 219 calories to vaporize one mole of
 hydrogen, you were in real trouble. For if you liquefied a mass of
-hydrogen, getting a liqtlid that was still almost three quarters ortho-
-hydrogen, the heat of the subsequent transition of that to para-hydro-
-
+hydrogen, getting a liqtlid that was still almost three quarters orthohydrogen, the heat of the subsequent transition of that to para-hydro
 
 
 108 Ignition
@@ -5811,8 +5144,7 @@ to give you trouble; and through the 50’s, several men were looking
 for such a thing. P. L. Barrick, working at the University of Colorado
 and at the Bureau of Standards at Boulder, Colorado, came up with
 the first one to be used on a large scale — hydrated ferric oxide. Since
-then several other catalytic materials have been found — palladium-
-silver alloys, ruthenium, and what not, several of them much more
+then several other catalytic materials have been found — palladiumsilver alloys, ruthenium, and what not, several of them much more
 efficient than the ferric oxide — and the ortho-para problem can be
 filed and forgotten.
 
@@ -5822,8 +5154,7 @@ amount you wanted, and to ship it to you in tank car lots. (The design
 of those tank cars, by the way, is quite something. Entirely new kinds
 of insulation had to be invented to make them possible.)
 
-Handling liquid hydrogen, then, has become a routine job, al-
-though it has to be treated with respect. If it gets loose, of course, it’s
+Handling liquid hydrogen, then, has become a routine job, although it has to be treated with respect. If it gets loose, of course, it’s
 a ferocious fire and explosion hazard, and all sorts of precautions
 have to be taken to make sure that oxygen doesn’t get into the stuff,
 freeze, and produce a murderously touchy explosive. And there is a
@@ -5834,8 +5165,7 @@ without seeing it.
 A rather interesting recent development is slurried, or “slush”
 hydrogen. This is liquid hydrogen which has been cooled to its
 freezing point, 14 K, and partially frozen. The slushy mixture of solid
-and liquid hydrogen can be pumped just as though it were a homoge-
-neous liquid, and the density of the slush is considerably higher than
+and liquid hydrogen can be pumped just as though it were a homogeneous liquid, and the density of the slush is considerably higher than
 that of the liquid at its boiling point. R. F. Dwyer and his colleagues at
 the Linde division of Union Carbide are responsible for much of this
 work, which is still in the development stage.
@@ -5846,8 +5176,7 @@ as large as 1,500,000 pounds (Aerojet’s M-l) are on the way.* All
 
 * It’s a shame that Tsiolkovsky didn’t live to see the M-l. It stands twenty-seven
 feel high, the diameter of the throat is thirty-two inches, and that of the nozzle exit
-is almost eighteen feet. At full thrust it gulps down almost 600 pounds of liquid hy-
-drogen and a ton and a half of liquid oxygen per second. Konstantin Eduardovitch
+is almost eighteen feet. At full thrust it gulps down almost 600 pounds of liquid hydrogen and a ton and a half of liquid oxygen per second. Konstantin Eduardovitch
 would have been impressed.
 
 
@@ -5857,8 +5186,7 @@ would have been impressed.
 
 Lox and Flox and Cryogenics in General
 
-these use electrical ignition. Hydrogen and oxygen are not hyper-
-golic but they are very easily ignited. Gaseous oxygen and hydrogen
+these use electrical ignition. Hydrogen and oxygen are not hypergolic but they are very easily ignited. Gaseous oxygen and hydrogen
 are admitted to a small pilot chamber, where they are touched off by
 an electrical spark, whereupon the pilot flame lights off the main
 chamber. Some work has been done on making oxygen hypergolic
@@ -5901,8 +5229,7 @@ the thrust of the J-2 and the reactor power (thermal) will be about
 dam — and the reactor generating it is about the size of an office desk.
 An impressive little gadget.
 
-Liquid fluorine work started about the same time as the liquid hy-
-drogen work did. JPL, starting in 1947, was the pioneer. It wasn’t
+Liquid fluorine work started about the same time as the liquid hydrogen work did. JPL, starting in 1947, was the pioneer. It wasn’t
 
 
 
@@ -5942,18 +5269,15 @@ believe anything that is in print.)
 
 Several agencies immediately investigated the performance of
 fluorine with hydrazine and with ammonia and with mixtures of the
-two, and with gratifying results. Not only did they get a good per-
-formance, but there were no ignition problems, liquid fluorine being
+two, and with gratifying results. Not only did they get a good performance, but there were no ignition problems, liquid fluorine being
 hypergolic with almost anything that they tried as a fuel.
 
 Unfortunately, it was also hypergolic with just about everything
 else. Fluorine is not only extremely toxic; it is a super-oxidizer, and
-reacts, under the proper conditions with almost everything but nitro-
-gen, the lighter of the noble gases, and things that have already been
+reacts, under the proper conditions with almost everything but nitrogen, the lighter of the noble gases, and things that have already been
 fluorinated to the limit. And the reaction is usually violent.
 
-It can be contained in several of the structural metals — steel, cop-
-per, aluminum, etc. — because it forms, immediately, a thin, inert
+It can be contained in several of the structural metals — steel, copper, aluminum, etc. — because it forms, immediately, a thin, inert
 coating of metal fluoride which prevents further attack. But if that
 
 
@@ -5973,9 +5297,7 @@ But, as is usually the case, the stuff can be handled if you go about
 it sensibly, and if you want to fire it in a rocket, Allied Chemical Co.
 will be glad to ship you a trailer truck full of liquid fluorine. That
 trailer is a rather remarkable device in itself. The inner fluorine tank
-is surrounded by a jacket of liquid nitrogen, to prevent the evapora-
-tion and escape of any fluorine into the atmosphere. All sorts of pre-
-cautions — pilot trucks, police escorts, and what not — are employed
+is surrounded by a jacket of liquid nitrogen, to prevent the evaporation and escape of any fluorine into the atmosphere. All sorts of precautions — pilot trucks, police escorts, and what not — are employed
 when one of those trucks travels on a public road, but sometimes I’ve
 wondered what it would be like if a fluorine tank truck collided with
 one carrying, say, liquid propane or butane.
@@ -5989,27 +5311,23 @@ motor was destroyed and the whole test cell burned out before the
 operators could shut down.
 
 But good-sized fluorine motors have been developed and fired
-successfully, although none have yet flown in a space mission. Rocket-
-dyne built Nomad, a 12,000-pound motor, burning fluorine and
+successfully, although none have yet flown in a space mission. Rocketdyne built Nomad, a 12,000-pound motor, burning fluorine and
 hydrazine, for upper stage work, and Bell developed the 35,000-
 pound Chariot for the third stage of Titan III. This burned fluorine
 and a mixture of monomethyl hydrazine, water, and hydrazine,
-balanced to burn to CO and HF, and to have a freezing point con-
-siderably below that of hydrazine. And GE has developed the 75,000-
+balanced to burn to CO and HF, and to have a freezing point considerably below that of hydrazine. And GE has developed the 75,000-
 pound X-430 fluorine-hydrogen motor.
 
 Ordin at LFPL, from 1953 on, and then the people at Rocketdyne,
 in the late 50’s and early 60’s, investigated the possibility of upgrading
 the performance of an RP-Lox motor by adding fluorine to the
 oxidizer (fluorine and oxygen are completely miscible, and their
-boiling points are only a few degrees apart), and found that 30 per-
-cent of fluorine in the lox raised the performance by more than 5
+boiling points are only a few degrees apart), and found that 30 percent of fluorine in the lox raised the performance by more than 5
 percent, and could still be tolerated (Rocketdyne burned it in an
 Atlas motor) by tanks, pumps, etc. which had been designed for liquid
 oxygen. And they got hypergolic ignition, as a bonus. The mixture of
 liquid fluorine and liquid oxygen is called “Flox,” with the usually
-appended number signifying the percentage of fluorine. For maxi-
-
+appended number signifying the percentage of fluorine. For maxi
 
 
 112 Ignition
@@ -6023,33 +5341,27 @@ Flox 30 it is 316, with Flox 70 (which balances to CO and HF) it is 343
 seconds, and with pure fluorine it drops to 318.
 
 Fluorine is not likely ever to be used for the big boosters — all that
-HF in the exhaust would be rough on the launching pad and equip-
-ment, not to mention the surrounding population — and it’s more
+HF in the exhaust would be rough on the launching pad and equipment, not to mention the surrounding population — and it’s more
 expensive than oxygen by orders of magnitude, but for deep space
 work its hard to think of a better combination than hydrogen and
 fluorine. It’s on its way.
 
 The future of ozone doesn’t look so promising. Or, to be precise,
-ozone has been promising for years and years but hasn’t been de-
-livering.
+ozone has been promising for years and years but hasn’t been delivering.
 
 Ozone, 0 3 , is an allotropic form of oxygen. It’s a colorless gas, or
-if it’s cold enough, a beautiful deep blue liquid or solid. It’s manu-
-factured commercially (it’s useful in water purification and the like)
+if it’s cold enough, a beautiful deep blue liquid or solid. It’s manufactured commercially (it’s useful in water purification and the like)
 by the Welsbach process which involves an electrical glow discharge
 in a stream of oxygen. What makes it attractive as a propellant is that
 (1) its liquid density is considerably higher than that of liquid oxygen,
 and (2) when a mole of it decomposes to oxygen during combustion
-it gives off 34 kilocalories of energy, which will boost your perform-
-ance correspondingly. Sanger was interested in it in the 30’s, and the
-interest has endured to the present. In the face of considerable dis-
-illusionment.
+it gives off 34 kilocalories of energy, which will boost your performance correspondingly. Sanger was interested in it in the 30’s, and the
+interest has endured to the present. In the face of considerable disillusionment.
 
 For it has its drawbacks. The least of these is that it’s at least as
 toxic as fluorine. (People who speak of the invigorating odor of ozone
 have never met a real concentration of it!) Much more important is
-the fact that it’s unstable — murderously so. At the slightest provoca-
-tion and sometimes for no apparent reason, it may revert explosively
+the fact that it’s unstable — murderously so. At the slightest provocation and sometimes for no apparent reason, it may revert explosively
 to oxygen. And this reversion is catalyzed by water, chlorine, metal
 oxides, alkalis — and by, apparently, certain substances which have
 not been identified. Compared to ozone, hydrogen peroxide has the
@@ -6069,11 +5381,9 @@ and off, ever since.
 
 Lox and Flox and Cryogenics in General
 
-The usual procedure was to run gaseous oxygen through a Wels-
-bach ozonator, condense the ozone in the emergent stream into liquid
+The usual procedure was to run gaseous oxygen through a Welsbach ozonator, condense the ozone in the emergent stream into liquid
 oxygen until you got the concentration you wanted, and then use this
-mixture as the oxidizer in your motor run. During 1954-57, the For-
-restal fired concentrations of ozone as high as 25 percent, using
+mixture as the oxidizer in your motor run. During 1954-57, the Forrestal fired concentrations of ozone as high as 25 percent, using
 ethanol as the fuel. And they had troubles.
 
 The boiling point of oxygen is 90 K. (In working with cryogenics,
@@ -6119,8 +5429,7 @@ percent of F 2 added to the mixture completely eliminated the phase
 
 114 Ignition
 
-separation problem. And their addition didn’t degrade the per-
-formance, as the Freon would have. Nobody has yet come up
+separation problem. And their addition didn’t degrade the performance, as the Freon would have. Nobody has yet come up
 with an even faintly plausible explanation for the solubilizing effect of
 the additives!
 
@@ -6133,8 +5442,7 @@ let go on the launching pad and spread the fluorine all over the
 landscape was somewhat unnerving, and I have heard of no motor
 runs with the mixture.
 
-For ozone still explodes. Some investigators believe that the ex-
-plosions are initiated by traces of organic peroxides in the stuff,
+For ozone still explodes. Some investigators believe that the explosions are initiated by traces of organic peroxides in the stuff,
 which come from traces, say, of oil in the oxygen it was made of.
 Other workers are convinced that it’s just the nature of ozone to
 explode, and still others are sure that original sin has something to do
@@ -6184,22 +5492,17 @@ such mixed functional compounds as vinyloxyethylamine. And
 116 Ignition
 
 everything they made they mixed with gasoline — usually a pyrolytic,
-or high-aromatic type, in the hope that they could get a good hyper-
-golic mixture. They even tried elemental sulfur, in some of their
+or high-aromatic type, in the hope that they could get a good hypergolic mixture. They even tried elemental sulfur, in some of their
 mixtures. But for a long time the most satisfactory fuel for their
-tactical missiles was the German-developed Tonka 250, mixed xyli-
-dines and triethylamine. The second stage of the SA-2 or Guideline
+tactical missiles was the German-developed Tonka 250, mixed xylidines and triethylamine. The second stage of the SA-2 or Guideline
 (U.S. designations — we don’t know theirs) surface-to-air missile used
 by North Vietnam uses that fuel, along with RFNA.
 
 Home-made hydrazine hydrate (rather than captured German
-stuff) was available in the Soviet Union by 1948, but there was ap-
-parently little interest in hydrazine or its derivatives until about 1955
+stuff) was available in the Soviet Union by 1948, but there was apparently little interest in hydrazine or its derivatives until about 1955
 or 1956, when the Soviet chemists (all the Germans had been sent
-home by 1950) learned of our success with UDMH. The lack of in-
-terest may have been caused by the incompatibility of copper and
-hydrazine; and their engineers liked to make their motors out of cop-
-per, because of its beautiful heat-transfer properties. And, of course,
+home by 1950) learned of our success with UDMH. The lack of interest may have been caused by the incompatibility of copper and
+hydrazine; and their engineers liked to make their motors out of copper, because of its beautiful heat-transfer properties. And, of course,
 the Russian climate has a tendency to discourage the use of hydrazine.
 UDMH, now, is one of their standard propellants.
 
@@ -6208,18 +5511,15 @@ captured German material, and, after 1950, with Russian product, but
 there never was much interest in it, and finally the Navy took over all
 peroxide work. (It’s very useful in torpedoes.)
 
-The nitric acids used in the late 40’s and early 50’s were a 98 per-
-cent WFNA, WFNA containing 4 percent of ferric chloride as an
+The nitric acids used in the late 40’s and early 50’s were a 98 percent WFNA, WFNA containing 4 percent of ferric chloride as an
 ignition catalyst, and a mixed acid containing 10 percent sulfuric
 acid. And they had all the troubles with it that we had. They tried
 organic sulfonic acids — methane sulfonic, methane di and trisulfonic,
-ethane disulfonic, and ordinary disulfonic acid — as corrosion inhib-
-itors in 1950 and 1951 (two years before California Research tried
+ethane disulfonic, and ordinary disulfonic acid — as corrosion inhibitors in 1950 and 1951 (two years before California Research tried
 them) but used them in little more than trace quantities, a percent
 or so. They didn’t work, naturally.
 
-But in spite of the nitric acid troubles, one of the Germans be-
-thought himself of Noggerath’s equation relating propellant density
+But in spite of the nitric acid troubles, one of the Germans bethought himself of Noggerath’s equation relating propellant density
 to range, and decided to make a few points with his new bosses.*
 
 * As a first approximation, the range of a missile is proportional to its boost velocity,
@@ -6228,8 +5528,7 @@ density by the equation:
 
 c b = c In (1 + d &lt;M,
 
-where c b is the boost velocity, c the exhaust velocity, d the bulk density of the pro-
-pellants, and &lt;j) a loading factor- the total tank volume of the missile, in liters, say,
+where c b is the boost velocity, c the exhaust velocity, d the bulk density of the propellants, and &lt;j) a loading factor- the total tank volume of the missile, in liters, say,
 divided by the dry mass (all propellants burned) of the missile, in kilograms. So the
 range depends very strongly upon ihe exhaust velocity, but upon the density by a
 
@@ -6243,8 +5542,7 @@ What Ivan Was Doing
 He decided that a V-2 loaded with nitric acid and a really high-density
 fuel would have a range that would make him a Hero of the Soviet
 Union, at least, and set out to make that really high density fuel. So
-he mixed up 10 percent of toluene, and 50 percent of dimethyl-
-aniline, and 40 percent of dibromo ethane. He got a high density all
+he mixed up 10 percent of toluene, and 50 percent of dimethylaniline, and 40 percent of dibromo ethane. He got a high density all
 right— something like 1.4 — but what those bromines did to the
 specific impulse was a crime. His Russian bosses, who were not fools,
 took one horrified look at what he was doing, and immediately took
@@ -6262,8 +5560,7 @@ was one of them. But it froze at— 6°, and the investigators lost interest.
 And they tried various nitro-organics such as nitro-propene — the
 name alone is enough to scare me to death — as monopropellants,
 with no success to mention, and, as the Germans had before them,
-tried to use tetranitromethane as an oxidizer. And blew up a labo-
-ratory trying it.
+tried to use tetranitromethane as an oxidizer. And blew up a laboratory trying it.
 
 Recently they have been showing considerable interest in mixtures
 of hydrazine nitrate and methyl hydrazine (like my Hydrazoid N) but
@@ -6308,8 +5605,7 @@ one to General Dynamics.
 One group remains wedded to liquid oxygen, and designed the
 SS-6, SS-8 and SS-10. SS-6, the monstrous 20-barreled beast that
 lifted Yuri Gagarin and Vostok I into orbit, burned oxygen and the
-equivalent of RP-1. SS-8, “Sasin,” and SS-10 burn oxygen and, ap-
-parently a hydrazine-UDMH mixture equivalent to our 50-50.
+equivalent of RP-1. SS-8, “Sasin,” and SS-10 burn oxygen and, apparently a hydrazine-UDMH mixture equivalent to our 50-50.
 
 The other group swears by storable oxidizers, IRFNA or N 2 0 4 ,
 using the latter in the big strategic missiles which live in steam-heated
@@ -6351,15 +5647,12 @@ oxidizers. In a long review article on perchloryl fluoride in a Soviet
 chemical journal recently, all the references were to western sources.*
 There has been some mention of OF 2 , and of the alleged virtues of
 metal slurries, but nothing to indicate that it amounts to more than
-words. Nor is there any indication that they have done much with liq-
-uid fluorine or with liquid hydrogen, although it would be surprising,
+words. Nor is there any indication that they have done much with liquid fluorine or with liquid hydrogen, although it would be surprising,
 to say the least, if the use of the latter in their space program had not
 been considered.
 
-In short, the Russians tend to be squares in their choice of propel-
-lants. Oxygen, N 2 0 4 , IRFNA, RP, UDMH and its mixes — that’s about
-the lot. When he wants more thrust, Ivan doesn’t look for a fancy pro-
-pellant with a higher specific impulse. He just builds himself a bigger
+In short, the Russians tend to be squares in their choice of propellants. Oxygen, N 2 0 4 , IRFNA, RP, UDMH and its mixes — that’s about
+the lot. When he wants more thrust, Ivan doesn’t look for a fancy propellant with a higher specific impulse. He just builds himself a bigger
 rocket. Maybe he’s got something there.
 
 * Of course this may mean that they are about to start working with it. Such review
@@ -6373,19 +5666,14 @@ articles, in the U.S.S.R., frequently signal the start of a research program.
 "Exotics"
 
 
-Fifteen years ago people used to ask me “What is an exotic fuel any-
-way?” and I would answer “It’s expensive, it’s got boron in it, and it
-probably doesn’t work.” I had intended, originally, to entitle this chap-
-ter “The Billion Buck Boron Booboo,” but decided against it on two
-grounds. The first was that such a title might conceivably be consid-
-ered tactless by some of the people who authorized the programs con-
-cerned. The second reason is that it would not be completely accurate.
+Fifteen years ago people used to ask me “What is an exotic fuel anyway?” and I would answer “It’s expensive, it’s got boron in it, and it
+probably doesn’t work.” I had intended, originally, to entitle this chapter “The Billion Buck Boron Booboo,” but decided against it on two
+grounds. The first was that such a title might conceivably be considered tactless by some of the people who authorized the programs concerned. The second reason is that it would not be completely accurate.
 Actually, the boron programs did not cost a billion dollars. It just
 seemed that way at the time.
 
 The boranes are compounds of boron and hydrogen, the best
-known (although there are many others) being diborane, B 2 H 6 ; pen-
-taborane, B 5 H 9 ; and decaborane, B 10 H 14 . At room temperature the
+known (although there are many others) being diborane, B 2 H 6 ; pentaborane, B 5 H 9 ; and decaborane, B 10 H 14 . At room temperature the
 first is a gas, the second a liquid, and the third a solid. Alfred Stock
 discovered most of the better known boranes between 1912 and 1933,
 while H. I. Schlesinger, starting' about 1930, contributed vastly to the
@@ -6393,12 +5681,8 @@ field of borane chemistry, and in particular to the development of
 synthetic routes.
 
 Boranes are unpleasant beasts. Diborane and pentaborane ignite
-spontaneously in the atmosphere, and the fires are remarkably diffi-
-cult to extinguish. They react with water to form, eventually, hydro-
-gen and boric acid, and the reaction is sometimes violent. Also, they
-not only are possessed of a peculiarly repulsive odor; they are ex-
-tremely poisonous by just about any route. This collection of proper-
-ties does not simplify the problem of handling them. They are also
+spontaneously in the atmosphere, and the fires are remarkably difficult to extinguish. They react with water to form, eventually, hydrogen and boric acid, and the reaction is sometimes violent. Also, they
+not only are possessed of a peculiarly repulsive odor; they are extremely poisonous by just about any route. This collection of properties does not simplify the problem of handling them. They are also
 very expensive since their synthesis is neither easy nor simple.
 
 
@@ -6414,8 +5698,7 @@ But they possess one property which attracted rocket people to
 them as hippies to a happening. They have an extremely high heat of
 combustion — gram for gram about 50 percent more than jet fuel. And
 from 1937 on, when Parsons at JPL had first considered decaborane,
-propellant men had been considering them wistfully, and lusting af-
-ter the performance which might, with luck, be wrung out of that heat
+propellant men had been considering them wistfully, and lusting after the performance which might, with luck, be wrung out of that heat
 of combustion.
 
 Nothing could be done about it, of course, until World War II was
@@ -6424,21 +5707,18 @@ to GE (Project Hermes), to investigate the boranes in depth, and to
 develop methods of large scale synthesis. The primary objective was
 not the development of rocket propellants, but the exploitation of the
 boranes as fuels for air-breathing engines, primarily jets. But the
-rocket people, as was inevitable with their preoccupations, got in-
-volved anyway.
+rocket people, as was inevitable with their preoccupations, got involved anyway.
 
 It was Paul Winternitz, at Reaction Motors, who in 1947 made what
 were probably the first performance calculations on the boranes. He
 calculated the performance of diborane, pentaborane, and aluminum
-borohydride, A1(BH 4 ) 3 , all with liquid oxygen. Considering the scanti-
-ness and general unreliability of the thermodynamic data, not only
+borohydride, A1(BH 4 ) 3 , all with liquid oxygen. Considering the scantiness and general unreliability of the thermodynamic data, not only
 on these would-be propellants but on their combustion products as
 well, not to mention the complexity of the calculations (no computers
 around then, remember!), my admiration of his industry is only
 equaled by my astonishment at his courage.
 
-At any rate, the numbers that came out at the other end of the cal-
-culation, whatever their validity or lack of it, looked encouraging. The
+At any rate, the numbers that came out at the other end of the calculation, whatever their validity or lack of it, looked encouraging. The
 next step was to confirm them with motor firings. Diborane (the most
 available of the boranes) was to be the fuel, and liquid oxygen the
 oxidizer.
@@ -6451,13 +5731,11 @@ as the engineer in charge confessed to me many years later, “Every
 time I pushed the button I could feel the price of a Cadillac going
 down the tailpipe!”
 
-The results, not to put too fine a point on it, did not encourage eu-
-phoria. The performance was dismally bad— far below theoretical —
+The results, not to put too fine a point on it, did not encourage euphoria. The performance was dismally bad— far below theoretical —
 and solid glassy deposits appeared in the throat (changing its size and
 shape) and in the diverging (downstream) section of the nozzle. These
 consisted, apparently, mostly of B 2 0 3 , but appeared to contain some
-elemental boron as well. This was a sure indication of poor combus-
-tion, and was not encouraging.
+elemental boron as well. This was a sure indication of poor combustion, and was not encouraging.
 
 
 
@@ -6469,17 +5747,11 @@ better when they used hydrogen peroxide as the oxidizer. The glassy
 deposits seemed to be as characteristic of borane brings as was the
 bright green exhaust flame.
 
-The next fuel that RMI tried was the dimethylamine adduct of di-
-borane — not exactly a borane, but a close relative. But when they bred
-it with oxygen, in 1951, the results were borane results — and discour-
-aging. So were their results with pentaborane, which Jack Gould bred
-the next year in a bfty-pound thrust motor, using oxygen and hydro-
-gen peroxide as oxidizers. It would be some twelve years before any-
-body could get good results with that last combination. One with bet-
-ter combustion efficiency was bred by Ordin in 1955 — diborane and
+The next fuel that RMI tried was the dimethylamine adduct of diborane — not exactly a borane, but a close relative. But when they bred
+it with oxygen, in 1951, the results were borane results — and discouraging. So were their results with pentaborane, which Jack Gould bred
+the next year in a bfty-pound thrust motor, using oxygen and hydrogen peroxide as oxidizers. It would be some twelve years before anybody could get good results with that last combination. One with better combustion efficiency was bred by Ordin in 1955 — diborane and
 fluorine. Here, at least, there weren’t any deposits in the nozzle — BF 3
-is a gas — but the combination was a flendishly hot one, and very dif-
-hcult to handle.
+is a gas — but the combination was a flendishly hot one, and very difhcult to handle.
 
 The early borane brings weren’t, on the whole, too successful, but
 enthusiasm, hopes, and expectations were all high, and two meetings
@@ -6495,15 +5767,10 @@ a high-energy, boron-based fuel for jet engines. This was before the
 day of the ICBM’s, the long-range bomber-carrying nuclear bombs
 was the chosen weapon of deterrence in the cold war, and anything
 that would increase the range or the speed of that bomber was very
-much to be desired. The major prime contractors, each with multi-
-million-dollar contracts, were the Olin Mathieson Chemical Corpora-
-tion and the Callery Chemical Co., but by the end of the decade many
+much to be desired. The major prime contractors, each with multimillion-dollar contracts, were the Olin Mathieson Chemical Corporation and the Callery Chemical Co., but by the end of the decade many
 more organizations, propulsion, chemical, academic — you name it —
-had become involved, either as minor prime contractors or as sub-
-contractors to the primes. By 1956 the program had become so un-
-wieldy that it had to be split, with the Air Force monitoring Olin
-Mathieson’s work and the “HEF” program and Navy’s BuAer watch-
-ing over Callery’s “Zip.” The trade journals played up the Zip and
+had become involved, either as minor prime contractors or as subcontractors to the primes. By 1956 the program had become so unwieldy that it had to be split, with the Air Force monitoring Olin
+Mathieson’s work and the “HEF” program and Navy’s BuAer watching over Callery’s “Zip.” The trade journals played up the Zip and
 “Super” fuels (omitting, naturally, the classified chemical details —
 which, if published, might give some people pause) and legions of
 trusting and avaricious souls went out and bought boron stocks. And,
@@ -6519,31 +5786,25 @@ eventually, lost their shirts.
 
 It soon became evident that in order to attain the desired physical
 properties (similar to those of jet fuel) the fuels would have to be
-alkyl derivatives of the boranes. In the end, three of these were de-
-veloped and put into fairly large-scale production. Mathieson’s HEF-2
+alkyl derivatives of the boranes. In the end, three of these were developed and put into fairly large-scale production. Mathieson’s HEF-2
 was propyl pentaborane. Callery’s HiCal-3, and Mathieson’s HEF-3
 were mixtures of mono-, di-, and triethyl decaborane, and HiCal-4
-and HEF-4 were mixtures of mono-, di-, tri-, and tetramethy] deca-
-borane. Both -3 and -4 contained traces of unsubstituted decaborane.
+and HEF-4 were mixtures of mono-, di-, tri-, and tetramethy] decaborane. Both -3 and -4 contained traces of unsubstituted decaborane.
 (The missing numbers represented the fuels in an intermediate stage
 of synthesis.)
 
 The chemistry of the borohydrides was investigated as it had never
-been investigated before, process details were worked out on the pilot-
-plant level, two full-sized production facilities, one Callery, one
+been investigated before, process details were worked out on the pilotplant level, two full-sized production facilities, one Callery, one
 Mathieson, were built and put on stream, handling and safety manuals
 were written and published — and the whole thing was done on a
-crash basis. Never had one poor element been given such concen-
-trated attention by so many chemists and chemical engineers.
+crash basis. Never had one poor element been given such concentrated attention by so many chemists and chemical engineers.
 
 And then the whole program was brought to a screeching halt.
 There were two reasons for this, one strategic, one technical. The
 first was the arrival of the ICBM on the scene, and the declining role
-of the long-range bomber. The second lay in the fact that the com-
-bustion product of boron is boron trioxide, B 2 0 3 , and that below
+of the long-range bomber. The second lay in the fact that the combustion product of boron is boron trioxide, B 2 0 3 , and that below
 about 1800° this is either a solid or a glassy, very viscous liquid. And
-when you have a turbine spinning at some 4000 rpm, and the clear-
-ance between the blades is a few thousandths of an inch, and this sticky,
+when you have a turbine spinning at some 4000 rpm, and the clearance between the blades is a few thousandths of an inch, and this sticky,
 viscous liquid deposits on the blades, the engine is likely to undergo
 what the British, with precision, call “catastrophic self-disassembly.”
 
@@ -6555,8 +5816,7 @@ junk. The Zip program was dead, but the memory lingers.
 It was by no means a total fiasco. The small fraction of the total
 cost which went for research added more to the corpus of boron
 chemistry in ten years than otherwise would have been learned in
-fifty.* One of the most interesting discoveries was that of the “Car-
-boranes,” by Murray Cohen, of Reaction Motors, in 1957. The parent
+fifty.* One of the most interesting discoveries was that of the “Carboranes,” by Murray Cohen, of Reaction Motors, in 1957. The parent
 
 
 * Dick Holzmann was at ARPA at the time, and it is due to him that all this chemistry
@@ -6572,12 +5832,10 @@ in 1967.
 
 compound, BioC 2 H 12 , has the structure of a closed, symmetrical,
 icosahedral cage, and it and its derivatives exhibit a surprisingly
-high stability against oxidation, hydrolysis, and thermal decomposi-
-tion. Neff, of Hughes Tool, took advantage of this stability when he
+high stability against oxidation, hydrolysis, and thermal decomposition. Neff, of Hughes Tool, took advantage of this stability when he
 attempted to make a monopropellant based on a carborane derivative.
 (See the monopropellant chapter.) Derivatives may also be useful in
-high-energy solid propellants, and even, possibly, as high-tempera-
-ture-resistant plastics.
+high-energy solid propellants, and even, possibly, as high-temperature-resistant plastics.
 
 As far as rocket propulsion itself was concerned, the result of the
 Zip program was that there were now large stocks of diborane (the
@@ -6587,12 +5845,10 @@ their usefulness as fuels could be investigated on something more
 than the frustrating fifty-pound level. Aerojet, starting about 1959,
 worked with HEF-3 and pentaborane, burning them with N 2 0 4 or
 hydrogen peroxide, and Reaction Motors had most of the bugs out of
-the pentaborane-peroxide system by 1964. With proper injector de-
-sign the systems could be made to work, and to yield something close
+the pentaborane-peroxide system by 1964. With proper injector design the systems could be made to work, and to yield something close
 to their theoretical specific impulse. And the problem of the solid
 deposits in the nozzle wasn’t too important when the motor was of a
-respectable size. It didn’t arise at all, of course, when a fluorine oxi-
-dizer was used. Don Rogillio, at Edwards Air Force Base, in 1962-64
+respectable size. It didn’t arise at all, of course, when a fluorine oxidizer was used. Don Rogillio, at Edwards Air Force Base, in 1962-64
 burned pentaborane with NF 3 and with N 2 F 4 , and got quite a good
 performance, although, as the combination is a fiendishly hot one, he
 had a lot of trouble with burned-out injectors and nozzles.
@@ -6613,9 +5869,7 @@ The situation was otherwise with diborane. It couldn’t be used in a
 missile, of course (its boiling point is —92.5°) but might well be used
 in certain deep-space applications where its low density (0.433 at the
 boiling point) wouldn’t matter. Its natural partner was OF 2 (although
-ONF 3 would also be suitable) and from 1959 to the present that com-
-bination has been under investigation by several agencies, among-
-
+ONF 3 would also be suitable) and from 1959 to the present that combination has been under investigation by several agencies, among
 
 
 ‘■Exotics'
@@ -6633,15 +5887,12 @@ poisonous, but rocket men usually know how to stay alive, and it
 hasn’t killed anybody — yet.
 
 One thing that might have kept pentaborane in the picture was the
-advent of BN system, early in 1958. Callery Chemical was the origi-
-nator of the idea, but within a year every propulsion contractor in the
+advent of BN system, early in 1958. Callery Chemical was the originator of the idea, but within a year every propulsion contractor in the
 country, plus JPL, NASA, and EAFB had got into the act.
 
 This is the idea: Boron nitride, BN, is a white, crystalline solid, with
 a hexagonal crystal structure like that of graphite.* It is a very stable
-molecule, with an exothermic heat of formation of some sixty kilo-
-calories per mole. Now, imagine the reaction of a borane with hy-
-drazine.
+molecule, with an exothermic heat of formation of some sixty kilocalories per mole. Now, imagine the reaction of a borane with hydrazine.
 
 
 B 2 H 6 + N 2 H 4 -» 2BN + 5H 2
@@ -6653,11 +5904,9 @@ The heat of formation of the BN would be the energy source, and the
 hydrogen would comprise the working fluid — dragging the solid BN
 along with it, of course. Performance calculations indicated that the
 pentaborane-hydrazine combination should have the astounding
-performance of 326 seconds, and brought out the even more astound-
-ing fact that the chamber temperature should be only about 2000 K
+performance of 326 seconds, and brought out the even more astounding fact that the chamber temperature should be only about 2000 K
 
-— 1500 K or so, cooler than anything else with that sort of perform-
-ance. The thought of a storable combination with a performance above
+— 1500 K or so, cooler than anything else with that sort of performance. The thought of a storable combination with a performance above
 300 seconds, and with such a manageable chamber temperature sent
 every propulsion man in the country into orbit.
 
@@ -6665,15 +5914,13 @@ Getting enough pentaborane to work with was no problem, of
 course, in 1958-59. The Air Force had tons and tons of the stuff,
 from their Mathieson operation, and hadn’t the foggiest idea of what
 to do with it. So it was practically free for the asking, and everybody
-leaped into the act, uttering glad cries. Callery, NASA-Lewis, Reac-
-tion Motors, and EAFB were some of the first to try the combination
+leaped into the act, uttering glad cries. Callery, NASA-Lewis, Reaction Motors, and EAFB were some of the first to try the combination
 
 — most of them, at first, at approximately the hundred-pound thrust
 level.
 
 * Carbon, of course, occurs boili as graphite and diamond. And some recent work
-indicates dial BN can be had, not only with the graphite structure, but with a diamond-
-like structure, and as hard, or harder, than diamond itself.
+indicates dial BN can be had, not only with the graphite structure, but with a diamondlike structure, and as hard, or harder, than diamond itself.
 
 
 
@@ -6691,33 +5938,23 @@ tackled, for unless that was brought up to a reasonable figure nothing
 could be done about the specific impulse — or anything else.
 
 Part of the difficulty stemmed from the fact — soon discovered —
-that the reaction does not go neatly to BN and hydrogen, as the equa-
-tions say it should. Instead, some of the boron is exhausted as ele-
-mental boron, and the leftover nitrogen combines with some of the
-hydrogen to form ammonia. This, naturally, does not help perform-
-ance.
+that the reaction does not go neatly to BN and hydrogen, as the equations say it should. Instead, some of the boron is exhausted as elemental boron, and the leftover nitrogen combines with some of the
+hydrogen to form ammonia. This, naturally, does not help performance.
 
 Another problem lay in the difficulty of mixing the pentaborane
-and the hydrazine so that they could react. Hydrazine is a water-solu-
-ble substance, and pentaborane is oil-soluble, and the two were re-
-markably stubborn about getting together. (This led to the BN-mono-
-propellant work, described in the monopropellant chapter.) Addi-
-tives to the propellants were no help — and everything from hydrazine
+and the hydrazine so that they could react. Hydrazine is a water-soluble substance, and pentaborane is oil-soluble, and the two were remarkably stubborn about getting together. (This led to the BN-monopropellant work, described in the monopropellant chapter.) Additives to the propellants were no help — and everything from hydrazine
 nitrate to UDMH was tried. To get good mixing you simply have to
-use a remarkably sophisticated injector. Love, Jackson, and Haber-
-man learned this the hard way, at EAFB, during 1959-60-61. As
+use a remarkably sophisticated injector. Love, Jackson, and Haberman learned this the hard way, at EAFB, during 1959-60-61. As
 their thrust level rose from 100 to 5000 pounds, and they laboriously
 dragged their C* efficiency from 76 percent up to 95 percent, they
 experimented with no less than thirty different injectors, each one
 more sophisticated and complicated than the last.
 
-While this was going on, the problems involved in handling penta-
-borane were still around — and hairy. It was remarkably poisonous, as
+While this was going on, the problems involved in handling pentaborane were still around — and hairy. It was remarkably poisonous, as
 I have mentioned. And it is hypergolic with the atmosphere, and the
 fires are brutes to extinguish. If you spray a burning pool of the stuff
 with water, the fire goes out eventually — if you’re lucky. But then the
-remaining unburned pentaborane is covered with a layer of solid bo-
-ron oxide or perhaps boric acid, which protects it from the air. And
+remaining unburned pentaborane is covered with a layer of solid boron oxide or perhaps boric acid, which protects it from the air. And
 
 
 * C*, pronounced “’see star,” is a measure of combustion efficiency. It is derived by
@@ -6725,8 +5962,7 @@ multiplying the measured chamber pressure by the area of the throat of the nozzl
 and dividing this by the mass flow of the propellants. It comes out in feet per second
 or meters per second, depending on the system you, use. Its theoretical value can be
 calculated, just as theoretical specific impulse can, and the percentage of theoretical
-C* that you measure experimentally is a good measure of the completeness of com-
-bustion, and of the efficiency of the injector.
+C* that you measure experimentally is a good measure of the completeness of combustion, and of the efficiency of the injector.
 
 
 
@@ -6741,8 +5977,7 @@ over again. Even disposing of leftover pentaborane is a problem, but
 not one I’ll go into here. Holzmann’s book tells all about it, if you’re
 interested.
 
-Considering all this, I asked some of Rocketdyne’s people — Rocket-
-dyne was working closely with EAFB on their BN work — how they
+Considering all this, I asked some of Rocketdyne’s people — Rocketdyne was working closely with EAFB on their BN work — how they
 managed to live with the stuff. “Oh, it’s no problem,” they answered.
 “You just follow the directions in our safety manual!” 1 asked them
 to send me a copy of said manual, and in due time it arrived. It would
@@ -6753,8 +5988,7 @@ later, managed to get himself hospitalized because of pentaborane.
 
 The final step in the BN work was to scale up to a larger motor, of
 some 30,000 pounds thrust, and this was done at Edwards during
-1961-62-63. (Incidentally, a lot of the work with hazardous propel-
-lants has been done at Edwards. It’s located in the middle of the
+1961-62-63. (Incidentally, a lot of the work with hazardous propellants has been done at Edwards. It’s located in the middle of the
 Mojave desert, and you don’t have to worry about the neighbors. Even
 if you spill a ton of liquid fluorine — and that’s been done there, just
 to see what would happen — the only thing that’s likely to be damaged
@@ -6762,17 +5996,14 @@ is the peace of mind of a few jack rabbits and rattlesnakes.) I saw
 movies of some of the test runs, and they were spectacular, with dense
 white clouds of solid BN rising two miles into the sky.
 
-The results with the big motor were poor at first — about three-
-quarters of the theoretical specific impulse — but they improved with
+The results with the big motor were poor at first — about threequarters of the theoretical specific impulse — but they improved with
 injector design, and before the end of 1963 the magic 300 seconds
 had been reached. (The final injector comprised some six thousand
 carefully drilled orifices! It was not cheap to manufacture.) But the
 BN system had finally been made to work, and was a success.
 
 The only fly in the ointment was that the system was obsolete at
-birth. CIF 5 arrived on the scene just as BN succeeded — and the CIF 5 -
-hydrazine combination performs as well as the hydrazine-penta-
-borane system, is much denser, and much easier to handle, works in a
+birth. CIF 5 arrived on the scene just as BN succeeded — and the CIF 5 hydrazine combination performs as well as the hydrazine-pentaborane system, is much denser, and much easier to handle, works in a
 much simpler and cheaper motor, has an invisible exhaust stream —
 and is cheaper by at least an order of magnitude. Five years of work
 had been a frustrating exercise in expensive futility. Sometimes
@@ -6799,10 +6030,8 @@ ionic salts — white crystalline solids, with no nonsense about them.
 They are reasonably stable — NaBH 4 is almost stable in water — and
 can be handled easily.
 
-Lithium borohydride, as has been mentioned, was tried as a freez-
-ing point depressant for hydrazine by Don Armstrong at Aerojet as
-early as 1948. He found that the mixture was unstable, but neverthe-
-less Stan Tannenbaum, at RMI, tried it again in 1958, with the same
+Lithium borohydride, as has been mentioned, was tried as a freezing point depressant for hydrazine by Don Armstrong at Aerojet as
+early as 1948. He found that the mixture was unstable, but nevertheless Stan Tannenbaum, at RMI, tried it again in 1958, with the same
 results. And then, back at Aerojet, Rosenberg lit on the same mixture
 in 1965. And he found that 3 percent of the borohydride decomposed
 in 200 days at 69°. All of which gives one a feeling of “this is where I
@@ -6816,22 +6045,15 @@ at EAFB, fired a hydrazine solution of the sodium salt with chlorine
 trifluoride in 1965, but got a performance inferior to that of pure
 hydrazine.
 
-The second type (the “perhaps”) includes ammonium and hydra-
-zinium borohydride, which can be made in situ in liquid ammonia or
-hydrazine, but which would be unstable if isolated at room tempera-
-ture. Aerojet burned a solution of hydrazinium borohydride in hydra-
-zine (with oxygen) in 1949. I suspect that the mixture was unstable,
+The second type (the “perhaps”) includes ammonium and hydrazinium borohydride, which can be made in situ in liquid ammonia or
+hydrazine, but which would be unstable if isolated at room temperature. Aerojet burned a solution of hydrazinium borohydride in hydrazine (with oxygen) in 1949. I suspect that the mixture was unstable,
 for nothing more ever came of it.
 
 The third type includes the aluminum and beryllium borohydrides,
-A1(BH 4 ) 3 and Be(BH 4 ) 2 . These are covalent compounds, with un-
-usual bonding, liquids at room temperature, and violently hypergolic
+A1(BH 4 ) 3 and Be(BH 4 ) 2 . These are covalent compounds, with unusual bonding, liquids at room temperature, and violently hypergolic
 with air. Nobody has ever had enough beryllium borohydride all
-together in one place and at one time for a motor firing, but Arm-
-strong and Young at Aerojet fired aluminum borohydride with oxy-
-gen in 1950, and the next year Wilson, also at Aerojet, burned it with
-liquid fluorine. The results were not sufficiently encouraging to out-
-weigh the difficulties involved in handling the fuel, and aluminum
+together in one place and at one time for a motor firing, but Armstrong and Young at Aerojet fired aluminum borohydride with oxygen in 1950, and the next year Wilson, also at Aerojet, burned it with
+liquid fluorine. The results were not sufficiently encouraging to outweigh the difficulties involved in handling the fuel, and aluminum
 borohydride lay more or less dormant for s'ome ten years.
 
 Then, starting about 1960, Dr. H. W. Schulz and J. N. Hogsett, at
@@ -6847,22 +6069,14 @@ Exotics
 Union Carbide, started the development of the “Hybalines.” And —
 something rare in the propellant business — they did it with company,
 not government, money. Aluminum borohydride forms a mole for
-mole addition compound — an adduct — with amines. And these ad-
-ducts are not spontaneously inflammable in the atmosphere, but with
-reasonable precautions, can be handled without any particular diffi-
-culty.
+mole addition compound — an adduct — with amines. And these adducts are not spontaneously inflammable in the atmosphere, but with
+reasonable precautions, can be handled without any particular difficulty.
 
 Schulz and Hogsett experimented with dozens of different amines,
-but the fuel they settled on, as having the best combination of proper-
-ties, was a mixture of the adducts of monomethy] amine and of di-
-methylamine. They called it Hybaline A 5 . (They also made some ad-
-ducts of beryllium borohydride. These they called “Hybaline B.”)
+but the fuel they settled on, as having the best combination of properties, was a mixture of the adducts of monomethy] amine and of dimethylamine. They called it Hybaline A 5 . (They also made some adducts of beryllium borohydride. These they called “Hybaline B.”)
 They plugged the Hybalines for some four years, quoting calculated
-performance figures which were a wonder to behold. The only diffi-
-culty was that they assumed — on the basis of certain very doubtful
-experimental figures — a heat of formation for their mixture of ad-
-ducts which was incompatible with that generally accepted for alumi-
-num borohydride, and which generated a certain skepticism in their
+performance figures which were a wonder to behold. The only difficulty was that they assumed — on the basis of certain very doubtful
+experimental figures — a heat of formation for their mixture of adducts which was incompatible with that generally accepted for aluminum borohydride, and which generated a certain skepticism in their
 audiences. The question was finally setded when EAFB made a series
 of full-scale (5000 pound thrust) firings with Hybaline A 5 /N 2 0 4 .
 And got a maximum of 281 seconds, much less than would have been
@@ -6870,13 +6084,11 @@ delivered by, say, C1F 5 and hydrazine. So, by 1964, the Hybalines were
 finished.
 
 The latest excursion into the realm of the exotic was made by F. C.
-Gunderloy, at Rocketdyne. He discovered that certain linear poly-
-mers of beryllium hydride and dimethyl beryllium., with the chains
+Gunderloy, at Rocketdyne. He discovered that certain linear polymers of beryllium hydride and dimethyl beryllium., with the chains
 terminated with BH 3 groups (since the work is classified, I can’t be
 more specific in describing them) were viscous liquids, and worked
 on them for four or five years. The chemistry involved is interesting
-for its own sake, but it doesn’t appear likely to lead to a useful pro-
-pellant. The liquids are extremely poisonous, and beryllium oxide,
+for its own sake, but it doesn’t appear likely to lead to a useful propellant. The liquids are extremely poisonous, and beryllium oxide,
 which would be one of the exhaust products if one of them were used
 as a fuel, is so toxic as to rule out any use in a tactical missile; and there
 are better fuels for space work. Setting to one side the problems of
@@ -6922,19 +6134,16 @@ control) for tank pressurization and the like. High-energy monoprops,
 the glamour boys, are intended to compete with bi-propellants for
 main propulsion.
 
-There haven’t been too many of the first sort, and their develop-
-ment has been more or less straightforward. The first, of course, was
+There haven’t been too many of the first sort, and their development has been more or less straightforward. The first, of course, was
 hydrogen peroxide, used by Von Braun to drive the turbines of the
-A-4. He used a solution of calcium permanganate to catalyze its de-
-composition, but later workers at Buffalo Electrochemical Co.
+A-4. He used a solution of calcium permanganate to catalyze its decomposition, but later workers at Buffalo Electrochemical Co.
 (BECCO) found it more convenient to use a silver screen, coated with
 samarium oxide to do the job. (I’m not sure whether samarium was
 chosen as a result of a systematic investigation of all of the rare-earth
 metals, or because the investigator had some samarium nitrate in his
 stock room.) The leaders in this work were the people at RMI, who
 were investigating peroxide, at the same time, as the oxidizer for a
-“super-performance” engine on a fighter plane. They had one inter-
-esting monopropellant application of H 2 0 2 very much on their minds.
+“super-performance” engine on a fighter plane. They had one interesting monopropellant application of H 2 0 2 very much on their minds.
 This was the ROR, or “Rocket on Rotor” concept, by which a very
 small — perhaps fifty pounds thrust — peroxide motor was mounted
 on the tip of each rotor blade of a helicopter. The propellant tank was
@@ -6948,8 +6157,7 @@ of the feed pressure. The idea was to improve the performance of the
 
 chopper, particularly when it had to lift off in a hurry. (That means
 when somebody is shooting at you.) The work on this went on from
-1952 to 1957, and was a spectacular success. I’ve seen an ROR heli-
-copter operating, and when the pilot cut in his rockets the beast shot
+1952 to 1957, and was a spectacular success. I’ve seen an ROR helicopter operating, and when the pilot cut in his rockets the beast shot
 up into the air like a goosed archangel. The project was dropped, for
 some reason, which seems a shame. An ROR chopper would have been
 awfully helpful in Vietnam, where somebody usually is shooting at
@@ -6962,32 +6170,22 @@ freezing point isn’t a disadvantage.
 One such application is as a propellant for torpedoes. (After all, the
 ocean is a pretty good thermostat!) Here it is decomposed to oxygen
 and superheated steam, the hot gases spin the turbines which operate
-the propellers, and the torpedo is on its way. But here a little com-
-plication sets in. If you’re firing at a surface ship, the oxygen in the
+the propellers, and the torpedo is on its way. But here a little complication sets in. If you’re firing at a surface ship, the oxygen in the
 turbine exhaust will bubble to the surface, leaving a nice visible wake,
 which not only gives the intended victim a chance to dodge, but also
 tells him where you are. BECCO came up with an ingenious solution
 in 1954. They added enough tetrahydrofuran or diethylene glycol
-(other fuels could have been used) to the peroxide to use up the oxy-
-gen, letting the reaction go stoichiometrically to water and carbon di-
-oxide. The water (steam) is naturally no problem, and C0 2 , as any-
-body knows who’s ever opened a can of beer, will dissolve in water
+(other fuels could have been used) to the peroxide to use up the oxygen, letting the reaction go stoichiometrically to water and carbon dioxide. The water (steam) is naturally no problem, and C0 2 , as anybody knows who’s ever opened a can of beer, will dissolve in water
 with the help of a little pressure. That solved the wake problem, but
-made the stuff fearfully explosive, and brought the combustion tem-
-perature up to a level which would take out the turbine blades. So
+made the stuff fearfully explosive, and brought the combustion temperature up to a level which would take out the turbine blades. So
 BECCO added enough water to the mixture to bring the chamber
 temperature down to 1800°F, which the turbine blades could tolerate,
 and the water dilution reduced the explosion hazard to an acceptable
 level.
 
-Another low-energy monopropellant was propyl nitrate, first in-
-vestigated around 1949 or 1950.' It was plugged, enthusiastically, in
-England by Imperial Chemical Industries, who insisted that it was ab-
-solutely harmless and non-explosive. Ha! ERDE (Waltham Abbey) in-
-vestigated it and its homologues rather extensively, and in this coun-
-try the Ethyl Corporation and Wyandotte Chemical Co. did the same.
-The work in England was done on isopropyl nitrate, but in this coun-
-try, due to a magnificently complicated patent situation, normal
+Another low-energy monopropellant was propyl nitrate, first investigated around 1949 or 1950.' It was plugged, enthusiastically, in
+England by Imperial Chemical Industries, who insisted that it was absolutely harmless and non-explosive. Ha! ERDE (Waltham Abbey) investigated it and its homologues rather extensively, and in this country the Ethyl Corporation and Wyandotte Chemical Co. did the same.
+The work in England was done on isopropyl nitrate, but in this country, due to a magnificently complicated patent situation, normal
 propyl nitrate was the isomer used. By 1956, not only Ethyl and
 Wyandotte, but United Aircraft, JPL, NOTS, Aerojet and the Naval
 Underwater Ordnance Station (the old Torpedo Station at Newport)
@@ -6996,8 +6194,7 @@ Underwater Ordnance Station (the old Torpedo Station at Newport)
 
 The Hopeful Monoprops 133
 
-were working with it, either as an auxiliary power source or as a tor-
-pedo propellant, and either straight or mixed with ethyl nitrate. It
+were working with it, either as an auxiliary power source or as a torpedo propellant, and either straight or mixed with ethyl nitrate. It
 was easy to start — either a hot glow bar or a slug of oxygen and a spark
 plug were enough — burned clean and smoothly, and seemed to be the
 answer to a lot of problems.
@@ -7008,8 +6205,7 @@ nothing happens. But if there is a tiny bubble of gas in it, and that
 bubble is compressed rapidly — possibly by a water-hammer effect
 when a valve is closed suddenly — it will detonate — violently. This is
 known as “sensitivity to adiabatic compression,” and in this respect it
-is at least as touchy as nitroglycerine. It was at Newport that it hap-
-pened. Somebody closed a valve suddenly, the NPN let go, and the
+is at least as touchy as nitroglycerine. It was at Newport that it happened. Somebody closed a valve suddenly, the NPN let go, and the
 explosion not only did a lot of damage but convinced most rocket
 people that monopropellant was not for them.
 
@@ -7020,18 +6216,15 @@ It’s easy to start — a sparkplug is enough to do it — and decomposes
 in the reactor to, primarily, methane and carbon monoxide. It has a
 tendency, however, to deposit coke in the reactor, to an extent which
 depends upon the nature of the surface of the latter. This effect can
-be prevented by lining the chamber with silver — the flame tempera-
-ture is very low — or by adding a sulfur containing compound to the
+be prevented by lining the chamber with silver — the flame temperature is very low — or by adding a sulfur containing compound to the
 propellant. It is also likely to polymerize in storage, forming gummy
 polyethylene ethers, which plug up everything. Sunstrand Machine
 Tool worked with it for several years, using it very successfully to
-drive a turbine. Experiment Incorporated, Walter Kidde, and Wyan-
-dotte Chemical also investigated it, and Forrestal Laboratory, at
+drive a turbine. Experiment Incorporated, Walter Kidde, and Wyandotte Chemical also investigated it, and Forrestal Laboratory, at
 Princeton, tried it as the fuel of a ram-rocket during 1954 and 1955.
 
 Some work was done on acetylenics, such as methyl acetylene and
-di-isopropenyl acetylene, by Experiment Incorporated, by Air Reduc-
-tion, and by Wyandotte between 1951 and 1955 but these were never
+di-isopropenyl acetylene, by Experiment Incorporated, by Air Reduction, and by Wyandotte between 1951 and 1955 but these were never
 successful as monopropellants — too much coking, even if they didn’t
 decide to detonate.
 
@@ -7041,14 +6234,12 @@ decompose either to hydrogen and nitrogen, or to ammonia and
 nitrogen, and the relative importance of the two reactions depends
 on any number of things: the chamber pressure, catalytic effects, the
 stay-time of the gases in the chamber, and so on. The reaction is best
-started by flowing the hydrazine through a catalyst bed into the com-
-
+started by flowing the hydrazine through a catalyst bed into the com
 
 
 1 34 Ignition
 
-bustion chamber. Grant, at JPL, in 1953, came up with the first rea-
-sonably satisfactory catalyst: iron, cobalt, and nickel oxides deposited
+bustion chamber. Grant, at JPL, in 1953, came up with the first reasonably satisfactory catalyst: iron, cobalt, and nickel oxides deposited
 on a refractory substrate. The decomposing hydrazine, of course,
 reduces the oxides to the finely divided metals, which take over the
 catalytic role after startup. But restarts, if the catalyst bed has cooled,
@@ -7063,8 +6254,7 @@ that, iridium is the rarest of the platinum metals and the catalyst is
 horribly expensive. And just to make it interesting, the major supplier
 of iridium is the Soviet Union.
 
-Another way to get restarts is to use a “thermal” instead of a cata-
-lytic bed. This has a high heat capacity and is insulated against heat
+Another way to get restarts is to use a “thermal” instead of a catalytic bed. This has a high heat capacity and is insulated against heat
 loss, so that it will stay hot for some time after shutdown, and will
 reignite the propellant on restart simply by heating it. For the original
 start, the bed is impregnated with iodine pentoxide, I 2 0 5 , or with
@@ -7087,10 +6277,7 @@ lived with, in spite of its respectable performance.
 
 Then the Waltham Abbey people came up with another idea. The
 “Dithekites” had been developed during the war as liquid explosives,
-and ERDE thought that they might possibly be good monopropel-
-lants. The Dithekites are mixtures comprising one mole of nitro-
-benzene and five of nitric acid (which makes the mixture stoichio-
-metric to water and C0 2 ) and a varying percentage of water. D-20
+and ERDE thought that they might possibly be good monopropellants. The Dithekites are mixtures comprising one mole of nitrobenzene and five of nitric acid (which makes the mixture stoichiometric to water and C0 2 ) and a varying percentage of water. D-20
 contains 20 percent water. Even with the added water, the mixtures
 weren’t too stable, and the nitrobenzene had a tendency to get
 nitrated further. But the British tend to be more casual (or braver)
@@ -7107,8 +6294,7 @@ them appreciably. Nor did another hazard, peculiar to the Dithekites.
 They are, of course corrosive, and very rough on the human skin,
 and to make it worse, the highly poisonous nitrobenzene was absorbed
 rapidly through the damaged tissue into the anatomy of the victim,
-subjecting him, as it were, to a one-two punch. However, they per-
-severed and fired the things more or less successfully in 1949-50,
+subjecting him, as it were, to a one-two punch. However, they persevered and fired the things more or less successfully in 1949-50,
 only to discover that if you put enough water into them to keep them
 from blowing your head off the performance you got wasn’t worth the
 trouble. End of Dithekites.
@@ -7132,19 +6318,16 @@ In this country, up to 1954, there were two main lines of high
 energy monopropellant development. One stemmed from the efforts,
 described in Chapter 3, to reduce the freezing point of hydrazine.
 As has been related, JPL and NOTS, between 1948 and 1954, had
-examined mixtures of hydrazine and hydrazine nitrate with a thor-
-oughness which left little to be desired. And it was obvious, of course,
+examined mixtures of hydrazine and hydrazine nitrate with a thoroughness which left little to be desired. And it was obvious, of course,
 that a mixture of hydrazine and hydrazine nitrate would have a better
 monopropellant performance than straight hydrazine. And when it
 was tried, which it was by 1950, it was discovered that the obvious was
 indeed true. There was only one catch. Any mixture which contained
 enough hydrazine nitrate and little enough water to have a respectable
 performance was more likely than not to detonate with little or no
-provocation. So that was not the route to a high energy monopropel-
-lant.*
+provocation. So that was not the route to a high energy monopropellant.*
 
-* But it seemed to be the way to a liquid gun propellant. Even a low-energy monopro-
-pellant has more energy in it per gram than does smokeless ball powder, and a great
+* But it seemed to be the way to a liquid gun propellant. Even a low-energy monopropellant has more energy in it per gram than does smokeless ball powder, and a great
 deal more energy per cubic centimeter. (A liquid is much more closely packed than a
 heap of small grains.) So, if a liquid propellant were used, either packaged in the
 cartridge as the solid propellant is, or pumped separately into the gun chamber behind
@@ -7158,41 +6341,32 @@ increase in weight. Hydrazine-hydrazine nitrate-water mixtures have been the usu
 Some years later, in the late 50’s, Commercial Solvents, working
 with their own money (which is unusual in the propellant business),
 and in considerable ignorance of what had been done already (which
-is not unusual in the propellant business) devised a series of mono-
-propellants which were rather similar to the hydrazine mixtures,
+is not unusual in the propellant business) devised a series of monopropellants which were rather similar to the hydrazine mixtures,
 except that they were based on methyl amine, to which was added
 ammonium nitrate or hydrazine nitrate or methylammonium nitrate,
-or lithium nitrate. These were safe enough, but their energy and per-
-formance were low.
+or lithium nitrate. These were safe enough, but their energy and performance were low.
 
 The other line of high-energy monopropellant work in this country
-was the development of nitromethane. By 1945, EES, JPL, and Aero-
-jet had worked with it, and had discovered that it could be more or
+was the development of nitromethane. By 1945, EES, JPL, and Aerojet had worked with it, and had discovered that it could be more or
 less desensitized by the addition of 8 percent of butanol. JPL did some
 work with it— finding the optimum injector and chamber design and
 so on — right after the war, and in 1949 J. D. Thackerey at Aerojet
 started an intensive study that carried on through 1953. And there
 was plenty to study!
 
-Ignition was a big problem; it isn’t easy to get the stuff going. Aero-
-jet found that you couldn’t ignite it with a spark unless a stream of
+Ignition was a big problem; it isn’t easy to get the stuff going. Aerojet found that you couldn’t ignite it with a spark unless a stream of
 oxygen was introduced at the same time. An ordinary pyrotechnic
 igniter was useless; it had to be one of the thermite type. One esoteric
-starting technique they developed was to spray a liquid sodium-po-
-tassium alloy into the chamber at startup. That reacted with the nitro-
-methane with sufficient enthusiasm to get things going — but it’s not
+starting technique they developed was to spray a liquid sodium-potassium alloy into the chamber at startup. That reacted with the nitromethane with sufficient enthusiasm to get things going — but it’s not
 the easiest substance in the world to handle.
 
 Stable and efficient combustion in a reasonably small chamber was
-another big problem. Aerojet tried dozens of combustion catalyst ad-
-ditives, including such surprising things as uranyl perchlorate, and
+another big problem. Aerojet tried dozens of combustion catalyst additives, including such surprising things as uranyl perchlorate, and
 finally settled on chromium acetylacetonate.
 
-Other additives were tried, to reduce the freezing point and to de-
-sensitize the propellant, among them nitroethane and ethylene oxide.
+Other additives were tried, to reduce the freezing point and to desensitize the propellant, among them nitroethane and ethylene oxide.
 They found that the addition of amines, such as aniline, immensely
-increased the sensitivity, and Fritz Zwicky patented that as an inven-
-tion in the field of explosives. The final mixture on which they settled
+increased the sensitivity, and Fritz Zwicky patented that as an invention in the field of explosives. The final mixture on which they settled
 
 propellants in ihe liquid gun programs, although- NPN sometimes mixed with ethyl
 nitrate, has been used at times. These programs have been running, on and off, since
@@ -7213,20 +6387,16 @@ name of “Neofuel.”
 
 Martin and Laurie had been doing similar work for the Canadian
 Defense Establishment in 1950. Their approach was to try to upgrade
-the performance of nitromethane or nitroethane or other nitro-al-
-kyls by mixing in a suitable amount of WFNA. (Note the similarity to
+the performance of nitromethane or nitroethane or other nitro-alkyls by mixing in a suitable amount of WFNA. (Note the similarity to
 the Dithekites.) The performance was improved (nitroethane turned
 out to be the best nitro-alkyl base to start with) but the sensitivity of
 the mixture made it impossible to live with.
 
-So, in the spring of 1954, the only reasonably high-energy mono-
-propellant that could be used with reasonable safety was Aerojet’s
+So, in the spring of 1954, the only reasonably high-energy monopropellant that could be used with reasonable safety was Aerojet’s
 “Neofuel.” And monopropellant research seemed to be at a dead end.
 
 Then it happened. Tom Rice, at the Naval Research Laboratory,
-had an idea. He knew that pyridine was extremely resistant to nitra-
-tion. So, he reasoned that if it were dissolved in WFNA it would prob-
-ably go to pyridinium nitrate rather than a nitro compound, and then,
+had an idea. He knew that pyridine was extremely resistant to nitration. So, he reasoned that if it were dissolved in WFNA it would probably go to pyridinium nitrate rather than a nitro compound, and then,
 as the salt, should be quite stable in the acid. And, by varying the
 amount of pyridine in the acid, he could get any oxidizer-fuel ratio
 he wanted in the mixture — and should have himself a high energy
@@ -7237,15 +6407,13 @@ burner,* and found that it would burn as a monopropellant. He didn’t
 go any further at that time, since he didn’t have access to a test stand.
 
 Paul Terlizzi, my then boss, had been visiting NOL, and told me
-what Tom was doing, just as a piece of gossip. I instantly saw the pos-
-sibilities, and something else that Paul and, apparently, Tom hadn’t
+what Tom was doing, just as a piece of gossip. I instantly saw the possibilities, and something else that Paul and, apparently, Tom hadn’t
 thought of. Which was that almost any amine, and not just extremely
 stable ones like pyridine, could be made into a monopropellant, if its
 nitrate salt were made first and then dissolved in the acid. And God
 only knows how many amines there are!
 
-I made a few crude performance calculations, and found that tri-
-
+I made a few crude performance calculations, and found that tri
 * A liquid strand burner is a gadget which will give you some idea of the burning
 rate of a monopropellant. It is a pressurized container (bomb), usually with a window.
 The monopropellant is burned in a narrow (a few millimeters diameter) vertical glass
@@ -7253,8 +6421,7 @@ tube. If the tube is not too wide, the propellant will burn straight down like a
 and the rate can be observed and measured. The bomb is pressurized with nitrogen,
 to pressures similar\o those in a rocket combustion chamber, and the burning rate is
 measured as a function of pressure. It was developed from the strand burner used for
-solid propellants. Dr. A. G. Whittaker, at NOTS, burned, among other things, a mix-
-ture of nitric acid and 2 nitropropanq. He was the first to make much use of it. That
+solid propellants. Dr. A. G. Whittaker, at NOTS, burned, among other things, a mixture of nitric acid and 2 nitropropanq. He was the first to make much use of it. That
 was in the early 50’s.
 
 
@@ -7272,8 +6439,7 @@ to look into the whole business. This was early in June, 1954. 1 should,
 of course, have waited for official authorization before I did anything
 more, but as there didn’t seem to be any particular reason to observe
 the legalities, we decided to get going immediately, and to make up a
-hundred or so pounds of each salt before anybody got around to tell-
-ing us not to. We had a lot of pyridine around the place, and, for soffie
+hundred or so pounds of each salt before anybody got around to telling us not to. We had a lot of pyridine around the place, and, for soffie
 unknown reason, a tank of liquefied trimethylamine. Plus, of course,
 unlimited nitric acid, so things went fast.
 
@@ -7282,9 +6448,7 @@ in water, neutralize with nitric acid, boil off most of the water and
 crystallize. (But once, during the boiling down process, something
 went wrong, the mixture started to turn brown and evolve ominous
 N0 2 fumes, and the whole thing had to be carried hurriedly outdoors
-and flooded down with a hose!) When we had the dry salt, we dis-
-solved it in the acid in the proportions which would give the best per-
-formance, and sent a sample of the mixture down to Tom Rice to try
+and flooded down with a hose!) When we had the dry salt, we dissolved it in the acid in the proportions which would give the best performance, and sent a sample of the mixture down to Tom Rice to try
 on his strand burner. It burned better and faster than his had. We
 investigated the discrepancy, and found that his WFNA had more
 water in it than ours did.
@@ -7326,16 +6490,14 @@ into the nozzle, started it going, and opened the propellant valve. The
 propellant prompdy extinguished the igniter. Two more trials gave
 the same results. Bert Abramson, who was in charge of the test work,
 then took an acetylene torch and heated the motor red hot, and
-opened the prop valve. This time he got ignition, and some half-
-hearted operation for a few seconds. Inspired to further effort, he
+opened the prop valve. This time he got ignition, and some halfhearted operation for a few seconds. Inspired to further effort, he
 crammed about a yard of lithium wire into the chamber, and pushed
 the button.
 
 Penelope sprayed into the chamber, collected in a puddle in the
 bottom, and then reacted with the wire. The nozzle couldn’t cope
 with all the gas produced, the chamber pressure rose exponentially,
-and the reaction changed to a high order detonation which demol-
-ished the motor, propagated through the fuel line to the propellant
+and the reaction changed to a high order detonation which demolished the motor, propagated through the fuel line to the propellant
 tank, detonated the propellant there (fortunately there were only a
 few pounds in the tank) and wrecked just about everything in the test
 cell. Penelope should have been named Xantippe. She also scared
@@ -7349,8 +6511,7 @@ tri hexyl amine. Plus several unsaturated amines, a few aromatics,
 and some pyridine derivatives.
 
 As soon as the first samples came in I put the gang onto the job of
-making the amine nitrate salts, which were then made into propel-
-lants. At times there would be half a dozen different flasks in the lab
+making the amine nitrate salts, which were then made into propellants. At times there would be half a dozen different flasks in the lab
 each with a different nitrate in it, and all bubbling away at the same
 time.
 
@@ -7379,8 +6540,7 @@ chains, such as the hexyl amines. These were diluted with water and
 dumped in a hurry. Once we had to call the fire department to do it
 for us.
 
-The salts varied madly in their physical properties. Some crys-
-tallized nicely; others refused to crystallize under any circumstances,
+The salts varied madly in their physical properties. Some crystallized nicely; others refused to crystallize under any circumstances,
 and the solution had to be evaporated to dryness over a steam bath,
 coming out as a fine powder. And some were liquids, even perfectly
 dry and at room temperature. Monoethylammonium nitrate was one
@@ -7391,8 +6551,7 @@ but something with such interesting properties ought to be good for
 something!
 
 But most of them dissolved in the acid without any fuss. I had them
-made up to X = 1.00 (stoichiometric to C0 2 and H 2 0), since I ex-
-pected their sensitivity to be at a maximum at that mixture ratio, and
+made up to X = 1.00 (stoichiometric to C0 2 and H 2 0), since I expected their sensitivity to be at a maximum at that mixture ratio, and
 had them card gapped. (We had acquired an old destroyer gun
 turret — there were dozens of them lying around the place — and set
 up a card-gap test rig inside it. The idea of the turret was to contain
@@ -7416,8 +6575,7 @@ relatives (derived from pyridine and related compounds) were among
 The Hopeful Monoprops 141
 
 140 cards. Second, the propellant made from trimethylamine (the
-one that I’d wanted to try in the first place) was remarkably insensi-
-tive-rating about ten cards. And, as the amine samples came in from
+one that I’d wanted to try in the first place) was remarkably insensitive-rating about ten cards. And, as the amine samples came in from
 the manufacturers, a fascinating pattern started to emerge. If you
 disregarded things like methylcyclohexyl amine, which didn’t seem
 to follow any rules, and considered only those propellants made from
@@ -7428,18 +6586,12 @@ A propellant made from propylamine was more sensitive than one
 made form ethyl amine, and one made from tripropylamine was more
 sensitive than one made from dipropylamine, which, in turn, was
 more sensitive than the one made from monopropylamine. And one
-made from isopropylamine was less sensitive than the normal propyl-
-amine mixture.
+made from isopropylamine was less sensitive than the normal propylamine mixture.
 
 To say that the explanation of these regularities was not obvious
-would be to understate the matter. But I proceeded in the way a scien-
-tist usually does when he’s confronted with a mass of apparently in-
-explicable numerical data. I worked out an empirical equation relat-
-ing the card-gap sensitivity to a function, which I called “flop-
-piness coefficient,” and calculated from the number of carbon chains
+would be to understate the matter. But I proceeded in the way a scientist usually does when he’s confronted with a mass of apparently inexplicable numerical data. I worked out an empirical equation relating the card-gap sensitivity to a function, which I called “floppiness coefficient,” and calculated from the number of carbon chains
 in the ammonium ion, their lengths, and their degree of branching.
-(In deriving it, I had to use logarithms to the base three, which is some-
-thing so weird as to be unheard of. Fortunately they canceled out,
+(In deriving it, I had to use logarithms to the base three, which is something so weird as to be unheard of. Fortunately they canceled out,
 and didn’t appear in the hnal function!) And from this equation,
 with the help of the specific heat of the propellant, the size of the
 ammonium ion, and a few assumptions, I was able to make a guess at
@@ -7448,19 +6600,14 @@ reasonable figure — some 20 to 30 kilocalories/mole — right in the
 range of the strength of molecular bonds.
 
 This was interesting, but what was more to the point, my list of
-candidate propellants was drastically pruned. Starting with thirty-
-three mixtures, and taking thirty-five cards as an arbitrary sensitivity
+candidate propellants was drastically pruned. Starting with thirtythree mixtures, and taking thirty-five cards as an arbitrary sensitivity
 limit, I had only ten survivors. Some of these I dropped immediately,
-because the freezing point of the mixture, when made up to the opti-
-mum mixture ratio, was too high, or because the dry salt was unstable
+because the freezing point of the mixture, when made up to the optimum mixture ratio, was too high, or because the dry salt was unstable
 in storage, or because it was much more expensive than another
 compound with the same sensitivity.
 
-The hnal selection was based on thermal stability. Some of the mix-
-tures could be evaporated to the dry crystals over a steam bath, but
-others, when the acid was almost all gone, would ignite and burn mer-
-rily. This was some indication of the relative stability of the propel-
-
+The hnal selection was based on thermal stability. Some of the mixtures could be evaporated to the dry crystals over a steam bath, but
+others, when the acid was almost all gone, would ignite and burn merrily. This was some indication of the relative stability of the propel
 
 
 142 Ignition
@@ -7470,8 +6617,7 @@ had built a thermal stability tester. This was a small, sealed, stainless
 steel bomb, with a total volume of approximately 10 cc, equipped with
 a pressure pickup and a recorder, and with a rupture (or burst) disc
 failing at approximately 300 psi. The bomb was loaded with 5 cc of
-propellant and placed in a constant temperature bath, and the pres-
-sure buildup was recorded. There was an open “chimney” above the
+propellant and placed in a constant temperature bath, and the pressure buildup was recorded. There was an open “chimney” above the
 burst disc, which extended above the liquid level of the bath, so that
 when the disc let go the bath liquid, which was usually old cylinder
 oil, wouldn’t be spread all over the landscape.
@@ -7482,19 +6628,13 @@ about fifteen hours. Then, it started to increase at an accelerating rate,
 and the burst disc failed at seventeen hours. When we ran a series of
 runs, at different temperatures, and then plotted the logarithm of the
 time-to-burst against the reciprocal of the absolute temperature, we
-got a gratifyingly straight line, from whose slope it was easy to cal-
-culate the heat of activation of the decomposition process. (It turned
+got a gratifyingly straight line, from whose slope it was easy to calculate the heat of activation of the decomposition process. (It turned
 out to be surprisingly close to that derived from the card gap work!)
 
-Anyhow, we found that, other things being more or less equal, sec-
-ondary amine mixtures were more stable than primary amine mix-
-tures, and that tertiary amine mixtures were the most unstable of all.
+Anyhow, we found that, other things being more or less equal, secondary amine mixtures were more stable than primary amine mixtures, and that tertiary amine mixtures were the most unstable of all.
 And of the propellants which had survived our other screenings, that
 made from diisopropyl amine had the best thermal stability. So it was
-Isolde. (It was our custom, by this time, to give our monoprops fem-
-inine names — like hurricanes. Sometimes the name was vaguely mne-
-monic of the amine involved — as Beulah for a butyl amine, for in-
-stance— and sometimes it had nothing to do with anything. Roger
+Isolde. (It was our custom, by this time, to give our monoprops feminine names — like hurricanes. Sometimes the name was vaguely mnemonic of the amine involved — as Beulah for a butyl amine, for instance— and sometimes it had nothing to do with anything. Roger
 Machinist had been the one to make diisopropylammonium nitrate,
 and hence had the inalienable right to name it. And he’d been to the
 opera the night before.)
@@ -7506,8 +6646,7 @@ In the meantime, we’d been trying to invent some way of igniting
 it without blowing up the motor. That wasn’t easy. You couldn’t set
 fire to the propellant in the open, even with an oxygen-propane torch.
 Ordinary pyrotechnic squibs, as we already knew, were useless in a
-motor. We tried to make some really hot igniters by mixing up pow-
-dered aluminum or magnesium, potassium nitrate or perchlorate,
+motor. We tried to make some really hot igniters by mixing up powdered aluminum or magnesium, potassium nitrate or perchlorate,
 and epoxy cement, letting the mess harden in a polyethylene tube,
 and then cutting off the tube. The results were spectacular. When we
 lit one of them off (we did it with an electrically heated wire) we got
@@ -7517,47 +6656,36 @@ lit one of them off (we did it with an electrically heated wire) we got
 The Hopeful Monoprops 1 43
 
 a brilliant white flame, clouds of white smoke, and all sorts of sound
-effects. We tried them out just outside of the door of the lab, and al-
-ways had one ready to greet any incautious safety man as he was stroll-
-ing by. Bert Abramson came in for a demonstration, and when one
+effects. We tried them out just outside of the door of the lab, and always had one ready to greet any incautious safety man as he was strolling by. Bert Abramson came in for a demonstration, and when one
 of them was touched off he tried to extinguish it with a wash bottle.
 Whereupon the igniter broke in two, with the business end dropping
 to the floor and chasing him about the lab as everybody cheered. But
 they wouldn’t do the job — a stream of Isolde would put out the fire.
 
-Apparently it just wasn’t practical to light the stuff off with an ex-
-ternal energy source. It would have to produce its own energy, which
+Apparently it just wasn’t practical to light the stuff off with an external energy source. It would have to produce its own energy, which
 meant that we had to develop some source of hypergolic ignition. We
 didn’t want to bother with the plumbing that would be involved if we
-used a slug of UDMH for instance, to react with the acid in the pro-
-pellant; that would lead to too much complication. What we wanted
-was some solid material, which could be placed in the chamber before-
-hand, and would react with the propellant when it was injected to start
+used a slug of UDMH for instance, to react with the acid in the propellant; that would lead to too much complication. What we wanted
+was some solid material, which could be placed in the chamber beforehand, and would react with the propellant when it was injected to start
 the fire going. We tried all sorts of things — powdered magnesium,
-metallic sodium, and what not. (The candidate was placed in a hor-
-izontal one- or two-inch diameter glass tube, the propellant was
-sprayed in at one end, and the results were monitored with a high-
-speed camera.) We had no luck for some time, but then we finally hit
+metallic sodium, and what not. (The candidate was placed in a horizontal one- or two-inch diameter glass tube, the propellant was
+sprayed in at one end, and the results were monitored with a highspeed camera.) We had no luck for some time, but then we finally hit
 on a highly improbable mixture that worked — a mixture of lithium
 hydride and rubber cement. This unlikely sounding mixture was
 made into a thick dough, spread on a sheet of gauze, and then
 wrapped around a wooden dowel. The end of the dowel was tapered
 and screwed into a plug tapped with a Va” pipe thread. The plug, in
 turn, was screwed into an appropriately threaded hole in the center
-of the injector, so that when the propellant was injected it would im-
-pinge upon, and react with the ignition mixture. The whole device,
+of the injector, so that when the propellant was injected it would impinge upon, and react with the ignition mixture. The whole device,
 some six inches long, was kept in a sealed test tube until it was needed,
 to protect the LiH from atmospheric moisture. The business end of
-it was a ghastly corpse-gray, and it was the most obscene looking ob-
-ject I have ever seen — and the rocket mechanics christened it accord-
-ingly.*
+it was a ghastly corpse-gray, and it was the most obscene looking object I have ever seen — and the rocket mechanics christened it accordingly.*
 
 But it worked. We had our first successful run in January 1956, and
 by April we had a smooth-running and workable system. We got the
 
 
-* Since the propellant was named “Isolde” it seemed only reasonable to call the ig-
-niter “Tristan.” Then somebody pointed out that the missile using the system would
+* Since the propellant was named “Isolde” it seemed only reasonable to call the igniter “Tristan.” Then somebody pointed out that the missile using the system would
 naturally be called the “King Mark.” But when somebody else added that the advanced
 model of the missile would of course be the “King Mark II” the engineering officer
 started muttering wistfully about flogging at the gratings, keel-hauling, and the uses
@@ -7572,8 +6700,7 @@ rather than with ordinary WFNA, and with a salt/acid mixture that
 gave a X (the ratio of reducing to oxidizing valences in the propellant)
 of 1.2. So we called it Isolde 120 A (the 120 referring to the mixture
 ratio and the A to the anhydrous acid) and wrote our reports. And
-we had something to report — the highest performing monopropel-
-lant ever fired anywhere by anybody. Combustion was good — we got
+we had something to report — the highest performing monopropellant ever fired anywhere by anybody. Combustion was good — we got
 close to 95 percent of the theoretical performance with a surprisingly
 small chamber — and we didn’t need a fancy (and expensive) injector.
 In fact, the one we used was made from six commercially available
@@ -7587,20 +6714,15 @@ idea of what we had done by June. And then all hell broke loose.
 
 Everybody and his uncle wanted a piece of the action, and wrote
 a proposal to one of the three services, for a research program on
-monopropellants. RMI, right next door to us, and intimately ac-
-quainted with our work, was first off the mark, in March 1956, when
-they got a Navy contract to develop “Superior Liquid Monopropel-
-lants,” but the others weren’t far behind. Wyandotte Chemical had a
+monopropellants. RMI, right next door to us, and intimately acquainted with our work, was first off the mark, in March 1956, when
+they got a Navy contract to develop “Superior Liquid Monopropellants,” but the others weren’t far behind. Wyandotte Chemical had a
 Navy contract by September, Phillips Petroleum and Stauffer Chemical
-got into the act early in 1957, and by 1958 Pennsalt, Midwest Re-
-search, Aerojet, and Hughes Tool had joined them. In addition to
+got into the act early in 1957, and by 1958 Pennsalt, Midwest Research, Aerojet, and Hughes Tool had joined them. In addition to
 these, all of whom were trying to brew up new propellants, several
 organizations, including GE, were motor-testing propellants that
-others had developed, and were trying to apply them to tactical sys-
-tems. It was a busy time.
+others had developed, and were trying to apply them to tactical systems. It was a busy time.
 
-Reaction Motors (before long they had not only a Navy monopro-
-pellant program, but an Army contract as well) tried two approaches.
+Reaction Motors (before long they had not only a Navy monopropellant program, but an Army contract as well) tried two approaches.
 One was to dissolve a fuel in an oxidizer, and the other was to produce
 a single-compound propellant, the nitrate or the nitramine of an
 energetic radical. Propargyl nitrate, propargyl nitramine, glycidyl
@@ -7611,9 +6733,7 @@ enough to dampen a propellant man’s brow!)
 I don’t believe that they ever made enough of any of them to do a
 card-gap, but the results of certain other tests were enough to make
 one a bit cautious. Joe Pisani phoned me from RMI one day late in
-1958, asking me if I’d do a thermal stability run on a sample of pro-
-pargyl nitrate, I replied that I'd be glad to, but that he’d have to re-
-
+1958, asking me if I’d do a thermal stability run on a sample of propargyl nitrate, I replied that I'd be glad to, but that he’d have to re
 
 
 The Hopeful Monoprops 1 45
@@ -7634,8 +6754,7 @@ flame, only to quench immediately as it hit the ice-cold concrete. We
 cut everything off, and went out to survey the damage. The bomb had
 fragmented; the burst disc just couldn’t rupture fast enough. The
 pressure pickup was wrecked, as was the stirrer. The cylindrical
-stainless steel pot which had held the oil had been reshaped into some-
-thing that would have looked well under a bed. And the oil— it had
+stainless steel pot which had held the oil had been reshaped into something that would have looked well under a bed. And the oil— it had
 been old vacuum pump oil, black and filthy. It had hit the concrete
 floor of the test area, the wall of the building, and everything else in
 reach, and had cleverly converted itself (the temperature was well
@@ -7651,8 +6770,7 @@ mess or I’ll be down there with a rusty hacksaw blade. ...” I specified
 the anatomical use to which the saw blade would be put. End of
 conversation.
 
-And it was the end of the propargyls and their relatives. Washing-
-ton told Reaction to forget that foolishness and start working on the
+And it was the end of the propargyls and their relatives. Washington told Reaction to forget that foolishness and start working on the
 N-F compounds instead. That story will be told a little later.
 
 The other approach to a monopropellant at RMI was taken by Stan
@@ -7683,8 +6801,7 @@ that you could not make a practical monopropellant based on N 2 0 4 .
 Howard Bost, at Phillips Petroleum, who had been working with
 mixtures of N 2 0 4 and neopentane or 2,2 dinitropropane, came to the
 same conclusion at about the same time. And if afny more evidence
-were needed, the card-gap values for various N 2 0 4 -hydrocarbon mix-
-tures, as determined by McGonnigle of Allied Chemical, furnished it.
+were needed, the card-gap values for various N 2 0 4 -hydrocarbon mixtures, as determined by McGonnigle of Allied Chemical, furnished it.
 N 2 0 4 -fuel mixtures are not useful monoprops.
 
 He didn’t have anymore luck with perchloryl fluoride. He tried
@@ -7697,8 +6814,7 @@ So that approach, too, was hopeless. Nor was it a good idea to try to
 mix N 2 F 4 with monomethyl hydrazine, as he discovered early in
 1959!
 
-If Tannenbaum’s mixtures were bad, that proposed at a mono-
-propellant conference in October 1957 by an optimist from Air
+If Tannenbaum’s mixtures were bad, that proposed at a monopropellant conference in October 1957 by an optimist from Air
 Products, Inc., was enough to raise the hair on the head of anybody in
 the propellant business. He suggested that a mixture of liquid oxygen
 and liquid methane would be an extra high-energy monopropellant,
@@ -7706,16 +6822,13 @@ and had even worked out the phase diagrams of the system.* How
 he avoided suicide (the first rule in handling liquid oxygen is that you
 never, never let it come in contact with a potential fuel) is an interesting
 question, particularly as JPL later demonstrated that you could make
-the mixture detonate merely by shining a bright light on it. Never-
-theless, ten years later I read an article seriously proposing an oxy-
-gen-methane monopropellant! Apparently junior engineers are
+the mixture detonate merely by shining a bright light on it. Nevertheless, ten years later I read an article seriously proposing an oxygen-methane monopropellant! Apparently junior engineers are
 allergic to the history of their own business.!
 
 * His idea was to set up a liquid oxygen plant alongside a natural gas well, tank up
 your ICBM on the spot, and push ihe buiton.
 
-t Sometime lnier, Irv Glnssman, of the Korrestal Laboratories, conceived of an inter-
-csiing and emirely different lype of cryogenic monopropcllani . The idea was to use
+t Sometime lnier, Irv Glnssman, of the Korrestal Laboratories, conceived of an intercsiing and emirely different lype of cryogenic monopropcllani . The idea was to use
 
 
 
@@ -7727,25 +6840,20 @@ it closely enough to satisfy a reasonably prudent man. For one thing,
 Bill, like Joe Pisani, synthesized some really fancy organic nitrates,
 such as 1,2 dinitratopropane, and nitratoacetonitrile, and as might
 have been expected, discovered that nobody in his right mind would
-try to use them as propellants. For another, he examined the possibil-
-ity (admittedly slight) of using alkyl perchlorates, such as ethyl per-
-chlorate, C 2 H 5 C10 4 , as monoprops. I read in a Wyandotte report that
-they intended to do this, and phoned Bill to read to him what Sidg-
-wick, in “Chemical Elements and their Compounds,” had to say on
+try to use them as propellants. For another, he examined the possibility (admittedly slight) of using alkyl perchlorates, such as ethyl perchlorate, C 2 H 5 C10 4 , as monoprops. I read in a Wyandotte report that
+they intended to do this, and phoned Bill to read to him what Sidgwick, in “Chemical Elements and their Compounds,” had to say on
 the subject of the ethyl compound.
 
 “Hare and Boyle (1841) say [Sidgwick wrote] that it is incomparably
 more explosive than any other known substance, which still seems to
 be very nearly true. . . . Meyer and Spormann (1936) say that the
 explosions of the perchlorate esters are louder and more destructive
-than those of any other substance; it was necessary to work with mini-
-mum quantities under the protection of thick gloves, iron masks
+than those of any other substance; it was necessary to work with minimum quantities under the protection of thick gloves, iron masks
 [Ha, there, M. Dumas!], and thick glasses, and to handle the vessels
 with long holders.” But Cuddy (presumably investing in leather gloves
 and an iron mask first) went ahead anyway. He told me later that the
 esters were easy enough to synthesize, but that he and his crew had
-never been able to fire them in a motor, since they invariably deto-
-nated before they could be poured into the propellant tank. It is
+never been able to fire them in a motor, since they invariably detonated before they could be poured into the propellant tank. It is
 perhaps unnecessary to add that this line of investigation was not
 further extended.
 
@@ -7782,10 +6890,8 @@ sensitive, but the engineers can design around it.” (The engineers
 took a dim view of this.)
 
 So they went ahead anyway, and actually managed to fire the stuff
-in a micro-motor. Most of the time. Sometimes, generally, and em-
-barrassingly, when they were demonstrating it to visitors, it would
-let go with a frightful bang, demolishing the motor and the instru-
-mentation, and scaring everybody half to death. Tail and Cuddy
+in a micro-motor. Most of the time. Sometimes, generally, and embarrassingly, when they were demonstrating it to visitors, it would
+let go with a frightful bang, demolishing the motor and the instrumentation, and scaring everybody half to death. Tail and Cuddy
 sweat blood, but they were never able to make the TNM mixtures
 into reliable propellants, and late in 1958 the thrust of their work
 shifted to the amine nitrates.
@@ -7804,8 +6910,7 @@ He tried to make nitronium borohydride, N0 2 BH 4 , and failed.
 (The idea of a stable salt with an oxidizing cation and a reducing
 anion isn’t very plausible on the face of it.)
 
-He tried to mix pentaborane with nitro-ethyl nitrate. They ex-
-ploded on contact. (The NEN by itself card-gapped at about 50
+He tried to mix pentaborane with nitro-ethyl nitrate. They exploded on contact. (The NEN by itself card-gapped at about 50
 cards.)
 
 He tried to mix NF 3 and diborane. They reacted.
@@ -7833,26 +6938,21 @@ up their setup, which goes to show that it isn’t a good idea to try to
 develop a new type of motor with an experimental propellant. One
 unknown at a time is plenty to worry about!)
 
-Even before the Isolde report was published, Bost and Fox at Phil-
-lips Petroleum had made nitrate salts of some of their bi-tertiary
-amines, and dissolved the salts in nitric acid to come up with AN pro-
-pellants of their own. They discovered, however, that their thermal
+Even before the Isolde report was published, Bost and Fox at Phillips Petroleum had made nitrate salts of some of their bi-tertiary
+amines, and dissolved the salts in nitric acid to come up with AN propellants of their own. They discovered, however, that their thermal
 stability was extremely poor, which agreed with our own experience
 with tertiaries. They also discovered that their di-nitrate solutions
 were extremely viscous, as we had learned, very early in the game,
 when we tried to make a propellant from ethylene diamine.
 
-At NARTS, the engineers plowed ahead, trying Isolde in high pres-
-sure motors— 1000 instead of 300 psi chamber pressure — and as a
+At NARTS, the engineers plowed ahead, trying Isolde in high pressure motors— 1000 instead of 300 psi chamber pressure — and as a
 regenerative coolant. It could be used that way, but the process was
 somewhat precarious. You had to shut down with a water flush through
-the system, or the propellant left in the cooling passages of the still-
-hot motor would cook off and probably blow up the works.
+the system, or the propellant left in the cooling passages of the stillhot motor would cook off and probably blow up the works.
 
 This was all very commendable, but not very interesting to anybody
 except a hardware merchant. Which I was not. So I decided to see
-whether quaternary ammonium nitrates would make better propel-
-lants than secondary ammonium nitrates. We had never investigated
+whether quaternary ammonium nitrates would make better propellants than secondary ammonium nitrates. We had never investigated
 the quaternaries, since they were comparatively difficult to make, and
 there was no a priori reason to believe that they would be any better
 or any worse than Isolde. But there was only one way to find out.
@@ -7882,15 +6982,12 @@ could use it over and over) and we soon had enough propellant to do
 
 card-gap tests. And our new propellant at X = 1.2 had a sensitivity of
 about five cards, which meant that the shock wave pressure that was
-needed to set if off was more than twice the pressure that would deto-
-nate Isolde.* Immensely cheered, we christened her with the obvious
-name “Tallulah” (as being practically impervious to shock) and con-
-tinued on our way. This was early in 1957.
+needed to set if off was more than twice the pressure that would detonate Isolde.* Immensely cheered, we christened her with the obvious
+name “Tallulah” (as being practically impervious to shock) and continued on our way. This was early in 1957.
 
 The only trouble with Tallulah was that when it was mixed up to
 X = 1.20, the freezing point was much too high — about— 22°. (Such a
-beautifully symmetrical ion can hardly be restrained from crystalliz-
-ing.) So we next tried the ethyl trimethyl salt (“Portia,” but don’t ask
+beautifully symmetrical ion can hardly be restrained from crystallizing.) So we next tried the ethyl trimethyl salt (“Portia,” but don’t ask
 me to explain the convoluted line of reasoning that led to that name!)
 and the diethyl dimethyl ammonium nitrate. (“Marguerite,” and don’t
 ask me to explain that one either.) Portia didn’t quite make it — it
@@ -7900,23 +6997,19 @@ met the freezing point specifications all right, but it crystallized very
 badly, and was so hygroscopic as to be practically unusable.
 
 These salts we had made for us by outside manufacturers who had
-the pressure equipment which we did not have, and which is prac-
-tically indispensable in making quaternaries in any quantity. John
+the pressure equipment which we did not have, and which is practically indispensable in making quaternaries in any quantity. John
 Gall at Pennsalt, and Dr. Phyllis Oja of Dow were both remarkably
 helpful here in talking their respective pilot plants into making the
 things and absorbing the financial loss involved. (We got the salts for
 much less than it cost the manufacturers to make them.)
 
-* About this time I got curious as to whether or not the structure-sensitivity rela-
-tionships I had found in the amine nitrate monoprops applied to other systems, par-
-ticularly since McGonnigle had remarked to me that straight chain hydrocarbons in
+* About this time I got curious as to whether or not the structure-sensitivity relationships I had found in the amine nitrate monoprops applied to other systems, particularly since McGonnigle had remarked to me that straight chain hydrocarbons in
 N 2 0 4 were more sensitive than branched chains. I knew that Tallulah at X = 1.0 with
 CH 3
 
 U
 
-the fuel ion structure CH 3 — N — CH 3 card-gapped at some eight cards, while the pro-
-CH 3
+the fuel ion structure CH 3 — N — CH 3 card-gapped at some eight cards, while the proCH 3
 
 pellant with the isomeric fuel ion NH 3 — CH 2 — CH 2 — CH 2 — CH 3 gapped 58 — a
 difference of fifty cards due to structure alone. So I got some normal pentane,
@@ -7927,9 +7020,7 @@ CH 3 — CH 2 — CH 2 — CH 2 — CH 3 and some neopentane CH 3 — C — CH 3
 
 ch 3
 
-both made up with N 2 0 4 to k = 1 .0, and had them card-gapped. And the normal pen-
-tane had a sensitivity of about 100 cards, and the neopentane, 50 cards. Again a dif-
-ference of 50 cards, which meant that the ratio of the critical shock wave pressures due
+both made up with N 2 0 4 to k = 1 .0, and had them card-gapped. And the normal pentane had a sensitivity of about 100 cards, and the neopentane, 50 cards. Again a difference of 50 cards, which meant that the ratio of the critical shock wave pressures due
 to structure was the same in both systems. 1 was fascinated by this coincidence, but
 never had ihe chance lo carry the work any further. It’s recommended to the attention
 of sonic future investigator.
@@ -7942,13 +7033,11 @@ of sonic future investigator.
 The Hopeful Monoprops
 
 If Marguerite had poor physical properties, a more compact and
-symmetrica] isomer might do the job, and trimethyl isopropyl am-
-monium nitrate was the next thing we tried. That was fine — good
+symmetrica] isomer might do the job, and trimethyl isopropyl ammonium nitrate was the next thing we tried. That was fine — good
 freezing point, excellent thermal stability, a little more sensitive than
 Tallulah on the card-gap, but not enough to matter, and physical
 properties that made it a joy to handle. We called it “Phyllis.” (After
-all, when a lady talks her employers into making 150 pounds of a com-
-pletely unheard of salt for you, and then doesn’t charge you anything
+all, when a lady talks her employers into making 150 pounds of a completely unheard of salt for you, and then doesn’t charge you anything
 for it, on the grounds that the paper work would cost more than the
 stuff is worth, the least a gentleman can do is to name it after her!)
 
@@ -7958,12 +7047,10 @@ about, rounding up likely looking amines, quaternizing them and
 checking them out. We’d usually make enough at first to check the
 thermal stability and the melting point, and then, if it passed these
 tests (most of them didn’t) make a lot big enough for card-gap work.
-And if a candidate showed up well there, it was time to look for some-
-body who would make enough for motor work.
+And if a candidate showed up well there, it was time to look for somebody who would make enough for motor work.
 
 In January, 1958, Bost and Fox, of Phillips, with a new Air Force
-contract, returned to the monopropellant business with a splash. Phil-
-lips, of course, had all the fancy equipment that a man could desire,
+contract, returned to the monopropellant business with a splash. Phillips, of course, had all the fancy equipment that a man could desire,
 and they could work fast. For instance, if they wanted the fuel-ion
 
 C C
@@ -7975,8 +7062,7 @@ C C
 
 would simply react ethylene chloride with trimethylamine, in almost
 any solvent, under pressure, and have what they wanted. We envied
-them their equipment and cursed the affluence of the petroleum in-
-dustry. Anyhow, they synthesized about a dozen different quaternary
+them their equipment and cursed the affluence of the petroleum industry. Anyhow, they synthesized about a dozen different quaternary
 amine nitrates, dissolved them in nitric acid, and checked out their
 properties. They did some work with perchlorates, but found that
 they were entirely too sensitive; and some with N 2 0 4 and N 2 0 4 -H 2 0
@@ -7996,9 +7082,7 @@ A newcomer in the field was J. Neff, of Hughes l'ool. (Yes, Howard
 
 Hughes’ company.) Early in 1958, armed with a Navy contract and
 more than the usual complement of optimism, he started work on the
-development of a boron-based nitric acid monopropellant. The pro-
-gram lasted about a year and a half, and while it didn’t lead to a use-
-ful propellant, it involved some interesting chemistry. His most nearly
+development of a boron-based nitric acid monopropellant. The program lasted about a year and a half, and while it didn’t lead to a useful propellant, it involved some interesting chemistry. His most nearly
 successful approach was based on the carborane structure, in which
 two carbon atoms take their place with the ten borons in the open
 basket decaborane structure to form a twelve -atom closed icosahedral
@@ -8016,14 +7100,11 @@ Nor did Aerojet’s monopropellant work for the Air Force. Late in
 1958, M. K. Barsh, A. F. Graefe, and R. E. Yates started investigating
 certain boron ions, such as[BH 2 (NH 3 ) 2 ] + ,wilh the intention of making
 the nitrates and dissolving them in nitric acid. There was a whole
-family of these ions, sometimes with hydrazine in place of the ammo-
-nia, some containing more than one boron atom, and so on. The chlo-
-ride of the one shown above can be obtained by milling together in a
+family of these ions, sometimes with hydrazine in place of the ammonia, some containing more than one boron atom, and so on. The chloride of the one shown above can be obtained by milling together in a
 ball-mill lithium borohydride and ammonium chloride. Max Barsh
 and Co. called these ions the “Hepcats,” from High Energy Producing
 CATions. (My deplorable habit of giving propellants fancy names was
-apparently catching!) They made some attempt to synthesize the alu-
-minum analogs of some of the ions, without any notable success. But
+apparently catching!) They made some attempt to synthesize the aluminum analogs of some of the ions, without any notable success. But
 unfortunately, by the end of July 1959, they had discovered that the
 Hepcats weren’t stable, even in water, let alone nitric acid or N 2 0 4 .
 End of the Hepcats.
@@ -8074,8 +7155,7 @@ C—C
 There was some delay — one of my gang goofed and made the test
 propellants up in the wrong proportions, so we had to ask for another
 sample — but we finally managed to run off thermal stability tests. The
-tertiary ammonium nitrate, of course, was no good, but the quater-
-nary appeared to be at least as stable as Tallulah. It then occurred to
+tertiary ammonium nitrate, of course, was no good, but the quaternary appeared to be at least as stable as Tallulah. It then occurred to
 me that it might be interesting to compare the three different, but
 very similar, ions shown below, which might be thought of as made
 of two Tallulah ions joined by one, two, or three links respectively.
@@ -8124,8 +7204,7 @@ at zero cards. This was more than interesting — it was sensational. The
 freezing point was bad,— 5°C, but we figured that we could get around
 that somehow, and it didn’t dampen our enthusiasm.
 
-It had to have a good name. Nobody was going to call it by its for-
-mal title, 1,4, diaza, 1,4, dimethyl, bicyclo 2,2,2, octane dinitrate, that
+It had to have a good name. Nobody was going to call it by its formal title, 1,4, diaza, 1,4, dimethyl, bicyclo 2,2,2, octane dinitrate, that
 
 
 
@@ -8136,8 +7215,7 @@ so I called it “Cavea” (which, after all, has a vaguely feminine sound)
 after the Latin for cage. Nobody objected — it was easy to remember
 and to pronounce, although lots of people asked me what it meant!
 
-We went through the usual routine, burning the salt in the calorim-
-eter to get its heat of formation, measuring the heat of solution of
+We went through the usual routine, burning the salt in the calorimeter to get its heat of formation, measuring the heat of solution of
 the salt in the acid (these two so we could make decent performance
 calculations) measuring the density and the viscosity of the propellant
 as a function of temperature, and all the rest. And everything was
@@ -8157,8 +7235,7 @@ C— N— C— C— C or C— N— C— C— C— C
 c— c c— c
 
 
-would result in a propellant with a freezing point that would suit any-
-body. The difficulty lay in getting the nitrates of either of the ions in
+would result in a propellant with a freezing point that would suit anybody. The difficulty lay in getting the nitrates of either of the ions in
 question. I shopped around for months before I found an outfit that
 would — or could — make me a sample of the first one. And when it
 finally came in and was made into a propellant, the thermal stability
@@ -8170,8 +7247,7 @@ it was a good idea, anyway.
 In the meantime we (and BuAer) were in a hurry to get Cavea into
 a motor. So we wanted a large amount of Cavea salt — fast.
 
-I knew that John Gall’s people had made it by methylating triethyl-
-C— C
+I knew that John Gall’s people had made it by methylating triethylC— C
 
 
 ene diamine N — C — C — N and at the beginning of December he told
@@ -8204,19 +7280,15 @@ C—C
 C—C
 
 in a two carbon bridge to get the same thing? I could use ethylene
-bromide (which is a whole lot cheaper than methyl iodide) as the bridg-
-ing agent, and would come up with the bromide rather than the iodide
+bromide (which is a whole lot cheaper than methyl iodide) as the bridging agent, and would come up with the bromide rather than the iodide
 salt.
 
 We tried it, and the reaction worked beautifully, giving us about a
 95 percent yield on the first try. The next thing to do was to find a
 cheap way to convert from the bromide to the nitrate.
 
-I knew that it was quite easy to oxidize the bromide ion to free bro-
-mine, but that it was considerably tougher to force it up to the bro-
-mate. And I was pretty sure that nitric acid would do the first and not
-the second. If I added the Cavea bromide to fairly strong, say 70 per-
-cent, nitric acid, the reaction should go
+I knew that it was quite easy to oxidize the bromide ion to free bromine, but that it was considerably tougher to force it up to the bromate. And I was pretty sure that nitric acid would do the first and not
+the second. If I added the Cavea bromide to fairly strong, say 70 percent, nitric acid, the reaction should go
 
 2Br~ + 2HN0 3 — 2HBr + 2NOJ
 
@@ -8225,8 +7297,7 @@ and then
 
 2HBr + 2HN0 3 -»• 2N0 2 + 2H 2 0 + Br 2 .
 
-And if I ran a stream of air through the mixture, to blow out the bro-
-mine and the N0 2 , I should be left with a solution of Cavea nitrate
+And if I ran a stream of air through the mixture, to blow out the bromine and the N0 2 , I should be left with a solution of Cavea nitrate
 in fairly dilute nitric acid.
 
 We tried it, and it worked. But we discovered that if we added the
@@ -8244,19 +7315,16 @@ by a simple route that didn’t require any expensive reagents.
 156 Ignition
 
 By this time it was the middle of February 1959, and we had learned
-that Howard Bost, working with his di-quaternaries, had independ-
-ently hit upon Cavea, and had, like us, decided that it was the best
+that Howard Bost, working with his di-quaternaries, had independently hit upon Cavea, and had, like us, decided that it was the best
 propellant to work with. So now our two programs had converged
-completely. This was emphasized at a symposium on the AN mono-
-propellants, held at NARTS on the first and second of April. Never
+completely. This was emphasized at a symposium on the AN monopropellants, held at NARTS on the first and second of April. Never
 have I met such unanimous agreement in such a high-powered group.
 (The nineteen guests comprised eighteen PhD’s and one drunken
 genius.) And we were all convinced that the future belonged to Cavea,
 possibly with some structural modification that would get us a better
 freezing point.
 
-One new development, however, was reported by Dr. Wayne Bar-
-rett, of W. R. Grace Co. He had methylated UDMH, to get the ion,
+One new development, however, was reported by Dr. Wayne Barrett, of W. R. Grace Co. He had methylated UDMH, to get the ion,
 
 CH 3
 
@@ -8271,12 +7339,10 @@ business that he didn’t even start to run when, as he mixed up the
 propyl salt with the acid, the stuff had started to warm up and give
 off N0 2 fumes! Anyway, I had my gang immediately make up some
 of his propellant and give it the treatment. We learned about it on
-Thursday the second of April, had the synthesis and purification com-
-pleted and the methyl propellant made up by Tuesday the seventh,
+Thursday the second of April, had the synthesis and purification completed and the methyl propellant made up by Tuesday the seventh,
 and on the eighth saw it wreck our thermal stability tester all over
 again. (It sat there quietly for fourteen minutes and then detonated
-— but violently.) I phoned Barrett, and warned him against his brain-
-child, but he decided to go ahead anyway and repeat our stability test.
+— but violently.) I phoned Barrett, and warned him against his brainchild, but he decided to go ahead anyway and repeat our stability test.
 After some weeks he phoned me and reported that his sample had
 lasted for seventeen minutes before blowing up the place, and did I
 consider that a good check!
@@ -8301,8 +7367,7 @@ day they had their director of research up from Philadelphia to talk
 The Hopeful Monoprops
 
 
-to me. Before I got through with them I told him that Jefferson Chem-
-ical was in on the bidding, too, and hinted that perhaps Jefferson could
+to me. Before I got through with them I told him that Jefferson Chemical was in on the bidding, too, and hinted that perhaps Jefferson could
 make the stuff cheaper than Houdry could.
 
 The response of Jefferson Chemical was not quite so hysterical, but
@@ -8310,12 +7375,10 @@ enthusiastic enough. I got their director of research in Houston, Dr.
 McClellan, and described the dimethyl piperazine-ethyl bromide
 reaction to him — he didn’t really believe it until he tried it himself—
 and asked him what he could do. I also hinted to him that perhaps
-Houdry could give me a better price than he could. This is the pro-
-cedure known as playing both ends against the middle.
+Houdry could give me a better price than he could. This is the procedure known as playing both ends against the middle.
 
 Both companies delivered preliminary samples for approval within
-a month, and I discovered that McClellan had come up with an inter-
-esting method of getting rid of the bromide. He would acidify the
+a month, and I discovered that McClellan had come up with an interesting method of getting rid of the bromide. He would acidify the
 Cavea bromide cold, with nitric acid, and then blow ethylene oxide
 through the solution. It reacted, C 2 H 4 0 + HBr —» HOC 2 H 4 Br, with
 the HBr to form ethylene bromohydrin, which was just blown out of
@@ -8332,13 +7395,11 @@ fifty. So now there was no supply problem, to cope with. Howard Bost
 C— C
 
 
-did some work with C — C — N — C — C-
-
+did some work with C — C — N — C — C
 
 \ +
 
--N-
-
+-N
 
 -C — C which had a better
 
@@ -8364,17 +7425,14 @@ such as C — N
 
 \
 
-N — C. And so Charlie bridged that with ethyl-
-
+N — C. And so Charlie bridged that with ethyl
 
 C— C
 
 
-* He visited me some weeks later, and I asked him what Jefferson’s substituted piper-
-azines were used for. He answered, in a drawl as flat as Texas, "Well, they’re a lot of
+* He visited me some weeks later, and I asked him what Jefferson’s substituted piperazines were used for. He answered, in a drawl as flat as Texas, "Well, they’re a lot of
 farmers down our way, and they raise a lot of hawgs. And the hawgs get intestinal
-worms, and don’t fatten up the way they should. So the farmer puts some of the piper-
-azine in their feed, and ihe worm goes to sleep and forgets to hold on. And when he
+worms, and don’t fatten up the way they should. So the farmer puts some of the piperazine in their feed, and ihe worm goes to sleep and forgets to hold on. And when he
 wakes up the hawg isn’t there any moral”
 
 
@@ -8400,8 +7458,7 @@ cards. Otherwise, it was just like Cavea. It was called Cavea B (the
 Rocket Branch thought that “2 methyl Cavea” would be too revealing
 a name!)
 
-Wyandotte had made other similar compounds, some with two ex-
-tra methyl groups, variously arranged, but Cavea B was the simplest
+Wyandotte had made other similar compounds, some with two extra methyl groups, variously arranged, but Cavea B was the simplest
 and hence the best, and the others got nowhere. And Spurge Mobley
 had found himself a seven-membered piperazine-like compound
 C— C— C
@@ -8410,8 +7467,7 @@ C— C— C
 C — N N — C and had bridged that one to produce the
 
 
-C-
-
+C
 
 -C
 
@@ -8430,16 +7486,14 @@ Spurge was highly indignant at me because, while his creation had
 the right freezing point, I noted that it was no improvement over
 Cavea B and cost several times as much, and so wouldn’t push it.
 
-Cavea B was the winner, and seemed to be the ideal monopropel-
-lant. And by the end of the year it had been fired successfully by
+Cavea B was the winner, and seemed to be the ideal monopropellant. And by the end of the year it had been fired successfully by
 NARTS, GE, Wyandotte, and Hughes Tool, with JPL soon to follow.
 It performed very well in a motor, yielding 94 or so percent of the
 theoretical impulse with a comparatively small chamber. Combustion
 was remarkably smooth — better than with the original Cavea (now
 called Cavea A) which was apparently just too symmetrical and stable
 to offer the combustion process any place to take hold. And there was
-no difficulty with supply. Wyandotte had any amount of the piper-
-azine raw material.
+no difficulty with supply. Wyandotte had any amount of the piperazine raw material.
 
 Although the AN’s were firmly planted in center stage at this time,
 other monopropellant systems were vigorously elbowing their way
@@ -8453,8 +7507,7 @@ C— C
 Q:N— C— C— N:
 
 
-O the diamine oxide of triethylenediamine, and dis-
-
+O the diamine oxide of triethylenediamine, and dis
 
 
 The Hopeful Monoprops 159
@@ -8472,8 +7525,7 @@ A or B was negated. He also made 0 2 N — N N — N0 2
 
 CH— CH 2
 
-intending to dissolve it in N 2 0 4 or TNM, but found that it was too in-
-soluble in those oxidizers to be of any use.
+intending to dissolve it in N 2 0 4 or TNM, but found that it was too insoluble in those oxidizers to be of any use.
 
 A more interesting approach to monopropellant development
 derived from the B-N propellant system, described in the boron
@@ -8483,32 +7535,26 @@ plagued by combustion problems, and it was hypothesized — or hoped
 combined in the same propellant — or even the same molecule.
 
 McElroy and Hough, at Callery Chemical Co. started work on what
-they called the “Monocals.” These consisted of an adduct, or addi-
-tion compound of decaborane and two or three mulecules of mono-
-methyl hydrazine, all dissolved in about seven molecules of hydrazine.
+they called the “Monocals.” These consisted of an adduct, or addition compound of decaborane and two or three mulecules of monomethyl hydrazine, all dissolved in about seven molecules of hydrazine.
 The mixing of the MMH with the decaborane had to be done in
 solution, or the product would explode when it warmed up. The
 propellants weren’t particularly uniform, and varied considerably
 from lot to lot, for reasons not well understood, if at all. They were
 extremely viscous, but didn’t appear to be particularly sensitive.
 Wyandotte tried them on the test stand, in a 50-thrust motor, with
-discouraging results. Bill Cuddy and his crew got off five runs alto-
-gether, four of them either starting or ending with a detonation and
+discouraging results. Bill Cuddy and his crew got off five runs altogether, four of them either starting or ending with a detonation and
 a wrecked motor. The Monocals died, unlamented, in 1960.
 
 “Dekazine” lasted a little longer. In June of 1958, H. F. Hawthorne’s
-group at Rohm and Haas prepared B 10 H 12 ' 2NH 3 by reacting bis (acet-
-onitrile) decaborane with hydrazine. They had hoped to incorporate
+group at Rohm and Haas prepared B 10 H 12 ' 2NH 3 by reacting bis (acetonitrile) decaborane with hydrazine. They had hoped to incorporate
 the N-N group of the hydrazine into the decaborane molecule, so as
-to get the closed cage carborane structure, but found that their prod-
-uct retained the open decaborane basket, and had no N-N bonds.
+to get the closed cage carborane structure, but found that their product retained the open decaborane basket, and had no N-N bonds.
 At any rate, they dissolved one mole of it in about 7.5 of hydrazine
 (they couldn’t get it to dissolve in fewer) and thought that they had a
 monopropellant. It wasn’t the easiest thing in the world to live with.
 First, it picked up oxygen from the air. Second, it was thermally
 rather sensitive, starting to decompose exothermically at 127°. Its
-card-gap value was low — about 4 cards — but it was indecently sensi-
-tive to adiabatic compression, rating, on that test, between normal
+card-gap value was low — about 4 cards — but it was indecently sensitive to adiabatic compression, rating, on that test, between normal
 propyl nitrate and nitroglycerine. But they managed to get it fired,
 
 
@@ -8520,15 +7566,12 @@ Bob Ahlert at Rocketdyne at the 500-pound thrust level. Nobody ever
 got more than 75 percent of its theoretical performance out of it,
 and nobody could seem to find a way to prevent it from detonating
 (usually near the injector in a motor run) when it felt in the mood.
-Which was frequently — Ahlert survived some really impressive ex-
-plosions. And so by the end of 1960, everybody gave up Dekazine as
+Which was frequently — Ahlert survived some really impressive explosions. And so by the end of 1960, everybody gave up Dekazine as
 a bad job, and it was tenderly laid out on the marble slab next to that
 occupied by the late Monocal.
 
-In 1959, however, Hawthorne of Rohm and Haas made an inter-
-esting observation, which was to lead to a different approach to the
-problem of a B-N monopropellant. He observed that when he re-
-acted the bis (acetonitrile) (An) adduct of decaborane, in benzene at
+In 1959, however, Hawthorne of Rohm and Haas made an interesting observation, which was to lead to a different approach to the
+problem of a B-N monopropellant. He observed that when he reacted the bis (acetonitrile) (An) adduct of decaborane, in benzene at
 room temperature, with triethylamine (NEt 3 ) the reaction went mainly
 as below.
 
@@ -8540,24 +7583,19 @@ benzene, the reaction went almost quantitatively this way:
 B I0 H )2 An 2 + 2NEt 3 — (HNEtJ)B 10 Hf 0 + 2An
 
 The open decaborane basket had closed up to the 10-cornered, 16-
-faced closed-cage structure of what was later called the “perhydro-
-decaborate ion.” This was a remarkably stable structure, the anion of
+faced closed-cage structure of what was later called the “perhydrodecaborate ion.” This was a remarkably stable structure, the anion of
 a very strong acid — almost as strong as sulfuric acid. It was no trick
 to get the hydrazine salt of this acid (several simple routes were
 discovered that same year), (N 2 H 5 ) 2 B, 0 Hi 0 . The unsolvated salt was
-shock-sensitive, but when crystallized with either one or two mole-
-cules of hydrazine — it was easy to get either form — it was safe and easy
-to handle. And it could be dissolved in hydrazine to make a propel-
-lant.*
+shock-sensitive, but when crystallized with either one or two molecules of hydrazine — it was easy to get either form — it was safe and easy
+to handle. And it could be dissolved in hydrazine to make a propellant.*
 
 Unfortunately, you couldn’t dissolve enough of it in hydrazine to
 get the number of B atoms in the mixture to equal the number of
 N atoms, which is what you want with a B-N monopropellant. Lou
-Rapp, at Aerojet (he had recently moved there from Reaction Mo-
-tors) somewhere around the beginning of 1961, thought that if he
+Rapp, at Aerojet (he had recently moved there from Reaction Motors) somewhere around the beginning of 1961, thought that if he
 
-* I had the bright idea that it might also be used to make a peroxide-based mono-
-propellant. I had some of the ammonium salt of the perhydrodecaborate ion made,
+* I had the bright idea that it might also be used to make a peroxide-based monopropellant. I had some of the ammonium salt of the perhydrodecaborate ion made,
 and pul a few milligrams of it on a watch glass. I then put a drop of concentrated H 2 0 2
 next to the salt, and tilted the watch glass to bring the two into contact. There was a
 brilliant green-white flash, and the sharpest detonation I have ever heard. The watch
@@ -8572,13 +7610,11 @@ the salt, he might be able to remedy that deficiency.
 
 I had the same idea at the same time — and I could move faster than
 he could. My outfit was small, and I didn’t have to pay any attention
-to contracts, since I didn’t have any, the brass seldom paid any atten-
-tion to what I was doing, and I could usually try whatever I wanted
+to contracts, since I didn’t have any, the brass seldom paid any attention to what I was doing, and I could usually try whatever I wanted
 to try before anybody in authority could get around to telling me not
 to. So it went like a breeze.
 
-I had Mobley make up a few grams of the Hepcat chloride by mill-
-ing ammonium chloride and lithium borohydride together, as has
+I had Mobley make up a few grams of the Hepcat chloride by milling ammonium chloride and lithium borohydride together, as has
 already been described. And I had him make up some potassium
 perhydrodecaborate. Then he dissolved the two in liquid ammonia,
 and mixed them together in the proper proportions. The reaction
@@ -8589,16 +7625,13 @@ K 2 B 10 H 10 + 2[BH 2 (NH 3 ) 2 ]C1 -&gt;
 [bh 2 (nh 3 ) 2 ] 2 b 10 h i0 + 2K.q
 
 
-The potassium chloride precipitated, and was filtered off, the am-
-monia was allowed to evaporate, and I had the Hepcat perhydro-
-decaborate. After making sure that I had what I thought I had — using
+The potassium chloride precipitated, and was filtered off, the ammonia was allowed to evaporate, and I had the Hepcat perhydrodecaborate. After making sure that I had what I thought I had — using
 IR and so on for diagnosis — I had him add one mole of it to six moles
 of hydrazine. Four of the hydrazines displaced the ammonias in the
 cations and it bubbled off, and two were left over as solvent. So I
 finally had [BH 2 (N 2 H 4 ) 2 ] 2 B 10 H 10 -1- 2N 2 H 4 . Here I had two borons
 in the cations, and ten in the anion. There were eight nitrogens in the
-cations, and four in the solvent. And finally, there were twenty hydro-
-gens in the cations, ten in the anion, and eight in the solvent, so that
+cations, and four in the solvent. And finally, there were twenty hydrogens in the cations, ten in the anion, and eight in the solvent, so that
 the whole mess balanced to 12BN + 19H 2 . And miraculously, the
 thing was liquid at room temperature, and not too viscous, and didn’t
 appear to be particularly sensitive. We had only a few cc of the stuff,
@@ -8623,17 +7656,14 @@ had taken over NARTS, which became the Liquid Rocket Propulsion
 Laboratory of Picatinny Arsenal) passed down the word that the
 Army had no interest in BN monopropellants, and to knock it off. I
 believe that their decision was the right one. My monster would have
-been horribly expensive to make, its density was by no means im-
-pressive, and there was no a priori reason to believe that it would
+been horribly expensive to make, its density was by no means impressive, and there was no a priori reason to believe that it would
 perform any better than the other B-N monoprops. The stuff was
 not a practicable propellant. The whole performance had been a
 tour de force designed to show that a balanced B-N monoprop could
-be made. It was a lot of fun, but it was the end of the B-N monopro-
-pellants.
+be made. It was a lot of fun, but it was the end of the B-N monopropellants.
 
 All this interest in monopropellants had led to the formation, at the
-first monopropellant conference in November 1953, of the Mono-
-propellant Test Methods Committee, which was operated first under
+first monopropellant conference in November 1953, of the Monopropellant Test Methods Committee, which was operated first under
 the sponsorship of BuAer, then under the American Rocket Society,
 and then under Wright Air Development Center. In November 1958
 its field was extended to cover all liquid propellants, and the Liquid
@@ -8642,9 +7672,7 @@ I served on it, on and off, for several years.
 
 The original reason for its formation was the inherent instability
 of monopropellants. Any monopropellanl with a reasonable amount
-of energy in it can be detonated if you go about it the right way. Every-
-body in the business had his own pet method of measuring the sensi-
-tivity of the monoprops he was working with. The only difficulty was
+of energy in it can be detonated if you go about it the right way. Everybody in the business had his own pet method of measuring the sensitivity of the monoprops he was working with. The only difficulty was
 that no two methods were alike, and it was just simply impossible to
 compare the results from one laboratory with those from another.
 In fact, it was just about impossible to define, say, shock sensitivity,
@@ -8656,8 +7684,7 @@ talk people into developing such methods, then to standardize these,
 and finally to try to persuade the people in the field to use those
 methods. Then, it was hoped, even if none of our tests or results made
 sense we would be unanimous in our fantasies and could talk to each
-other with something approaching coherence, and with luck, com-
-prehension by the hearer.
+other with something approaching coherence, and with luck, comprehension by the hearer.
 
 The first test that was adopted in July 1955 was the card-gap test,
 previously described. It had first been developed by the Waltham
@@ -8674,11 +7701,9 @@ they agreed beautifully, and with another disagreed wildly. We
 finally discovered, after interchanging practically everything in the
 setups, that the trouble lay in the sample cups. Joe’s were made of
 aluminum, mine of iron pipe. The committee standardized on the
-iron pipe, and we published. Putting a final report together was some-
-times something of a Donnybrook. The committee, as might be
+iron pipe, and we published. Putting a final report together was sometimes something of a Donnybrook. The committee, as might be
 imagined, was composed of highly self-confident and howlingly
-articulate individualists, and there were always at least six of us pres-
-ent each of whom considered himself a master of English prose style.
+articulate individualists, and there were always at least six of us present each of whom considered himself a master of English prose style.
 Whew!
 
 A test that took a lot longer to decide on was the “Drop-Weight.”
@@ -8692,12 +7717,9 @@ with those of the Bureau of American Railroads, which, in turn,
 contradicted those of the Bureau of Mines. Furthermore, none of
 them was any good at all with liquids.
 
-Bill Cuddy, of Wyandotte, in March 1957 described a tester de-
-signed specifically for liquids; it was modified by Don Griffin of Olin
+Bill Cuddy, of Wyandotte, in March 1957 described a tester designed specifically for liquids; it was modified by Don Griffin of Olin
 Mathieson and finally evolved into what is known as the OM drop
-weight tester.* Actually it was a device for measuring adiabatic sensi-
-tivity. The falling weight suddenly compressed a tiny and standard-
-ized air bubble above the one drop sample, and the adiabatic heating
+weight tester.* Actually it was a device for measuring adiabatic sensitivity. The falling weight suddenly compressed a tiny and standardized air bubble above the one drop sample, and the adiabatic heating
 of this bubble set the thing off— or wasn’t enough to do it, as the case
 might be. It was, and is, quite a satisfactory instrument once you got
 used to its little foibles. For instance, it has to be on a really solid
@@ -8724,15 +7746,13 @@ propulsion, spending it in the Hula-Hoop business. He said it made more sense.
 Other tests were standardized and published, but these were the
 more useful and most often used. One subject that was investigated
 for years was detonation velocity, the critical diameter for detonation,
-and the construction of detonation traps. If you have a monopropel-
-lant blow in your motor, that’s one thing. But if that detonation
+and the construction of detonation traps. If you have a monopropellant blow in your motor, that’s one thing. But if that detonation
 propagates back (at some 7000 meters per second, usually) through
 the propellant line to the propellant tank, and that blows, then you
 can be in real trouble. If the diameter of the propellant line is small
 enough, the detonation will not propagate and dies out — the limiting
 diameter being called the “critical diameter.” It varies with the nature
-of the propellant, the material of which the line is made (steel, alumi-
-num, glass, etc.) with the temperature, and maybe with a few more
+of the propellant, the material of which the line is made (steel, aluminum, glass, etc.) with the temperature, and maybe with a few more
 things. (When we found that a detonation in Isolde would propagate
 nicely through hypodermic-needle tubing, our hair stood on end,
 and we perspired gently.)
@@ -8742,25 +7762,19 @@ detonation propagation and trapping was carried on at Rocketdyne,
 Wyandotte, JPL, BuMines, GE, Hughes, Reaction Motors, and
 NARTS-LRPL, and valiant efforts — some of them successful— were
 made to find a way to stop a detonation in its tracks. Because that can
-be done, sometimes, by putting a detonation trap in the line. Design-
-ing such a thing is not a scientific matter; it’s a piece of empirical en-
-gineering art. And the various designs showed it. One early trap con-
-sisted simply of a loop in the line — like so: When the detona-
-
+be done, sometimes, by putting a detonation trap in the line. Designing such a thing is not a scientific matter; it’s a piece of empirical engineering art. And the various designs showed it. One early trap consisted simply of a loop in the line — like so: When the detona
 tion came barreling down the line, blowing up the tubing as it came, it
 would cut the other part of the line where they crossed, leaving the
 detonation no place to go. This wasn’t too reliable. The bang that cut
 the line might start another, brand new, detonation going. Bob Ahlert
-did very well by putting a section of Flex-Hose, a Teflon tube rein-
-forced with a metal wire mesh, in his line. The detonation would
+did very well by putting a section of Flex-Hose, a Teflon tube reinforced with a metal wire mesh, in his line. The detonation would
 simply blow this weak section out, and then have nowhere to go. And
 Mike Walsh, of our group, devised a trap that worked beautifully with
 Cavea B, as well as with several other monopropellants. Cavea B
 would not propagate a detonation through a 0.25-inch line, but would
 through a one -inch line. So Mike inserted a one-foot long piece of
 two-inch piping into his one-inch line, and filled this section with a
-cylindrical bar of a plastic that would resist the propellant for a rea-
-sonable time. (Polystyrene was good.) And he drilled sixteen 0.25-inch
+cylindrical bar of a plastic that would resist the propellant for a reasonable time. (Polystyrene was good.) And he drilled sixteen 0.25-inch
 holes longitudinally through this cylindrical plug, so that he had the
 same area for flow as he had in the one-inch main line. And when he
 checked it out, the detonation rolled down to the trap, blew up about
@@ -8770,8 +7784,7 @@ the first third of that, and stopped cold.
 
 The Hopeful Monoprops 165
 
-But detonation traps aren’t always the complete answer. We dis-
-covered that when, in the summer of 1960, we tried to fire a 10,000-
+But detonation traps aren’t always the complete answer. We discovered that when, in the summer of 1960, we tried to fire a 10,000-
 pound thrust Cavea B motor. We didn’t have Mike’s trap at that time,
 so we inserted a battery of sixteen 0.25-inch loop traps in the line.
 Well, through a combination of this and that, the motor blew on
@@ -8786,8 +7799,7 @@ solid copper — went about 600 feet down range. And a six-foot square
 of armor plate sailed into the woods, cutting off a few trees at the root,
 smashing a granite boulder, bouncing into the air and slicing off a few
 treetops, and finally coming to rest some 1400 feet from where it
-started. The woods looked as though a stampeding herd of wild ele-
-phants had been through.*
+started. The woods looked as though a stampeding herd of wild elephants had been through.*
 
 As may be imagined, this incident tended to give monopropellants
 something of a bad name. Even if you could fire them safely — and
@@ -8807,8 +7819,7 @@ point was too high — so we first tried “Isobel,” the dimethyldiisopropyl
 ammonium nitrate, I phoned a chemical company in Newark to have
 
 
-* When I got down to the test area after the bang, one of the rocket mechanics gal-
-loped up and demanded, “My God, Doc! What the Hell did you send us this time?”
+* When I got down to the test area after the bang, one of the rocket mechanics galloped up and demanded, “My God, Doc! What the Hell did you send us this time?”
 The only response of which I was capable was to light a cigarette and remark, “Now,
 really, Johnny! You should see my Martinis!” What got me though, was the remark by
 an officer from Picatinny, after viewing the mess. This was just before NARTS was due
@@ -8821,30 +7832,23 @@ held his nose and stated to nobody in particular, "Now 1 know what the Navy mean
 1 66 Ignition
 
 them make us a hundred pounds or so of the salt, and was assured
-by their director of research that it couldn’t be done, since the com-
-pound was sterically impossible. I protested that I was staring at that
+by their director of research that it couldn’t be done, since the compound was sterically impossible. I protested that I was staring at that
 moment at a bottle of the salt sitting on my desk in front of me, but
-I couldn’t convince him. Isobel, however, didn’t quite meet the freez-
-ing point limitations, so we shifted to Isobel E and Isobel F, the dieth-
-yldipropyl, and the ethyltripropyl salts, respectively, which did. These
+I couldn’t convince him. Isobel, however, didn’t quite meet the freezing point limitations, so we shifted to Isobel E and Isobel F, the diethyldipropyl, and the ethyltripropyl salts, respectively, which did. These
 didn’t have quite the thermal stability I wanted (usually the higher the
-X the worse the stability) so I finally came up with Isobel Z, diethyl-
-diisopropyl ammonium nitrate, which was immensely better. (If that
+X the worse the stability) so I finally came up with Isobel Z, diethyldiisopropyl ammonium nitrate, which was immensely better. (If that
 character in Newark thought that Isobel was impossible, I wonder
 what he would have thought of Isobel Z! There actually isn’t any
 trace of steric hindrance in the ion, but it’s a near thing. Not one
 more carbon atom could have been crammed into the space around
-the nitrogen.) LRPL tried the fuel-rich Isobels, at 2.4 or so, as low-
-energy monopropellants, for APU work and so on, and found that
+the nitrogen.) LRPL tried the fuel-rich Isobels, at 2.4 or so, as lowenergy monopropellants, for APU work and so on, and found that
 they worked very well in such a role. That work was pretty well
 cleaned up by 1962.
 
-Dave Gardner, of Pennsalt, didn’t anticipate any detonation prob-
-lems when he started work in May of 1958. What the Air Force wanted
+Dave Gardner, of Pennsalt, didn’t anticipate any detonation problems when he started work in May of 1958. What the Air Force wanted
 from him was a low-energy monoprop for APU work, and one with
 such thermal stability that it could survive at 200-300°C, and Dave
-naturally figured that a low-energy compound with that sort of sta-
-bility wasn’t going to give him much trouble. He worked for about
+naturally figured that a low-energy compound with that sort of stability wasn’t going to give him much trouble. He worked for about
 three years on the job — Sunstrand Machine Tool did his motor work
 
 — at first with mixtures of extremely stable — and hence low-energy —
@@ -8852,9 +7856,7 @@ fuels in various acid oxidizers. His fuels were sometimes salts; the
 tetramethyl ammonium salt of sulfuric acid, or of fluorosulfonic acid,
 or of trifluoromethane sulfonic acid, or the pyridine salt of sulfuric
 acid. Sometimes he used methane or ethane sulfonic acid itself as a
-fuel, or the fluorinated CF 3 CH 2 S0 3 H. His oxidizers were either per-
-chloric acid dihydrate, or a mixture of nitrosylpyrosulfate and sul-
-furic acid, sometimes with some nitric acid added. Performance
+fuel, or the fluorinated CF 3 CH 2 S0 3 H. His oxidizers were either perchloric acid dihydrate, or a mixture of nitrosylpyrosulfate and sulfuric acid, sometimes with some nitric acid added. Performance
 
 — which he wasn’t looking for— was naturally poor, but he had some
 remarkably heat-resistant propellants on his hands.
@@ -8900,13 +7902,11 @@ propellant story had its start in two unrelated but almost simultaneous
 events. First, the Advanced Research Projects Administration (ARPA)
 initiated “Project Principia” early in June 1958. The idea was to get
 certain large chemical companies into the business of developing
-improved solid propellants. “To get the benefit of their fresh think-
-ing,” was the phrase. American Cyanamid, Dow Chemical, Esso R
+improved solid propellants. “To get the benefit of their fresh thinking,” was the phrase. American Cyanamid, Dow Chemical, Esso R
 and D, Minnesota Mining and Minerals (3M), and Imperial Chemical
 Industries were those invited to enter the field.
 
-The old line propellant people — Reaction Motors, Aerojet, Rocket-
-dyne— not unnaturally raised a row. In fact, they screamed from the
+The old line propellant people — Reaction Motors, Aerojet, Rocketdyne— not unnaturally raised a row. In fact, they screamed from the
 rooftops. “These newcomers may have all sorts of fancy equipment,
 and they may be hot on molecular orbital theory and pi bonds, but
 they don’t know a propellant from a panty raid, and what you’ll get
@@ -8923,8 +7923,7 @@ Rohm and Haas, at a propellant meeting late in September, that N 2 F 4 ,
 in a gas phase reaction, would add across an olefinic bond, forming
 H H
 
-the structure — C C — and that this was a general reaction, appli-
-
+the structure — C C — and that this was a general reaction, appli
 
 nf 2 nf 2
 
@@ -8939,14 +7938,12 @@ So all the companies concerned in Principia started reacting N 2 F 4
 with various olefins to see what would happen. (Frequently what
 happened was that the reactor blew up.) Rohm and Haas was, of
 course, already doing this sort of thing, and at the beginning of 1959
-both Reaction Motors and Jack Gould at Stauffer dropped the mono-
-propellant systems they had been investigating and joined the new
+both Reaction Motors and Jack Gould at Stauffer dropped the monopropellant systems they had been investigating and joined the new
 field of “N-F” chemistry. And Callery Chemical Co. quickly did the
 same. So there were soon at least nine organizations involved in this
 sort of research.
 
-A few glitches interfered with the march of science, and the prog-
-ress of the solid propellant program. The first was that practically
+A few glitches interfered with the march of science, and the progress of the solid propellant program. The first was that practically
 none of the new compounds discovered were solids. Most of them
 were liquids, and rather volatile liquids at that. ARPA bowed to fate
 and the facts of life, and in November of 1960 rewrote the contracts
@@ -8955,8 +7952,7 @@ be cured by making a mark on a piece of paper.
 
 Practically every compound discovered turned out to be indecently
 sensitive and violently explosive. For instance, take the case of the
-simplest NF compound, the first one discovered. Thermodynam-
-
+simplest NF compound, the first one discovered. Thermodynam
 H H
 
 ically, it tends to react H — C C — H 4HF + 2C. And given the
@@ -8966,12 +7962,10 @@ I I
 nf 2 nf 2
 
 slightest provocation, it will do just that. And the formation of four
-molecules of HF produces enough energy to make the resulting ex-
-plosion really interesting. The things were shock sensitive. Many of
+molecules of HF produces enough energy to make the resulting explosion really interesting. The things were shock sensitive. Many of
 them were heat sensitive. And some were so spark sensitive that they
 couldn’t be poured. When you tried it, the tiny static charge formed
-was frequendy enough to trigger a detonation. The only way to re-
-duce their sensitivity, apparently, was to make a compound with a
+was frequendy enough to trigger a detonation. The only way to reduce their sensitivity, apparently, was to make a compound with a
 large molecule and a small number of NF 2 groups. Which was not
 good for its energy content.
 
@@ -8980,8 +7974,7 @@ maybe) propellant performance was the fact that on decomposition
 they produced considerable quantities of free carbon, which, as has
 been explained, is not good for performance. The obvious thing to
 do was to incorporate enough oxygen in the molecule to burn the
-carbon to CO, Dow, in the spring of 1960, synthesized such a com-
-pound, balanced to CO by the direct fluorination of urea. Its structure
+carbon to CO, Dow, in the spring of 1960, synthesized such a compound, balanced to CO by the direct fluorination of urea. Its structure
 
 
 
@@ -8996,13 +7989,11 @@ was F 2 N — C — NH 2 and it is perhaps just as well that it was produced
 in very small quantities, as it was indecently spark sensitive. Jack
 Gould, in 1961, reported on F 2 N — CH 2 — OH and it was synthesized
 by I. J. Solomon of the Armour Research Institute, early in 1963, by
-the mole for mole reaction of HNF 2 and formaldehyde. Again — im-
-possibly sensitive. Allied Chemical Co., in 1962, and the Peninsular
+the mole for mole reaction of HNF 2 and formaldehyde. Again — impossibly sensitive. Allied Chemical Co., in 1962, and the Peninsular
 Chemical Co., about four years ago, tried to synthesize its isomer
 CH 3 — O — NH 2 . If they had succeeded, it would have served them
 right. I know from my own experience that methoxy amine,
-CH 3 — O — NH 2 , which can decompose at worst and most energeti-
-cally, only to CO and NH 3 plus a little hydrogen, is quite sensitive on
+CH 3 — O — NH 2 , which can decompose at worst and most energetically, only to CO and NH 3 plus a little hydrogen, is quite sensitive on
 the OM drop-weight apparatus. What a similar compound, whose
 decomposition would lead to the formation of two HF molecules
 would be likely to do, simply boggles the mind.
@@ -9016,11 +8007,9 @@ NF compounds, of which 0 3 N — CH 2 — C — CH 2 — N0 3 first described
 NF,
 
 early in 1962, is typical. Some few of the series were solids rather than
-liquids, but all were impossibly sensitive. This compound is inter-
-esting, however, in having two NF 2 groups on the same carbon atom.
+liquids, but all were impossibly sensitive. This compound is interesting, however, in having two NF 2 groups on the same carbon atom.
 This structure was made possible by a reaction discovered by the
-Rohm and Haas people in 1960-61. If HNF 2 is reacted with an alde-
-hyde or ketone in concentrated sulfuric acid, the reaction goes
+Rohm and Haas people in 1960-61. If HNF 2 is reacted with an aldehyde or ketone in concentrated sulfuric acid, the reaction goes
 O NF 2
 
 II I
@@ -9032,8 +8021,7 @@ I
 NF 2
 
 NF 2 groups on the same carbon. The reaction was quite general, and
-a wide variety of “geminal” difluoramino compounds were synthe-
-
+a wide variety of “geminal” difluoramino compounds were synthe
 H H
 
 sized. They were just as sensitive as the “vicinal” or — -C — C — type.
@@ -9065,38 +8053,30 @@ CH 2 ch 2 nf 2
 
 II I
 
-the reaction CH 3 — C — CH 3 + N 2 F 4 — &gt; CH 3 — C — CH 3 . If the com-
-
+the reaction CH 3 — C — CH 3 + N 2 F 4 — &gt; CH 3 — C — CH 3 . If the com
 NF 2
 
 pound is mixed with N 2 0 4 (1.5 molecules of the latter to one of IBA)
-the mixture is a monopropellant with a good density and a fairly at-
-tractive (theoretical) performance — 293 seconds. Other compounds
+the mixture is a monopropellant with a good density and a fairly attractive (theoretical) performance — 293 seconds. Other compounds
 containing more NF 2 .groups would have given more, but the idea
 was to get any NF to work at all.
 
-IBA, straight, was extremely sensitive on the OM drop-weight ap-
-paratus, and Wharton was immensely encouraged, at first, to discover
-that the addition of a very small amount of N 2 0 4 — less than 1 per-
-cent-cut this sensitivity down to practically nothing. But then he
-started burning-rate studies, in a liquid strand burner. He had igni-
-tion problems — a hot wire wasn’t too reliable — and he discovered that
-the burning rate of the material was vastly sensitive to the bomb pres-
-sure. (A trace of ferric chloride would decrease the rate, and one of
+IBA, straight, was extremely sensitive on the OM drop-weight apparatus, and Wharton was immensely encouraged, at first, to discover
+that the addition of a very small amount of N 2 0 4 — less than 1 percent-cut this sensitivity down to practically nothing. But then he
+started burning-rate studies, in a liquid strand burner. He had ignition problems — a hot wire wasn’t too reliable — and he discovered that
+the burning rate of the material was vastly sensitive to the bomb pressure. (A trace of ferric chloride would decrease the rate, and one of
 carbon tetrachloride would increase it.) He furthermore discovered
 that the material had a lamentable tendency to detonate in the bomb
 or in a motor, that a glass tube detonation trap wasn’t particularly
 helpful, and he was made a bit thoughtful by the discovery that the
-critical diameter for detonation propagation was less than 0.25 milli-
-meters— less than 0.01 inch.
+critical diameter for detonation propagation was less than 0.25 millimeters— less than 0.01 inch.
 
 Most of his early work was done with a “T” motor, little more than
 an injector and a nozzleless chamber, with observation ports so that
 the ignition process could be observed with a high-speed camera. They
 tried a slug of C1F 3 for ignition, and got a detonation instead. They
 eventually settled on a slug of antimony pentachloride — of all things —
-which gave a smooth and reliable start. By this time they were work-
-ing with an “expendable” motor with no nozzle and a low chamber
+which gave a smooth and reliable start. By this time they were working with an “expendable” motor with no nozzle and a low chamber
 pressure, about two atmospheres, and were mixing the N 2 0 4 and IBA
 remotely right on the test stand. It was fortunate that they worked
 
@@ -9118,33 +8098,28 @@ of N 2 0 4 — the sensitivity was more than 96 cards. We never discovered
 how much more; our interest in the subject had evaporated.*
 
 These figures did not encourage further work with the IBA-N 2 0 4
-mixture. There was some talk of using the combination as a bi-pro-
-pellant, but that would have been rather poindess. Wharton and
+mixture. There was some talk of using the combination as a bi-propellant, but that would have been rather poindess. Wharton and
 Connaughton fired the straight IBA as a monopropellant, at the 250-
 pound thrust level, but there was so much free carbon in the exhaust
-that they never got more than 80 percent even of its rather low spe-
-cific impulse. They were driven, reluctantly, to the conclusion that an
+that they never got more than 80 percent even of its rather low specific impulse. They were driven, reluctantly, to the conclusion that an
 NF monopropellant was not practical politics, and abandoned the
 whole idea late in 1964.
 
 Just as Wharton was starting his IBA work, there occurred one of
-the weirdest episodes in the history of rocket chemistry A. W. Haw-
-kins and R. W. Summers of Du Pont had an idea. This was to get a
+the weirdest episodes in the history of rocket chemistry A. W. Hawkins and R. W. Summers of Du Pont had an idea. This was to get a
 computer, and to feed into it all known bond energies, as well as a
 program for calculating specific impulse. The machine would then
 juggle structural formulae until it had come up with the structure of
 a monopropellant with a specific impulse of well over 300 seconds.
 
 * Two people can operate the card-gap apparatus, and three operators is optimum
-But when LRPL did this particular job (the feather-bedding at Picatinny was outra-
-geous) there were about seven people on the site— two or three engineers, and any
+But when LRPL did this particular job (the feather-bedding at Picatinny was outrageous) there were about seven people on the site— two or three engineers, and any
 number of rocket mechanics dressed (for no particular reason) in acid-proof safety
 garments So there was a large audience for the subsequent events The old destroyer
 gun turret which housed our card-gap setup had become a bit frayed and tattered from
 the shrapnel it had contained (The plating on a destroyer is usually thick enough to
 keep out the water and the smaller fish ) So we had installed an inner layer of armor
-plate, standing off about an inch and a half from the original plating And, as the set-
-up hadn’t been used for several months, a large colony of bats — yes, bats, little Dracula
+plate, standing off about an inch and a half from the original plating And, as the setup hadn’t been used for several months, a large colony of bats — yes, bats, little Dracula
 types — had moved into the gap to spend the winter And when the first shot went off,
 they all came boiling out with their sonar gear fouled up, shaking their heads and
 pounding their ears They chose one rocket mechanic — as it happens, a remarkably
@@ -9182,13 +8157,11 @@ for instance) during half an hour’s conversation, and at a total cost
 of five dollars or so. (For drinks. I would have been afraid even to
 draw the structure without at least five Martinis under my belt.)
 
-The NF programs led to some interesting, if eventually unproduc-
-tive, oxidizer work. It was obvious, very early in the game, that if
+The NF programs led to some interesting, if eventually unproductive, oxidizer work. It was obvious, very early in the game, that if
 you could tie enough NF 2 groups to a carbon atom, the result would
 be more a fluorine-type oxidizer than a monopropellant. Cyanamid,
 late in 1959, took the first step in this direction when they synthesized
-F 2 N — G=NF. Then 3M, in the spring of 1960, synthesized “Com-
-
+F 2 N — G=NF. Then 3M, in the spring of 1960, synthesized “Com
 F
 
 pound M,” F 2 C(NF 2 ) 2 by the direct fluorination of ammeline, and a
@@ -9197,8 +8170,7 @@ Dow and 3M, in 1960, both synthesized perfluoroguanidine, or “PFG”
 FN=C(NF 2 ) 2 by the reaction of fluorine diluted with nitrogen on
 guanidine. And finally, in 1963, “Compound A” (delta) or “T” or
 “Tetrakis” — from tetrakis (difluoramino)methane — C(NF 2 ) 4 was
-synthesized at Cyanamid by Frank, Firth, and Myers, and by Zol-
-linger at 3M. The former had fluorinated the NH 3 adduct of PFG,
+synthesized at Cyanamid by Frank, Firth, and Myers, and by Zollinger at 3M. The former had fluorinated the NH 3 adduct of PFG,
 the latter had used the HOCN adduct.
 
 All these compounds were difficult to make — only R ever achieved
@@ -9218,8 +8190,7 @@ or A, N 2 F 4 and C10 3 F. But it was hopeless. When the NF oxidizer
 was sufficiently diluted to be safe, all its performance advantage had
 gone with the wind.
 
-There was some thought that an OF structure attached to the car-
-bon would be more stable than the NF 2 structure; and in 1963 W. C.
+There was some thought that an OF structure attached to the carbon would be more stable than the NF 2 structure; and in 1963 W. C.
 Solomon of 3M showed the way to such structures by reacting fluorine
 with oxalates suspended in perfluorokerosene, in the presence of a
 transition metal, to get F 2 C(OF 2 ) 2 - Three years later, Professor George
@@ -9240,8 +8211,7 @@ exhibited. The record of this chemistry is now being collected, to be
 embalmed safely in a definitive text, so that nobody will ever, ever,
 have to risk his neck doing it again.
 
-As for the original object of Principia: solid propellant grains con-
-taining NF 2 groups have been made — and fired. But they have a long
+As for the original object of Principia: solid propellant grains containing NF 2 groups have been made — and fired. But they have a long
 way to go and if they are operational before 1980 or so I, for one, will
 be surprised.
 
@@ -9261,13 +8231,11 @@ High Density and
 the Higher Foolishness
 
 
-The idea of a hybrid rocket, one using a solid fuel and a liquid oxi-
-dizer is a very old one; in fact, Oberth had tried to make one for UFA
+The idea of a hybrid rocket, one using a solid fuel and a liquid oxidizer is a very old one; in fact, Oberth had tried to make one for UFA
 back in 1929, and BMW had experimented with such a device during
 1944-45. Configurations vary somewhat, but the usual arrangement
 is a cylinder of fuel, solid except for a longitudinal passage down the
-center line, fitted tightly into a cylindrical chamber. Oxidizer is in-
-jected at the upstream end, and reacts with the fuel as it travels down
+center line, fitted tightly into a cylindrical chamber. Oxidizer is injected at the upstream end, and reacts with the fuel as it travels down
 the passage, and the combustion products eventually emerge through
 the nozzle just downstream of the fuel grain. (Even if it weighs two
 hundred pounds, it’s still a “grain.”)
@@ -9286,8 +8254,7 @@ was typical. Their intention was to use a polyethylene fuel grain,
 with hydrogen peroxide as the oxidizer. And when they fired their
 rocket, the results were worse than depressing — they were disastrous.
 Combustion was extremely poor, with a measured C* to make an
-engineer weep. And when they tried to throttle their motor, the oxi-
-dizer-fuel ration varied madly, and was never anywhere near the
+engineer weep. And when they tried to throttle their motor, the oxidizer-fuel ration varied madly, and was never anywhere near the
 
 
 
@@ -9297,8 +8264,7 @@ dizer-fuel ration varied madly, and was never anywhere near the
 
 High Density and the Higher Foolishness
 
-optimum for performance. (This is hardly surprising, since the oxi-
-dizer consumption depends upon the rate at which it is injected,
+optimum for performance. (This is hardly surprising, since the oxidizer consumption depends upon the rate at which it is injected,
 while the fuel consumption depends on the area of the fuel grain
 exposed.) And tinkering with the injector and the exact shape of the
 fuel grain did very little good.
@@ -9322,11 +8288,9 @@ themselves a computer. Then, they would calculate the performance
 of every conceivable liquid oxidizer with every conceivable solid fuel.
 And then they would publish a huge report containing all the results
 of all of these computations. And to the surprise of nobody who had
-been in the business any length of time (we had all made these calcu-
-lations for ourselves years before) everybody came out with the same
+been in the business any length of time (we had all made these calculations for ourselves years before) everybody came out with the same
 numbers and recommended practically identical combinations. Thus,
-the fuel grains recommended by three different contractors, Lock-
-heed, United Technology Co., and Aerojet, comprised:
+the fuel grains recommended by three different contractors, Lockheed, United Technology Co., and Aerojet, comprised:
 
 1. Lithium hydride plus a hydrocarbon (rubber) binder;
 
@@ -9349,37 +8313,31 @@ All of which made some of us wonder whether or not the taxpayer
 had got his money’s worth from all that expensive computer time.
 
 Rohm and Haas investigated an entirely different type of hybrid,
-one which would still burn and produce thrust even when the oxi-
-
+one which would still burn and produce thrust even when the oxi
 
 
 176 Ignition
 
-dizer was completely cut off. The grain consisted of aluminum pow-
-der, ammonium perchlorate, and a plastisol binder. (Plastisol is a
+dizer was completely cut off. The grain consisted of aluminum powder, ammonium perchlorate, and a plastisol binder. (Plastisol is a
 castable and quick-curing double-base mixture, consisting largely of
 nitrocellulose and nitroglycerine, and was a solid propellant in its
 own right.) Its combustion products included a large fraction of
 hydrogen and carbon monoxide, and the liquid oxidizer, N 2 0 4 , was
 intended to react with this and to increase the energy output and the
 thrust. NOTS performed a long series of combustion studies with a
-similar system, RFNA oxidizer and a fuel rich composite grain (am-
-monium perchlorate and a hydrocarbon or similar binder). As the
+similar system, RFNA oxidizer and a fuel rich composite grain (ammonium perchlorate and a hydrocarbon or similar binder). As the
 hybrid system is a compromise between a solid and a liquid system,
-these and similar combinations can be considered as combining hy-
-brid and solid features.
+these and similar combinations can be considered as combining hybrid and solid features.
 
 Steve Tunkel at Reacdon Motors investigated a much more esoteric
 system in 1962-63 — a reverse hybrid in which the oxidizer was in the
-grain, which consisted of nitronium perchlorate, N0 2 C10 4 or hydra-
-zine di-perchlorate, N 2 H 6 (C10 4 ) 2 , in a fluorocarbon (Teflon-type)
+grain, which consisted of nitronium perchlorate, N0 2 C10 4 or hydrazine di-perchlorate, N 2 H 6 (C10 4 ) 2 , in a fluorocarbon (Teflon-type)
 binder. The liquid fuel was hydrazine, and powdered aluminum or
 boron could either be suspended in the fuel or incorporated into the
 grain. The idea was to let the fluorine in the fluorocarbon react to
 form aluminum or boron trifluoride, while the carbon was oxidized
 to CO. (The other combustion products would depend upon the
-exact grain composition, the fuel flow, and so on.) The idea was inter-
-esting, but their hopes were never realized. Nitronium perchlorate
+exact grain composition, the fuel flow, and so on.) The idea was interesting, but their hopes were never realized. Nitronium perchlorate
 turned out to be inherently unstable, for one thing, and Tunkel was
 never able to achieve efficient fluorocarbon-metal combustion. The
 system was just too precious to work.
@@ -9387,14 +8345,12 @@ system was just too precious to work.
 Much more important, in the long run, was some of the work at
 UTC, who had a Navy contract to investigate the basic mechanism of
 hybrid combustion. (This, of course, should have been done at least
-ten years earlier, and before a lot of money had been sunk into hy-
-brid work. But it’s always easier to get money for engineering than for
+ten years earlier, and before a lot of money had been sunk into hybrid work. But it’s always easier to get money for engineering than for
 fundamental research. Don’t ask me why.)
 
 Most of this work was done with a simplified model of a hybrid
 motor, consisting of a flat slab of fuel with the oxidizer flowing across
-its surface, the whole in a transparent chamber so that the investi-
-gators could see what was happening, and take pictures of it. The fuel
+its surface, the whole in a transparent chamber so that the investigators could see what was happening, and take pictures of it. The fuel
 was usually polyethylene or methyl methacrylate (Plexiglass) and the
 oxidizer was oxygen or OF 2 . They learned that the oxidizer reacts
 with the fuel only in the vapor phase, and that the rate was controlled
@@ -9429,11 +8385,9 @@ place in the propulsion spectrum is, and will be, very limited.
 
 The “Arcogels” were another attempted approach to a high-density
 system. These were conceived in 1956 by the Atlantic Research Co.,
-who worked on them for some five years. They were a mixture com-
-prising mainly powdered ammonium perchlorate, aluminum, and a
+who worked on them for some five years. They were a mixture comprising mainly powdered ammonium perchlorate, aluminum, and a
 relatively nonvolatile liquid fuel and carrier, such as dibutyl phthalate.
-They had the consistency, approximately, of toothpaste. They obvi-
-ously couldn’t be brought into a chamber through a normal injector,
+They had the consistency, approximately, of toothpaste. They obviously couldn’t be brought into a chamber through a normal injector,
 but had to be forced in through special burner tips, which spread the
 pasty ribbon out to expose the maximum burning area. They burned
 all right, at least on a small scale, but their high density wasn’t enough
@@ -9480,8 +8434,7 @@ mixture ratio the total propellant density would be about 2.1 or 2.2.
 too impressive, and I decided to apply the reducto ad absurdum method.
 Why not use the densest known substance which is liquid at room
 temperature — mercury itself? Just squirt it into the chamber of a
-motor burning, say, acid-UDMH. It would evaporate into a mon-
-atomic gas (with a low C p , which would help performance), and would
+motor burning, say, acid-UDMH. It would evaporate into a monatomic gas (with a low C p , which would help performance), and would
 go out the nozzle with the combustion products. That technique
 should give Phil all the density he wanted! Charmed by the delightful
 nuttiness of the idea, I reached for the calculator.
@@ -9492,15 +8445,12 @@ simpler to handle two liquids than three in the wildly improbable
 event that things ever got as far as motor work. I calculated the
 performance of Cavea A with various proportions of mercury — up
 to six times the mass of the primary propellant. (It was easy to fit
-mercury into the NQD calculation method.) As expected, the spe-
-cific impulse dropped outrageously as mercury was added to the
+mercury into the NQD calculation method.) As expected, the specific impulse dropped outrageously as mercury was added to the
 system, but the density impulse (specific impulse X propellant density)
-rose spectacularly, to peak at 50 percent above that of the neat mono-
-propellant with a mercury/propellant ratio of about 4.8.
+rose spectacularly, to peak at 50 percent above that of the neat monopropellant with a mercury/propellant ratio of about 4.8.
 
 The next thing was to set up the boost velocity equation: q, =
-c In (1 + &lt;pd), and to plug in the results of the performance calcula-
-tions. I did this for various values of ip* plotting the percentage
+c In (1 + &lt;pd), and to plug in the results of the performance calculations. I did this for various values of ip* plotting the percentage
 increase in boost velocity over that produced by the neat propellant
 
 * &lt;p, as you may remember, is a loading factor: the propellant tank volume divided
@@ -9534,16 +8484,13 @@ attached. It didn’t.
 Phil bought it.
 
 He directed us, forthwith, to verify the calculations experimentally,
-and NARTS, horrified, was stuck with the job of firing a mercury-
-spewing motor in the middle of Morris County, New Jersey.
+and NARTS, horrified, was stuck with the job of firing a mercuryspewing motor in the middle of Morris County, New Jersey.
 
 Firing the motor wouldn’t be any problem; the problem lay in the
 fact that all of the mercury vapor in the atmosphere would not be
 good for the health of the (presumably) innocent inhabitants of the
-county — nor for our own. So a scrubber had to be built, a long pipe-
-like affair down which the motor would be fired, and fitted with water
-sprays, filters, and assorted devices to condense and collect the mer-
-cury in the exhaust before it could get out into the atmosphere. We
+county — nor for our own. So a scrubber had to be built, a long pipelike affair down which the motor would be fired, and fitted with water
+sprays, filters, and assorted devices to condense and collect the mercury in the exhaust before it could get out into the atmosphere. We
 had it built and were about ready to go, when the Navy decided to
 shut down — “disestablish” — NARTS, and ordered us to ship the
 whole mercury setup to NOTS. With a sigh of relief, we complied,
@@ -9557,8 +8504,7 @@ a tap in the chamber wall. And the thing did work. They used up to
 percent they got a 40 percent increase in density impulse. (I had
 calculated 43.) As they were firing in the middle of the desert, they
 didn’t bother with the scrubber. And they didn’t poison a single
-rattlesnake. Technically, the system was a complete success. Prac-
-tically— that was something else again.
+rattlesnake. Technically, the system was a complete success. Practically— that was something else again.
 
 A more practical way to gel a high-density system (or so people
 thought) was to use a metallized fuel, one with a light metal suspended
@@ -9570,12 +8516,9 @@ thought) was to use a metallized fuel, one with a light metal suspended
 in it. As we have seen, this was an old idea, going back at least to 1929.
 BMW in Germany tried it about 1944, without noticeable success,
 and Dave Horvitz at Reaction Motors made a long series of tests, in
-1947-51, burning a 10 to 20 percent suspension of powdered alumi-
-num in gasoline, with liquid oxygen. Again, his success was not spec-
-tacular. It was difficult to get decent combustion efficiency, and a good
+1947-51, burning a 10 to 20 percent suspension of powdered aluminum in gasoline, with liquid oxygen. Again, his success was not spectacular. It was difficult to get decent combustion efficiency, and a good
 part of the metal never burned at all, but was exhausted unchanged
-out the nozzle. Designing an injector which would handle a suspen-
-sion wasn’t easy, particularly as the viscosity of the suspension varied
+out the nozzle. Designing an injector which would handle a suspension wasn’t easy, particularly as the viscosity of the suspension varied
 outrageously with temperature. And if the mixture stood around a
 while, the aluminum had a strong tendency to settle to the bottom of
 the tank.
@@ -9631,8 +8574,7 @@ filling the tank beforehand was a frustrating and infuriating job.
 Combustion efficiency left something to be desired, and the dead
 weight of the silica naturally reduced the performance; but the system
 could be made to work — more or less. The real trouble showed up
-when an attempt was made to gel the halogen oxidizers. Silica, obvi-
-ously, was impossible, as were the carbohydrate cellulose type agents.
+when an attempt was made to gel the halogen oxidizers. Silica, obviously, was impossible, as were the carbohydrate cellulose type agents.
 At Aeroprojects they tried to gel a mixture of C1F 3 and BrF 5 with a
 pyrolytic carbon black, and thought that they had solved the problem,
 particularly when the gelled mixture showed a card-gap value of
@@ -9645,8 +8587,7 @@ an eye and a hand, and suffered fluorine burns which would have
 killed most people. Somehow, he survived, but that was the end of the
 attempt to mix interhalogens and carbon black. Later attempts used
 completely fluorinated substances, such as SbF 5 , for the gelling
-agent. Unfortunately, an inordinate amount of the agent was re-
-quired to do the job,
+agent. Unfortunately, an inordinate amount of the agent was required to do the job,
 
 A few years later, gelling appeared to be the answer to another
 problem, that of propellant sloshing in space vehicles. If, for some
@@ -9663,8 +8604,7 @@ degraded. R. H. Globus of Aerojet discovered a much more elegant
 solution to the problem three years later. He simply bubbled gaseous
 C1F 3 through liquid OF 2 . The chlorine trifluoride froze instantly to
 micropscopic crystals which acted as the gelling agent. Five or 6
-percent of the additive made a very fine gel, and the effect on per-
-formance was microscopic. For some reason or other, C1F 5 wouldn’t
+percent of the additive made a very fine gel, and the effect on performance was microscopic. For some reason or other, C1F 5 wouldn’t
 work.
 
 
@@ -9679,10 +8619,8 @@ last — without having the metal settle out. It was soon discovered, too,
 that if your metal were finely enough divided, with particle sizes of
 the order of a micrometer, so that the Van der Waals forces became
 important, it would itself tend to gel thfc mixture. So there was a
-great burst of effort and people all over the country started to in-
-vestigate the rheological properties of various metallized slurries
-(these have no gelling agent besides the metal), gels, and even emul-
-sions. (These have two liquid phases — like mayonnaise — besides the
+great burst of effort and people all over the country started to investigate the rheological properties of various metallized slurries
+(these have no gelling agent besides the metal), gels, and even emulsions. (These have two liquid phases — like mayonnaise — besides the
 metal.) Most of the investigators used Ferranti-Shirley viscosimeters,
 which can measure the viscosity of such substances as a function of
 the shear rate. (I was always getting the name confused with “Ferrari,”
@@ -9705,8 +8643,7 @@ Rocketdyne, as early as 1962, had bred an aluminum-hydrazine
 mixture with N 2 0 4 . It contained almost 50 percent of aluminum, and
 they called it “Alumizine.” It was designed for an improved Titan
 II, but, although they have been working on it ever since, it hasn’t yet
-become operational. Reaction Motors bred an aluminized hydrazine-
-hydrocarbon emulsion with N 2 0 4 two years later, but it, too, has
+become operational. Reaction Motors bred an aluminized hydrazinehydrocarbon emulsion with N 2 0 4 two years later, but it, too, has
 failed to make the grade. And although the Naval Ordnance Test
 Station has bred their “Notsgel” (aluminum in gelled hydrazine
 mixtures) successfully many times, it hasn’t yet found an application.*
@@ -9736,8 +8673,7 @@ if the storage temperature varies considerably during that time — as
 it would if the missile were stored out of doors — or if it is subjected
 to vibration, which it is certain to be if it is shipped from point A to
 point B. There is always the tendency for the metal to settle out, and
-this tendency is abetted by wide temperature variations, which dras-
-tically and sometimes irreversibly change the rheology of the gel.
+this tendency is abetted by wide temperature variations, which drastically and sometimes irreversibly change the rheology of the gel.
 And vibration, of course, has a tendency to reduce the viscosity, of a
 thixotropic gel, temporarily, of course, but possibly long enough to
 permit appreciable sedimentation. Or syneresis — a peculiar vice to
@@ -9759,12 +8695,10 @@ and some of these impurides are likely to be transition metals such
 as iron which catalyze the decomposition of hydrazine. However, if
 the concentration of the catalytic metals is only some parts per million,
 very few of the offending atoms will be on the tank surface itself,
-where they can make trouble, and the decomposition and gas evolu-
-tion will be negligible. However, if the hydrazine is loaded with very
+where they can make trouble, and the decomposition and gas evolution will be negligible. However, if the hydrazine is loaded with very
 finely divided aluminum, the surface volume ratio of the metal will
 be increased by many orders of magnitude, as will be the number of
-catalytic atoms in contact with the hydrazine. Under these circum-
-stances, the decomposition is increased enormously, and even if it is
+catalytic atoms in contact with the hydrazine. Under these circumstances, the decomposition is increased enormously, and even if it is
 insufficient to change the composition of the fuel appreciably in a
 
 
@@ -9778,8 +8712,7 @@ try to run that through an injector!
 
 Assuming, however, that the storage problems have been coped
 with, somehow, the operational problems remain. The first of these
-is that of forcing the fuel out of its tank. If a metallized gel is pressur-
-ized— that is, high pressure gas is let into the tank to force the fuel
+is that of forcing the fuel out of its tank. If a metallized gel is pressurized— that is, high pressure gas is let into the tank to force the fuel
 out — a sort of tunneling process takes place. The gas simply blows a
 hole for its own passage down through the gel to the outlet, and
 leaves most of the fuel untouched and sitting quietly around the
@@ -9795,18 +8728,15 @@ of this is that the mixture ratio if you fire the motor at —40° will be
 quite unlike that which you will get if you fire it at +25° — and it
 certainly won’t be the one that you want.
 
-Then, once the fuel is in the motor — and I won’t go into the prob-
-lem of designing an injector which will disperse a gel properly —
+Then, once the fuel is in the motor — and I won’t go into the problem of designing an injector which will disperse a gel properly —
 there’s the problem of burning the aluminum. Unless the chamber
 temperature is well above the melting point of aluminum oxide (about
 2050°) or, preferably above the considerably higher temperature
 at which it decomposes, the aluminum particle will simply coat itself
-with a layer of solid or liquid alumina, and refuse to burn to comple-
-tion. When burned with N 2 0 4 the chamber temperature is just about
+with a layer of solid or liquid alumina, and refuse to burn to completion. When burned with N 2 0 4 the chamber temperature is just about
 high enough to burn an aluminized gel properly. It’s highly probable
 that combustion with nitric acid would be marginal, with a chamber
-temperature not quite high enough to make the metal burn to com-
-pletion. (With a halogen oxidizer, such as C1F 3 , this particular problem
+temperature not quite high enough to make the metal burn to completion. (With a halogen oxidizer, such as C1F 3 , this particular problem
 doesn’t arise, since A1F 3 is a gas at the temperatures we’re talking
 about.) And, naturally, the dense clouds of solid A1 2 0 3 resulting from
 the combustion of an aluminized gel leave a very conspicuous exhaust
@@ -9825,9 +8755,7 @@ drilled out before the motor can be fired again. So, restarts are out of
 the question.
 
 The problems with beryllium-loaded gels are the same as those with
-aluminized ones, only more so, and with one or two peculiar to them-
-selves. The exhausted BeO, of course, is violently poisonous, produc-
-ing something resembling a galloping silicosis, but the most serious
+aluminized ones, only more so, and with one or two peculiar to themselves. The exhausted BeO, of course, is violently poisonous, producing something resembling a galloping silicosis, but the most serious
 problem is in the combustion. Beryllium oxide melts at a considerably
 higher temperature than does aluminum oxide, and doesn’t vaporize
 until the temperature is near 4000°, so that burning it is even more
@@ -9838,14 +8766,11 @@ that none of the beryllium had burned. At Rocketdyne, they had the
 same experience with the combination. When Rosenberg used N 2 0 4
 as his oxidizer, his C* efficiency was some 85 percent, showing that
 some of the metal had burned. His performance was particularly bad
-at what should have been the optimum mixture ratio. Various ex-
-pedients designed to improve combustion, such as vapor-coating the
+at what should have been the optimum mixture ratio. Various expedients designed to improve combustion, such as vapor-coating the
 beryllium powder with chromium, didn’t improve the situation
 appreciably.
 
-Aluminum hydride was a compound that aroused a flurry of inter-
-est in the early 60’s. It had long been known, but not as pure or rela-
-tively pure A1H 3 , since it had always been prepared solvated with
+Aluminum hydride was a compound that aroused a flurry of interest in the early 60’s. It had long been known, but not as pure or relatively pure A1H 3 , since it had always been prepared solvated with
 ether, which couldn’t be removed without decomposing the hydride.
 However, Dow Chemical and Metal Hydrides, late in 1959 or early
 in 1960, devised methods of obtaining it without ether, and Olin
@@ -9858,21 +8783,16 @@ so the idea was soon abandoned.
 Beryllium hydride, BeH 2 had more staying power. It had been
 known since 1951, but again, in an impure state. In 1962, however,
 G. E. Coates and I. Glocking of the Ethyl Corporation managed to
-prepare it in a fairly pure (about 90 percent) state. It, too, was in-
-tended for solid propellant use. It was nicknamed “Beane” (pro-
-nounced “beany”), as a security measure. (A little later it was dis-
-covered that its stability could be improved by heating it, and the
+prepare it in a fairly pure (about 90 percent) state. It, too, was intended for solid propellant use. It was nicknamed “Beane” (pronounced “beany”), as a security measure. (A little later it was discovered that its stability could be improved by heating it, and the
 result was called “Baked Beane.”) But code name or no, the secret
 was soon out. I was in Dick Holzmann’s office in the Pentagon when
 an assistant came in with the latest issue of Missiles and Rockets. And
-there was BeH 2 , spread all over the page. It appears that a congress-
-
+there was BeH 2 , spread all over the page. It appears that a congress
 
 
 186 Ignition
 
-man who wanted to show how knowledgeable he was had blown secur-
-ity and had told a reporter everything he knew. I have heard — and
+man who wanted to show how knowledgeable he was had blown security and had told a reporter everything he knew. I have heard — and
 used — some spectacular language in my time, but Holzmann’s remarks
 were a high point in the history of oral expression.
 
@@ -9880,8 +8800,7 @@ Naturally, the liquid people had to see if BeH 2 could be used in a
 gel. It appeared to be much more stable than aluminum hydride,
 particularly when it was in the amorphous, rather than the crystalline,
 state. Rocketdyne reported that the former reacted very little even
-with water. Texaco, Aerojet, and Rocketdyne investigated it in mono-
-methyl hydrazine gels between 1963 and 1967. Aerojet claimed the
+with water. Texaco, Aerojet, and Rocketdyne investigated it in monomethyl hydrazine gels between 1963 and 1967. Aerojet claimed the
 mixture was stable, but Rocketdyne’s gel, which had some straight
 hydrazine in it, displayed the souffle syndrome. Its longtime stability
 in hydrazine appears very doubtful; certainly it is thermodynamically
@@ -9898,8 +8817,7 @@ mixtures of the hydride with his beryllium semiliquids.
 However, even if they are stable — and not all counties have been
 heard from — BeH 2 gels and slurries don’t appear to be the wave of
 the future. The toxicity of the exhaust and the high price of the
-propellant appear to rule them out as far as tactical missiles are con-
-cerned, and there doesn’t seem to be any other role for them that
+propellant appear to rule them out as far as tactical missiles are concerned, and there doesn’t seem to be any other role for them that
 can’t be filled better by something else.
 
 A rather far-out concept, even in the fields of gels and slurries and
@@ -9916,8 +8834,7 @@ thermally unstable, and it, too, had to be junked. In 1965 they tried
 mixing boron carbide with C1F 5 (!), and found that it was apparently
 stable at 65°, although there was some reaction at first when the two
 compounds were mixed. Nevertheless, apparently remembering
-what had happened to Fred Gaskins, they didn’t carry their experi-
-
+what had happened to Fred Gaskins, they didn’t carry their experi
 
 
 187
@@ -9928,47 +8845,34 @@ High Density and the Higher Foolishness
 ments any further. And for some years Rocket Research Co., a small
 organization in Seattle, has been industriously plugging “Monex,” a
 mixture of powdered aluminum, hydrazine, hydrazine nitrate, and
-water, and, ignorant of or ignoring the work on hydrazine and hydra-
-zine nitrate done nearly twenty years before at NOTS, claiming an
+water, and, ignorant of or ignoring the work on hydrazine and hydrazine nitrate done nearly twenty years before at NOTS, claiming an
 outstanding and original contribution to rocketry. Recently they have
-been experimenting with beryllium instead of aluminum. Combus-
-tion efficiency with these propellants, particularly the beryllium-based
-ones, is bound to be bad, since the chamber temperature is compara-
-tively low. Rocketdyne, in 1966, did some work with similar beryllium
-mixtures, with no notable success. The heterogeneous monopropel-
-lants can only be considered an aberration, off the main line of pro-
-pellant development, and highly unlikely ever to lead to anything
+been experimenting with beryllium instead of aluminum. Combustion efficiency with these propellants, particularly the beryllium-based
+ones, is bound to be bad, since the chamber temperature is comparatively low. Rocketdyne, in 1966, did some work with similar beryllium
+mixtures, with no notable success. The heterogeneous monopropellants can only be considered an aberration, off the main line of propellant development, and highly unlikely ever to lead to anything
 useful. About all it proves is the willingness of rocket people to try
 anything, no matter how implausible, if they can con NASA or one of
 the services into paying for it.
 
-This may explain the work on the “Tribrid” (an etymological mon-
-strosity, if there ever was one!). These are propellant systems involving
+This may explain the work on the “Tribrid” (an etymological monstrosity, if there ever was one!). These are propellant systems involving
 three propellants, and the name derives vaguely from “hybrid.”
 Sometimes the term “tripropellant” is used. Performance calculations
-made in the early 60’s showed that for space use, there were two pro-
-pellant systems whose specific impulses exceeded those of any other
-system that could be dreamed up — and exceeded them by a spectacu-
-lar margin. The Erst of these was the Be-O-H system, in which the
-beryllium was burned to BeO by the oxygen, and the hydrogen pro-
-vided the working fluid. It started to arouse considerable interest in
-1963 or so, and Atlantic Research and Aerojet started programs de-
-signed to prove it out.
+made in the early 60’s showed that for space use, there were two propellant systems whose specific impulses exceeded those of any other
+system that could be dreamed up — and exceeded them by a spectacular margin. The Erst of these was the Be-O-H system, in which the
+beryllium was burned to BeO by the oxygen, and the hydrogen provided the working fluid. It started to arouse considerable interest in
+1963 or so, and Atlantic Research and Aerojet started programs designed to prove it out.
 
 Atlantic Research’s approach was an extension of the hybrid system.
 Powdered beryllium was made into a solid grain with the help of a
 small amount of hydrocarbon binder. This was burned, as in a hybrid,
-with the oxygen, and then hydrogen was fed into the chamber down-
-stream of the grain. (In a variant arrangement, some of it was intro-
-duced upstream with the oxygen, and the rest farther down.) A
+with the oxygen, and then hydrogen was fed into the chamber downstream of the grain. (In a variant arrangement, some of it was introduced upstream with the oxygen, and the rest farther down.) A
 scrubber was needed, of course, to take the BeO out of the exhaust
 stream — and the totality of the precautions taken to avoid poisoning
 the bystanders was fantastic. In any case, although the motor could be
 and was fired, combustion efficiency was extremely poor, and the
 system never, practically, approached its theoretical potential.
 
-G. M. Beighley, at Aerojet, tried another approach, this one re-
-sembling the usual bi-propellant arrangement. His two propellants
+G. M. Beighley, at Aerojet, tried another approach, this one resembling the usual bi-propellant arrangement. His two propellants
 were liquid hydrogen and a slurry of powdered beryllium metal in
 
 
@@ -9992,18 +8896,15 @@ investigated rather thoroughly by Rocketdyne. Here, two approaches
 are possible. Lithium has a low melting point for a metal — 179° — so
 it is possible to inject lithium, fluorine, and hydrogen into the motor,
 all as liquids, in a true tripropellant system. Or, the lithium can be
-slurried in the hydrogen, so that the motor can be run as a bi-propel-
-lant system. Rocketdyne started investigating Li-H 2 gels in 1963,
+slurried in the hydrogen, so that the motor can be run as a bi-propellant system. Rocketdyne started investigating Li-H 2 gels in 1963,
 and three years later Bill Tarpley and Dana McKinney of Technidyne
 (Aeroprojects renamed) reported gelling liquid hydrogen with lithium
-and with lithium borohydride. Satisfactory and stable gels were pro-
-duced with 61.1 weight percent (17.4 volume percent) oflithium or
+and with lithium borohydride. Satisfactory and stable gels were produced with 61.1 weight percent (17.4 volume percent) oflithium or
 58.8 weight percent (13.3 volume percent) of lithium borohydride.
 The evaporation rate of the hydrogen was reduced by a factor of 2 or
 3, and gelling the fuel eliminated the propellant sloshing problem.
 
-Their work was, however, only on the liter scale, and in the mean-
-time Rocketdyne went ahead with the other approach, and fired the
+Their work was, however, only on the liter scale, and in the meantime Rocketdyne went ahead with the other approach, and fired the
 combination in a true tripropellant motor. They used liquid lithium
 and liquid fluorine, but used gaseous hydrogen instead of liquid. I
 presume that they considered that handling two such hairy liquids as
@@ -10012,8 +8913,7 @@ their misery by coping with liquid hydrogen. I have described some
 of the problems associated with liquid fluorine, and liquid lithium has
 its own collection of headaches. You have to keep it hot, or it will
 freeze in the propellant lines. You must also keep it from contact with
-the atmosphere, or it will burst into brilliant and practically inex-
-tinguishable flame. Add to this the fact that liquid lithium is highly
+the atmosphere, or it will burst into brilliant and practically inextinguishable flame. Add to this the fact that liquid lithium is highly
 corrosive to most metals, and that it is incompatible with anything you
 might want to use for gaskets and sealing materials (it even attacks
 Teflon with enthusiasm), and you have problems.
@@ -10055,12 +8955,10 @@ What Happens Next
 
 
 The absolute limit to the performance of a chemical rocket, even in
-space, appears to be somewhere below 600 seconds. This is a frustrat-
-ing situation, and various far-out methods of cracking this barrier
+space, appears to be somewhere below 600 seconds. This is a frustrating situation, and various far-out methods of cracking this barrier
 have been suggested. One is to use free radicals or unstable species
 as propellants, and to use the energy of their reversion to the stable
-state for propulsion. For instance, when two atoms of hydrogen com-
-bine to form one molecule of H 2 , some 100 kilocalories of energy are
+state for propulsion. For instance, when two atoms of hydrogen combine to form one molecule of H 2 , some 100 kilocalories of energy are
 released per two-gram mole. This means that a 50-50 (by weight)
 mixture of monatomic hydrogen and ordinary hydrogen would have
 a performance of some 1000-1100 seconds. That is, it would if (A)
@@ -10069,8 +8967,7 @@ with ordinary hydrogen and (B) if you could keep it from reverting
 immediately to H 2 -^in a catastrophic manner. So far, nobody has the
 foggiest idea of how to do either one. Free radicals such as CH 3 and
 OOF can be made, and can be trapped in a matrix of, say, frozen
-argon, whose mass is so great compared to that of the captured radi-
-cals that the whole idea is a farce as far as propulsion is concerned.
+argon, whose mass is so great compared to that of the captured radicals that the whole idea is a farce as far as propulsion is concerned.
 Texaco for one has been investigating such trapping phenomena
 and the electronic states in the trapped molecular fragment for several
 years, but the whole program, interesting as it is academically, must
@@ -10090,8 +8987,7 @@ What Happens Next
 
 impulse in large-thrust applications is to shift to the nuclear rocket,
 which, fortunately, works and is well on the way toward operational
-status. (Ionic and other electrical thrusters are useful only in low-
-thrust applications, and are outside the scope of this book — and of
+status. (Ionic and other electrical thrusters are useful only in lowthrust applications, and are outside the scope of this book — and of
 my competence to describe them.) So the chemical rocket is likely
 to be with us for some time.
 
@@ -10122,11 +9018,9 @@ is developed all bets are off.
 For the upper stages, the hydrogen-oxygen combination of the
 J-2 is very satisfactory, and will probably be used for a long time.
 Later, as more energy is needed, there may be a shift, for the final
-stage, to hydrogen-fluorine or hydrogen-lithium-fluorine. The nu-
-clear rocket will take over there.
+stage, to hydrogen-fluorine or hydrogen-lithium-fluorine. The nuclear rocket will take over there.
 
-For lunar landers, service modules, and the like, N 2 0 4 and a hydra-
-zine fuel seem likely to remain useful for a long time. I can’t think of
+For lunar landers, service modules, and the like, N 2 0 4 and a hydrazine fuel seem likely to remain useful for a long time. I can’t think of
 any combination likely to displace them in the foreseeable future.
 
 Deep space probes, working at low temperatures, will probably use
@@ -10137,8 +9031,7 @@ while perchloryl fluoride, C10 3 F, would be useful as far out as Jupiter.
 I see no place for beryllium in propulsion, nor any role for N 2 F 4
 or NF 3 . Perchloryl fluoride may, as I’ve mentioned, have some use in
 space, and as an oxygen-bearing additive for C1F 5 , which will probably
-displace C1F ;I entirely. Pentaborane and decaborane and their de-
-
+displace C1F ;I entirely. Pentaborane and decaborane and their de
 
 
 192 Ignition
@@ -10219,15 +9112,13 @@ Weapons, BuWeps.
 
 Chlorine tri fluoride, C1F 3 .
 
-Edwards Air Force Base, in the Mojave Desert, Cal-
-ifornia.
+Edwards Air Force Base, in the Mojave Desert, California.
 
 Engineering Experiment Station, Annapolis (Navy).
 Explosives Research and Development Establishment,
 at Waltham Abbey, England.
 
-Mixture of liquid oxygen and liquid fluorine. A num-
-ber following, as in Flox 30, indicates the percentage
+Mixture of liquid oxygen and liquid fluorine. A number following, as in Flox 30, indicates the percentage
 of fluorine.
 
 
@@ -10248,8 +9139,7 @@ Food Machines and Chemical Company.
 
 GALCIT
 
-Guggenheim Aeronautical Laboratory, California In-
-stitute of Technology.
+Guggenheim Aeronautical Laboratory, California Institute of Technology.
 
 GE
 
@@ -10338,8 +9228,7 @@ Monomethyl hydrazine.
 
 MON
 
-Mixed oxides of nitrogen, N 2 0 4 + NO. Number follow-
-ing indicates percentage NO.
+Mixed oxides of nitrogen, N 2 0 4 + NO. Number following indicates percentage NO.
 
 NAA
 
@@ -10356,8 +9245,7 @@ Nava] Air Rocket Test Station, Lake Denmark, Dover,
 
 
 New Jersey. In 1960 taken over by Army, and became
-Liquid Rocket Propulsion Laboratory, LRPL, of Pica-
-tinny Arsenal.
+Liquid Rocket Propulsion Laboratory, LRPL, of Picatinny Arsenal.
 
 
 
@@ -10510,42 +9398,33 @@ Acetonitrile
 decaborane plus hydrazine and, as
 monopropellant, 159-160
 as hydrazine additive, 45, 159-160
-tetranitromethane plus, as mono-
-propellant, 147-148
+tetranitromethane plus, as monopropellant, 147-148
 Acetylene, 35
 
-liquid hydrogen plus, as monopro-
-pellant, 147ra
+liquid hydrogen plus, as monopropellant, 147ra
 
 oxygen-ammonia system and, 104
 research with derivatives, 34, 35,
 36-37, 133
 
-Advanced Research Projects Admin-
-istration (ARPA), “Project Prin-
-cipia,” 167, 168, 173, 175
+Advanced Research Projects Administration (ARPA), “Project Principia,” 167, 168, 173, 175
 Aerojet Engineering
 founding, 22-23
 
 
 research, 23, 40-41, 42-43, 56, 63,
 106; borohydrides, 128; borane,
-124, 127-128; deep space rock-
-ets, 86; hybrid propellants, 175,
-181, 185, 186, 187-188; hydra-
-zines, 128; liquid fluorine, 110;
-liquid hydrogen, 107; monopro-
-pellants, 136, 137, 144, 152,
+124, 127-128; deep space rockets, 86; hybrid propellants, 175,
+181, 185, 186, 187-188; hydrazines, 128; liquid fluorine, 110;
+liquid hydrogen, 107; monopropellants, 136, 137, 144, 152,
 160-161, 173; oxidizers, 82
 Aeronautical Research Institute,
 Braunschweig (ARIB); 13, 15
-Aeroprojects, hybrid propellant re-
-search, 181, 188
+Aeroprojects, hybrid propellant research, 181, 188
 Aerozine-50, 45
 Agena motor, fuel for, 63
 Ahlert, Bob, 160, 164
-Air Products, monopropellant re-
-search, 146, 147
+Air Products, monopropellant research, 146, 147
 Air Reduction Company
 
 monopropellant research, 133,
@@ -10594,8 +9473,7 @@ Aluminum borohydrides, 128, 129
 Aluminum hydrides, 185
 “Alumizine,” 182
 
-American Cyanamide Company re-
-search, 21, 22, 167
+American Cyanamide Company research, 21, 22, 167
 American Interplanetary Society, 6
 American Rocket Society (ARS), 21
 Amines, 34, 37-39, 115
@@ -10603,8 +9481,7 @@ hypergolicity of, 15, 30
 mixed amine fluid (MAF), 194
 nitrate salts: as monopropellants,
 137-145, 147, 148-151, 153-
-158; structure-sensitivity rela-
-tions, 150n
+158; structure-sensitivity relations, 150n
 tertiary, 38-39
 See also specific amine
 Ammonia
@@ -10618,8 +9495,7 @@ hypergolicity studies, 27-28
 liquid fluorine plus, 110
 liquid oxygen plus, 104, 106
 mcthylamine plus, 27
-salts and hydrogen peroxide freez-
-ing point, 69
+salts and hydrogen peroxide freezing point, 69
 
 Sen also specific compound
 
@@ -10646,9 +9522,7 @@ Apollo service engine, 63
 Arbit, H. A., 188-189
 “Arcogels,” 177
 Argon fluoride, 73n
-Armour Research Institute. See Illi-
-nois Institute of Technology Re-
-search Institute (IITRI)
+Armour Research Institute. See Illinois Institute of Technology Research Institute (IITRI)
 
 Arnold, General Henry Harley
 (“Hap”), 11, 13
@@ -10675,8 +9549,7 @@ Bartlett, Neil, 85, 89
 Bauer, Hans, 87
 Baum6, 55
 
-Bavarian Motor Works (BMW) re-
-search, 13-15, 18
+Bavarian Motor Works (BMW) research, 13-15, 18
 
 
 
@@ -10722,8 +9595,7 @@ as monopropellants, 152, 159—
 
 Russian work on, 118
 See also specific compound, e.g.,
-Decaborane; Diborane; Penta-
-borane
+Decaborane; Diborane; Pentaborane
 Borden, 26
 
 Borohydrides, 128-129
@@ -10808,11 +9680,9 @@ Chlorides, hydrogen peroxide and,
 70
 
 Chlorine compounds, research with,
-78-80, 81; See also specific com-
-pound
+78-80, 81; See also specific compound
 
-Chlorine pentafluoride. See Com-
-pound A
+Chlorine pentafluoride. See Compound A
 
 Chlorine trifluoride (C1F 3 ; CTF), 17,
 74-78
@@ -10894,8 +9764,7 @@ Diborane
 availability of, 121, 124
 boiling point, 124
 combustion results, 121-122
-diborane-OF 2 space storable sys-
-tem, 86
+diborane-OF 2 space storable system, 86
 
 future for, 25, 130, 191
 oxidizers and performance of,
@@ -10922,8 +9791,7 @@ Index
 
 performance tests, 149
 WFNA plus, 142-144
-Dimethyldiisopropyl ammonium ni-
-trate, “quick mix” detonation,
+Dimethyldiisopropyl ammonium nitrate, “quick mix” detonation,
 165-166
 
 Dimethyldivinylacetylene, 37
@@ -10953,8 +9821,7 @@ Drop weight test, 163
 Dunn, Louis, 133
 Dunning, 52
 
-Du Pont Chemical Company re-
-search, 56, 82, 171-172
+Du Pont Chemical Company research, 56, 82, 171-172
 Dwiggins, 42
 Dwyer, R. F., 108
 Dyer, G. M., 69
@@ -10962,8 +9829,7 @@ Dyer, G. M., 69
 
 E
 
-Edwards Air Force Base (EAFB), re-
-search at, 125, 126, 127, 128,
+Edwards Air Force Base (EAFB), research at, 125, 126, 127, 128,
 129
 
 Elveram, G. W., 59
@@ -10999,10 +9865,8 @@ Ethylene oxide, 28, 133
 Experiment Incorporated, 133
 “Exploration of Space with Reactive
 Devices” (Tsiolkovsky), 3-4
-Explosives Research and Develop-
-ment Establishment, Waltham
-Abbey, England (ERDE) re-
-search
+Explosives Research and Development Establishment, Waltham
+Abbey, England (ERDE) research
 
 hydrogen peroxide, 69
 mono propellants, 134-135
@@ -11012,8 +9876,7 @@ F
 
 Faraday, Michael, 4
 Farben (EG.) research, 15, 16, 115
-Ferric oxide as hydrogen fuel cata-
-lyst, 108
+Ferric oxide as hydrogen fuel catalyst, 108
 Firth, 172
 “Florox,” 88-89
 
@@ -11033,8 +9896,7 @@ Flox (cont.)
 
 in RP motor, 111-112
 Fluorides, NF monopropellant
-studies, 167-173; See also spe-
-cific compound
+studies, 167-173; See also specific compound
 Fluorine
 
 boranes and, 122
@@ -11074,8 +9936,7 @@ Fox, 149
 Frank, 57, 58, 172
 Fredericks, F., 40
 
-Frozen equilibrium calculation of ex-
-haust velocity, 93, 95, 97
+Frozen equilibrium calculation of exhaust velocity, 93, 95, 97
 Fuels
 
 code names for, 14
@@ -11128,8 +9989,7 @@ history of use, 7, 8, 15
 for long-range ballistic missiles, 25
 Gaynor, A. J., 1 14
 General Chemical Company, 59, 60
-General Electric Company (GE) re-
-search, 106
+General Electric Company (GE) research, 106
 boranes, 121
 
 hybrid propellants, 174-175
@@ -11171,8 +10031,7 @@ Grelecki, 186
 Griffin, Don, 30, 163
 Grosse, 37
 
-Guggenheim Aeronautical Labora-
-tory, California Institute of
+Guggenheim Aeronautical Laboratory, California Institute of
 Technology (GALCIT) research,
 10-11, 19-20
 
@@ -11290,8 +10149,7 @@ liquid fluorine and, 110, 111
 liquid oxygen and, 106
 metals with, 187
 
-monomethyl. See Monomethyl hy-
-drazine (MMH)
+monomethyl. See Monomethyl hydrazine (MMH)
 
 as monopropellants, 133-134, 135,
 135w-136n, 159-162
@@ -11346,8 +10204,7 @@ Ignition
 
 111, 191; for long-range ballistic
 missiles, 25; motors for, 108-
-109; oxygen plus, 191; produc-
-tion of, 106-107; two forms of
+109; oxygen plus, 191; production of, 106-107; two forms of
 molecule, 107-108
 slurried (“slush”), described, 108
 Hydrogen fluoride
@@ -11404,8 +10261,7 @@ water plus WFNA and, 51-54
 
 Index
 
-Illinois Institute of Technology Re-
-search Institute (IITRI)
+Illinois Institute of Technology Research Institute (IITRI)
 monopropellant work, 169
 ozone research, 112, 113, 114
 Imperial Chemical Industries, 167
@@ -11413,8 +10269,7 @@ Infrared absorption band for water
 determination in WFNA, 52
 Ingold, C. K., 52, 57
 Intercontinental Ballistic Missile
-(ICBM), 63; See also specific mis-
-sile
+(ICBM), 63; See also specific missile
 
 Inyokern. See Naval Ordnance Test
 Station (NOTS) research
@@ -11460,8 +10315,7 @@ monopropellants, 133, 134, 135,
 
 205
 
-oxygen: alcohol plus, 103; am-
-monia plus, 104
+oxygen: alcohol plus, 103; ammonia plus, 104
 space storable systems, 86
 Johnson, H. L., 107
 JP (jet propellant), 33ff
@@ -11470,8 +10324,7 @@ JP-1, 32-33
 JP-2, 33
 JP-3, 33
 
-JP-4: additives for, 37, 39-46; de-
-scribed, 33; oxygen plus, 104,
+JP-4: additives for, 37, 39-46; described, 33; oxygen plus, 104,
 106; specifications for, 104-105
 JP-5, 33
 JP-6, 33
@@ -11479,8 +10332,7 @@ JP-6, 33
 specifications for, 32-33, 104-105
 See also specific compound
 JPL- See Jet Propulsion Laboratory,
-California Institute of Tech-
-nology (JPL) research
+California Institute of Technology (JPL) research
 Juno-1, 106
 Jupiter, 104, 105, 106
 
@@ -11538,8 +10390,7 @@ d-Limonene, WFNA and, 28
 Linde, 4
 
 Liquid gun propellants, 135n-136n
-Liquid oxygen. See Lox (liquid oxy-
-gen)
+Liquid oxygen. See Lox (liquid oxygen)
 
 Liquid Rocket Propulsion Laboratory
 (LRPL) research, 162-163, 164,
@@ -11583,10 +10434,8 @@ motor starting slugs, 106
 ozone and, 112-114
 RP-1 and, 105
 
-use of, 103, 118, 191; as A-4 oxi-
-dizer, 13; for nitromethane
-starts, 136; for long-range bal-
-listic missiles, 25
+use of, 103, 118, 191; as A-4 oxidizer, 13; for nitromethane
+starts, 136; for long-range ballistic missiles, 25
 See also Flox
 Lunar landers, 191
 Lutz, Otto, 13
@@ -11616,8 +10465,7 @@ Marsel, 36
 Martin, 137
 
 Mason, Dave, 54 n, 59, 62
-Massachusetts Institute of Technol-
-ogy (MIT), 68, 69
+Massachusetts Institute of Technology (MIT), 68, 69
 Maya, Walter, 84, 87
 Mead, Al, 163
 
@@ -11666,8 +10514,7 @@ MHF, 45, 77
 
 Midwest Research Institute, 144, 186
 Miller, R. O., 50, 59
-Minnesota Manufacturing and Min-
-ing, 167, 172, 173
+Minnesota Manufacturing and Mining, 167, 172, 173
 
 MMH. See Monomethyl hydrazine
 (MMH)
@@ -11697,8 +10544,7 @@ defined, 9
 
 
 burning rate determination, 137w
-detonation propagation and test-
-ing, 164-165
+detonation propagation and testing, 164-165
 future of, 191
 for guns, 135ra-136ra
 heterogenous, 186-189
@@ -11732,8 +10578,7 @@ Station (NARTS) research
 “NARTS Method of Performance
 Calculation,” 95
 
-National Advisory Council on Aero-
-nautics (NACA), 74, 194
+National Advisory Council on Aeronautics (NACA), 74, 194
 National Aeronautical And Space
 Administration (NASA), 86,
 122, 125
@@ -11780,11 +10625,9 @@ Niederhauser, W. D., 83, 167-168
 Nike Ajax missile, 44
 Nitrate salts
 
-of amines: monopropellant re-
-
+of amines: monopropellant re
 search with, 137-144, 144-145,
-147, 148-151, 153-158; struc-
-ture sensitivity relations, 150n
+147, 148-151, 153-158; structure sensitivity relations, 150n
 ol’ boron, 152
 methyl amine plus, 136
 of methylated UDMH, 156
@@ -11815,19 +10658,16 @@ problems with, 116-117
 specifications for, 117-118
 Nitric oxide, 55-57
 Nitrites, stability in acids, 58
-Nitrobenzene plus tetranitrometh-
-ane, 147
+Nitrobenzene plus tetranitromethane, 147
 
 Nitroethane, WFNA plus, 137
 Nitrogen
 
 fluorine compounds, 72, 169-173;
-oxidetrifluoride, 84-86; trifluo-
-ride, 8 In, 82 n, 83
+oxidetrifluoride, 84-86; trifluoride, 8 In, 82 n, 83
 mixed oxides, 56-57
 Nitrogen oxidetrifluoride (nitrosyl
-trifluoride; trifluoroamine ox-
-ide), 84-86
+trifluoride; trifluoroamine oxide), 84-86
 
 Nitrogen tetroxide, 7, 1 1
 freezing point, 25
@@ -11854,15 +10694,12 @@ Nitryl fluoride, 86
 Noeggerath, Wolfgang C., 13, 14, 15,
 16,17,116
 
-NOL. See Naval Ordnance Labora-
-tory (NOL)
+NOL. See Naval Ordnance Laboratory (NOL)
 
 Nomad motor, 111
-Noordung, Hermann (Captain Po-
-tocnik), 8
+Noordung, Hermann (Captain Potocnik), 8
 
-North American Aviation (NAA) re-
-search, 25, 40, 41, 51, 56
+North American Aviation (NAA) research, 25, 40, 41, 51, 56
 
 
 
@@ -11877,8 +10714,7 @@ liquid fluorine motor, 1 10
 Lox-alcohol system, 103
 NALAR, 64-65
 
-NOTS. See Naval Ordnance Test Sta-
-tion (NOTS) research
+NOTS. See Naval Ordnance Test Station (NOTS) research
 “Notsgel,” 182-183
 Nuclear rockets, 109, 191
 Nyberg, D. G., 179
@@ -11905,9 +10741,7 @@ Oxidizers
 missile type and, 63
 O/F ratio, 5, 195
 research in storable, 19-20
-See also Hybrid propellants; Mono-
-propellant/s); and specific com-
-pound
+See also Hybrid propellants; Monopropellant/s); and specific compound
 Oxygen
 
 equilibrium pressure and WFNA,
@@ -11965,12 +10799,10 @@ research on, 79-81, 119
 synthesis of, 80-81
 usefulness of, 191
 
-Perhydrodecaborate ion plus hy-
-drazine, 160-161
+Perhydrodecaborate ion plus hydrazine, 160-161
 Performance, 90-102
 absolute limits of, 190
-calculation: BN method, 96; com-
-puters and, 96, 97, 171-172;
+calculation: BN method, 96; computers and, 96, 97, 171-172;
 exhaust velocity, 91-94; graphic
 methods, 95-96; hand methods,
 91-94; kinetic programs in, 97;
@@ -12006,8 +10838,7 @@ thrust vs. power as measure of,
 See also specific compound
 Peroxide. See Hydrogen peroxide
 PF. See Perchloryl fluoride
-Phillips Petroleum Company re-
-search, 115
+Phillips Petroleum Company research, 115
 
 jet propellants, 34, 37-39
 monopropellants, 144, 146, 149,
@@ -12017,17 +10848,14 @@ Phoebus motors, 109
 Phosphates, hydrogen peroxide and,
 67
 
-Phosphorus derivatives as jet propel-
-lants, 34-35
+Phosphorus derivatives as jet propellants, 34-35
 Pilipovich, Donald, 84
 Pisani, Joe, 144-145, 147
 l’latz, G. M., 113
 
-Polyacetylenics. See specific com-
-pound
+Polyacetylenics. See specific compound
 
-Polyamines, 38; See also specific com-
-pound
+Polyamines, 38; See also specific compound
 
 Polyelhylene, RFNA plus, 186
 Pomcrantz, Phil, 177, 178, 179
@@ -12067,8 +10895,7 @@ Range, Grete, 17
 Rapp, Lou, 30-31, 35, 104, 160, 161
 Rau, Eric, 60
 
-Reaction Motors, Inc. (RMI) re-
-search, 25, 27, 28, 37, 40, 41,
+Reaction Motors, Inc. (RMI) research, 25, 27, 28, 37, 40, 41,
 43ra, 195
 
 boranes, 121, 123-124, 125, 126
@@ -12120,8 +10947,7 @@ Index
 
 furfuryl alcohol and, 27
 improvements in handling, 57
-inhibited: rocket grades, 118; Rus-
-sian use, 117, 118
+inhibited: rocket grades, 118; Russian use, 117, 118
 introduction of, 8
 JATO and, 20, 21
 military specifications for, 61-62
@@ -12256,9 +11082,7 @@ Space storable propellants, 57, 63,
 82, 83-86, 191
 Space travel
 motors for, 63, 85-86
-propellants for, 63, 191; dinitro-
-gentetrafluoride, 83-84; MON-
-10, 57
+propellants for, 63, 191; dinitrogentetrafluoride, 83-84; MON10, 57
 
 Specific impulse of propulsion, 97-
 OS, 171-172
@@ -12274,8 +11098,7 @@ Stanford Research Institute, 109
 Stannates, hydrogen peroxide and,
 67-68
 
-StnulFcr Chemical Company re-
-search, 82, 148, 168, 169
+StnulFcr Chemical Company research, 82, 148, 168, 169
 Still', 20
 
 Stock, Alfred, 120
@@ -12357,8 +11180,7 @@ storage problems, 183-186
 Thomas, D. D., 40
 Thompson, R. J., 26, 27
 Thompson, T. L., 44, 56, 61
-Thompson Ramo-Wooldridge Cor-
-poration (TRW), 86
+Thompson Ramo-Wooldridge Corporation (TRW), 86
 Thor Able rocket, 62«
 
 Thor rocket, 104, 105
@@ -12396,8 +11218,7 @@ Trimethylammonium nitrate, 138,
 Truax, Robert C., 20, 23, 103-104
 Tsander, F. A., 6-7, 9, 18
 Tsien, Hus Shen, 10
-Tsiolkovsky, Konstantin Eduardo-
-vitch, 3, 5, In, 106
+Tsiolkovsky, Konstantin Eduardovitch, 3, 5, In, 106
 Tuffly, Bartholomew, 84
 Tunkel, Steve, 176
 Turpentine
@@ -12411,8 +11232,7 @@ U
 
 U-DETA, 45
 
-UDMH. See Dimethyl hydrazine, un-
-symmetrical (UDMH)
+UDMH. See Dimethyl hydrazine, unsymmetrical (UDMH)
 
 UFA
 
@@ -12478,8 +11298,7 @@ Wasserfall SAM, 16
 Water
 
 hydrazine freezing point and, 40
-in RFNA, method of determina-
-tion, 54 n
+in RFNA, method of determination, 54 n
 
 in WFNA: ignition delay and, 51-
 54; measurement of, 52-54
@@ -12577,9 +11396,7 @@ M.S. from the University of Wisconsin, and, in 1934, the Ph.D. from
 Stanford University. He worked as a chemist in several industries
 prior to his association with NARTS.
 
-A great deal of Dr. Clark’s writing has been in the form of govern-
-ment reports which are classified, but he has also contributed sci-
-entific articles and papers in the open literature and, as an avocation,
+A great deal of Dr. Clark’s writing has been in the form of government reports which are classified, but he has also contributed scientific articles and papers in the open literature and, as an avocation,
 written stories and articles for science fiction magazines.
 
 

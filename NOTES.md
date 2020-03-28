@@ -87,7 +87,14 @@ Got 1. done with:
 Another one is hyphenated words.
 
 ```bash
-    perl -pe 's/-\n$//' ignition.md > foo
+perl -pe 's/-\n$//' ignition.md > foo
+```
+
+Uh, nope, because of number ranges and things like "1000-pound" and "16-faced".
+So let's ignore hyphenated digits, and deal with merging "1000=pound" and the like later.
+
+```bash
+perl -pe 's/(?<!\d)-\n$//' ignition.md > foo
 ```
 
 Also, this book has photos. Need to look at including them.

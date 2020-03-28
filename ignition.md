@@ -27,13 +27,10 @@ Liquid Rocket Propellants
 
 by John D. Clark
 
-
 Those who cannot remember the past are condemned to
 repeat it.
 
 George Santayana
-
-
 
 RUTGERS UNIVERSITY PRESS
 
@@ -46,7 +43,6 @@ Copyright © 1972 by Rutgers University, the State University of New Jersey
 Library of Congress Catalog Card Number: 72-185390
 
 ISBN: 0-8135-0725-1
-
 
 Manufactured in the United States of America by Quinn &amp; Boden Company, Inc., Rahway, New Jersey
 
@@ -136,9 +132,9 @@ Millions of words have been written about rocketry and space travel,
 and almost as many about the history and development of the rocket.
 But if anyone is curious about the parallel history and development
 of rocket propellants — the fuels and the oxidizers that make them
-go — he will find that there is no book which will tel] him what he
+go — he will find that there is no book which will tell him what he
 wants to know. There are a few texts which describe the propellants
-currently in use, but nowhere can he learn why these and not something else fuel Saturn V or Titan II, or SS-9. In this book I have tried
+currently in use, but nowhere can he learn _why_ these and not something else fuel Saturn V or Titan II, or SS-9. In this book I have tried
 to make that information available, and to tell the story of the development of liquid rocket propellants: the who, and when, and where
 and how and why of their development. The story of solid propellants
 will have to be told by somebody else.
@@ -155,11 +151,6 @@ opportunity to bring out repressed hostilities!” I agree.
 My sources were many and various. Contractor and government
 agency progress (sometimes!) reports, published collections of papers
 presented at various meetings, the memories of participants in the
-
-
-
-xii Preface
-
 story, intelligence reports; all have contributed. Since this is not a formal history, but an informal attempt by an active participant to tell
 the story as it happened, I haven’t attempted formal documentation.
 Particularly as in many cases such documentation would be embarrassing— not to say hazardous! It’s not only newsmen who have to protect their sources.
@@ -176,7 +167,7 @@ has been negligible.)
 
 The book is written not only for the interested layman — and for
 him I have tried to make things as simple as possible — but also for the
-professional engineer in the rocket business. For 1 have discovered
+professional engineer in the rocket business. For I have discovered
 that he is frequently abysmally ignorant of the history of his own profession, and, unless forcibly restrained, is almost certain to do something which, as we learned fifteen years ago, is not only stupid but is
 likely to result in catastrophe. Santayana knew exactly what he was
 talking about.
@@ -184,7 +175,7 @@ talking about.
 So I have described not only the brilliantly conceived programs of
 research and development, but have given equal time to those which,
 to put it mildly, were not so well advised. And I have told the stories
-of the triumphs of propellant research; and I have described the numerous blind alleys up which, from time to time, the propellant community unanimously charged, yapping as they went. .
+of the triumphs of propellant research; and I have described the numerous blind alleys up which, from time to time, the propellant community unanimously charged, yapping as they went.
 
 This book is opinionated. I have not hesitated to give my own opinion of a program, or of the intelligence — or lack of it — of the proposals made by various individuals. I make no apology for this, and
 can assure the reader that such criticism was not made with the advantage of 20-20 hindsight. At one point, in writing this book, when
@@ -193,13 +184,7 @@ they were made. Delving into my (very private) logbook, I found that
 I had described them then, simply as “Brainstorms and bullbleep!”
 So my opinion had not changed — at least, not noticeably.
 
-I make no claim to completeness, but I have tried to give an accurate account of the main lines of research. If anyone thinks that I
-
-
-
-Preface xiii
-
-have unreasonably neglected his work, or doesn’t remember things
+I make no claim to completeness, but I have tried to give an accurate account of the main lines of research. If anyone thinks that I have unreasonably neglected his work, or doesn’t remember things
 as I do, let him write to me, and the matter will be set right in the
 next (d.v.) edition. And if I seem to have placed undue emphasis on
 what happened in my own laboratory, it is not because my laboratory
@@ -215,28 +200,23 @@ with another in the next, should be no cause for confusion. People
 in the business were always changing jobs. I think I set some sort of
 a record by staying with the same organization for twenty years.
 
-One thing that is worth mentioning here is that this book is about a
-very few people. The propellant community — comprising those directing or engaged in liquid propellant research and development—
+One thing that is worth mentioning here is that this book is _about_ a
+very few people. The propellant community — comprising those directing or engaged in liquid propellant research and development —
 was never large. It included, at the most, perhaps two hundred people, three-quarters of whom were serving merely as hands, and doing
 what the other quarter told them to do. That one quarter was a remarkably interesting and amusing group of people, including a surprisingly small number (compared to most other groups of the same
 size) of dopes or phoneys. We all knew each other, of course, which
 made for the informal dissemination of information at a velocity approaching that of light. I benefited particularly from this, since, as I
-was working for Uncle, and not for a rival contractor, nobody hesilaled to give me “proprietory” information. If I wanted the straight
+was working for Uncle, and not for a rival contractor, nobody hesitated to give me “proprietory” information. If I wanted the straight
 dope from somebody, I knew I could get it at the bar at the next propellant meeting. (Many of the big propellant meetings were held in
-liotcls, whose management, intelligently, would always set up a bar
+hotels, whose management, intelligently, would always set up a bar
 just outside the meeting hall. If the meeting wasn’t in a hotel, I’d just
 look around for the nearest cocktail lounge; my man would probably
-he (here.) I would sit down beside him, and, when my drink had arrived, ask, “Joe, what did happen on that last test bring you made?
+he there.) I would sit down beside him, and, when my drink had arrived, ask, “Joe, what did happen on that last test firing you made?
 Sure, I’ve read your report, but I’ve written reports myself. What
 really happened?” Instant and accurate communication, without pain.
 
-Conformists were hard to bnd in the group. Almost to a man, they
+Conformists were hard to find in the group. Almost to a man, they
 were howling individualists. Sometimes they got along together —
-
-
-
-xiv Preface
-
 sometimes they didn’t, and management had to take that into account.
 When Charlie Tait left Wyandotte, and Lou Rapp left Reaction Motors, and they both came to Aerojet, the management of the latter,
 with surprising intelligence, stationed one of them in Sacramento and
@@ -251,7 +231,7 @@ that the others were the only people around competent to judge his
 work. Management seldom had the technical expertise, and since most
 of our work was classified, we couldn’t publish it to the larger scientific community. So praise from the in-group was valued accordingly.
 (When Irv Glassman, presenting a paper, mentioned “Clark’s classical work on explosive sensitivity,” it put me on cloud nine for a week.
-Classical, yet!) The result was a sort of group Narcissism which was
+_Classical_, yet!) The result was a sort of group Narcissism which was
 probably undesirable — but it made us work like Hell.
 
 We did that anyway. We were in a new and exciting field, possibilities were unlimited, and the world was our oyster just waiting to be
@@ -267,7 +247,7 @@ Newfoundland, N.J.
 
 January 1971
 
-
+<div id="toc" style="page-break-after: always;"></div>
 
 Contents
 
@@ -305,21 +285,21 @@ Glossary 193
 
 Index 197
 
+<div id="blank2" style="page-break-after: always;"></div>
 
-
+<div id="cover2" style="page-break-after: always;"></div>
 
 IGNITION!
 
+<div id="blank3" style="page-break-after: always;"></div>
 
+<div id="ch1" style="page-break-after: always;"></div>
 
+# 1
 
-1
+# How It Started
 
-
-How It Started
-
-
-The dear Queen had finally gone to her rewax'd, and King Edward
+The dear Queen had finally gone to her reward, and King Edward
 VII was enjoying himself immensely as he reigned over the Empire
 upon which the sun never set. Kaiser Wilhelm II in Germany was
 building battleships and making indiscreet remarks, and in the United

@@ -108,6 +108,10 @@ Note: I downloaded the PDF, but to prevent the two-page display from being off-b
 > View, Page Display,<br>
 > Show Cover Page in Two Page View.
 
+### em dash vs en dash?
+
+Looks like the OCR produces both kinds, probably should be only one kind.
+
 ## Ideas to do
 
 ### Reading out loud

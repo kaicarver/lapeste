@@ -43,13 +43,12 @@ New Brunswick, New Jersey
 
 Copyright © 1972 by Rutgers University, the State University of New Jersey
 
-library of Congress Catalog Card Number-. 72-185390
+Library of Congress Catalog Card Number: 72-185390
 
 ISBN: 0-8135-0725-1
 
 
-Manufactured in the Unitied States of America by Quinn &amp; Boden Company, Inc.,
-Rahway. New Jersey
+Manufactured in the United States of America by Quinn &amp; Boden Company, Inc., Rahway, New Jersey
 
 <div id="epigraph" style="page-break-after: always;"></div>
 
@@ -62,7 +61,7 @@ In Re John D. Clark
 by Isaac Asimov
 
 I first met John in 1942 when I came to Philadelphia to live. Oh, I 
-had known of him before. Back in 1937, he had published a pair of 
+had known _of_ him before. Back in 1937, he had published a pair of 
 science fiction shorts, “Minus Planet” and “Space Blister,” which had 
 hit me right between the eyes. The first one, in particular, was the 
 earliest science fiction story I know of which dealt with “anti-matter” 
@@ -86,14 +85,14 @@ cheered me.
 For all his kindness, however, he could not always resist the impulse 
 to take advantage of a greenhorn. 
 
-Kvery wall of his apartment was lined with books, floor to ceiling, 
-mid he loved displaying them to me. He explained that one wall was 
+Every wall of his apartment was lined with books, floor to ceiling, 
+and he loved displaying them to me. He explained that one wall was 
 devoted to fiction, one to histories, one to books on military affairs 
 and so on. 
 
 “Here,” he said, “is the Bible.” Then, with a solemn look on his 
 face, he added, “I have it in the fiction section, you’ll notice, under 
-J” 
+J.” 
 
 “Why J?” I asked. 
 
@@ -101,12 +100,9 @@ And John, delighted at the straight line, said, “J for Jehovah!”
 
 But the years passed and our paths separated. The war ended and 
 I returned to Columbia to go after my PhD (which John had already 
-earned by the time I first met him) while he went into the happy busi- 
-ness of designing rocket fuels. 
+earned by the time I first met him) while he went into the happy business of designing rocket fuels. 
 
-Now it is clear that anyone working with rocket fuels is outstand- 
-ingly mad. I don’t mean garden-variety crazy or a merely raving luna- 
-tic. I mean a record-shattering exponent of far-out insanity. 
+Now it is clear that anyone working with rocket fuels is outstandingly mad. I don’t mean garden-variety crazy or a merely raving lunatic. I mean a record-shattering exponent of far-out insanity. 
 
 There are, after all, some chemicals that explode shatteringly, some 
 that flame ravenously, some that corrode hellishly, some that poison 
@@ -114,8 +110,7 @@ sneakily, and some that stink stenchily. As far as I know, though, only
 liquid rocket fuels have all these delightful properties combined into 
 one delectable whole. 
 
-Well, John Clark worked with these miserable concoctions and sur- 
-vived all in one piece. What’s more he ran a laboratory for seventeen 
+Well, John Clark worked with these miserable concoctions and survived all in one piece. What’s more he ran a laboratory for seventeen 
 years that played footsie with these liquids from Hell and never had 
 a time-lost accident. 
 
@@ -128,9 +123,9 @@ other sky-high crackpots who were in the field with him and you may
 even get (as I did) a glimpse of the heroic excitement that seemed to 
 make it reasonable to cuddle with death every waking moment — to 
 say nothing of learning a heck of a lot about the way in which the 
-business of science is really conducted. 
+business of science is _really_ conducted. 
 
-It is a story only John can tel] so caustically well from the depths 
+It is a story only John can tell so caustically well from the depths 
 within. 
 
 <div id="preface" style="page-break-after: always;"></div>

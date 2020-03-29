@@ -285,6 +285,8 @@ January 1971
 
 [Index 197](#index)
 
+[About the Author](#about)
+
 <div id="blank2" style="page-break-after: always;"></div>
 
 <div id="cover2" style="page-break-after: always;"></div>
@@ -5622,13 +5624,11 @@ rocket. Maybe he’s got something there.
 * Of course this may mean that they are about to start working with it. Such review
 articles, in the U.S.S.R., frequently signal the start of a research program.
 
+<div id="ch10" style="page-break-after: always;"></div>
 
+# 10
 
-10
-
-
-"Exotics"
-
+# ["Exotics"](#toc)
 
 Fifteen years ago people used to ask me “What is an exotic fuel anyway?” and I would answer “It’s expensive, it’s got boron in it, and it
 probably doesn’t work.” I had intended, originally, to entitle this chapter “The Billion Buck Boron Booboo,” but decided against it on two
@@ -6082,13 +6082,11 @@ And the people who lost their shirts on boron stocks will have to
 discover a better way of getting rich from other people’s work. For
 them, my heart does not bleed.
 
+<div id="ch11" style="page-break-after: always;"></div>
 
+# 11
 
-11
-
-
-The Hopeful Monoprops
-
+# ["The Hopeful Monoprops"](#toc)
 
 Monopropellants, unlike Gaul, are divided into two parts. Low-energy
 monoprops are used for auxiliary power on a missile, sometimes for
@@ -8186,14 +8184,11 @@ high energy and stability. For all our efforts, no high energy monoprop
 has made the grade to operational status. Cavea B almost made it,
 but “almost” is not success. But it was a damned good try!
 
+<div id="ch12" style="page-break-after: always;"></div>
 
+# 12
 
-12
-
-
-High Density and
-the Higher Foolishness
-
+# [High Density and the Higher Foolishness](#toc)
 
 The idea of a hybrid rocket, one using a solid fuel and a liquid oxidizer is a very old one; in fact, Oberth had tried to make one for UFA
 back in 1929, and BMW had experimented with such a device during
@@ -8910,13 +8905,11 @@ worth fighting for. The beryllium-burning motor is probably a lost
 cause, but the lithium-fluorine-hydrogen system may well have a
 bright future.
 
+<div id="ch13" style="page-break-after: always;"></div>
 
+# 13
 
-13
-
-
-What Happens Next
-
+# [What Happens Next](#toc)
 
 The absolute limit to the performance of a chemical rocket, even in
 space, appears to be somewhere below 600 seconds. This is a frustrating situation, and various far-out methods of cracking this barrier
@@ -9015,10 +9008,9 @@ chemists have worked ourselves out of a job. The heroic age is over.
 
 But it was great fun while it lasted.
 
+<div id="glossary" style="page-break-after: always;"></div>
 
-
-Glossary
-
+# [Glossary](#toc)
 
 A
 
@@ -9336,11 +9328,9 @@ Force installation.
 
 White Fuming Nitric Acid.
 
+<div id="index" style="page-break-after: always;"></div>
 
-
-
-Index
-
+# [Index](#toc)
 
 A
 
@@ -11343,10 +11333,9 @@ Zletz, A., 50
 Zollinger, 172
 Zwjcky, Fritz, 136
 
+<div id="about" style="page-break-after: always;"></div>
 
-
-ABOUT THE AUTHOR
-
+# [About the Author](#toc)
 
 John D. Clark joined the Naval Air Rocket Test Station at Dover,
 NJ., in 1949. (It became the Liquid Rocket Propulsion Laboratory
@@ -11363,7 +11352,9 @@ prior to his association with NARTS.
 A great deal of Dr. Clark’s writing has been in the form of government reports which are classified, but he has also contributed scientific articles and papers in the open literature and, as an avocation,
 written stories and articles for science fiction magazines.
 
-
+<div id="engravinglabel" style="page-break-after: always;"></div>
 
 Engraving on plastic by Inga Pratt Clark, presented to Bob Border,
 Engineering Officer, NARTS, by the Propellant Division, 1959
+
+<div id="engraving" style="page-break-after: always;"></div>

@@ -263,7 +263,7 @@ January 1971
 
 [4 . . . and Its Mate](#ch4)
 
-5 Peroxide — Always a Bridesmaid 66
+[5 Peroxide — Always a Bridesmaid](#ch5)
 
 6 Halogens and Politics and Deep Space 72
 
@@ -3219,15 +3219,11 @@ about twelve years was hauled off the shelf and tired. And it worked.
 The hypergol and his mate had been captured and tamed. (Fade out
 into the sunset to the sound of music.)
 
+<div id="ch5" style="page-break-after: always;"></div>
 
+# 5
 
-5
-
-
-Peroxide —
-
-Always a Bridesmaid
-
+# [Peroxide — Always a Bridesmaid](#toc)
 
 Hydrogen peroxide can be called the oxidizer that never made it.
 (At least, it hasn’t yet.) Not that people weren’t interested in it — they

@@ -265,25 +265,25 @@ January 1971
 
 [5 Peroxide — Always a Bridesmaid](#ch5)
 
-6 Halogens and Politics and Deep Space 72
+[6 Halogens and Politics and Deep Space 72](#ch)
 
-7 Performance 90
+[7 Performance 90](#ch7)
 
-8 Lox and Flox and Cryogenics in General 103
+[8 Lox and Flox and Cryogenics in General 103](#ch8)
 
-9 What Ivan Was Doing 115
+[9 What Ivan Was Doing 115](#ch9)
 
-10 “Exotics” 120
+[10 “Exotics” 120](#ch10)
 
-11 The Hopeful Monoprops 131
+[11 The Hopeful Monoprops 131](#ch11)
 
-12 High Density and the Higher Foolishness 174
+[12 High Density and the Higher Foolishness 174](#ch12)
 
-13 What Happens Next 190
+[13 What Happens Next 190](#ch13)
 
-Glossary 193
+[Glossary 193](#glossary)
 
-Index 197
+[Index 197](#index)
 
 <div id="blank2" style="page-break-after: always;"></div>
 
@@ -3459,13 +3459,11 @@ than the 90 percent material, but all the drum beating indulged in
 by the manufacturers hasn’t got the bridesmaid into a bridal bed.
 Peroxide just didn’t make it.
 
+<div id="ch6" style="page-break-after: always;"></div>
 
+# 6
 
-6
-
-
-Halogens and
-Politics and Deep Space
+# [Halogens and Politics and Deep Space](#toc)
 
 
 While all of this was going on there were a lot of people who were not
@@ -4288,10 +4286,11 @@ the fluorination of C1 2 0 or, of all things, chlorine nitrate, or C10N0 2 . Its
 is 30.6°, and it has a high density, 1.852. And since it contains oxygen, it can be used
 with a carbon-containing fuel, such as UDMH.
 
+<div id="ch7" style="page-break-after: always;"></div>
 
+# 7
 
-Performance
-
+# [Performance](#toc)
 
 Since I’ve been talking about “performance” for some thousands of
 well chosen (I hope) words, it might not be a bad idea for me to explain, at this point, exactly what I mean by the word.
@@ -4880,14 +4879,11 @@ have to talk to Congress!”
 And he dreams wistfully of climbing into a cold Martini — and
 wonders why he ever got into this business.
 
+<div id="ch8" style="page-break-after: always;"></div>
 
+# 8
 
-8
-
-
-Lox and Flox and
-Cryogenics in General
-
+# [Lox and Flox and Cryogenics in General](#toc)
 
 While all this was going on, liquid oxygen was still very much in the
 picture. The sounding rocket Viking burned it with ethyl alcohol, as
@@ -5421,13 +5417,11 @@ fashion, there are very few true believers left, who are still convinced
 that ozone will somehow, someday, come into its own. I’m not one
 of them.
 
+<div id="ch9" style="page-break-after: always;"></div>
 
+# 9
 
-9
-
-
-What Ivan Was Doing
-
+# [What Ivan Was Doing](#toc)
 
 When the Russians moved into Germany, they put the chemists at
 the Luena works of I.G. Farben to work at propellant research. True,

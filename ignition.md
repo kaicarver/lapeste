@@ -1772,7 +1772,7 @@ would make them into useful fuels. One of the two was 1,6-heptadiyne, with the s
 other was 2-methyl- l-buten-3-yne, otherwise known as “isopropenyl acetylene” or “methyl vinyl acetylene,” whose skeleton is
 C
 
-C=C — C=C . One source of confusion in the history of the acetylenics is the multiplicity of systems by \vhich they were named!
+C=C — C=C . One source of confusion in the history of the acetylenics is the multiplicity of systems by which they were named!
 
 The first additives that they investigated thoroughly were methyl
 derivatives of phosphorous triamide, P(NH 2 ) 3 , with methyl groups
@@ -4440,7 +4440,7 @@ If you want a conservative figure, you choose to make a frozen
 equilibrium calculation. (It gives a lower value than a shifting equilibrium calculation.) And you plug the data from the chamber calculations into the following horrendous formula.
 
 
-c
+c =
 
 
 h Rr xcr
@@ -4448,10 +4448,10 @@ h Rr xcr
 
 L y — 1 M .
 
-\Pc/ JJ
+Pc JJ
 
 
-[ I nr, R is the universal gas contant, y is the ratio of specific heats,
+[ I nr, R is the universal gas constant, y is the ratio of specific heats,
 Cp/Cv of the chamber gases. M is their average molecular weight. Tc
 is the chamber temperature. Pe and Pc are the exhaust and chamber
 pressures respectively. This formula looks like a mess, and it is, but it
@@ -4469,7 +4469,7 @@ c =
 
 
 
-RICp ■
+RICp 
 
 
 1/2
@@ -5844,7 +5844,7 @@ boiling point) wouldn’t matter. Its natural partner was OF 2 (although
 ONF 3 would also be suitable) and from 1959 to the present that combination has been under investigation by several agencies, among
 
 
-‘■Exotics'
+‘Exotics'
 
 
 125

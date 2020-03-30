@@ -108,7 +108,19 @@ Identify these headers of two kinds:
 * \n{4} [even page number] Ignition (book title) \n{3}
 * \n{4} [chapter title] \n{3} [odd page number] \n{2}
 
-The corresponding regex would be...
+The corresponding regex would be... a PITA, ugh, the OCR did random stuff.
+
+```bash
+perl -0007 -pe 's/\n+\d+ Ignition\n+/\n/gm' ignition.md >foo
+
+perl -0007 -pe 's/\n\n+(How It Started|Peenemunde and JPL|The Hunting of the Hypergol . . .|. . . and Its Mate|Peroxide — Always a Bridesmaid|Halogens and Politics and Deep Space|Performance|Lox and Flox and Cryogenics in General|What Ivan Was Doing|“Exotics”|The Hopeful Monoprops|High Density and the Higher Foolishness|What Happens Next)\n+\d+\n+/\n/gm' foo > foo2
+
+perl -0007 -pe 's/\n\n+\d+\n+(How It Started|Peenemunde and JPL|The Hunting of the Hypergol . . .|. . . and Its Mate|Peroxide — Always a Bridesmaid|Halogens and Politics and Deep Space|Performance|Lox and Flox and Cryogenics in General|What Ivan Was Doing|“Exotics”|The Hopeful Monoprops|High Density and the Higher Foolishness|What Happens Next)\n+/\n/gm' foo2 > foo3
+
+perl -0007 -pe 's/\n+(How It Started|Peenemunde and JPL|The Hunting of the Hypergol|and Its Mate|Peroxide — Always a Bridesmaid|Halogens and Politics and Deep Space|Performance \d|Lox and Flox and Cryogenics in General|What Ivan Was Doing|“Exotics”|The Hopeful Monoprops|High Density and the Higher Foolishness|What Happens Next).*\n+/\n/gm' foo3 > foo4
+
+perl -0007 -pe 's/\n+(\d \d+ |\d+\n+|)Ignition\n+/\n/gm' foo4 > foo5
+```
 
 ### Other
 

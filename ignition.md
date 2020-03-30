@@ -1,3 +1,5 @@
+<div id="blank0" style="page-break-after: always;"></div>
+
 <div id="front"></div>
 
 IGNITION!
@@ -16,6 +18,8 @@ And this is what it may look like if something goes wrong. The same test cell,
 or its remains, is shown.
 
 <div id="blank" style="page-break-after: always;"></div>
+
+.
 
 <div id="front2" style="page-break-after: always;"></div>
 
@@ -49,6 +53,10 @@ Manufactured in the United States of America by Quinn &amp; Boden Company, Inc.,
 <div id="epigraph" style="page-break-after: always;"></div>
 
 This book is dedicated to my wife Inga, who heckled me into writing it with such wifely remarks as, “You talk a hell of a fine history. Now set yourself down in front of the typewriter — and write the damned thing!”
+
+<div id="blank2" style="page-break-after: always;"></div>
+
+.
 
 <div id="foreword" style="page-break-after: always;"></div>
 
@@ -287,13 +295,13 @@ January 1971
 
 [About the Author](#about)
 
-<div id="blank2" style="page-break-after: always;"></div>
+<div id="blank3" style="page-break-after: always;"></div>
 
 <div id="cover2" style="page-break-after: always;"></div>
 
 IGNITION!
 
-<div id="blank3" style="page-break-after: always;"></div>
+<div id="blank4" style="page-break-after: always;"></div>
 
 <div id="ch1" style="page-break-after: always;"></div>
 

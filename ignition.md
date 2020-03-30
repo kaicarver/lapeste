@@ -273,25 +273,25 @@ January 1971
 
 [5 Peroxide — Always a Bridesmaid](#ch5)
 
-[6 Halogens and Politics and Deep Space 72](#ch)
+[6 Halogens and Politics and Deep Space](#ch)
 
-[7 Performance 90](#ch7)
+[7 Performance](#ch7)
 
-[8 Lox and Flox and Cryogenics in General 103](#ch8)
+[8 Lox and Flox and Cryogenics in General](#ch8)
 
-[9 What Ivan Was Doing 115](#ch9)
+[9 What Ivan Was Doing](#ch9)
 
-[10 “Exotics” 120](#ch10)
+[10 “Exotics”](#ch10)
 
-[11 The Hopeful Monoprops 131](#ch11)
+[11 The Hopeful Monoprops](#ch11)
 
-[12 High Density and the Higher Foolishness 174](#ch12)
+[12 High Density and the Higher Foolishness](#ch12)
 
-[13 What Happens Next 190](#ch13)
+[13 What Happens Next](#ch13)
 
-[Glossary 193](#glossary)
+[Glossary](#glossary)
 
-[Index 197](#index)
+[Index](#index)
 
 [About the Author](#about)
 
@@ -340,9 +340,6 @@ energy to do the job.
 
 
 
-
-4 Ignition
-
 5. Liquid hydrogen would be a good fuel and liquid oxygen a good
 oxidizer, and the pair would make a nearly ideal propellant combination.
 
@@ -368,7 +365,7 @@ large-scale process for making liquid air, from which liquid oxygen
 (and liquid nitrogen) could be obtained, simply by fractional distillation.
 
 James Dewar (later Sir James, and the inventor of the Dewar flask
-and hence of the thermos botde), of the Royal Institute in London,
+and hence of the thermos bottle), of the Royal Institute in London,
 in 1897 liquefied fluorine, which had been isolated by Moisson only
 eleven years before, and reported that the density of the liquid was
 1.108. This wildly (and inexplicably) erroneous value (the actual density is 1.50) was duly embalmed in the literature, and remained there,
@@ -5842,7 +5839,6 @@ missile, of course (its boiling point is —92.5°) but might well be used
 in certain deep-space applications where its low density (0.433 at the
 boiling point) wouldn’t matter. Its natural partner was OF 2 (although
 ONF 3 would also be suitable) and from 1959 to the present that combination has been under investigation by several agencies, among
-
 
 ‘Exotics'
 

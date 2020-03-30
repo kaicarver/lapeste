@@ -273,7 +273,7 @@ January 1971
 
 [5 Peroxide — Always a Bridesmaid](#ch5)
 
-[6 Halogens and Politics and Deep Space](#ch)
+[6 Halogens and Politics and Deep Space](#ch6)
 
 [7 Performance](#ch7)
 
@@ -337,8 +337,6 @@ device which will work in empty space.
 energy to do the job.
 
 4. Certain liquids do possess the necessary energy.
-
-
 
 5. Liquid hydrogen would be a good fuel and liquid oxygen a good
 oxidizer, and the pair would make a nearly ideal propellant combination.

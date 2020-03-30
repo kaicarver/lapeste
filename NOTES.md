@@ -78,11 +78,15 @@ Two immediately obvious different ones:
 
 Both of these chould be easily correctable with a little program.
 
+#### Extra space
+
 Got 1. done with:
 
 ```bash
     perl -pe 's/[ \t]+$//' ignition.md > foo
 ```
+
+#### Hyphenated words
 
 Another one is hyphenated words.
 
@@ -96,6 +100,17 @@ So let's ignore hyphenated digits, and deal with merging "1000=pound" and the li
 ```bash
 perl -pe 's/(?<!\d)-\n$//' ignition.md > foo
 ```
+
+#### Chapter headers and page numbers separating pages
+
+Identify these headers of two kinds:
+
+* \n{4} [even page number] Ignition (book title) \n{3}
+* \n{4} [chapter title] \n{3} [odd page number] \n{2}
+
+The corresponding regex would be...
+
+### Other
 
 Also, this book has photos. Need to look at including them.
 

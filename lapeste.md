@@ -17,7 +17,7 @@ DANIEL DE FOE.
 
 <div id="ch1" style="page-break-after: always;"></div>
 
-I
+# [I](#toc)
 
 <div id="sec1" style="page-break-after: always;"></div>
 
@@ -2347,7 +2347,7 @@ de peste. Fermez la ville. »
 
 <div id="ch2" style="page-break-after: always;"></div>
 
-II
+# [II](#toc)
 
 <div id="sec9" style="page-break-after: always;"></div>
 
@@ -6093,7 +6093,7 @@ Il y eut un silence au bout du fil, et puis :
 
 <div id="ch3" style="page-break-after: always;"></div>
 
-III
+# [III](#toc)
 
 <div id="sec18" style="page-break-after: always;"></div>
 
@@ -6754,7 +6754,7 @@ nos coeurs, remplaçait alors l’amour.
 
 <div id="ch4" style="page-break-after: always;"></div>
 
-IV
+# [IV](#toc)
 
 <div id="sec19" style="page-break-after: always;"></div>
 
@@ -9613,7 +9613,7 @@ maladie.
 
 <div id="ch5" style="page-break-after: always;"></div>
 
-V
+# [V](#toc)
 
 <div id="sec26" style="page-break-after: always;"></div>
 

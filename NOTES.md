@@ -65,6 +65,10 @@ https://thisdavej.com/build-an-amazing-markdown-editor-using-visual-studio-code-
 
 Hmm could use a Markdown spellchecker... Is Code Spell Checker good enough?
 
+### Mme
+
+M superscript me
+
 ## Ignition!
 
 ### First look

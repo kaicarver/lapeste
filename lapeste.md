@@ -10103,6 +10103,7 @@ matin, mais n’avait pu sortir et venait de se recoucher.
 Mme Rieux était inquiète.
 
 – Ce n’est peut-être rien de grave, dit son fils.
+
 Tarrou était étendu de tout son long, sa lourde tête
 creusait le traversin, la poitrine forte se dessinait sous
 l’épaisseur des couvertures. Il avait de la fièvre, sa tête le
@@ -10117,6 +10118,7 @@ docteur dit à sa mère que ce pouvait être le
 commencement de la peste.
 
 – Oh ! dit-elle, ce n’est pas possible, pas maintenant !
+
 Et tout de suite après :
 
 – Gardons-le, Bernard.
@@ -10129,9 +10131,11 @@ prendrais pour moi, si tu n’étais pas là.
 
 – Bernard, dit-elle, garde-nous tous les deux. Tu sais
 bien que je viens d’être de nouveau vaccinée.
-Le docteur dit que Tarrou aussi l’était mais que, peutêtre,
+
+Le docteur dit que Tarrou aussi l’était mais que, peut-être,
 par fatigue, il avait dû laisser passer la dernière
 injection de sérum et oublier quelques précautions.
+
 Rieux allait déjà dans son cabinet. Quand il revint dans
 la chambre, Tarrou vit qu’il tenait les énormes ampoules
 de sérum.
@@ -10150,10 +10154,12 @@ en face.
 – Et l’isolement, Rieux ?
 
 – Il n’est pas du tout sûr que vous ayez la peste.
+
 Tarrou sourit avec effort.
 
 – C’est la première fois que je vois injecter un sérum
 sans ordonner en même temps l’isolement.
+
 Rieux se détourna :
 
 – Ma mère et moi, nous vous soignerons. Vous serez
@@ -10183,6 +10189,7 @@ sourire.
 
 – Merci. Je n’ai pas envie de mourir et je lutterai. Mais
 si la partie est perdue, je veux faire une bonne fin.
+
 Rieux se baissa et lui serra l’épaule.
 
 – Non, dit-il. Pour devenir un saint, il faut vivre.
@@ -10234,6 +10241,7 @@ de plus, elle s’appliquait à dérouter les stratégies dressées
 contre elle, elle apparaissait aux lieux où on ne l’attendait
 pas pour disparaître de ceux où elle semblait déjà
 installée. Une fois de plus, elle s’appliquait à étonner.
+
 Tarrou luttait, immobile. Pas une seule fois, au cours
 de la nuit, il n’opposa l’agitation aux assauts du mal,
 combattant seulement de toute son épaisseur et de tout
@@ -10288,6 +10296,7 @@ Peu avant l’aube, Rieux se pencha vers sa mère :
 
 – Tu devrais te coucher pour pouvoir me relayer à
 huit heures. Fais des instillations avant de te coucher.
+
 Mme Rieux se leva, rangea son tricot et s’avança vers
 le lit. Tarrou, depuis quelque temps déjà, tenait ses yeux
 fermés. La sueur bouclait ses cheveux sur le front dur.
@@ -10298,6 +10307,7 @@ se fermèrent aussitôt. Resté seul, Rieux s’installa dans le
 fauteuil que venait de quitter sa mère. La rue était
 muette et le silence maintenant complet. Le froid du
 matin commençait à se faire sentir dans la pièce.
+
 Le docteur s’assoupit, mais la première voiture de
 l’aube le tira de sa somnolence. Il frissonna et, regardant
 Tarrou, il comprit qu’une pause avait eu lieu et que le
@@ -10315,6 +10325,7 @@ sommeil.
 – Respirez-vous mieux ?
 
 – Un peu. Cela veut-il dire quelque chose ?
+
 Rieux se tut et, au bout d’un moment :
 
 – Non, Tarrou, cela ne veut rien dire. Vous connaissez
@@ -10323,6 +10334,7 @@ comme moi la rémission matinale.
 Tarrou approuva.
 
 – Merci, dit-il. Répondez-moi toujours exactement.
+
 Rieux s’était assis au pied du lit. Il sentait près de lui
 les jambes du malade, longues et dures comme des
 membres de gisant. Tarrou respirait plus fortement.
@@ -10331,6 +10343,7 @@ membres de gisant. Tarrou respirait plus fortement.
 d’une voix essoufflée.
 
 – Oui, mais à midi, nous serons fixés.
+
 Tarrou ferma les yeux, semblant recueillir ses forces.
 Une expression de lassitude se lisait sur ses traits. Il
 attendait la montée de la fièvre qui remuait déjà, quelque

@@ -9784,7 +9784,7 @@ manquer d’être approuvé par la population, les portes de
 la ville resteraient fermées pendant deux semaines
 encore et les mesures prophylactiques maintenues
 pendant un mois. Durant cette période, au moindre signe
-que le péril pouvait reprendre, « le statu quo devait être
+que le péril pouvait reprendre, « le _statu quo_ devait être
 maintenu et les mesures reconduites au-delà ». Tout le
 monde, cependant, fut d’accord pour considérer ces
 additions comme des clauses de style et, le soir du 25
@@ -10051,6 +10051,7 @@ Ils étaient devant la porte et se serraient la main.
 
 – Vous avez raison, disait Cottard, de plus en plus
 agité, repartir à zéro, ce serait une bonne chose.
+
 Mais, de l’ombre du couloir, deux hommes avaient
 surgi. Tarrou eut à peine le temps d’entendre son
 compagnon demander ce que pouvaient bien vouloir ces
@@ -10074,6 +10075,8 @@ finir, et c’est ici que les carnets de Tarrou se terminent,
 qu’il y avait toujours une heure de la journée et de la nuit
 où un homme était lâche et qu’il n’avait peur que de cette
 heure-là.
+
+<div id="sec28" style="page-break-after: always;"></div>
 
 Le surlendemain, quelques jours avant l’ouverture des
 portes, le docteur Rieux rentrait chez lui à midi, se
@@ -11203,6 +11206,8 @@ https://github.com/kaicarver/lapeste
     * [7](#sec25)
   * [V](#ch5)
     * [1](#sec26)
+    * [2](#sec27)
+    * [3](#sec28)
 
 * Appendices
   * [Édition électronique](#apropos)

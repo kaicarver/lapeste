@@ -10475,7 +10475,7 @@ imprécises, et à nouveau la respiration de la nuit.
 – Non.
 
 Il savait ce que sa mère pensait et qu’elle l’aimait, en
-ce moment. Mais il savait aussi que ce n’est pas grandchose
+ce moment. Mais il savait aussi que ce n’est pas grand-chose
 que d’aimer un être ou du moins qu’un amour n’est
 jamais assez fort pour trouver sa propre expression.
 Ainsi, sa mère et lui s’aimeraient toujours dans le silence.
@@ -10497,7 +10497,7 @@ De nouveau, une auto passa et Mme Rieux remua un
 peu sur sa chaise. Rieux lui sourit. Elle lui dit qu’elle
 n’était pas fatiguée et tout de suite après :
 
-– Il faudra que tu ailles te reposer en montagne, làbas.
+– Il faudra que tu ailles te reposer en montagne, là-bas.
 
 – Bien sûr, maman.
 
@@ -10521,6 +10521,7 @@ d’un homme qui prenait le volant de son auto à pleines
 mains pour le conduire ou celles de ce corps épais, étendu
 maintenant sans mouvement. Une chaleur de vie et une
 image de mort, c’était cela la connaissance.
+
 Voilà pourquoi, sans doute, le docteur Rieux, au matin,
 reçut avec calme la nouvelle de la mort de sa femme. Il
 était dans son bureau. Sa mère était venue presque en
@@ -10537,12 +10538,16 @@ Le docteur l’examina d’un air distrait.
 – Le télégramme ? demanda-t-elle.
 
 – C’est cela, reconnut le docteur. Il y a huit jours.
+
 Mme Rieux détourna la tête vers la fenêtre. Le docteur
 se taisait. Puis il dit à sa mère de ne pas pleurer, qu’il s’y
 attendait, mais que c’était quand même difficile.
 Simplement, il savait, disant cela, que sa souffrance était
 sans surprise. Depuis des mois et depuis deux jours,
 c’était la même douleur qui continuait.
+
+<div id="sec29" style="page-break-after: always;"></div>
+
 Les portes de la ville s’ouvrirent enfin, à l’aube d’une
 belle matinée de février, saluées par le peuple, les
 journaux, la radio et les communiqués de la préfecture. Il
@@ -11221,6 +11226,7 @@ https://github.com/kaicarver/lapeste
     * [1](#sec26)
     * [2](#sec27)
     * [3](#sec28)
+    * [4](#sec29)
 
 * Appendices
   * [Édition électronique](#apropos)

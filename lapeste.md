@@ -10599,6 +10599,7 @@ et le même désarroi. Car cet amour ou cette tendresse
 que les mois de peste avaient réduits à l’abstraction,
 Rambert attendait, dans un tremblement, de les
 confronter avec l’être de chair qui en avait été le support.
+
 Il aurait souhaité redevenir celui qui, au début de
 l’épidémie, voulait courir d’un seul élan hors de la ville et
 s’élancer à la rencontre de celle qu’il aimait. Mais il savait
@@ -10611,6 +10612,7 @@ n’avait pas sa présence d’esprit. Le bonheur arrivait à
 toute allure, l’événement allait plus vite que l’attente.
 Rambert comprenait que tout lui serait rendu d’un coup
 et que la joie est une brûlure qui ne se savoure pas.
+
 Tous, du reste, plus ou moins consciemment, étaient
 comme lui et c’est de tous qu’il faut parler. Sur ce quai de
 gare où ils recommençaient leur vie personnelle, ils
@@ -10652,6 +10654,7 @@ sentiment de la séparation avait atteint son sommet. Pour
 ceux-là, mères, époux, amants qui avaient perdu toute
 joie avec l’être maintenant égaré dans une fosse anonyme
 ou fondu dans un tas de cendre, c’était toujours la peste.
+
 Mais qui pensait à ces solitudes ? À midi, le soleil,
 triomphant des souffles froids qui luttaient dans l’air
 depuis le matin, déversait sur la ville les flots
@@ -10786,6 +10789,7 @@ Elle était dans ces broussailles odorantes sur les collines,
 dans la mer, les pays libres et le poids de l’amour. Et
 c’était vers elle, c’était vers le bonheur, qu’ils voulaient
 revenir, se détournant du reste avec dégoût.
+
 Quant au sens que pouvaient avoir cet exil et ce désir
 de réunion, Rieux n’en savait rien. Marchant toujours,
 pressé de toutes parts, interpellé, il arrivait peu à peu
@@ -10833,6 +10837,8 @@ de temps en temps au moins, la joie vînt récompenser
 ceux qui se suffisent de l’homme et de son pauvre et
 terrible amour.
 
+<div id="sec30" style="page-break-after: always;"></div>
+
 Cette chronique touche à sa fin. Il est temps que le
 docteur Bernard Rieux avoue qu’il en est l’auteur. Mais
 avant d’en retracer les derniers événements, il voudrait
@@ -10874,6 +10880,7 @@ n’y avait pas une de ses souffrances qui ne fût en même
 temps celle des autres et que dans un monde où la
 douleur est si souvent solitaire, cela était un avantage.
 Décidément, il devait parler pour tous.
+
 Mais il est un de nos concitoyens au moins pour lequel
 le docteur Rieux ne pouvait parler. Il s’agit, en effet, de
 celui dont Tarrou avait dit un jour à Rieux : « Son seul
@@ -10882,6 +10889,7 @@ faisait mourir des enfants et des hommes. Le reste, je le
 comprends, mais ceci, je suis obligé de le lui pardonner. »
 Il est juste que cette chronique se termine sur lui qui
 avait un coeur ignorant, c’est-à-dire solitaire.
+
 Quand il fut sorti des grandes rues bruyantes de la
 fête et au moment de tourner dans la rue de Grand et de
 Cottard, le docteur Rieux, en effet, fut arrêté par un
@@ -10892,6 +10900,7 @@ sa carte.
 
 – Impossible, docteur, dit l’agent. Il y a un fou qui tire
 sur la foule. Mais restez là, vous pourrez être utile.
+
 À ce moment, Rieux vit Grand qui venait vers lui.
 Grand ne savait rien non plus. On l’empêchait de passer
 et il avait appris que des coups de feu partaient de sa
@@ -10956,8 +10965,6 @@ derrière le docteur.
 
 – Les voilà, dit l’agent.
 
-– Les voilà, dit l’agent.
-
 Des policiers débouchèrent dans leur dos, portant des
 cordes, une échelle et deux paquets oblongs enveloppés
 de toile huilée. Ils s’engagèrent dans une rue qui
@@ -10966,6 +10973,7 @@ de Grand. Un moment après, on devina plutôt qu’on ne
 vit une certaine agitation dans les portes de ces maisons.
 Puis on attendit. Le chien ne bougeait plus, mais il
 baignait à présent dans une flaque sombre.
+
 Tout d’un coup, parti des fenêtres des maisons
 occupées par les agents, un tir de mitraillette se
 déclencha. Tout au long du tir, le volet qu’on visait encore
@@ -10992,6 +11000,7 @@ s’approcha de lui et le frappa deux fois, de toute la force
 de ses poings, posément, avec une sorte d’application.
 
 – C’est Cottard, balbutiait Grand. Il est devenu fou.
+
 Cottard était tombé. On vit encore l’agent lancer son
 pied à toute volée dans le tas qui gisait à terre. Puis un
 groupe confus s’agita et se dirigea vers le docteur et son
@@ -11011,12 +11020,14 @@ docteur. Il allait travailler. Mais au moment de monter, il
 lui dit qu’il avait écrit à Jeanne et que, maintenant, il était
 content. Et puis, il avait recommencé sa phrase : « J’ai
 supprimé, dit-il, tous les adjectifs. »
+
 Et avec un sourire malin, il enleva son chapeau dans
 un salut cérémonieux. Mais Rieux pensait à Cottard et le
 bruit sourd des poings qui écrasaient le visage de ce
 dernier le poursuivait pendant qu’il se dirigeait vers la
 maison du vieil asthmatique. Peut-être était-il plus dur de
 penser à un homme coupable qu’à un homme mort.
+
 Quand Rieux arriva chez son vieux malade, la nuit
 avait déjà dévoré tout le ciel. De la chambre, on pouvait
 entendre la rumeur lointaine de la liberté, et le vieux
@@ -11054,6 +11065,7 @@ dire, la peste ? C’est la vie, et voilà tout.
 
 – Oh ! ne craignez rien. J’en ai encore pour longtemps
 et je les verrai tous mourir. Je sais vivre, moi.
+
 Des hurlements de joie lui répondirent au loin. Le
 docteur s’arrêta au milieu de la chambre.
 
@@ -11061,6 +11073,7 @@ docteur s’arrêta au milieu de la chambre.
 
 – Oh non ! Vous voulez les voir de là-haut, hein ? À
 votre aise. Mais ils sont bien toujours les mêmes.
+
 Rieux se dirigea vers l’escalier.
 
 – Dites, docteur, c’est vrai qu’ils vont construire un
@@ -11069,6 +11082,7 @@ monument aux morts de la peste ?
 – Le journal le dit. Une stèle ou une plaque.
 
 – J’en étais sûr. Et il y aura des discours.
+
 Le vieux riait d’un rire étranglé.
 
 – Je les entends d’ici : « Nos morts… », et ils iront
@@ -11108,6 +11122,7 @@ moins un souvenir de l’injustice et de la violence qui leur
 avaient été faites, et pour dire simplement ce qu’on
 apprend au milieu des fléaux, qu’il y a dans les hommes
 plus de choses à admirer que de choses à mépriser.
+
 Mais il savait cependant que cette chronique ne
 pouvait pas être celle de la victoire définitive. Elle ne
 pouvait être que le témoignage de ce qu’il avait fallu
@@ -11116,6 +11131,7 @@ contre la terreur et son arme inlassable, malgré leurs
 déchirements personnels, tous les hommes qui, ne
 pouvant être des saints et refusant d’admettre les fléaux,
 s’efforcent cependant d’être des médecins.
+
 Écoutant, en effet, les cris d’allégresse qui montaient
 de la ville, Rieux se souvenait que cette allégresse était
 toujours menacée. Car il savait ce que cette foule en joie
@@ -11227,6 +11243,7 @@ https://github.com/kaicarver/lapeste
     * [2](#sec27)
     * [3](#sec28)
     * [4](#sec29)
+    * [5](#sec30)
 
 * Appendices
   * [Édition électronique](#apropos)

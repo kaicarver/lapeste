@@ -60,9 +60,9 @@ This book is dedicated to my wife Inga, who heckled me into writing it with such
 
 <div id="foreword" style="page-break-after: always;"></div>
 
-In Re John D. Clark
+# [In Re John D. Clark](#toc)
 
-by Isaac Asimov
+## by Isaac Asimov
 
 I first met John in 1942 when I came to Philadelphia to live. Oh, I
 had known _of_ him before. Back in 1937, he had published a pair of
@@ -134,7 +134,7 @@ within.
 
 <div id="preface" style="page-break-after: always;"></div>
 
-Preface
+# [Preface](#toc)
 
 Millions of words have been written about rocketry and space travel,
 and almost as many about the history and development of the rocket.

@@ -83,7 +83,7 @@ Both of these chould be easily correctable with a little program.
 Got 1. done with:
 
 ```bash
-    perl -pe 's/[ \t]+$//' ignition.md > foo
+perl -pe 's/[ \t]+$//' ignition.md > foo
 ```
 
 #### Hyphenated words
@@ -108,7 +108,10 @@ Identify these headers of two kinds:
 * \n{4} [even page number] Ignition (book title) \n{3}
 * \n{4} [chapter title] \n{3} [odd page number] \n{2}
 
-The corresponding regex would be... a PITA, ugh, the OCR did random stuff.
+The corresponding regex would be... a PITA, ugh, the OCR did random stuff
+with more patterns than listed above.
+
+Five search-and-replaces seem to have done the job:
 
 ```bash
 perl -0007 -pe 's/\n+\d+ Ignition\n+/\n/gm' ignition.md >foo

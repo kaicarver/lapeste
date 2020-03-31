@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>NOTES</title>
+  <style type="text/css">
+      code{white-space: pre-wrap;}
+      span.smallcaps{font-variant: small-caps;}
+      span.underline{text-decoration: underline;}
+      div.column{display: inline-block; vertical-align: top; width: 50%;}
+  </style>
+  <style type="text/css">
+a.sourceLine { display: inline-block; line-height: 1.25; }
+a.sourceLine { pointer-events: none; color: inherit; text-decoration: inherit; }
+a.sourceLine:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode { white-space: pre; position: relative; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+code.sourceCode { white-space: pre-wrap; }
+a.sourceLine { text-indent: -1em; padding-left: 1em; }
+}
+pre.numberSource a.sourceLine
+  { position: relative; left: -4em; }
+pre.numberSource a.sourceLine::before
+  { content: attr(data-line-number);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; pointer-events: all; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+    color: #aaaaaa;
+  }
+pre.numberSource { margin-left: 3em; border-left: 1px solid #aaaaaa;  padding-left: 4px; }
+div.sourceCode
+  {  }
+@media screen {
+a.sourceLine::before { text-decoration: underline; }
+}
+code span.al { color: #ff0000; font-weight: bold; } /* Alert */
+code span.an { color: #60a0b0; font-weight: bold; font-style: italic; } /* Annotation */
+code span.at { color: #7d9029; } /* Attribute */
+code span.bn { color: #40a070; } /* BaseN */
+code span.bu { } /* BuiltIn */
+code span.cf { color: #007020; font-weight: bold; } /* ControlFlow */
+code span.ch { color: #4070a0; } /* Char */
+code span.cn { color: #880000; } /* Constant */
+code span.co { color: #60a0b0; font-style: italic; } /* Comment */
+code span.cv { color: #60a0b0; font-weight: bold; font-style: italic; } /* CommentVar */
+code span.do { color: #ba2121; font-style: italic; } /* Documentation */
+code span.dt { color: #902000; } /* DataType */
+code span.dv { color: #40a070; } /* DecVal */
+code span.er { color: #ff0000; font-weight: bold; } /* Error */
+code span.ex { } /* Extension */
+code span.fl { color: #40a070; } /* Float */
+code span.fu { color: #06287e; } /* Function */
+code span.im { } /* Import */
+code span.in { color: #60a0b0; font-weight: bold; font-style: italic; } /* Information */
+code span.kw { color: #007020; font-weight: bold; } /* Keyword */
+code span.op { color: #666666; } /* Operator */
+code span.ot { color: #007020; } /* Other */
+code span.pp { color: #bc7a00; } /* Preprocessor */
+code span.sc { color: #4070a0; } /* SpecialChar */
+code span.ss { color: #bb6688; } /* SpecialString */
+code span.st { color: #4070a0; } /* String */
+code span.va { color: #19177c; } /* Variable */
+code span.vs { color: #4070a0; } /* VerbatimString */
+code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warning */
+  </style>
+  <link rel="stylesheet" href="css/style.css" />
+  <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+  <![endif]-->
+</head>
+<body>
+<h1 id="implementation-notes">Implementation notes</h1>
+<p>This is just to document various choices I made along the way of doing this.</p>
+<h2 id="format">Format</h2>
+<p>The best thing I found to start making a readable document is to convert to Markdown. This requires very little change, mostly adding some blank lines, and presto! the justification happens on its own.</p>
+<h2 id="chapters">Chapters</h2>
+<p>This is what I found to do page breaks, such as to start new chapters:</p>
+<div class="sourceCode" id="cb1"><pre class="sourceCode html"><code class="sourceCode html"><a class="sourceLine" id="cb1-1" data-line-number="1"><span class="kw">&lt;div</span><span class="ot"> style=</span><span class="st">&quot;page-break-after: always;&quot;</span><span class="kw">&gt;&lt;/div&gt;</span></a></code></pre></div>
+<p>Trick found here:</p>
+<p><a href="https://stackoverflow.com/questions/22601053/pagebreak-in-markdown-while-creating-pdf">https://stackoverflow.com/questions/22601053/pagebreak-in-markdown-while-creating-pdf</a></p>
+<h2 id="problems-specific-to-the-la-peste-text">Problems specific to the <em>La Peste</em> text</h2>
+<h3 id="duplicate-lines">Duplicate lines</h3>
+<p>Lines are sometimes duplicated, corresponding to page breaks in the PDF. This should be easily corrected by program, as it's unlikely there are intentionally repeated lines in the text.</p>
+<p>Used this:</p>
+<pre><code>perl -ne &#39;print if $_ eq &quot;\n&quot; || $_ ne $prev; $prev = $_&#39; &lt; lapeste.md &gt; foo 
+</code></pre>
+<h3 id="missing-hyphens">Missing hyphens</h3>
+<p>When words are hyphenated for a line break in the PDF, the hyphen disappears in the text, and the two parts are stuck together. Correcting this requires tedious spotting of all occurrences of such line-ending hyphens in the PDF and adding them by hand back in the text.</p>
+<p>Actually many such cases may be automatically found, because such lines are longer than normal, but since it's proportional-width characters, there's no such thing as a standard line length.</p>
+<h3 id="closing-quotes-wrong?">Closing quotes wrong?</h3>
+<p>maybe not</p>
+<p>Start with « and end with » unless multiple paragraphs then end all but last paragraph with ”... Need to check if this is a rule.</p>
+<h3 id="special-paragraph-breaks">Special paragraph breaks</h3>
+<p>At the beginning of every section, the first paragraph has more space after it than the usual paragraphs.</p>
+<p>And there are cases where this happens inside the text, for example:</p>
+<blockquote>
+<p>C’était ce genre d’évidence ou d’appréhensions, en tout cas, qui entretenait chez nos concitoyens le sentiment de leur exil et de leur séparation.</p>
+</blockquote>
+<p>Need to deal with this somehow, with extra markup?</p>
+<p>for now marked with</p>
+<pre><code>&lt;div id=&quot;space&quot; style=&quot;&quot;&gt;&lt;/div&gt;
+</code></pre>
+<h3 id="generating-html-etc.">Generating HTML etc.</h3>
+<p>This nice blog post taught me stuff about using Markdown in VS Code (snippets! Ctrl-Space link) and led me to installing a bunch of stuff, extension for lintin Markdown, Pandoc, Pandoc extension, TexLive for PDF</p>
+<p><a href="https://thisdavej.com/build-an-amazing-markdown-editor-using-visual-studio-code-and-pandoc/">https://thisdavej.com/build-an-amazing-markdown-editor-using-visual-studio-code-and-pandoc/</a></p>
+<p>Hmm could use a Markdown spellchecker... Is Code Spell Checker good enough?</p>
+<h2 id="ignition!">Ignition!</h2>
+<h3 id="first-look">First look</h3>
+<p>The text has some similar issues to <em>La Peste</em>, some different.</p>
+<p>Two immediately obvious different ones:</p>
+<ol>
+<li>extra space at the end of every line</li>
+<li>chapter headers of each page mixed in the text, should be removed.</li>
+</ol>
+<p>Both of these chould be easily correctable with a little program.</p>
+<h4 id="extra-space">Extra space</h4>
+<p>Got 1. done with:</p>
+<div class="sourceCode" id="cb4"><pre class="sourceCode bash"><code class="sourceCode bash"><a class="sourceLine" id="cb4-1" data-line-number="1"><span class="fu">perl</span> -pe <span class="st">&#39;s/[ \t]+$//&#39;</span> ignition.md <span class="op">&gt;</span> foo</a></code></pre></div>
+<h4 id="hyphenated-words">Hyphenated words</h4>
+<p>Another one is hyphenated words.</p>
+<div class="sourceCode" id="cb5"><pre class="sourceCode bash"><code class="sourceCode bash"><a class="sourceLine" id="cb5-1" data-line-number="1"><span class="fu">perl</span> -pe <span class="st">&#39;s/-\n$//&#39;</span> ignition.md <span class="op">&gt;</span> foo</a></code></pre></div>
+<p>Uh, nope, because of number ranges and things like &quot;1000-pound&quot; and &quot;16-faced&quot;. So let's ignore hyphenated digits, and deal with merging &quot;1000=pound&quot; and the like later.</p>
+<div class="sourceCode" id="cb6"><pre class="sourceCode bash"><code class="sourceCode bash"><a class="sourceLine" id="cb6-1" data-line-number="1"><span class="fu">perl</span> -pe <span class="st">&#39;s/(?&lt;!\d)-\n$//&#39;</span> ignition.md <span class="op">&gt;</span> foo</a></code></pre></div>
+<h4 id="chapter-headers-and-page-numbers-separating-pages">Chapter headers and page numbers separating pages</h4>
+<p>Identify these headers of two kinds:</p>
+<ul>
+<li>\n{4} [even page number] Ignition (book title) \n{3}</li>
+<li>\n{4} [chapter title] \n{3} [odd page number] \n{2}</li>
+</ul>
+<p>The corresponding regex would be... a PITA, ugh, the OCR did random stuff with more patterns than listed above.</p>
+<p>Five search-and-replaces seem to have done the job:</p>
+<div class="sourceCode" id="cb7"><pre class="sourceCode bash"><code class="sourceCode bash"><a class="sourceLine" id="cb7-1" data-line-number="1"><span class="fu">perl</span> -0007 -pe <span class="st">&#39;s/\n+\d+ Ignition\n+/\n/gm&#39;</span> ignition.md <span class="op">&gt;</span>foo</a>
+<a class="sourceLine" id="cb7-2" data-line-number="2"></a>
+<a class="sourceLine" id="cb7-3" data-line-number="3"><span class="fu">perl</span> -0007 -pe <span class="st">&#39;s/\n\n+(How It Started|Peenemunde and JPL|The Hunting of the Hypergol . . .|. . . and Its Mate|Peroxide — Always a Bridesmaid|Halogens and Politics and Deep Space|Performance|Lox and Flox and Cryogenics in General|What Ivan Was Doing|“Exotics”|The Hopeful Monoprops|High Density and the Higher Foolishness|What Happens Next)\n+\d+\n+/\n/gm&#39;</span> foo <span class="op">&gt;</span> foo2</a>
+<a class="sourceLine" id="cb7-4" data-line-number="4"></a>
+<a class="sourceLine" id="cb7-5" data-line-number="5"><span class="fu">perl</span> -0007 -pe <span class="st">&#39;s/\n\n+\d+\n+(How It Started|Peenemunde and JPL|The Hunting of the Hypergol . . .|. . . and Its Mate|Peroxide — Always a Bridesmaid|Halogens and Politics and Deep Space|Performance|Lox and Flox and Cryogenics in General|What Ivan Was Doing|“Exotics”|The Hopeful Monoprops|High Density and the Higher Foolishness|What Happens Next)\n+/\n/gm&#39;</span> foo2 <span class="op">&gt;</span> foo3</a>
+<a class="sourceLine" id="cb7-6" data-line-number="6"></a>
+<a class="sourceLine" id="cb7-7" data-line-number="7"><span class="fu">perl</span> -0007 -pe <span class="st">&#39;s/\n+(How It Started|Peenemunde and JPL|The Hunting of the Hypergol|and Its Mate|Peroxide — Always a Bridesmaid|Halogens and Politics and Deep Space|Performance \d|Lox and Flox and Cryogenics in General|What Ivan Was Doing|“Exotics”|The Hopeful Monoprops|High Density and the Higher Foolishness|What Happens Next).*\n+/\n/gm&#39;</span> foo3 <span class="op">&gt;</span> foo4</a>
+<a class="sourceLine" id="cb7-8" data-line-number="8"></a>
+<a class="sourceLine" id="cb7-9" data-line-number="9"><span class="fu">perl</span> -0007 -pe <span class="st">&#39;s/\n+(\d \d+ |\d+\n+|)Ignition\n+/\n/gm&#39;</span> foo4 <span class="op">&gt;</span> foo5</a></code></pre></div>
+<h3 id="other">Other</h3>
+<p>Also, this book has photos. Need to look at including them.</p>
+<p>The Internet Archive, where the text comes from, also has an easy-to-read visual version of the book, useful for copyediting.</p>
+<p><a href="https://archive.org/details/ignition_201612/">https://archive.org/details/ignition_201612/</a></p>
+<p>Note: I downloaded the PDF, but to prevent the two-page display from being off-by-one, use the option in Adobe Acrobat Reader DC:</p>
+<blockquote>
+<p>View, Page Display,<br> Show Cover Page in Two Page View.</p>
+</blockquote>
+<h3 id="em-dash-vs-en-dash?">em dash vs en dash?</h3>
+<p>Looks like the OCR produces both kinds, probably should be only one kind.</p>
+<h2 id="ideas-to-do">Ideas to do</h2>
+<h3 id="reading-out-loud">Reading out loud</h3>
+<h4 id="by-machine">By machine</h4>
+<p>The text should be in a format suitable for reading out loud by a machine.</p>
+<p>Could use, for example, this kind of speech synthesis: <a href="https://www.textfromtospeech.com/en/text-to-voice/">https://www.textfromtospeech.com/en/text-to-voice/</a> <a href="https://stackoverflow.com/questions/21947730/chrome-speech-synthesis-with-longer-texts">https://stackoverflow.com/questions/21947730/chrome-speech-synthesis-with-longer-texts</a></p>
+<h4 id="by-humans">By humans</h4>
+<p>Could have optional recording of a reading to complement the machine reading by speech synthesis, which would then be more of a fallback if no human reading is available.</p>
+<h3 id="read-and-play">Read and play</h3>
+<p>And there could even be a kind of read and play mode, a la YH Chang Industries</p>
+<h3 id="index-or-concordance">Index or concordance</h3>
+<p>Might be fun and easy to add an index. Not sure how useful though.</p>
+<h3 id="vocal-assistant-for-proof-reading">Vocal assistant for proof reading</h3>
+<p>Reads out loud first words of every paragraph, for someone to follow as they check a printed copy.</p>
+</body>
+</html>

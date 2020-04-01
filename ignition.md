@@ -2,7 +2,7 @@
 
 <div id="front"></div>
 
-IGNITION!
+# [IGNITION!](#toc)
 
 <div id="frontphoto1" style="page-break-after: always;"></div>
 
@@ -19,20 +19,18 @@ or its remains, is shown.
 
 <div id="blank" style="page-break-after: always;"></div>
 
-.
-
 <div id="front2" style="page-break-after: always;"></div>
 
-IGNITION!
+# [IGNITION!](#toc)
 
-An Informal History of
+## An Informal History of
 
-Liquid Rocket Propellants
+## Liquid Rocket Propellants
 
-by John D. Clark
+### by John D. Clark
 
-Those who cannot remember the past are condemned to
-repeat it.
+_Those who cannot remember the past are condemned to
+repeat it._
 
 George Santayana
 
@@ -55,8 +53,6 @@ Manufactured in the United States of America by Quinn &amp; Boden Company, Inc.,
 This book is dedicated to my wife Inga, who heckled me into writing it with such wifely remarks as, “You talk a hell of a fine history. Now set yourself down in front of the typewriter — and write the damned thing!”
 
 <div id="blank2" style="page-break-after: always;"></div>
-
-.
 
 <div id="foreword" style="page-break-after: always;"></div>
 

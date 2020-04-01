@@ -1,6 +1,13 @@
 # La Peste project
 
-Goal: make a readable version of La Peste by Albert Camus for myself.
+Goal: make a readable version of La Peste by Albert Camus, and maybe other books, for myself.
+
+Work in progress:
+
+* [La Peste](https://raw.githack.com/kaicarver/lapeste/master/lapeste.html)
+* [Ignition!](https://raw.githack.com/kaicarver/lapeste/master/ignition.html)
+
+## La Peste
 
 I'm starting with a copy/paste from a PDF I found I forgot where, I'll add it if I find it, just for reference. It's pretty horrible, with no margins, but hey, better than nothing.
 
@@ -25,7 +32,7 @@ https://stackoverflow.com/questions/21947730/chrome-speech-synthesis-with-longer
 
 And there could even be a kind of read and play mode, a la YH Chang Industries
 
-## Ignition
+## Ignition!
 
 I had the same thought for another text that needs formatting, 
 _IGNITION! An Informal History of Liquid Rocket Propellants_,

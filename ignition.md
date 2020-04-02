@@ -408,8 +408,8 @@ from burning up.
 
 The impetus for the next generation of experimenters came in
 1923, from a book by a completely unknown Transylvanian German,
-one Herman Oberth. The title was Die Rakete zu den Planetenraumen,
-or The Rocket into Planetary Space, and it became, surprisingly, something of a minor best seller. People started thinking about rockets —
+one Herman Oberth. The title was _Die Rakete zu den Planetenraumen_,
+or _The Rocket into Planetary Space_, and it became, surprisingly, something of a minor best seller. People started thinking about rockets —
 practically nobody had heard of Goddard, who worked in exaggerated
 and unnecessary secrecy — and some of the people who thought about
 rockets decided to do something about them. First, they organized
@@ -418,9 +418,9 @@ generally known as the VfR, was the first, in June 1927. The American Interplane
 Interplanetary Society in 1933, and two Russian groups, one in Leningrad and one in Moscow, in 1929. Then, they lectured and wrote
 books about rockets and interplanetary travel. Probably the most
 important of these was Robert Esnault-Pelterie’s immensely detailed
-L’Astronautique, in 1930. And Fritz Lang made a movie about space
-travel — Frau in Monel, or The Woman on the Moon, and hired Oberth as
-technical adviser. And it was agreed that Lang and the him company
+_L’Astronautique_, in 1930. And Fritz Lang made a movie about space
+travel — _Frau in Mond_, or _The Woman on the Moon_, and hired Oberth as
+technical adviser. And it was agreed that Lang and the film company
 (UFA) would put up the money necessary for Oberth to design and
 build a liquid-fueled rocket which would be bred, as a publicity stunt,
 on the day of the premiere of the movie.
@@ -462,30 +462,22 @@ started work in 1929, first with gasoline and gaseous air, and then, in
 1931, with gasoline and liquid oxygen.
 
 Another group was in Italy, headed by Luigi Crocco, and financed,
-reluctantly, by the Italian General Staff.*
+reluctantly, by the Italian General Staff.[^*]
+
+[^*]:The fact that the whole project was headed 
+by a General G. A. Crocco is no coincidence.
+He was Luigi’s father, and an Italian father 
+is comparable to a Jewish mother.
 
 Crocco started to work on liquid rockets in 1929, and by the early
 part of 1930 was ready for test firings. His work is notable not only
 for the surprising sophistication of his motor design, but above all for
 his propellants. He used gasoline for his fuel, which is not surprising,
 but for his oxidizer he broke away from oxygen, and used nitrogen
-tetroxide, N 2 0 4 . This was a big step — nitrogen tetroxide, unlike oxygen, can be stored indefinitely at room temperature — but nobody outside of his own small group heard of the work for twenty-four years! f
+tetroxide, N 2 0 4 . This was a big step — nitrogen tetroxide, unlike oxygen, can be stored indefinitely at room temperature — but nobody outside of his own small group heard of the work for twenty-four years![^†]
 
-V. P. Glushko, another aeronautical engineer, headed the rocket
-group in Leningrad. He had suggested suspensions of powdered
-beryllium in oil or gasoline as fuels, but in his first brings in 1930, he
-used straight toluene. And he took the same step — independently — as
-had Crocco. He used nitrogen tetroxide for his oxidizer.
-
-The VfR was completely unaware of all of this when they started
-work. Oberth had originally wanted to use methane as fuel, but as it
-was hard to come by in Berlin, their brst work was with gasoline and
-
-
-* The fact that the whole project was headed by a General G. A. Crocco is no coincidence. He was Luigi’s father, and an Italian father is comparable to a Jewish mother.
-
-t In a letter to El Comercio, of Lima, Peru, 7 October, 1927, one Pedro A. Paulet, a
-Peruvian chemical engineer, claimed to have experimented -in 1895-97 (!)-with a
+[^†]: In a letter to _El Comercio_, of Lima, Peru, 7 October, 1927, one Pedro A. Paulet, a
+Peruvian chemical engineer, claimed to have experimented -- in 1895-97 (!) -- with a
 rocket motor burning gasoline and nitrogen tetroxide. If this claim has any foundation
 in fact, Paulet anticipated not only Goddard but even Tsiolkovsky.
 
@@ -502,8 +494,17 @@ racket would have convinced the Parisians that the Commune had returned to take 
 vengeance on the Republic, and would certainly be remembered by somebody beside
 Paulet! But only Paulet remembered.
 
-In my book, Paulet’s claims are completely false, and his alleged firings never took
-place.
+In my book, Paulet’s claims are completely false, and his alleged firings never took place.
+
+V. P. Glushko, another aeronautical engineer, headed the rocket
+group in Leningrad. He had suggested suspensions of powdered
+beryllium in oil or gasoline as fuels, but in his first brings in 1930, he
+used straight toluene. And he took the same step — independently — as
+had Crocco. He used nitrogen tetroxide for his oxidizer.
+
+The VfR was completely unaware of all of this when they started
+work. Oberth had originally wanted to use methane as fuel, but as it
+was hard to come by in Berlin, their brst work was with gasoline and
 oxygen. Johannes Winkler, however, picked up the idea, and working independently of the VfR, was able to fire a liquid oxygen-liquid
 methane motor before the end of 1930. This work led nowhere in
 particular, since, as methane has a performance only slightly superior

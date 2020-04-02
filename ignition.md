@@ -498,13 +498,13 @@ and his alleged firings never took place.
 
 V. P. Glushko, another aeronautical engineer, headed the rocket
 group in Leningrad. He had suggested suspensions of powdered
-beryllium in oil or gasoline as fuels, but in his first brings in 1930, he
+beryllium in oil or gasoline as fuels, but in his first firings in 1930, he
 used straight toluene. And he took the same step — independently — as
 had Crocco. He used nitrogen tetroxide for his oxidizer.
 
 The VfR was completely unaware of all of this when they started
 work. Oberth had originally wanted to use methane as fuel, but as it
-was hard to come by in Berlin, their brst work was with gasoline and
+was hard to come by in Berlin, their best work was with gasoline and
 oxygen. Johannes Winkler, however, picked up the idea, and working independently of the VfR, was able to fire a liquid oxygen-liquid
 methane motor before the end of 1930. This work led nowhere in
 particular, since, as methane has a performance only slightly superior
@@ -517,7 +517,7 @@ rockets) who bred a motor early in March 1931. He was somewhat
 coy about his fuel, calling it merely a “carbon carrier,” but Willy Ley
 has suggested that it may well have been a light fuel oil, or benzene,
 into which had been stirred considerable quantities of powdered carbon or lampblack. As a pyrotechnician, Sander would naturally think
-of carbon as the fuel, and one Hermann Noordung (the pseudonym
+of carbon as _the_ fuel, and one Hermann Noordung (the pseudonym
 of Captain Potocnik of the old Imperial Austrian army), the year before, had suggested a suspension of carbon in benzene as a fuel. (The
 idea was to increase the density of the fuel, so that smaller tanks might
 be used.) The important thing about Sander’s work is that he introduced another oxidizer, red fuming nitric acid. (This is nitric acid
@@ -531,7 +531,7 @@ come up, independently, with this oxidizer. But that was to be a repeating patte
 generally surface simultaneously with identical bones in their teeth!
 His use of benzene (as Glushko’s of toluene) as a fuel is rather odd.
 Neither of them is any improvement on gasoline as far as performance
-goes, and they are both much more expensive. And then EsnaultPelterie tried to use tetranitro methane, C(N0 2 ) 4 for his oxidizer, and
+goes, and they are both much more expensive. And then Esnault-Pelterie tried to use tetranitromethane, C(NO<sub>2</sub>)<sub>4</sub> for his oxidizer, and
 promptly blew off four fingers. (This event was to prove typical of
 TNM work.)
 
@@ -544,7 +544,7 @@ not followed up.
 Late in 1931 Klaus Riedel of the VfR designed a motor for a new
 combination, and it was fired early in 1932. It used liquid oxygen, as
 usual, but the fuel, conceived by Riedel and Willy Ley, was a 60-40
-mixture of ethyl alchol and water, The performance was somewhat
+mixture of ethyl alcohol and water. The performance was somewhat
 below that of gasoline, but the flame temperature was much lower,
 cooling was simpler, and the hardware lasted longer. This was the
 VfR’s major contribution to propellant technology, leading in a
@@ -564,7 +564,7 @@ When this was injected into the motor and hit the oxygen it ignited
 spontaneously, so that when the fuel oil arrived the fire was already
 burning nicely. He also compiled a long list, the first of many, of
 possible fuels, ranging from hydrogen to pure carbon, and calculated
-the performance of each with oxygen and with N 2 0 5 . (The latter,
+the performance of each with oxygen and with N<sub>2</sub>O<sub>5</sub>. (The latter,
 being not only unstable, but a solid to boot, has naturally never been
 used.) Unfortunately, in his calculations he somewhat naively assumed
 100 percent thermal efficiency, which would involve either (a) an
@@ -586,7 +586,7 @@ looks attractive. You have only one fluid to inject into the chamber,
 which simplifies your plumbing, your mixture ratio is built in and
 stays where you want it, you don’t have to worry about building an
 injector which will mix the fuel and the oxidizer properly, and things
-are simpler all around. But! Any intimate mixture of a fuel and an
+are simpler all around. _But!_ Any intimate mixture of a fuel and an
 oxidizer is a potential explosive, and a molecule with one reducing
 (fuel) end and one oxidizing end, separated by a pair of firmly crossed
 fingers, is an invitation to disaster.
@@ -617,7 +617,7 @@ as a monopropellant. This work was not made public — the Luftwaffe
 could see uses for it — but it was continued and led to many things in
 the next few years.
 
-Tjhe last strictly prewar work that should be considered is that of
+The last strictly prewar work that should be considered is that of
 Frank Malina’s group at GALCIT. (Guggenheim Aeronautical Laboratories, California Institute of Technology.) In February of 1936
 he planned his PhD thesis project, which was to be the development of
 a liquid-fueled sounding rocket. The group that was to do the job
@@ -626,7 +626,7 @@ six people, included Malina himself, John W. Parsons, the chemist of
 the group, Weld Arnold, who put up a little money, and Hsu Shen
 Tsien, who, thirty years later, was to win fame as the creator of
 Communist China’s ballistic missiles. The benign eye of Theodore von
-Kiirm&amp;n watched over the whole.
+Kármán watched over the whole.
 
 The first thing to do was to learn how to run a liquid rocket motor,
 and experimental firings, with that object in view, started in October
@@ -1946,7 +1946,7 @@ So UDMH, for several years, was the fuel to be burned with nitric
 acid or N 2 0 4 . But, as designers have been trying to wring the last
 possible second of performance out of their motors, MMH has been
 growing in popularity. (It, too, has a Mil. Spec, now!) And, in applications which do not require a low freezing point, hydrazine itself is
-fused, either straight or mixed with one of its derivatives. The fuel of
+fused, either straight or mixed with one of its derivatives. The fuel ofj
 i the Titan II ICBM doesn’t have to have a low freezing point, since
 1 Titan II lives in a steam-heated hole in the ground, but it does need
 i the highest possible performance, and hydrazine was the first candidate for the job. But, as hydrazine has an unfortunate tendency to

@@ -146,6 +146,14 @@ Note: I downloaded the PDF, but to prevent the two-page display from being off-b
 
 Looks like the OCR produces both kinds, probably should be only one kind.
 
+### footnotes
+
+there's a Markdown extended format for footnotes, but not well-supported out of the box?
+
+This works though
+
+    pandoc ignition.md > ignition.html 
+
 ## Ideas to do
 
 ### Reading out loud

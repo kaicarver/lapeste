@@ -464,10 +464,9 @@ started work in 1929, first with gasoline and gaseous air, and then, in
 Another group was in Italy, headed by Luigi Crocco, and financed,
 reluctantly, by the Italian General Staff.[^*]
 
-[^*]:The fact that the whole project was headed 
-by a General G. A. Crocco is no coincidence.
-He was Luigi’s father, and an Italian father 
-is comparable to a Jewish mother.
+[^*]:The fact that the whole project was headed by a General G. A. Crocco is no coincidence.
+  He was Luigi’s father, and an Italian father
+  is comparable to a Jewish mother.
 
 Crocco started to work on liquid rockets in 1929, and by the early
 part of 1930 was ready for test firings. His work is notable not only
@@ -481,20 +480,21 @@ Peruvian chemical engineer, claimed to have experimented -- in 1895-97 (!) -- wi
 rocket motor burning gasoline and nitrogen tetroxide. If this claim has any foundation
 in fact, Paulet anticipated not only Goddard but even Tsiolkovsky.
 
-However, consider these facts. Paulet claimed that his motor produced a thrust of
+    However, consider these facts. Paulet claimed that his motor produced a thrust of
 200 pounds, and that it fired intermittently, 300 times a minute, instead of continuously
 as conventional rocket motors do.
 
-He also claimed that he did his experimental work in Paris.
+    He also claimed that he did his experimental work _in_ Paris.
 
-Now, I know how much noise a 200-pound motor. makes. And I know that if one
+    Now, I know how much noise a 200-pound motor. makes. And I know that if one
 were fired three hundred times a minute — the rate at which a watch ticks — it would
 sound like a whole battery of fully automatic 75 millimeter antiaircraft guns. Such a
 racket would have convinced the Parisians that the Commune had returned to take its
-vengeance on the Republic, and would certainly be remembered by somebody beside
+vengeance on the Republic, and would certainly be remembered by _somebody_ beside
 Paulet! But only Paulet remembered.
 
-In my book, Paulet’s claims are completely false, and his alleged firings never took place.
+    In my book, Paulet’s claims are completely false, 
+and his alleged firings never took place.
 
 V. P. Glushko, another aeronautical engineer, headed the rocket
 group in Leningrad. He had suggested suspensions of powdered

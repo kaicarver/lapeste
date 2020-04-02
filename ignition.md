@@ -368,8 +368,9 @@ everybody.
 
 The last major holdout — hydrogen — finally succumbed to his efforts, and was liquefied in May of 1898. And, as he triumphantly reported, “on the thirteenth of June, 1901, five liters of it (liquid hydrogen) were successfully conveyed through the streets of London from
 the laboratory of the Royal Institution to the chambers of the Royal
-Society 1”
-And only then could Tsiolkovsky write of space travel in a rocket
+Society!”
+
+And only _then_ could Tsiolkovsky write of space travel in a rocket
 propelled by liquid hydrogen and liquid oxygen. Without Wroblewski
 and Dewar, Tsiolkovsky would have had nothing to talk about.
 

@@ -686,11 +686,11 @@ fired at a moment’s notice. It was perfectly practical to set it up, and
 then load it with alcohol and oxygen just before firing. But the
 Reichswehr needed antiaircraft rockets that were always ready to
 fire. When you get word from your forward observers that the
-bombers are on the way, you don’t have lime to load up a missile
+bombers are on the way, you don’t have time to load up a missile
 with liquid oxygen. What you need is a storable propellant — one
 that can be loaded into the tanks beforehand — and kept there until
 you push the button. You can’t do that with oxygen, which cannot
-be kept liquid above — 1 19°C, its critical temperature, by any pressure
+be kept liquid above -119°C, its critical temperature, by any pressure
 whatsoever.
 
 The Reichswehr was rather slow to realize the need for AA rockets

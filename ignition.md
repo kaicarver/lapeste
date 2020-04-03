@@ -698,7 +698,7 @@ The Reichswehr was rather slow to realize the need for AA rockets
 British ever bomb Berlin, you can call me Meyer!” — but when they
 did they found that work on storable propellants was well under way.
 It was, at first, concentrated at Helmuth Walter’s Witte Werke at Kiel.
-As has been mentioned, high strength hydrogen peroxide (80-83 percent) first became available in about 1934, and Walter had bred it as
+As has been mentioned, high strength hydrogen peroxide (80-83 percent) first became available in about 1934, and Walter had fired it as
 a monopropellant, and the Luftwaffe was immensely interested. Like
 General Arnold, in the U.S. they could appreciate the fact that a
 JATO rocket would enable a bomber to take off with a heavier load
@@ -721,10 +721,9 @@ The next organization to get into the rocket business was the Aeronautical Resea
 Otto Lutz and Dr. Wolfgang C. Noeggerath started to work on the
 C-Stoff-T-Stoff combination. Next, BMW (Bavarian Motor Works —
 yes, the people who make the motorcycles) were invited by the Luftwaffe to get into the act. Helmut Philip von Zborowski, the nephew
-of the famous pre -World War 1 racing driver, was in charge of the
+of the famous pre-World War 1 racing driver, was in charge of the
 operation, and Heinz Mueller was his second. In the summer of 1939
-BMW got a contract to develop a JATO unit, using the C-T-Stoff combination, and they worked with it for some months. But von Zborowski was convinced that 98 percent nitric acid was the better oxi
-dizer, as well as being immensely easier to get (I.G. Farben guaranteed
+BMW got a contract to develop a JATO unit, using the C-T-Stoff combination, and they worked with it for some months. But von Zborowski was convinced that 98 percent nitric acid was the better oxidizer, as well as being immensely easier to get (I.G. Farben guaranteed
 unlimited quantities), and set out to convert the brass to his point of
 view. From the beginning of 1940, he and Mueller worked on the nitric acid-methanol combination, and in 1941 proved his point, convincingly, with a perfect thirty-second run at the three thousand
 pounds force thrust level. He even convinced Eugen Sanger, who was

@@ -2,31 +2,51 @@
 
 This is just to document various choices I made along the way of doing this.
 
-#### Temporary
+- [Implementation notes](#implementation-notes)
+  - [General](#general)
+    - [TOC](#toc)
+    - [Format](#format)
+    - [Chapters](#chapters)
+  - [_La Peste_](#la-peste)
+    - [Duplicate lines](#duplicate-lines)
+    - [Missing hyphens](#missing-hyphens)
+    - [Closing quotes wrong?](#closing-quotes-wrong)
+    - [Special paragraph breaks](#special-paragraph-breaks)
+    - [Generating HTML etc.](#generating-html-etc)
+    - [Mme](#mme)
+  - [_Ignition!_](#ignition)
+    - [First look](#first-look)
+      - [Extra space](#extra-space)
+      - [Hyphenated words](#hyphenated-words)
+      - [Chapter headers and page numbers separating pages](#chapter-headers-and-page-numbers-separating-pages)
+    - [Other](#other)
+    - [em dash vs en dash?](#em-dash-vs-en-dash)
+    - [footnotes](#footnotes)
+  - [TODOs](#todos)
+    - [Reading out loud](#reading-out-loud)
+      - [By machine](#by-machine)
+      - [By humans](#by-humans)
+    - [Read and play](#read-and-play)
+    - [Index or concordance](#index-or-concordance)
+    - [Vocal assistant for proof reading](#vocal-assistant-for-proof-reading)
+    - [Page numbers!](#page-numbers)
 
-##### TOC
+## General
+
+### TOC
 
 I need a table of contents for this kind of file as it grows and becomes unwieldy...
 
 ... and I can't find a working TOC generator!
 
-#### What I meant to add somewhere: page numbers!
+Markdown All in One by Yu Zhang seems to be good
 
-I've regretted this on Kindle and other e readers (all of them?):
-not keeping the old style page count.
-
-What page am I on? This is not antiquated, it's still useful, for reference.
-Percentages are barbaric. Maybe some day we will get there,
-but for now a page number of a given edition is still a nice thing to keep and preserve.
-
-So I need a way to keep that info in the Markdown...
-
-## Format
+### Format
 
 The best thing I found to start making a readable document is to convert to Markdown.
 This requires very little change, mostly adding some blank lines, and presto! the justification happens on its own.
 
-## Chapters
+### Chapters
 
 This is what I found to do page breaks, such as to start new chapters:
 
@@ -38,7 +58,7 @@ Trick found here:
 
 https://stackoverflow.com/questions/22601053/pagebreak-in-markdown-while-creating-pdf
 
-## Problems specific to the _La Peste_ text
+## _La Peste_
 
 ### Duplicate lines
 
@@ -88,7 +108,7 @@ Hmm could use a Markdown spellchecker... Is Code Spell Checker good enough?
 
 M superscript me
 
-## Ignition!
+## _Ignition!_
 
 ### First look
 
@@ -173,7 +193,7 @@ This works though
 
     pandoc ignition.md > ignition.html 
 
-## Ideas to do
+## TODOs
 
 ### Reading out loud
 
@@ -200,3 +220,14 @@ Might be fun and easy to add an index. Not sure how useful though.
 ### Vocal assistant for proof reading
 
 Reads out loud first words of every paragraph, for someone to follow as they check a printed copy.
+
+### Page numbers!
+
+I've regretted this on Kindle and other e readers (all of them?):
+not keeping the old style page count.
+
+What page am I on? This is not antiquated, it's still useful, for reference.
+Percentages are barbaric. Maybe some day we will get there,
+but for now a page number of a given edition is still a nice thing to keep and preserve.
+
+So I need a way to keep that info in the Markdown...

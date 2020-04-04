@@ -838,7 +838,7 @@ Walter Type XVII submarines threatened to use up the whole production, and as th
 latter oxidizer for missile work was inevitable. During this period
 many other combinations than those actually tried were considered,
 and theoretical performances were calculated. These calculations were
-not the early naive estimates of Sänger et al., but considered the combustion pressure, the exhaust pressure, thermal efficiency, temperature of combustion, dissociation — the whole business. Such exact calculations are outrageously tedious — a single one done with a desk
+not the early naïve estimates of Sänger et al., but considered the combustion pressure, the exhaust pressure, thermal efficiency, temperature of combustion, dissociation — the whole business. Such exact calculations are outrageously tedious — a single one done with a desk
 calculator, can easily take a whole day. But Dr. Grete Range and others
 struggled through them, considering as fuels, alcohol, alcohol-water,
 gasoline, diesel fuel, ammonia, propargyl alcohol, and God only knows

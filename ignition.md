@@ -746,17 +746,18 @@ problem. Sometimes electrical igniters are used — sometimes pyrotechnic device
 can throw out all the ignition schemes and devices, and let the chemistry do the work. The whole business is much simpler and more reliable.
 
 But as usual, there’s a catch. If your propellants flow into the chamber and ignite immediately, you’re in business. But if they flow in,
-collect in a puddle, and then ignite, you have an explosion which generally demolishes the engine and its immediate surroundings. The
+collect in a puddle, and _then_ ignite, you have an explosion which generally demolishes the engine and its immediate surroundings. The
 accepted euphemism for this sequence of events is a “hard start.”
-Thus, a hypergolic combustion must be very fast, or it is worse than
+Thus, a hypergolic combustion must be _very_ fast, or it is worse than
 useless. The Germans set an upper limit of 50 milliseconds on the
 ignition delay that they could tolerate.
 
-Incidentally, and to keep the record straight, Zborowski named his
+Incidentally, and to keep the record straight, Zborowski named _his_
 propellants after plants. Nitric acid he called “Salbei” for sage, and
 his fuels “Tonka,” after the bean from which coumarin, which smells
 like vanilla, is extracted. Considering the odors of the things he
-worked with, I can’t think of more inappropriate namesl
+worked with, I can’t think of more inappropriate names!
+
 The first ignition delay tests were, to put it mildly, somewhat primitive. After a long night session, searching through old chemistry
 texts for substances that were violently reactive with nitric acid, Zborowski and Mueller would soak a wiping rag with a promising candidate and spray it with nitric acid and see how quickly — or if— it burst
 into flames. And they ran into a peculiar phenomenon. An old, used
@@ -774,11 +775,11 @@ properties with less risk of setting fire to the whole shop, and for the
 next four years BMW on the one hand and Noeggerath on the other
 were trying the hypergolicity of everything they could lay their hands
 on. At BMW, where propellant development was directed by Hermann
-Hemesath, more than 2000 prospective fuels were tided. And very
+Hemesath, more than 2000 prospective fuels were tried. And very
 soon the I.G. Farben organization at Ludwigshaven started doing the
 same thing. With a deplorable lack of imagination, Farben eschewed
 code names at first, and labeled their mixtures with code numbers
-like T93/441 1.
+like T93/4411.
 
 The fuels that the three organizations developed were many and
 various, but at the same time very much alike, since there was a limited number of compounds which were hypergolic with nitric acid —

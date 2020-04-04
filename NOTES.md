@@ -2,6 +2,25 @@
 
 This is just to document various choices I made along the way of doing this.
 
+#### Temporary
+
+##### TOC
+
+I need a table of contents for this kind of file as it grows and becomes unwieldy...
+
+... and I can't find a working TOC generator!
+
+#### What I meant to add somewhere: page numbers!
+
+I've regretted this on Kindle and other e readers (all of them?):
+not keeping the old style page count.
+
+What page am I on? This is not antiquated, it's still useful, for reference.
+Percentages are barbaric. Maybe some day we will get there,
+but for now a page number of a given edition is still a nice thing to keep and preserve.
+
+So I need a way to keep that info in the Markdown...
+
 ## Format
 
 The best thing I found to start making a readable document is to convert to Markdown.

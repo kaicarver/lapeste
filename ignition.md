@@ -802,17 +802,17 @@ surprisingly, everybody and Hemesath and Noeggerath in particular,
 was soon accusing everybody else of stealing his patent. In 1946, when
 Heinz Mueller came to this country, he met Noeggerath again, and
 found him still indignant, bursting out with “And BMW, especially
-Hemesath, did swipe a lot of patents from us!”
+Hemesath, did _swipe_ a lot of patents from us!”
 
 Around 1942 or 1943 I. G. Farben shifted the emphasis of their fuel
 work away from the mixtures they had been working with at first, and
 which were so similar to the Tonkas and the Ergols, to a series of fuels
 based on the “Visols,” which were vinyl ethers. The vinyl ethers were
-very rapidly hypergolic with MS- 10, a mixed acid consisting of 10 percent sulfuric acid and 90 percent nitric, and the ignition delay was less
+very rapidly hypergolic with MS-10, a mixed acid consisting of 10 percent sulfuric acid and 90 percent nitric, and the ignition delay was less
 sensitive to temperature than it was with straight nitric. (This had been
 a serious problem. A propellant pair might ignite in 50 milliseconds
 at room temperature, and wait around a whole second at 40 below.)
-Also, it was believed, practically as an article of faith, that MS- 10 did
+Also, it was believed, practically as an article of faith, that MS-10 did
 not corrode stainless steel. This was a delusion that lasted five years
 before it was punctured.
 

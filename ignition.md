@@ -794,6 +794,7 @@ raw xylidine. Noeggerath added furfuryl alcohol to Tonka 250 to get
 “Ergol-60” which he considered the “best” hypergol, and reported,
 somewhat wistfully, that furfuryl alcohol was readily available in the
 United States — as it was not in Germany.
+
 As soon as one of the investigators found a mixture that he liked he
 applied for a patent on it. (Such an application would probably not
 even be considered under the much stricter U.S. patent laws.) Not

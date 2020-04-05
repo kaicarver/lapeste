@@ -1015,14 +1015,14 @@ place, aniline is much harder to come by than gasoline — particularly
 in the midst of a dress-shirt war, when everybody and his brother
 wants to use it for explosives and what not. Second, it is extremely
 poisonous, and is rapidly absorbed through the skin. And third, it
-Ireezes at -6.2°C, and hence is strictly a warm-weather fuel. The
+freezes at -6.2°C, and hence is strictly a warm-weather fuel. The
 Army and the Navy both, in a rare example of unanimity, screamed
 at the thought of using it. But they had no choice.
 
 Two closely interwound lines of research characterize the rest of
 I lie war period. One was designed to reduce the freezing point of
 aniline, the other was to make gasoline, somehow, hypergolic with
-nil ric acid. American Cyanamid was given a contract to investigate
+nitric acid. American Cyanamid was given a contract to investigate
 additives which might have the latter effect and JPL worked both sides
 of l lie street, as well as experimenting with changes in the composition of the acid. Besides their usual RFNA, containing about 6 permit N 2 0 4 , they experimented with one containing about 13 perl nil, as well as with a mixed acid rather similar to that the Germans
 were using, but a little more potent. One mixture they used contained

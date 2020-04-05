@@ -201,9 +201,15 @@ grep -E '—[0-9]' ignition.md
 grep -E '— [0-9]' ignition.md
 ```
 
+Not sure it was worth the time, but this command fixed 30 or so temperatures:
+
+```bash
+perl -pi -E '$s=$_;$x = s/— ([0-9])[ ]?([0-9]?)[ ]?([0-9])?[ ]?([.0-9]*)°/ -$1$2$3$4°/g; if ($x) { s/  / /g }' ignition.md
+```
+
 Hmm... can I use Perl to do an interactive search and replace?...
 
-This looks promising:
+This old `replace_string` program "Copyright by Tilo Sloboda,  created 08 June 94" looks promising:
 https://github.com/tilo/replace_string
 
 ### footnotes

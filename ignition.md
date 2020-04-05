@@ -1015,7 +1015,7 @@ place, aniline is much harder to come by than gasoline — particularly
 in the midst of a dress-shirt war, when everybody and his brother
 wants to use it for explosives and what not. Second, it is extremely
 poisonous, and is rapidly absorbed through the skin. And third, it
-Ireezes at — 6.2°C, and hence is strictly a warm-weather fuel. The
+Ireezes at -6.2°C, and hence is strictly a warm-weather fuel. The
 Army and the Navy both, in a rare example of unanimity, screamed
 at the thought of using it. But they had no choice.
 
@@ -1036,13 +1036,13 @@ mix it with something that is. Both lines of endeavor were pursued
 with enthusiasm.
 
 At LPL they mixed aniline with orthotoluide, its near relative, and
-got a eutectic freezing at — 32°C. But o-toluidine was as scarce as aniline, and although the mixture was successfully fired, it never became
+got a eutectic freezing at -32°C. But o-toluidine was as scarce as aniline, and although the mixture was successfully fired, it never became
 operational. A more practical additive was furfuryl alcohol, for which
 Zborowski was pining. Furfuryl alcohol comes from oat hulls and
 Quaker Oats had tank cars of the stuff, which they were delighted to
 sell to anybody who would take it off their hands. And 20 percent of
 furfuryl alcohol in aniline reduced the freezing point to 0°F, or
-— 17.8°C, and the eutectic mixture, 51 percent aniline, 49 furfuryl alcohol, had a freezing point of — 42°C. And furfuryl alcohol itself was
+ -17.8°C, and the eutectic mixture, 51 percent aniline, 49 furfuryl alcohol, had a freezing point of -42°C. And furfuryl alcohol itself was
 about as hypergolic as aniline.
 
 And to gasoline, JPL added aniline, diphenylamine, mixed xylidines
@@ -1075,7 +1075,7 @@ Aerojet was the first organization to work extensively with crude
 N-ethyl aniline, sometimes called monoethylaniline, as a fuel. This is
 almost as rapidly hypergolic as aniline. The crude or commercial
 product contains about 10 percent diethyl aniline and 26 straight aniline, the remainder being the monoethyl compound, and its freezing
-point is about — 63°C. All in all, it was an elegant answer to the
+point is about -63°C. All in all, it was an elegant answer to the
 freezing point problem, but it was just about as poisonous as its ancestor, and just as hard to come by.
 
 But it could be lived with. The propellants for the Aerojet JATO,
@@ -1158,7 +1158,7 @@ storable propellants. Here the conclusions were less definite.
 1. The available oxidizers were nitric acid, hydrogen peroxide (as
 soon as it could be got into production in the United States) and
 nitrogen tetroxide. (But N 2 0 4 and 90 percent peroxide both
-froze at — 1 1°C, and if you want to fight a war in, say, Siberia in
+froze at -11°C, and if you want to fight a war in, say, Siberia in
 February, or in the stratosphere — ?) It looked as though nitric
 acid, in one of its variants, was the most likely candidate. (“Of
 course, if the freezing points of the other two could be reduced
@@ -1228,7 +1228,7 @@ turpentine gave hard starts with RFNA and WFNA, but with MA
 started off like a fire hose. So that was one of the two combinations
 that they preferred. The other was furfuryl alcohol and WFNA (the
 RFNA performed a litde better, but those N0 2 fumes!), although
-neat furfuryl alcohol freezes at — 3 1°C — rather too high for comfort.
+neat furfuryl alcohol freezes at -31°C — rather too high for comfort.
 
 Many other fuels were tried during the late 40’s and early 50’s.
 At JPL mixtures of aniline with ethanol or with isopropanol were
@@ -1333,7 +1333,7 @@ former organization, as was natural since Corporal was their baby,
 did a lot of work on the aniline-furfuryl-alcohol mixture, and in
 1948 determined that the mixture with the minimum ignition delay
 consisted of 60 percent of the alcohol and 40 of aniline. This was
-close to the 49FA, 51 aniline eutectic (melting point — 43°C) and the
+close to the 49FA, 51 aniline eutectic (melting point -43°C) and the
 Corporal fuel (the missile was still under development) was changed
 from the 20 percent FA mixture to a 50-50 one.
 
@@ -1737,14 +1737,14 @@ to a reasonable figure when anybody wanted it in quantity. It was
 somewhat sensitive to catalytic decomposition, but if you used the
 right materials to make your tanks of, and were reasonably careful
 about cleanliness, that was no real problem. But that freezing point
-— 1.5°C — was just too high for anything that was going to be used in
+ -1.5°C — was just too high for anything that was going to be used in
 a tactical missile. The services were awfully coy about setting definite
 limits on the freezing point of propellants that they would accept —
 one had the feeling that they would demand the impossible and then
-settle for what they could get — but they finally decided that — 65°F,
-or — 54°C, would be acceptable for most purposes. (Although the Navy,
+settle for what they could get — but they finally decided that -65°F,
+or -54°C, would be acceptable for most purposes. (Although the Navy,
 during one whimsical period, demanded a freezing point no higher
-than — 100°F. How they would fight a war at that temperature they
+than -100°F. How they would fight a war at that temperature they
 didn’t specify. One is tempted to believe that they were carried away
 by the magnificent evenness of the number.)
 So everybody was trying to bring the freezing point of hydrazine
@@ -1768,7 +1768,7 @@ had reported on the hydrazine-ammonia phase diagram, which was
 also investigated by D. D. Thomas, at JPL, in 1948. Ammonia, unlike
 water, was a fuel, but it is a very stable compound and its heat of combustion is not what might be desired. And it took something like 61
 percent of ammonia in the hydrazine to reduce its freezing point to
-— 54°! This not only reduced the performance sharply, but decreased
+ -54°! This not only reduced the performance sharply, but decreased
 the density of the fuel, and, on top of that increased its vapor pressure so much that it boiled at about —25° instead of at the +113.5°
 boiling point of pure hydrazine. Dave Horvitz of RM1 investigated
 ternary mixtures of hydrazine, water, and ammonia in 1950, but
@@ -1877,7 +1877,7 @@ they were on to something good. Symmetrical dimethyl hydrazine
 turned out to be a dog (it’s freezing point was only —8.9°), but monomethylhydrazine (to be referred to from now on as MMH) melted
 at —52.4°, and unsymmetrical dimethyl hydrazine (UDMH) melted
 at —57.2°. And Dave Horvitz at Metallectro found that the 60-40
-UDMH-MMH eutectic mixture froze only at —80°, or — 112°F, thus
+UDMH-MMH eutectic mixture froze only at —80°, or -112°F, thus
 exceeding the Navy’s mystic goal. What’s more, its viscosity at their
 magic —100°F was only 50 centipoises, so that it could really be used at
 that temperature. In the meantime, Aston and his colleagues at Pennsylvania State College had been determining the thermodynamic properties (heat of formation, heat capacity, heat of vaporization, etc.) of
@@ -2094,7 +2094,7 @@ accelerates the corrosion. Within two years all the Navy’s expensive
 tank cars and drums had to be junked.
 
 Another possibility was white fuming nitric acid, which, at least,
-didn’t give off lethal clouds of N0 2 when it was poured. But its freezing point was too high to be acceptable. (Pure HN0 3 freezes at— 41.6°,
+didn’t give off lethal clouds of N0 2 when it was poured. But its freezing point was too high to be acceptable. (Pure HN0 3 freezes at -41.6°,
 the commercial WFNA a few degrees lower.) It was just as corrosive
 as RFNA, if not more so, and was less hypergolic with many fuels
 than the red acid. And it had another trick up its sleeve. For years
@@ -2127,7 +2127,7 @@ There were certainly problems enough for everybody, more than
 enough to go around. As a result, research went off in a dozen different, and at times contradictory, directions. Several groups attacked
 the freezing point of WFNA directly, using all sorts of additives to
 bring it down to a reasonable (or, in the case of those shooting for
-— 100°F, an unreasonable) figure. R. W. Greenwood at Bell Aircraft,
+ -100°F, an unreasonable) figure. R. W. Greenwood at Bell Aircraft,
 and R. O. Miller, of the Lewis Flight Propulsion Laboratory of NACA,
 both investigated ammonium nitrate and a 50 percent aqueous solution of the salt; 72 percent perchloric acid (the anhydrous stuff was
 entirely too touchy to handle) and a 50 percent solution of potassium
@@ -2153,13 +2153,13 @@ corrosivity was aboslutely ferocious. One oth«r additive that he tried
 was nitromethane, as did A. Zletz, of the Standard Oil Company of
 Indiana, who also investigated the ethyl and 2 propyl homologues.
 Nitromethane, naturally, was the best depressant of the lot, and a
-freezing point of — 100°F was reached without any trouble, but the
+freezing point of -100°F was reached without any trouble, but the
 mixture was too sensitive and likely to explode to be of any use.
 
 Mike Pino, of California Research, tried sodium nitrite (it worked,
 but slowly reacted with the acid to form sodium nitrate, which precipitated out) and sodium cobaltinitrite and found that 4 percent of
 the salt plus 1 percent of water reduced the freezing point of anhydrous
-acid to — 65°F, but he couldn’t get to the magic — 100°F with any
+acid to -65°F, but he couldn’t get to the magic -100°F with any
 reasonable amount of water. He was always very conscious of the
 effect (pernicious) of water on ignition delay, and shied away from any
 system that contained any great amount of it. The mixture was unstable, too. So he took another tack, and went to work to see if he
@@ -2390,8 +2390,8 @@ to form the unstable N 2 0 3 , so that the eutectic appears between pure
 N 2 0 4 and the composition corresponding to N 2 0 3 , so that a small
 addition of NO has an inordinately large effect on the freezing point.
 G. R. Makepeace and his associates, at NOTS, were able to show, in
-1948, that 25 percent of NO would bring the freezing point of nitrogen tetroxide down below the required — 65°F, and that 30 percent
-would depress it well below the magic — 100°F. However, the vapor
+1948, that 25 percent of NO would bring the freezing point of nitrogen tetroxide down below the required -65°F, and that 30 percent
+would depress it well below the magic -100°F. However, the vapor
 pressure of the latter mixture at 160°F was unacceptably high, about
 300 psi. Several investigators examined the system, among them T. L.
 Thompson of North American and T. J. McGonnigle of, appropriately, the Nitrogen Division of Allied Chemical and Dye Co., but the
@@ -2560,9 +2560,9 @@ were involved in this job, which was completed by 1955.
 
 Their results were not in the best of agreement (the mixtures frequently supercooled and, as I have mentioned, RFNA is not the
 easiest thing in the world to analyze) but they all showed that both the
-General Chemical Co. mixture and JPL’s SFNA froze below — 65°F.
+General Chemical Co. mixture and JPL’s SFNA froze below -65°F.
 About this time the Navy decided to relax and enjoy it and backed
-off from their demand for the mystic — 100°F and everybody and his
+off from their demand for the mystic -100°F and everybody and his
 brother heaved a deep sigh of relief. One job done!
 
 The solution to the corrosion problem turned out to be simple —
@@ -2970,7 +2970,7 @@ The British, as has been mentioned, were intensely interested in
 peroxide, and Wiseman, of ERDE (Explosives Research and Development Establishment) at Waltham Abbey, pointed out in 1948 that
 ammonium nitrate was a good freezing point depressant and didn’t
 make it into a high explosive. So the NOTS team (G. R. Makepeace
-and G. M. Dyer) mapped out the relevant part of the peroxide-ANwater held, and came up with a mixture that didn’t freeze above— 54°.
+and G. M. Dyer) mapped out the relevant part of the peroxide-ANwater held, and came up with a mixture that didn’t freeze above -54°.
 It was 55 percent peroxide, 25 percent ammonium nitrate and 20
 percent water. They bred it successfully with JP-1 early in 1951, but
 the performance was not impressive. Other peroxide-AN mixtures
@@ -3514,7 +3514,7 @@ so that accurate calculations could be made) and when Aerojet, in
 1962, burned it with hydrazine and with pentaborane they measured
 95 to 98 percent of the theoretical performance. And it had a fairly
 good density — 1.397 at its boiling point. But that boiling point was
-— 73° ,t which put it out of the class of storable propellants.
+ -73° ,t which put it out of the class of storable propellants.
 
 * N 2 F 4 is an inorganic compound, and should have been named according to the nomenclature rules of inorganic chemistry, “dinitrogen tetrafluoride” in strict analogy
 to "dinitrogen tetroxide” for N 2 0 4 . Instead it was named by the nomenclature rules of
@@ -4887,7 +4887,7 @@ like that who needs enemies?
 
 Other attempts at high-density fuels were made; 8 percent of
 colloidal aluminum suspended with aluminum stearate in kerosene
-was one of them. But it froze at— 6°, and the investigators lost interest.
+was one of them. But it froze at -6°, and the investigators lost interest.
 And they tried various nitro-organics such as nitro-propene — the
 name alone is enough to scare me to death — as monopropellants,
 with no success to mention, and, as the Germans had before them,
@@ -6174,7 +6174,7 @@ needed to set if off was more than twice the pressure that would detonate Isolde
 name “Tallulah” (as being practically impervious to shock) and continued on our way. This was early in 1957.
 
 The only trouble with Tallulah was that when it was mixed up to
-X = 1.20, the freezing point was much too high — about— 22°. (Such a
+X = 1.20, the freezing point was much too high — about -22°. (Such a
 beautifully symmetrical ion can hardly be restrained from crystallizing.) So we next tried the ethyl trimethyl salt (“Portia,” but don’t ask
 me to explain the convoluted line of reasoning that led to that name!)
 and the diethyl dimethyl ammonium nitrate. (“Marguerite,” and don’t
@@ -6368,7 +6368,7 @@ This was verrrry interesting — apparently we had something even
 tougher than Tallulah. So we made it up to X = 1 .2, and card-gapped
 it. And discovered, to our astonishment, that it did not detonate even
 at zero cards. This was more than interesting — it was sensational. The
-freezing point was bad,— 5°C, but we figured that we could get around
+freezing point was bad, -5°C, but we figured that we could get around
 that somehow, and it didn’t dampen our enthusiasm.
 
 It had to have a good name. Nobody was going to call it by its formal title, 1,4, diaza, 1,4, dimethyl, bicyclo 2,2,2, octane dinitrate, that
@@ -7866,7 +7866,7 @@ with it.
 
 The Li-F-H system looks much more promising, and has been
 investigated rather thoroughly by Rocketdyne. Here, two approaches
-are possible. Lithium has a low melting point for a metal — 179° — so
+are possible. Lithium has a low melting point for a metal -179° — so
 it is possible to inject lithium, fluorine, and hydrogen into the motor,
 all as liquids, in a true tripropellant system. Or, the lithium can be
 slurried in the hydrogen, so that the motor can be run as a bi-propellant system. Rocketdyne started investigating Li-H 2 gels in 1963,

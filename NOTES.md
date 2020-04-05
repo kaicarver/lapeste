@@ -21,6 +21,7 @@ This is just to document various choices I made along the way of doing this.
       - [Chapter headers and page numbers separating pages](#chapter-headers-and-page-numbers-separating-pages)
     - [Other](#other)
     - [em dash vs en dash?](#em-dash-vs-en-dash)
+    - [dash separated by space, and minus sign](#dash-separated-by-space-and-minus-sign)
     - [footnotes](#footnotes)
   - [TODOs](#todos)
     - [Reading out loud](#reading-out-loud)
@@ -184,6 +185,15 @@ Note: I downloaded the PDF, but to prevent the two-page display from being off-b
 ### em dash vs en dash?
 
 Looks like the OCR produces both kinds, probably should be only one kind.
+
+### dash separated by space, and minus sign
+
+— should be surrounded by spaces in most cases.
+Except when it should be a minus.
+
+```perl
+perl -ne 'print if /—/' ignition.md
+```
 
 ### footnotes
 

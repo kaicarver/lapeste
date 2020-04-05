@@ -554,7 +554,7 @@ Kummersdorf-West in November 1932 under Army sponsorship,
 the Gestapo moved in on the rest of the VfR, and the society was
 dead by the end of 1933.
 
-Dr. Eugen Sanger, at the University of Vienna, made a long series
+Dr. Eugen Sänger, at the University of Vienna, made a long series
 of firings during 1931 and 1932. His propellants were conventional
 enough — liquid (or sometimes gaseous) oxygen and a light fuel oil —
 but he introduced an ingenious chemical wrinkle to get his motor
@@ -632,8 +632,8 @@ The first thing to do was to learn how to run a liquid rocket motor,
 and experimental firings, with that object in view, started in October
 1936. Methanol and gaseous oxygen were the propellants. But other
 propellants were considered, and by June 1937, Parsons had compiled lists, and calculated the performances (assuming, as had
-Sanger, 100 percent efficiency) of dozens of propellant combinations.
-In addition to Sanger’s fuels, he listed various alcohols and saturated
+Sänger, 100 percent efficiency) of dozens of propellant combinations.
+In addition to Sänger’s fuels, he listed various alcohols and saturated
 and unsaturated hydrocarbons, and such exotic items as lithium
 methoxide, dekaborane, lithium hydride, and aluminum triemethyl.
 He listed oxygen, red fuming nitric acid, and nitrogen tetroxide as
@@ -726,7 +726,7 @@ operation, and Heinz Mueller was his second. In the summer of 1939
 BMW got a contract to develop a JATO unit, using the C-T-Stoff combination, and they worked with it for some months. But von Zborowski was convinced that 98 percent nitric acid was the better oxidizer, as well as being immensely easier to get (I.G. Farben guaranteed
 unlimited quantities), and set out to convert the brass to his point of
 view. From the beginning of 1940, he and Mueller worked on the nitric acid-methanol combination, and in 1941 proved his point, convincingly, with a perfect thirty-second run at the three thousand
-pounds force thrust level. He even convinced Eugen Sanger, who was
+pounds force thrust level. He even convinced Eugen Sänger, who was
 sure that oxygen was the only oxidizer worth thinking about.
 
 And in the meantime, early in 1940, he and Mueller had made an
@@ -874,12 +874,12 @@ Germans heroically started synthesis, and had accumulated some eight
 or ten tons of the stuff by the end of the war. Nobody ever found any
 use for it.
 
-Another idea which didn’t get anywhere, was that of a heterogeneous fuel— a suspension, or slurry, of a powdered metal, such as
+Another idea which didn’t get anywhere, was that of a heterogeneous fuel — a suspension, or slurry, of a powdered metal, such as
 aluminum, in a liquid fuel such as gasoline. This had been suggested
-by several writers, among them Tsander in Russia and Sanger in
+by several writers, among them Tsander in Russia and Sänger in
 Austria, and Heinz Mueller of BMW tried it out, using powdered
 aluminum or magnesium in diesel oil. The performance was very
-poor— the chamber pressure was 50 to 100 psi instead of the 300 they
+poor — the chamber pressure was 50 to 100 psi instead of the 300 they
 were shooting for — due to the incomplete combustion of the metal.
 But the other results were spectacular. The motor was fired in a horizontal position against an inclined wall to deflect the exhaust stream
 upwards. But the unburned metal particles settled down and decorated all the pine trees in the vicinity with a nice, shiny, silvery coating
@@ -1350,7 +1350,7 @@ and polyacetylenics, such as di-propargyl, with the skeleton structure
 (without the hydrogens) C=C — C — C — C=C. And they found that
 many silanes were hypergolic with acid. The University of Texas, in
 1948, also worked with these, and showed that 30 percent of tetraallyl silane would make gasoline hypergolic. The University of Texas
-also investigated the zinc alkyls, as Sanger had done sixteen years
+also investigated the zinc alkyls, as Sänger had done sixteen years
 earlier.
 
 Standard Oil of California was the first of the oil companies to get
@@ -4441,7 +4441,7 @@ heat flux by 60 percent.
 
 Another tricky problem with an oxygen motor is that of getting it
 started. From the A-4 to Thor and Jupiter, a pyrotechnic start was the
-usual thing, but the complications were considerable and the reliability was poor. Sanger had used a starting slug of diethyl zinc, and
+usual thing, but the complications were considerable and the reliability was poor. Sänger had used a starting slug of diethyl zinc, and
 Bell Aerosystems, in 1957, went him one better by using one of
 triethyl aluminum to start an oxygen-JP-4 motor. This technique was
 used in the later Atlas and all subsequent oxygen-RP motors. A sealed
@@ -4715,7 +4715,7 @@ by the Welsbach process which involves an electrical glow discharge
 in a stream of oxygen. What makes it attractive as a propellant is that
 (1) its liquid density is considerably higher than that of liquid oxygen,
 and (2) when a mole of it decomposes to oxygen during combustion
-it gives off 34 kilocalories of energy, which will boost your performance correspondingly. Sanger was interested in it in the 30’s, and the
+it gives off 34 kilocalories of energy, which will boost your performance correspondingly. Sänger was interested in it in the 30’s, and the
 interest has endured to the present. In the face of considerable disillusionment.
 
 For it has its drawbacks. The least of these is that it’s at least as
@@ -9920,7 +9920,7 @@ S
 SA-2 (Guideline) missile, 116
 Sage, B. H„ 56
 Sander, Friedrich Wilhelm, 8
-Sanger, Eugen, 9, 11, 14, 17, 18, 106,
+Sänger, Eugen, 9, 11, 14, 17, 18, 106,
 112
 
 Samarium oxide, 131

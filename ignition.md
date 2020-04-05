@@ -2751,7 +2751,7 @@ of the development of MMH and UDMH, and that by S. P. Greenfield, of North Ameri
 NALAR was a 2.75” diameter air-to-air missile for the Air Force.
 The requirements were rough. The liquid propellants had to be hypergolic. They also had to be packageable, so that the missile could be
 stored, fully fueled, for five years and be in a condition to fire. And
-they had to perform at any temperature from — 65 ? F to+165°F. North
+they had to perform at any temperature from -65°F to +165°F. North
 American started development in July 1950.
 
 The first oxidizer they tried was RFNA, 18% N 2 0 4 . From the beginning they were contending with a pressure buildup, and with cor
@@ -2872,12 +2872,6 @@ of peroxide, with no efficient means of sucking heat out of it. Your
 peroxide starts to decompose for some reason or other. This decomposition produces heat, which warms up the rest of the peroxide,
 which naturally then starts to decompose faster — producing more
 heat. And so the faster it goes the faster it goes until the whole thing
-
-
-
-
-Peroxide —Always a Bridesmaid 67
-
 goes up in a magnificent whoosh or bang as the case may be, spreading superheated steam and hot oxygen ail over the landscape.
 
 And a disconcerting number of things could start the decomposition in the first place: most of the transition metals (Fe, Cu, Ag, Co,
@@ -2958,11 +2952,6 @@ from salt to sucrose. And many of these things were excellent freezing
 point depressants: 9.5 percent of ammonia, for instance, formed a
 eutectic which froze at —40°, and a mixture containing 59 percent
 froze at —54°. (In between, at 33 percent, was the compound NH 4 OOH, which melted at about 25°. ) And one containing 45 percent of
-
-
-
-Peroxide— Always a Bridesmaid 69
-
 methanol froze at —40°. These mixtures, however, had one slight
 drawback — they were sensitive and violent explosives.
 
@@ -3036,10 +3025,6 @@ were unspectacular. The JP burned quietly, tyith occasional patches
 of flare or fizz burning. And the fire chief moved in with his men and
 his foam and put the whole thing out without any fuss. End of
 exercise.
-
-
-
-Peroxide— Always a Bridesmaid 71
 
 The Lord had his hands on our heads that day — the Bremen, a
 couple of dozen bystanders, and me.
@@ -3514,7 +3499,7 @@ so that accurate calculations could be made) and when Aerojet, in
 1962, burned it with hydrazine and with pentaborane they measured
 95 to 98 percent of the theoretical performance. And it had a fairly
 good density — 1.397 at its boiling point. But that boiling point was
- -73° ,t which put it out of the class of storable propellants.
+-73° ,t which put it out of the class of storable propellants.
 
 * N 2 F 4 is an inorganic compound, and should have been named according to the nomenclature rules of inorganic chemistry, “dinitrogen tetrafluoride” in strict analogy
 to "dinitrogen tetroxide” for N 2 0 4 . Instead it was named by the nomenclature rules of
@@ -5161,7 +5146,7 @@ had a lot of trouble with burned-out injectors and nozzles.
 
 But once pentaborane was made to work, nobody could find any
 particular use for it. The performance was good, yes, but the density
-of pentaborane is low — 0.618— which militated against its use in a
+of pentaborane is low — 0.618 — which militated against its use in a
 tactical missile. Further, the (oxygen type) Oxidizers with which it
 performed best, peroxide and N 2 0 4 , had unacceptable freezing points.
 And if you used nitric acid, you lost a good deal of its performance
@@ -5211,7 +5196,7 @@ along with it, of course. Performance calculations indicated that the
 pentaborane-hydrazine combination should have the astounding
 performance of 326 seconds, and brought out the even more astounding fact that the chamber temperature should be only about 2000 K
 
-— 1500 K or so, cooler than anything else with that sort of performance. The thought of a storable combination with a performance above
+— 1500 K or so, cooler than anything else with that sort of performance. The thought of a _storable_ combination with a performance above
 300 seconds, and with such a manageable chamber temperature sent
 every propulsion man in the country into orbit.
 
@@ -6138,7 +6123,7 @@ with tertiaries. They also discovered that their di-nitrate solutions
 were extremely viscous, as we had learned, very early in the game,
 when we tried to make a propellant from ethylene diamine.
 
-At NARTS, the engineers plowed ahead, trying Isolde in high pressure motors— 1000 instead of 300 psi chamber pressure — and as a
+At NARTS, the engineers plowed ahead, trying Isolde in high pressure motors — 1000 instead of 300 psi chamber pressure — and as a
 regenerative coolant. It could be used that way, but the process was
 somewhat precarious. You had to shut down with a water flush through
 the system, or the propellant left in the cooling passages of the stillhot motor would cook off and probably blow up the works.
@@ -6409,17 +6394,15 @@ it was a good idea, anyway.
 In the meantime we (and BuAer) were in a hurry to get Cavea into
 a motor. So we wanted a large amount of Cavea salt — fast.
 
-I knew that John Gall’s people had made it by methylating triethylC— C
+I knew that John Gall’s people had made it by methylating triethylene diamine
 
-
-ene diamine N — C — C — N and at the beginning of December he told
-
+C — C
+/ \
+N — C — C — N
 \ /
+C — C
 
-C— C
-
-
-me that the latter came from Houdry Process Co. It was used for a
+and at the beginning of December he told me that the latter came from Houdry Process Co. It was used for a
 polymerization catalyst and sold under the peculiarly repulsive trade
 name “Dabco.” In the meantime, he could furnish me with Cavea salt
 for about seventy dollars a pound, in ten pound lots. I put in an order,

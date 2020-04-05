@@ -191,9 +191,20 @@ Looks like the OCR produces both kinds, probably should be only one kind.
 — should be surrounded by spaces in most cases.
 Except when it should be a minus.
 
-```perl
+Some searches for auto replacement:
+
+```bash
 perl -ne 'print if /—/' ignition.md
+# grep has the advantage of colorized matches
+grep -E '[^ ]—' ignition.md
+grep -E '—[0-9]' ignition.md
+grep -E '— [0-9]' ignition.md
 ```
+
+Hmm... can I use Perl to do an interactive search and replace?...
+
+This looks promising:
+https://github.com/tilo/replace_string
 
 ### footnotes
 

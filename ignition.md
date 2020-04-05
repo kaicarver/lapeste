@@ -896,7 +896,7 @@ Peenemunde, a Dr. Wahrmke tried dissolving alcohol in 80 percent
 H 2 0 2 and then firing that in a motor. It detonated, and killed him.
 The Wm. Schmidding firm, nevertheless, kept on experimenting
 with a monopropellant they called “Myrol,” an 80-20 mixture of
-methyl nitrate and methanol —very similar to the nitroglycerinemethanol mixture that Crocco had tried years before. They managed
+methyl nitrate and methanol — very similar to the nitroglycerinemethanol mixture that Crocco had tried years before. They managed
 to fire the material, and got a fairly respectable performance, but
 they were plagued by explosion after explosion, and were never able
 to make the system reliable.
@@ -938,7 +938,7 @@ found that the acid would support combustion. Further, they found
 that hydrazine hydrate and benzene were hypergolic with it, although
 they had never heard of the word, so acid it was. There is a highly
 nonprophetic statement in the final Report for 1939-1940, Air Corps
-Jet Propulsion Research, GALCIT —JPL Report No. 3, 1940. (By now
+Jet Propulsion Research, GALCIT — JPL Report No. 3, 1940. (By now
 Malina’s group had become the Jet Propulsion Laboratory, with von
 KArman at the head.)
 
@@ -954,7 +954,7 @@ developed in Germany. One of the first compilations of the thermo
 dynamic properties of exhaust gases was published by J. O. Hirschfelder in November 1942, as necessary raw data for such computations.
 
 Malina and company started experimental work with RFNA and
-gasoline as early as 1941— and immediately ran into trouble. This is
+gasoline as early as 1941 — and immediately ran into trouble. This is
 an extraordinarily recalcitrant combination, beautifully designed to
 drive any experimenter out of his mind. In the first place, it’s almost
 impossible to get it started. JPL was using a spark plug for ignition,
@@ -1748,7 +1748,7 @@ than -100°F. How they would fight a war at that temperature they
 didn’t specify. One is tempted to believe that they were carried away
 by the magnificent evenness of the number.)
 So everybody was trying to bring the freezing point of hydrazine
-down to —54°. And without adversely affecting its other — and good —
+down to -54°. And without adversely affecting its other — and good —
 properties. Which turned out to be impossible. This could have been
 predicted, but at that time we were all hoping for miracles.
 
@@ -1756,8 +1756,8 @@ From first to last, at least eight agencies were involved in the effort,
 Aerojet, JPL, the Metalectro Co., NARTS, Naval Ordnance Test Station (NOTS), North American Aviation, Reaction Motors, and Syracuse University.
 
 The first freezing point depressant to be tried — although involuntarily — was water. Hydrazine hydrate, which is 36 percent water, has
-a freezing point of —51.7°, and a mixture containing 42 percent water
-freezes at —54°. (V. I. Semishin, in Russia, had determined part of the
+a freezing point of -51.7°, and a mixture containing 42 percent water
+freezes at -54°. (V. I. Semishin, in Russia, had determined part of the
 hydrazine-water phase diagram in 1938, and Mohr and Audrieth, in
 this country, in 1949, and Hill and Summer, in England, in 1951 completed the job.) But water was an extremely bad additive for a fuel. It
 contributed nothing to the energetics of the system, and the mass of
@@ -1769,7 +1769,7 @@ also investigated by D. D. Thomas, at JPL, in 1948. Ammonia, unlike
 water, was a fuel, but it is a very stable compound and its heat of combustion is not what might be desired. And it took something like 61
 percent of ammonia in the hydrazine to reduce its freezing point to
  -54°! This not only reduced the performance sharply, but decreased
-the density of the fuel, and, on top of that increased its vapor pressure so much that it boiled at about —25° instead of at the +113.5°
+the density of the fuel, and, on top of that increased its vapor pressure so much that it boiled at about -25° instead of at the +113.5°
 boiling point of pure hydrazine. Dave Horvitz of RM1 investigated
 ternary mixtures of hydrazine, water, and ammonia in 1950, but
 couldn’t End any mixture that possessed both an acceptable freezing
@@ -1778,14 +1778,14 @@ the answers.
 
 Another additive investigated by RMI (in 1947) was methanol. A
 mixture containing 44 percent of the hydrazine and 56 of the alcohol
-freezes at —54°, and its other physical properties are acceptable, but
+freezes at -54°, and its other physical properties are acceptable, but
 it yields a performance considerably below that of the neat hydrazine.
 Some years later, under circumstances which will be described, interest in the mixture was revived.
 
 Don Armstrong, of Aerojet, came up with something in the summer
 of 1948 that for a time looked extremely promising. He found that
-the addition of 1 3 percent of lithium borohydride to hydrazine produced a mixture whose (eutectic) freezing point was —49°. Not the
-magic —54°, but still something. The density was reduced somewhat,
+the addition of 1 3 percent of lithium borohydride to hydrazine produced a mixture whose (eutectic) freezing point was -49°. Not the
+magic -54°, but still something. The density was reduced somewhat,
 from 1.004 to about 0.93, but as the borohydride itself is such an
 energetic compound there was no reason to expect any appreciable
 degradation of the performance. But, alas, his triumph was illusory.
@@ -1797,20 +1797,20 @@ RMI was looking at it as late as 1958, and only around 1966 or
 At about the same time T. L. Thompson, of North American, came
 up with another freezing point additive, whose major drawback, although its thermal stability was poor, was that it scared everybody to
 death. He found that 15 percent of hydrocyanic acid, HCN, would
-reduce the freezing point of hydrazine to —54°. But the mere thought
+reduce the freezing point of hydrazine to -54°. But the mere thought
 of the HCN so alarmed everybody (although much more toxic compounds had been and would be investigated, and without any particular notice being taken of it) that the mixture was never accepted.
 
 At about this time (1949-50) the LAR missile was being developed
 at NOTS, and E. D. Campbell and his associates came up with a low
-freezing fuel for it — a mixture of 67 percent hydrazine and 33 ammonium thiocyanate, with a freezing point of —54°. This could be lived
+freezing fuel for it — a mixture of 67 percent hydrazine and 33 ammonium thiocyanate, with a freezing point of -54°. This could be lived
 with, although the performance was somewhat degraded and the vapor pressure was inconveniently high.
 
 Early in 1951, Dave Horvitz at the Metallectro Co. (where he had
 moved from RMI) investigated hydrazine-aniline mixtures, and
-found that the eutectic composition, with a freezing point of —36°,
+found that the eutectic composition, with a freezing point of -36°,
 contained only 17 percent hydrazine. He then started adding methylamine to the mixture, to reduce the viscosity as well as the freezing
 point, and finally came up with a hydrazine-aniline-methylamine
-mixture (regrettably called “HAM Juice”), which froze at —50°, but
+mixture (regrettably called “HAM Juice”), which froze at -50°, but
 contained only 9.1 percent of hydrazine, with 19.3 of methylamine
 and 71.6 of aniline. This was investigated rather thoroughly, and was
 test fired, but it wasn’t the answer that people were looking for. (But
@@ -1822,7 +1822,7 @@ in ammonia, Diver’s solution — had been around for years, so the idea
 was obvious enough, and apparently several people thought of it independently at about the same time. Dwiggins at the Naval Ordnance
 Laboratory (NOL) and my group at NARTS investigated the system
 in 1951, and by the end of 1953 J. M. Corcoran and his colleagues at
-NOTS had worked out the whole hydrazine-hydrazine nitrate-water system. A mixture containing 55 percent hydrazine and 45 hydrazine nitrate froze below —40°, and the magic —54° could be attained
+NOTS had worked out the whole hydrazine-hydrazine nitrate-water system. A mixture containing 55 percent hydrazine and 45 hydrazine nitrate froze below -40°, and the magic -54° could be attained
 with one containing 54 percent hydrazine, 33 of the nitrate, and 13
 water. This was not bad, but there was, as usual, a catch or two. The
 mixtures were quite viscous at low temperatures, and had a tendency
@@ -1836,7 +1836,7 @@ tried as liquid gun propellants.
 
 The NARTS group, not content with mere nitrates, tried hydrazine perchlorate as a depressant in 1951, and found that a mixture
 containing 49 percent hydrazine, 41.5 of the perchlot'ate, and 8.5
-water was still liquid at —54°. But it was even more likely to detonate
+water was still liquid at -54°. But it was even more likely to detonate
 than were the nitrate mixtures (while attempting to investigate its
 thermal stability we blew a hole in the ceiling of the laboratory), and
 I discovered, nearly blowing my head off in the process, that it is not
@@ -1844,7 +1844,7 @@ advisable to attempt to dehydrate the hydrazinium perchlorate hemihydrate (the f
 although the perchlorate mixture was more energetic than the nitrate
 mixtures, its use was outside of the range of practical politics. Nevertheless, Walker, at Syracuse University, tried sodium perchlorate
 monohydrate a year or so later, and found that a 50-percent mixture
-with hydrazine froze at approximately —46°. Somehow, he managed
+with hydrazine froze at approximately -46°. Somehow, he managed
 to do it without killing himself.
 
 Many other freezing point depressants were tried by various
@@ -1864,7 +1864,7 @@ freezing point without changing its energetics enough to matter.
 At NARTS, I had the same idea, and managing to lay my hands on
 a pound of monomethylhydrazine — it cost $50.00 — 1 investigated its
 mixtures with hydrazine, and before the end of the year recommended the eutectic, which contained 12 percent hydrazine and froze
-at —61°, as the fuel to concentrate on.* The performance with HN0 3
+at -61°, as the fuel to concentrate on.* The performance with HN0 3
 was about 98 percent of that of straight hydrazine, the density was
 not too bad (0.89) the freezing point was beautiful, the viscosity was
 nothing to worry about, and storage and handling didn’t seem to
@@ -1874,12 +1874,12 @@ the parent compound.
 
 It didn’t take Metallectro and Aerojet very long to discover that
 they were on to something good. Symmetrical dimethyl hydrazine
-turned out to be a dog (it’s freezing point was only —8.9°), but monomethylhydrazine (to be referred to from now on as MMH) melted
-at —52.4°, and unsymmetrical dimethyl hydrazine (UDMH) melted
-at —57.2°. And Dave Horvitz at Metallectro found that the 60-40
-UDMH-MMH eutectic mixture froze only at —80°, or -112°F, thus
+turned out to be a dog (it’s freezing point was only -8.9°), but monomethylhydrazine (to be referred to from now on as MMH) melted
+at -52.4°, and unsymmetrical dimethyl hydrazine (UDMH) melted
+at -57.2°. And Dave Horvitz at Metallectro found that the 60-40
+UDMH-MMH eutectic mixture froze only at -80°, or -112°F, thus
 exceeding the Navy’s mystic goal. What’s more, its viscosity at their
-magic —100°F was only 50 centipoises, so that it could really be used at
+magic -100°F was only 50 centipoises, so that it could really be used at
 that temperature. In the meantime, Aston and his colleagues at Pennsylvania State College had been determining the thermodynamic properties (heat of formation, heat capacity, heat of vaporization, etc.) of
 the substituted hydrazines, and by 1953 just about every useful piece
 of information about UDMH and MMH had been firmly nailed down.
@@ -2114,7 +2114,7 @@ most metals. You didn’t even have to keep it in aluminum or stainless
 — ordinary mild steel would do. So the tanks of a missile could be
 filled at the factory, and the operators would never see, or smell, or
 breathe, the N 2 0 4 . And it was perfectly stable in storage, and didn’t
-build up any pressure. But its freezing point was —9.3°, which the
+build up any pressure. But its freezing point was -9.3°, which the
 services would not accept.
 
 Thus, with four oxidizers available, we had four sets of headaches —
@@ -2167,7 +2167,7 @@ could do anything with mixed acid. He had already tried nitrosyl
 sulfuric acid, N0HS0 4 , and had found that it was a better freezing
 point depressant than sulfuric acid, but that it was even worse as a
 sludge producer. He turned then to the alkane sulfonic acids, particularly methane sulfonic acid, and found that 16 percent of this in
-WFNA gave a mixture that froze only at —59°, although upon occasion it could be supercooled considerably below that before solidifying. This looked promising. It gave good ignition with the fuels he
+WFNA gave a mixture that froze only at -59°, although upon occasion it could be supercooled considerably below that before solidifying. This looked promising. It gave good ignition with the fuels he
 was considering at the time (mixtures of allyl amines and triethylamine). Its corrosivity was similar to or a little less than that of WFNA
 or of ordinary mixed acid, but it had one shining virtue — it didn’t
 produce any sludge. A similar mixed acid was investigated at North
@@ -2406,7 +2406,7 @@ developed.
 Several agencies tried the mixed oxides of nitrogen (MON-25 or
 
 * Cole, at JPL, had reported in 1948 that a mixture of 41.5 percent N 2 0 and the
-remainder N 2 0 4 had a freezing point of —51° and a boiling point of 33°. These figures
+remainder N 2 0 4 had a freezing point of -51° and a boiling point of 33°. These figures
 so thoroughly contradicted the experience of everybody else that they are completely
 inexplicable.
 MON-30 or whatever, with the number designating the percentage
@@ -2655,7 +2655,7 @@ you want!” So we decided to write one specification which would
 make everybody happy. We officially threw out the terms WFNA and
 RFNA and described no less than four types of nitric acid, which we
 designated, with stunning unoriginally as “Nitric Acid, Type I, II,
-III and IV.” These contained, in the order named, nominally 0 percent, —7 percent, 14 percent, and 21 percent N 2 0 4 . If you wanted HF
+III and IV.” These contained, in the order named, nominally 0 percent, -7 percent, 14 percent, and 21 percent N 2 0 4 . If you wanted HF
 inhibited acid, you asked for I-A or III-A, or whatever, and your acid
 would contain 0.6 percent HF.
 
@@ -2950,9 +2950,9 @@ associates, during the 20’s, had investigated hydrogen'peroxide up
 and down and sideways, and had dissolved all sorts of things in it,
 from salt to sucrose. And many of these things were excellent freezing
 point depressants: 9.5 percent of ammonia, for instance, formed a
-eutectic which froze at —40°, and a mixture containing 59 percent
-froze at —54°. (In between, at 33 percent, was the compound NH 4 OOH, which melted at about 25°. ) And one containing 45 percent of
-methanol froze at —40°. These mixtures, however, had one slight
+eutectic which froze at -40°, and a mixture containing 59 percent
+froze at -54°. (In between, at 33 percent, was the compound NH 4 OOH, which melted at about 25°. ) And one containing 45 percent of
+methanol froze at -40°. These mixtures, however, had one slight
 drawback — they were sensitive and violent explosives.
 
 The British, as has been mentioned, were intensely interested in
@@ -2966,7 +2966,7 @@ the performance was not impressive. Other peroxide-AN mixtures
 were bred by NOTS, and, a little later, by NARTS. In the meantime,
 L. V. Wisniewski, at Becco, had been adding things like ethylene
 glycol, diethylene glycol, and tetrahydrofuran to peroxide. These
-mixtures were designed as monopropellants, but they froze at —40°,
+mixtures were designed as monopropellants, but they froze at -40°,
 and RMI tried them as oxidizers for gasoline and JP-4, with indifferent success. Below +10°C, RMI just couldn’t get the mixtures to ignite. Also, they were dangerously explosive.
 
 So, the only low-freezing peroxide mixtures which could be used
@@ -3015,7 +3015,7 @@ That was one of the things they had against acid and a hypergolic
 fuel.
 
 A broken missile on deck — or any sort of shipboard accident that
-brought fuel and acid together —would inevitably start a fire. On the
+brought fuel and acid together — would inevitably start a fire. On the
 other hand, they reasoned that jet fuel wouldn’t even mix with peroxide, but would just float on top of it, doing nothing. And if, somehow, it caught fire, it might be possible to put it out — with foam perhaps — without too much trouble.
 
 So, at NARTS we tried it. A few drums of peroxide (about 55
@@ -3118,7 +3118,7 @@ quantity when the rocket people started in on it.
 
 Chlorine trifluoride, C1F 3 , or “CTF” as the engineers insist on calling it, is a colorless gas, a greenish liquid, or a white solid. It boils at
 12° (so that a trivial pressure will keep it liquid at room temperature)
-and freezes at a convenient —76°. It also has a nice fat density, about
+and freezes at a convenient -76°. It also has a nice fat density, about
 1.81 at room temperature.
 
 It is also quite probably the most vigorous fluorinating agent in existence-much more vigorous than fluorine itself. Gaseous fluorine,
@@ -3219,7 +3219,7 @@ hydrogens burned to HCl and HF. The performance was somewhat
 below that of hydrazine, since considerable energy was wasted in decomposing the water, but it was still better than that of ammonia. And
 they found that they could add considerable hydrazine (0.85 moles
 to one of MMH) to the mixture without raising the freezing point
-above —54°. Bell Aerosystems now calls the mixture BAF-1185.
+above -54°. Bell Aerosystems now calls the mixture BAF-1185.
 
 I started with MMH, too. But I remembered all the work we had
 done with hydrazine nitrate, N 2 H 5 N0 3 , and used that as my oxygen
@@ -3382,7 +3382,7 @@ So, one day in the spring of 1954, Tom Reinhardt, then the chief
 engineer of NARTS, Dr. John Gall, director of research of Pennsalt
 Chemicals, and I were sitting around the table in my laboratory shooting the breeze and discussing propellants in general. John was trying
 to sell us NF 3 , but we weren’t interested in anything with a boiling
-point of —129°. Then I brought up the subject of this hypothetical
+point of -129°. Then I brought up the subject of this hypothetical
 derivative of perchloric acid, added my guess that it would probably
 be low boiling, but not so low that it couldn’t be kept as a pressurized
 liquid at room temperature, and my further guess that it should be
@@ -3417,7 +3417,7 @@ In June BuAer authorized NARTS. to investigate perchloryl fluoride, and Pennsalt
 characterize the material, they started looking for a simpler way to
 make it. Dr. Barth-Wehrenalp of their laboratories came up with —
 and patented — a synthesis by which it could be made rather easily
-and cheaply. It worked by the reaction KC10 4 + (excess) HS0 3 F —*
+and cheaply. It worked by the reaction KC10 4 + (excess) HS0 3 F - *
 KHS0 4 + FC10 3 , which looks simpler than it is. Nobody really understands the reaction mechanism.
 
 While we were characterizing it, Pennsalt was doing the same, and
@@ -3488,7 +3488,7 @@ strongly alkaline solution; Aerojet, as well as Rohm and Haas, did it
 with ferric ion in acid solution. The Du Pont process, and the HNF 2
 -route syntheses are those used today.
 
-(There was some desire to use HNF 2 itself as an oxidizer — its boiling point is —23.6° and its density is greater than 1.4 — but it is so
+(There was some desire to use HNF 2 itself as an oxidizer — its boiling point is -23.6° and its density is greater than 1.4 — but it is so
 violently explosive that the idea never got very far. When it is used as
 an intermediate, the drill is to make it as a gas and use it up immediately.)
 
@@ -3507,17 +3507,17 @@ organic chemistry, as a derivative of hydrazine. This sort of thing was happenin
 the time, as organic chemists tried to name inorganic compounds, and inorganic chemists made a mess of naming organics'
 
 t This boiling point was a surprise to many, who had expected that it would be somewhere near that of hydrazine, or around 100°. But some of us had noted that the boiling point of NF 3 was very near that of CF 4 , and hence expected that of N 2 F 4 to be not
-too far from that of CjF 6 , which is —79°. So some of us, at least, weren’t disappointed,
+too far from that of CjF 6 , which is -79°. So some of us, at least, weren’t disappointed,
 since we hadn’i hoped for much.
 And this fact led to the concept of “space-storable propellants.”
 As you will remember, 1957 was the year of Sputnik 1, when the public suddenly realized that there might be something to this sciencefiction foolishness of space travel after all. Anything remotely connected with space had suddenly become eminently salable, and if the
 services weren’t able to use N 2 F 4 in missiles, perhaps the space agencies (NACA, later NASA) could use it in space. After all, the hard
 vacuum of space is a pretty good insulator, and when you have, in
 effect, a Dewar flask the size of the universe available, you can store a
-low-boiling liquid a long time. An arbitrary upper limit (—150°) was
+low-boiling liquid a long time. An arbitrary upper limit (-150°) was
 set for the boiling point of a space-storable, but the custom is to
-stretch this limit to include the propellant you want to sell. OF 2 , boiling at —144.8° is considered a space storable, but if you want to call
-its ideal partner, methane, CH 4 , boiling at —161.5° one too, nobody is
+stretch this limit to include the propellant you want to sell. OF 2 , boiling at -144.8° is considered a space storable, but if you want to call
+its ideal partner, methane, CH 4 , boiling at -161.5° one too, nobody is
 going to complain too loudly.
 
 NF 3 is a rather inert material, and its chemistry isn’t too complicated, but N 2 F 4 turned out to be a horse of another color, with a peculiarly rich and interesting chemistry. The propellant men were not
@@ -3611,7 +3611,7 @@ tower types who are convinced of the intellectual (and moral) superiority of “
 
 The compound has been called nitrogen oxidetrifluoride, nitrosyl
 trifluoride, and trifluoroamine oxide. The first is probably preferable.
-It boils at —87.5°, and its density at that temperature is 1.547. It is
+It boils at -87.5°, and its density at that temperature is 1.547. It is
 much less active chemically than dinitrogentetrafluoride, and is
 hence much easier to handle. It is stable in most metals, reacts only
 very slowly with water or alkalis, or with glass or quartz even at 400°.
@@ -3645,8 +3645,8 @@ lasts several months, their temperatures are going to get closer and
 closer together, no matter how good the insulation is. And if the
 temperature toward which the two converge is one at which one propellant is a solid and the other is a gas, there are going to be difficulties when it comes time for them to go to work. Likewise, if the
 self-pressurizing type of injection is used, design problems are simplified if the two have vapor pressures that are pretty close to each other.
-So, if the designer intends to use ONF 3 , with a boiling point of —87.5°,
-ethane, whose boiling point is —88.6°, would be a good choice for the
+So, if the designer intends to use ONF 3 , with a boiling point of -87.5°,
+ethane, whose boiling point is -88.6°, would be a good choice for the
 fuel.
 
 Two space-storable systems have been investigated rather intensively. RMI andJPL, starting in 1963 or so, and continuing into 1969,
@@ -3735,7 +3735,7 @@ discovery of C1F 5 (the code name, Compound “A” was kept for some
 years for security reasons) I sent Emil a letter which started, “Congratulations, you S.O.B.! I only wish I’d done it myself!” He was inordinately proud of it, and showed it to everybody at Rocketdyne.
 
 C1F 5 is very similar to C1F 3 , but, with a given fuel, has a performance
-about twenty seconds better. It boils at —13.6°, has a density of 1.735
+about twenty seconds better. It boils at -13.6°, has a density of 1.735
 at 25°. And all of the techniques developed for using and handling
 CTF could be applied, unchanged, to the new oxidizer. To say that
 the propellant community was enthusiastic would be a mad understatement.
@@ -4235,7 +4235,7 @@ and that the freezing point of hydrazine is somewhat incompatible
 with the climate of Baffin Land. So — the next best bet is, probably
 MHF-3, a 14-86 mixture of hydrazine and methyl hydrazine with the
 empirical formula C 0 .s 1 H 5 .e 2 N 2 . Its freezing point is down to the
-magic —54°. (There are other possible fuels, but they may be somewhat dangerous, and he knows that MHF-3 is safe, and works.) But,
+magic -54°. (There are other possible fuels, but they may be somewhat dangerous, and he knows that MHF-3 is safe, and works.) But,
 with C1F 5 , MHF-3 would leave a trail of black smoke leading right
 back to the launcher — definitely undesirable if the crew of the latter
 want to live to fire another round. Also, his professional soul (it’s
@@ -4386,7 +4386,7 @@ only consideration is that the missile works right the first time — and
 you can make your fuel specifications just as tight as you like. Your
 first load of fuel is the only one you’ll ever need.
 
-The result was the specification for RP-1, which was issued in January of 1957. The freezing point limit was —40°, the maximum olefin
+The result was the specification for RP-1, which was issued in January of 1957. The freezing point limit was -40°, the maximum olefin
 content was set at 1 percent, and of aromatics at 5 percent. As delivered, it’s usually better than the specifications: a kerosene in the
 C 12 region, with a H/C ratio between 1.95 and 2.00, containing about
 41 percent normal and branched paraffins, 56 of naphthenes, three
@@ -5157,7 +5157,7 @@ C1F 3 , the performance wasn’t enough better than that of a hydrazine
 to be worth the trouble. And finally, it was still expensive.
 
 The situation was otherwise with diborane. It couldn’t be used in a
-missile, of course (its boiling point is —92.5°) but might well be used
+missile, of course (its boiling point is -92.5°) but might well be used
 in certain deep-space applications where its low density (0.433 at the
 boiling point) wouldn’t matter. Its natural partner was OF 2 (although
 ONF 3 would also be suitable) and from 1959 to the present that combination has been under investigation by several agencies, among
@@ -6301,7 +6301,7 @@ c— c
 C— N— C— C— N— C
 
 
-C—C
+C- C
 
 
 There was some delay — one of my gang goofed and made the test
@@ -6320,7 +6320,7 @@ C C
 
 
 
-C—C
+C- C
 
 +/ \+
 
@@ -6333,7 +6333,7 @@ C— N— C— C— N— C
 C—C c
 
 
-c—c
+c- c
 
 
 Mike Walsh, of our laboratory, announced our intention of doing
@@ -6411,14 +6411,14 @@ cheaply than by reacting methyl iodide (which is quite expensive) with
 triethylene diamine, and then metathesizing with silver nitrate.
 
 Maybe I could do the synthesis differently. Instead of starting
-C—C
+C- C
 
 
 155
 
 
 
-C—C
+C- C
 
 in a two carbon bridge to get the same thing? I could use ethylene
 bromide (which is a whole lot cheaper than methyl iodide) as the bridging agent, and would come up with the bromide rather than the iodide
@@ -6507,7 +6507,7 @@ Houdry could give me a better price than he could. This is the procedure known a
 Both companies delivered preliminary samples for approval within
 a month, and I discovered that McClellan had come up with an interesting method of getting rid of the bromide. He would acidify the
 Cavea bromide cold, with nitric acid, and then blow ethylene oxide
-through the solution. It reacted, C 2 H 4 0 + HBr —» HOC 2 H 4 Br, with
+through the solution. It reacted, C 2 H 4 0 + HBr - » HOC 2 H 4 Br, with
 the HBr to form ethylene bromohydrin, which was just blown out of
 the system. I considered this a neat trick.*
 
@@ -6571,7 +6571,7 @@ ene bromide, and came up with C — N — C — C — N — C. The propellant
 
 C — C
 
-had a freezing point well below —54°, and card-gapped at only three
+had a freezing point well below -54°, and card-gapped at only three
 cards. Otherwise, it was just like Cavea. It was called Cavea B (the
 Rocket Branch thought that “2 methyl Cavea” would be too revealing
 a name!)
@@ -7637,7 +7637,7 @@ mixtures) successfully many times, it hasn’t yet found an application.*
 
 
 * One of their hydrazine mixtures was a three to one mix of monomethyl hydrazine
-and ethylene di-hydrazine. This has a freezing point of —61°, and the viscosity of the
+and ethylene di-hydrazine. This has a freezing point of -61°, and the viscosity of the
 EDH improves the stability of the gel. This is one of the few propellant applications
 lhai EDH has found to dale.
 And there have been other aluminized fuels, but none of them are
@@ -7701,7 +7701,7 @@ the tank, the rate at which it flows through the fuel line and the
 injector into the motor is strongly dependent on its viscosity, and the
 viscosity of a metallized gel varies madly with the temperature. Since
 the viscosity of the oxidizer doesn’t vary nearly as much, the result
-of this is that the mixture ratio if you fire the motor at —40° will be
+of this is that the mixture ratio if you fire the motor at -40° will be
 quite unlike that which you will get if you fire it at +25° — and it
 certainly won’t be the one that you want.
 

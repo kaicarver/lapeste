@@ -15,6 +15,8 @@
 
 $patterns =<<END;
 CH 3 N0 3	CH3NO3
+ N 2 0 4 
+ OF 2 
 END
 
 while (<>) {

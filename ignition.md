@@ -861,11 +861,11 @@ time, although the A- 10, a planned successor to the A-4, was to have
 used the new combination, but some years later, in Russia, the consequences were to be hilarious.
 
 The oxidizer that was always a “might have been” was tetranitromethane. It’s a good oxidizer, with several advantages. It’s storable,
-has a better performance than nitric acid, and has a rather high density, so you can get a lot of it in a small tank. But it melts at+14.1°C
+has a better performance than nitric acid, and has a rather high density, so you can get a lot of it in a small tank. But it melts at +14.1°C
 so that at any time other than a balmy summer day it’s frozen solid.
 And it can explode — as Esnault-Pelterie had discovered, and it took
 out at least one German laboratory. The eutectic mixture with N 2 0 4 ,
-64 percent TNM, 36 N 2 0 4 , doesn’t freeze above — 30°C, and is considerably less touchy than is straight TNM, but it was still considered
+64 percent TNM, 36 N 2 0 4 , doesn’t freeze above -30°C, and is considerably less touchy than is straight TNM, but it was still considered
 dangerous, and Noeggerath refused to have anything to do with it or,
 even to permit it in his laboratory. But the engineers kept looking at
 it wistfully, and when they received a (completely false) intelligence

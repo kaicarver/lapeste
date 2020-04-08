@@ -20,6 +20,8 @@ CH 3 N0 3	CH3NO3
  N 2 0 
  NH 4 N0 3 
  H 2 0 2
+ CIF 3
+ 
 END
 
 while (<>) {

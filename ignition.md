@@ -1150,7 +1150,7 @@ like diborane and pentaborane?” Their performances, as calculated, looked awfu
 expensive and poisonous to boot, but — ?”)
 
 '1'he second set of conclusions — or the lack of them — concerned
-lliings like JATO’s and short range tactical missiles, which had to use
+things like JATO’s and short range tactical missiles, which had to use
 storable propellants. Here the conclusions were less definite.
 
 1. The available oxidizers were nitric acid, hydrogen peroxide (as
@@ -1161,6 +1161,7 @@ February, or in the stratosphere — ?) It looked as though nitric
 acid, in one of its variants, was the most likely candidate. (“Of
 course, if the freezing points of the other two could be reduced
 somehow — ? And what about weirdies like CIF 3 — ?”)
+
 2. The conclusions were much less clean-cut when storable fuels
 were considered. With few exceptions, none of the possible fuels
 had a performance much better than any of the others. Decisions would have to be made based on their secondary characteristics: availability, hypergolicity, smoothness of combustion,

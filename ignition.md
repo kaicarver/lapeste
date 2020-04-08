@@ -943,7 +943,7 @@ Malina’s group had become the Jet Propulsion Laboratory, with von
 KArman at the head.)
 
 “The only possible source of trouble connected with the acid is its
-corrosive nature, which can be overcome by the use of corrosionresistant materials.” Ha! If they had known the trouble that nitric
+corrosive nature, which can be overcome by the use of corrosion-resistant materials.” Ha! If they had known the trouble that nitric
 acid was to cause before it was finally domesticated, the authors would
 probably have stepped out of the lab and shot themselves.
 

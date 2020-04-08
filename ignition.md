@@ -857,7 +857,7 @@ percentage — not because their propellants had a better performance
 than the oxygen-alcohol combination actually used, which they did
 not, but because their higher density allowed more propellant to be
 stuffed into the tanks. This calculation had no particular effect at that
-time, although the A- 10, a planned successor to the A-4, was to have
+time, although the A-10, a planned successor to the A-4, was to have
 used the new combination, but some years later, in Russia, the consequences were to be hilarious.
 
 The oxidizer that was always a “might have been” was tetranitromethane. It’s a good oxidizer, with several advantages. It’s storable,

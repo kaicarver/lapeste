@@ -33,6 +33,9 @@ This is just to document various choices I made along the way of doing this.
     - [Index or concordance](#index-or-concordance)
     - [Vocal assistant for proof reading](#vocal-assistant-for-proof-reading)
     - [Page numbers!](#page-numbers)
+    - [Spellchecker](#spellchecker)
+    - [makefile](#makefile)
+    - [programming for geezers](#programming-for-geezers)
 
 ## General
 
@@ -105,7 +108,7 @@ This nice blog post taught me stuff about using Markdown in VS Code (snippets! C
 
 https://thisdavej.com/build-an-amazing-markdown-editor-using-visual-studio-code-and-pandoc/
 
-Hmm could use a Markdown spellchecker... Is Code Spell Checker good enough?
+Commandline `pandoc` works better, see "footnotes" section below.
 
 ### Mme
 
@@ -266,3 +269,20 @@ Percentages are barbaric. Maybe some day we will get there,
 but for now a page number of a given edition is still a nice thing to keep and preserve.
 
 So I need a way to keep that info in the Markdown...
+
+### Spellchecker
+
+Hmm could use a Markdown spellchecker... Is Code Spell Checker good enough? No.
+
+### makefile
+
+Should have a "build" process for generating HTML, checking, publishing, and whatever else.
+
+Of course makefiles are uncool now, what should I use?
+
+### programming for geezers
+
+IDEA: should make a "programming for geezers: 
+
+* tired: make; wired: webpack or whatnot
+* tired: Emacs, wired: VS Code

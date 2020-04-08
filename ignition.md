@@ -960,7 +960,7 @@ impossible to get it started. JPL was using a spark plug for ignition,
 and more often than not, getting an explosion rather than the smooth
 start that they were looking for. And when they did get it going, the
 motor would cough, chug, scream and hiccup — and then usually
-blow anyway. Metallic sodium suspended in the fuel helped the ignidon somewhat, and benzene was a little better than gasoline — but
+blow anyway. Metallic sodium suspended in the fuel helped the ignition somewhat, and benzene was a little better than gasoline — but
 not much, or enough. It took an accidental discovery from the other
 side of the country to solve their immediate problems.
 
@@ -993,7 +993,7 @@ combination of liquid oxygen and gasoline, but Reaction Motors, also
 active in the field, came up with an ingenious variation.
 
 Reaction Motors, Inc., generally called RMI, was founded in 1941
-by a handful of veterans of the Americal Rocket Society including
+by a handful of veterans of the American Rocket Society including
 James Wyld, Lovell Lawrence, and John Shesta, and undertook to
 build a JATO unit. They first used liquid oxygen — all the ARS work
 had been with that oxidizer — and gasoline. But they found that the
@@ -1003,8 +1003,7 @@ combustion temperatures than was that used by the VfR (and Peenemunde) when they
 was successfully flown in the PBM in 1943. During the trials, run on
 ihe Severn River, the exhaust jet set the tail of the seaplane on fire,
 hut the test pilot rose (or sank) to the occasion and set the plane down,
-
-I ail first on the water in the manner of an old time movie comedian
+tail first on the water in the manner of an old time movie comedian
 with his coattails on fire, seating himself hurriedly in a washtub full
 of water, with appropriate hissing noises and clouds of steam.
 
@@ -1019,14 +1018,14 @@ Army and the Navy both, in a rare example of unanimity, screamed
 at the thought of using it. But they had no choice.
 
 Two closely interwound lines of research characterize the rest of
-I lie war period. One was designed to reduce the freezing point of
+the war period. One was designed to reduce the freezing point of
 aniline, the other was to make gasoline, somehow, hypergolic with
 nitric acid. American Cyanamid was given a contract to investigate
 additives which might have the latter effect and JPL worked both sides
-of l lie street, as well as experimenting with changes in the composition of the acid. Besides their usual RFNA, containing about 6 permit N 2 0 4 , they experimented with one containing about 13 perl nil, as well as with a mixed acid rather similar to that the Germans
+of the street, as well as experimenting with changes in the composition of the acid. Besides their usual RFNA, containing about 6 permit N 2 0 4 , they experimented with one containing about 13 perl nil, as well as with a mixed acid rather similar to that the Germans
 were using, but a little more potent. One mixture they used contained
-NN percent nitric acid, 9.6 percent sulfuric, and 2.4 percent S0 3 . (This
-wiin very similar to the mixed acids used in explosives manufacture.)
+88 percent nitric acid, 9.6 percent sulfuric, and 2.4 percent S0 3 . (This
+was very similar to the mixed acids used in explosives manufacture.)
 And they, too, believed that it didn’t corrode stainless steel.
 The obvious way to lower the freezing point of aniline is to mix it
 with something else — preferably something that is as hypergolic as the
@@ -1041,7 +1040,7 @@ Zborowski was pining. Furfuryl alcohol comes from oat hulls and
 Quaker Oats had tank cars of the stuff, which they were delighted to
 sell to anybody who would take it off their hands. And 20 percent of
 furfuryl alcohol in aniline reduced the freezing point to 0°F, or
- -17.8°C, and the eutectic mixture, 51 percent aniline, 49 furfuryl alcohol, had a freezing point of -42°C. And furfuryl alcohol itself was
+-17.8°C, and the eutectic mixture, 51 percent aniline, 49 furfuryl alcohol, had a freezing point of -42°C. And furfuryl alcohol itself was
 about as hypergolic as aniline.
 
 And to gasoline, JPL added aniline, diphenylamine, mixed xylidines
@@ -1065,8 +1064,8 @@ hypergolic with mixed acid or RFNA, and might well be a good fuel
 all by itself. (And think of all those lovely votes from the piney woods
 of the South!)
 
-Aerojet Engineering was founded in March of 1942, to act, essentially, as the manufacturing arm of JPL. The founders were von Karman, Malina, Parsons, Summerfield, and Forman, all of JPL, plus
-Andrew Haley, who was von K&amp;rman’s attorney. And they started
+Aerojet Engineering was founded in March of 1942, to act, essentially, as the manufacturing arm of JPL. The founders were von Kármán, Malina, Parsons, Summerfield, and Forman, all of JPL, plus
+Andrew Haley, who was von Kármán’s attorney. And they started
 their own propellant research program, although for some years it
 was difficult to disentangle it from JPL’s.
 
@@ -1078,11 +1077,11 @@ point is about -63°C. All in all, it was an elegant answer to the
 freezing point problem, but it was just about as poisonous as its ancestor, and just as hard to come by.
 
 But it could be lived with. The propellants for the Aerojet JATO,
-in production by the end of the war, were mixed acid and monoethylaniline, as were those of RMI’s motor for the Navy’s surface-toair missile, Lark, whose development started in 1944. The surface-tosurface Corporal, started the same year, was designed around the
+in production by the end of the war, were mixed acid and monoethylaniline, as were those of RMI’s motor for the Navy’s surface-toair missile, Lark, whose development started in 1944. The surface-to-surface Corporal, started the same year, was designed around the
 RFNA-aniline-furfuryl alcohol combination.
 
 Three organizations worked on monopropellants during the war
-•although the effort was limited. All of them concentrated on nitromethane. JPL worked on it first, in 1944, or earlier, and found that
+although the effort was limited. All of them concentrated on nitromethane. JPL worked on it first, in 1944, or earlier, and found that
 its combustion was improved by the addition of small quantities of
 chromium trioxide (later chromium acetylacetonate) to the fuel. Aerojet also worked with it, and found that it was necessary to desensitize
 it by the addition of 8 percent of butyl alcohol. And Bob Truax, at
@@ -1091,7 +1090,7 @@ KES, tried his hand — and was almost killed when somebody connected
 Altman, at JPL, tried a mixture of benzene and tetranitromethane,
 which naturally detonated at once.
 
-And then the war was over, and the German work came to fight —
+And then the war was over, and the German work came to light —
 and things started to get really complicated.
 
 <div id="ch3" style="page-break-after: always;"></div>

@@ -221,9 +221,18 @@ https://github.com/tilo/replace_string
 
 ### footnotes
 
-there's a Markdown extended format for footnotes, but not well-supported out of the box?
+there's a Markdown extended format for footnotes, 
 
-This works though
+syntax:
+```
+   footnoteref[^*]
+
+   [^*]: footnote
+```
+
+but not well-supported using the shortcuts in the VS Code pandoc extension, probably configurable.
+
+This works though:
 
     pandoc ignition.md > ignition.html 
 

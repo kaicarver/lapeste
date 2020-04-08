@@ -1171,7 +1171,7 @@ anhydrous N 2 H 4 . Dave Horvitz, at RMI, fired the hydrate with
 oxygen in 1950, but I am not aware of any other experiments,
 in this country at least, in which it was involved. Almost all the
 hydrazine hydrate looted from Germany was converted to the
-anhydrous base before being distributed fortesting. One method
+anhydrous base before being distributed for testing. One method
 of conversion was to reflux the hydrate over barium oxide, and
 then to distil over the anhydrous hydrazine under reduced pressure.) Hydrazine was hypergolic with the prospective oxidizers,
 it had a high density for a fuel (1.004) and its performance was
@@ -1193,7 +1193,7 @@ when it touches the human hide. And . . . but nitric acid and the
 struggle to domesticate it deserve, and will get, a chapter all to themselves.
 
 The aniline is almost as bad, but a bit more subtle in its actions. If
-a man is spashed generously with it, and it isn’t removed immediately,
+a man is splashed generously with it, and it isn’t removed immediately,
 he usually turns purple and then blue and is likely to die of cyanosis
 in a matter of minutes. So the combination was understandably unpopular, and the call went out for a new one that was, at least, not
 quite so poisonous and miserable to handle.
@@ -1202,17 +1202,17 @@ Kaplan and Borden at JPL suggested one at the beginning of 1946.
 This was WFNA and straight furfuryl alcohol. Furfuryl alcohol was
 about as harmless as any propellant was likely to be, and WFNA,
 while it was just as corrosive as RFNA, and was just as hard on the
-anatomy, at least didn’t give off those clouds of N0 2 . They fired the
+anatomy, at least didn’t give off those clouds of N0 2. They fired the
 combination in a WAC Corporal motor, comparing it to the 20 percent furfuryl alcohol, 80 percent aniline mixture and RFNA, and
 found no measurable difference in performance between the two
 systems. (The WAC Corporal was conceived as a sounding rocket,
-the “Litde Sister” to the 20,000 pound thrust “Corporal” then under
+the “Little Sister” to the 20,000 pound thrust “Corporal” then under
 development. It was the ancestor of the Aerobee.) And, as a bonus,
 they found that ignition was fast and smooth, and much more tolerant
 to water in the acid than was the Corporal combination.
 
 At about the same time, RMI was making a similar set of tests.
-These were all run in a 220-pound thrust Lark motor, whose mixedacid, monoethylaniline combination was the reference propellant
+These were all run in a 220-pound thrust Lark motor, whose mixed-acid, monoethylaniline combination was the reference propellant
 system. They used three fuels — 80 octane gasoline, furfuryl alcohol,
 and turpentine; and three types of nitric acid oxidizer — mixed acid,
 WFNA, and RFNA containing 15% N 2 0 4 .* They used a hypergolic

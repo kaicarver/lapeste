@@ -950,8 +950,7 @@ probably have stepped out of the lab and shot themselves.
 Be that as it may, the report was an excellent survey of the field as
 it was at that time, and contained sophisticated and accurate performance calculations. The procedure had been developed in Malina’s
 1940 PhD thesis, and was essentially and inevitably the same as that
-developed in Germany. One of the first compilations of the thermo
-dynamic properties of exhaust gases was published by J. O. Hirschfelder in November 1942, as necessary raw data for such computations.
+developed in Germany. One of the first compilations of the thermodynamic properties of exhaust gases was published by J. O. Hirschfelder in November 1942, as necessary raw data for such computations.
 
 Malina and company started experimental work with RFNA and
 gasoline as early as 1941 — and immediately ran into trouble. This is

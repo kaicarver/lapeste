@@ -19,10 +19,12 @@ This is just to document various choices I made along the way of doing this.
       - [Extra space](#extra-space)
       - [Hyphenated words](#hyphenated-words)
       - [Chapter headers and page numbers separating pages](#chapter-headers-and-page-numbers-separating-pages)
-    - [Other](#other)
+    - [Photos](#photos)
+    - [Layout help](#layout-help)
     - [em dash vs en dash?](#em-dash-vs-en-dash)
     - [dash separated by space, and minus sign](#dash-separated-by-space-and-minus-sign)
     - [footnotes](#footnotes)
+    - [Molecules](#molecules)
   - [TODOs](#todos)
     - [Reading out loud](#reading-out-loud)
       - [By machine](#by-machine)
@@ -169,9 +171,11 @@ perl -0007 -pe 's/\n+(How It Started|Peenemunde and JPL|The Hunting of the Hyper
 perl -0007 -pe 's/\n+(\d \d+ |\d+\n+|)Ignition\n+/\n/gm' foo4 > foo5
 ```
 
-### Other
+### Photos
 
 Also, this book has photos. Need to look at including them.
+
+### Layout help
 
 The Internet Archive, where the text comes from, also has an easy-to-read visual version of the book, useful for copyediting.
 
@@ -219,6 +223,10 @@ there's a Markdown extended format for footnotes, but not well-supported out of 
 This works though
 
     pandoc ignition.md > ignition.html 
+
+### Molecules
+
+need to search for all molecule patterns, then replace, `mol.pl` is a start.
 
 ## TODOs
 

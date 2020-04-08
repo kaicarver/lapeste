@@ -887,13 +887,13 @@ upwards. But the unburned metal particles settled down and decorated all the pin
 again twenty years later, to drive another generation of experimenters
 crazy.
 
-Experimentation on mo nopropellants (which were called “Monergols”) continued until the end of the war. In 1937-1938 a good deal
+Experimentation on monopropellants (which were called “Monergols”) continued until the end of the war. In 1937-1938 a good deal
 of work was attempted with solutions of N 2 0 or NH 4 N0 3 in ammonia.
 (The latter mixture, under the name of Driver’s solution, had been
 known for many years.) The only result of these experiments was a
 depressing series of explosions and demolished motors. And at
 Peenemunde, a Dr. Wahrmke tried dissolving alcohol in 80 percent
-H 2 0 2 and then firing that in a motor. It detonated, and killed him.
+H 2 0 2 and then firing _that_ in a motor. It detonated, and killed him.
 The Wm. Schmidding firm, nevertheless, kept on experimenting
 with a monopropellant they called “Myrol,” an 80-20 mixture of
 methyl nitrate and methanol — very similar to the nitroglycerinemethanol mixture that Crocco had tried years before. They managed

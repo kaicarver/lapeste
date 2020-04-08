@@ -1,0 +1,9 @@
+[all]
+deps = ["ignition.html"]
+
+["ignition.html"]
+deps = ["ignition.md"]
+exec= "pandoc $+ > $@"
+
+[clean]
+exec = "rm -f ignition.html"

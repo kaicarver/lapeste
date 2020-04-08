@@ -280,6 +280,15 @@ Should have a "build" process for generating HTML, checking, publishing, and wha
 
 Of course makefiles are uncool now, what should I use?
 
+Experimental:
+
+    npx bajel
+
+or 
+
+    npm install -g bajel
+    bajel
+
 ### programming for geezers
 
 IDEA: should make a "programming for geezers: 

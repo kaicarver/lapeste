@@ -1231,8 +1231,6 @@ neat furfuryl alcohol freezes at -31°C — rather too high for comfort.
 
 [^*]: Interestingly enough, the first stage of Diamant, which put the first French satellite
 into orbit, burns turpentine and RFNA.
-end could be achieved by flowing the ammonia over lithium wire
-just upstream of the injector.
 
 Many other fuels were tried during the late 40’s and early 50’s.
 At JPL mixtures of aniline with ethanol or with isopropanol were
@@ -1244,6 +1242,9 @@ Motors experimented with mixtures of ammonia and methylamine
 (to reduce the vapor pressure of the ammonia) and showed that the
 addition of 1.5 percent of dekaborane made ammonia hypergolic
 with WFNA, while the Bendix Corp., in 1953, showed that the same
+end could be achieved by flowing the ammonia over lithium wire
+just upstream of the injector.
+
 JPL fired various oddities with RFNA, such as furfural and two
 methylated and partially reduced pyridines, tetrapyre and pentaprim. The object of these tests is not readily apparent, nor is the reason why RMI bothered to fire cyclooctatetraene with WFNA. The
 fuel is not only expensive and hard to get, but it has a very high
@@ -1258,7 +1259,7 @@ lemon oil. The contrast with the odors of most other rocket propellants makes th
 It had long since become obvious to everybody concerned that
 firing a combination in a rocket motor is not the ideal way to find out
 whether or not it is hypergolic — and, if it is, how fast it ignites. By
-the nature of research more tests are going to fail than at'e going to
+the nature of research more tests are going to fail than are going to
 succeed, and more combinations are going to ignite slowly than are
 going to light off in a hurry. And when the result of each delayed
 ignition is a demolished motor, a screening program can become a
@@ -1273,13 +1274,13 @@ tester consisted of an eyedropper, a small beaker, and a finely calibrated eyeba
 rocket motor setup. And there was everything in between. One of the
 fancier rigs was conceived by my immediate boss, Paul Terlizzi, at
 NARTS. He wanted to take high-speed Schlieren (shadow) movies of
-the ignition process. (What information he thought they would provide escaped me at the time, and still does.) * There was a small ig
-* An incurable inventor of acronyms, he called it ’“STIDA,” for Schlieren Type Ignition Delay Apparatus.
-nition chamber, with high-speed valves and injectors for the propellants under investigation. Viewing ports, a high-speed Fastex camera,
+the ignition process. (What information he thought they would provide escaped me at the time, and still does.)[^*] There was a small ignition chamber, with high-speed valves and injectors for the propellants under investigation. Viewing ports, a high-speed Fastex camera,
 and about forty pounds of lenses, prisms, and what not, most of them
 salvaged from German submarine periscopes, completed the setup.
 Dr. Milton Scheer (Uncle Milty) labored over the thing for weeks,
 getting all the optics lined up and focused.
+
+[^*]: An incurable inventor of acronyms, he called it “STIDA,” for Schlieren Type Ignition Delay Apparatus.
 
 Came the day of the first trial. The propellants were hydrazine and
 WFNA. We were all gathered around waiting for the balloon to go
@@ -1288,7 +1289,7 @@ up, when Uncle Milty warned, “Hold it — the acid valve is leaking!”
 “Go ahead — fire anyway!” Paul ordered.
 
 I looked around and signaled to my own gang, and we started backing gently away, like so many cats with wet feet. Howard Streim
-opened his mouth to protest, but as he said later, “I saw that dogeating grin on Doc’s face and shut it again,” and somebody pushed
+opened his mouth to protest, but as he said later, “I saw that dog-eating grin on Doc’s face and shut it again,” and somebody pushed
 the button. There was a little flicker of yellow flame, and then a brilliant blue-white flash and an ear-splitting crack. The lid to the chamber
 went through the ceiling (we found it in the attic some weeks later),
 the viewports vanished, and some forty pounds of high-grade optical
@@ -1307,7 +1308,7 @@ although their experiences weren’t often as spectacular as ours, but
 l hey eventually started cranking out results. Not too surprisingly,
 no two laboratories got the same numbers, and from 1945 until 1955
 one would be hard put to End a period when there wasn’t a cooperative ignition delay program going on, as the various laboratories
-I tied to reconcile their results. One of the difficulties was that the
+tried to reconcile their results. One of the difficulties was that the
 different testers varied widely in the speed and the efficiency with
 which they mixed the two reactants. And another lay in the fact that
 different criteria for ignition were used by various experimenters.
@@ -1315,6 +1316,7 @@ One might take the first appearance of flame (as shown by a photo
 cell or an ionization gage or a high-speed camera) as the moment of
 ignition, while another, with a micro-motor setup, might take the
 moment at which his motor arrived at full thrust or the design chamber pressure.
+
 But although the various investigators didn’t often come up with
 the same numbers, they generally rated propellant combinations in
 the same order. While they seldom agreed on the number of milliseconds it took combination A to light off, they were generally in

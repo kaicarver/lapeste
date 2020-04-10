@@ -1215,7 +1215,7 @@ At about the same time, RMI was making a similar set of tests.
 These were all run in a 220-pound thrust Lark motor, whose mixed-acid, monoethylaniline combination was the reference propellant
 system. They used three fuels — 80 octane gasoline, furfuryl alcohol,
 and turpentine; and three types of nitric acid oxidizer — mixed acid,
-WFNA, and RFNA containing 15% N 2 0 4 .* They used a hypergolic
+WFNA, and RFNA containing 15% N 2 0 4 .[^*] They used a hypergolic
 starting slug on the gasoline firings, and rather surprisingly, got
 good results with all three acids. Furfuryl alcohol was no good with
 mixed acid. The combination was smoky and messy, and the reaction
@@ -1229,6 +1229,11 @@ that they preferred. The other was furfuryl alcohol and WFNA (the
 RFNA performed a litde better, but those N0 2 fumes!), although
 neat furfuryl alcohol freezes at -31°C — rather too high for comfort.
 
+[^*]: Interestingly enough, the first stage of Diamant, which put the first French satellite
+into orbit, burns turpentine and RFNA.
+end could be achieved by flowing the ammonia over lithium wire
+just upstream of the injector.
+
 Many other fuels were tried during the late 40’s and early 50’s.
 At JPL mixtures of aniline with ethanol or with isopropanol were
 investigated and burned with RFNA. Ammonia was bred there (with
@@ -1239,12 +1244,6 @@ Motors experimented with mixtures of ammonia and methylamine
 (to reduce the vapor pressure of the ammonia) and showed that the
 addition of 1.5 percent of dekaborane made ammonia hypergolic
 with WFNA, while the Bendix Corp., in 1953, showed that the same
-
-* Interestingly enough, the first stage of Diamant, which put the first French satellite
-into orbit, burns turpentine and RFNA.
-end could be achieved by flowing the ammonia over lithium wire
-just upstream of the injector.
-
 JPL fired various oddities with RFNA, such as furfural and two
 methylated and partially reduced pyridines, tetrapyre and pentaprim. The object of these tests is not readily apparent, nor is the reason why RMI bothered to fire cyclooctatetraene with WFNA. The
 fuel is not only expensive and hard to get, but it has a very high

@@ -1441,8 +1441,7 @@ products for years, and knew all about it, the services decided that jet
 fuel should be a petroleum derivative — a kerosene.
 
 The first fuel that they specified was JP-1, a rather narrow cut, high
-paraffinic kerosene. The oil companies pointed out that not many re
-fineries in the country could produce such a product with their available equipment and crudes, and that the supply might thus be somewhat limited. So the next specification, for JP-3 (JP-2 was an experimental fuel that never got anywhere), was remarkably liberal, with a
+paraffinic kerosene. The oil companies pointed out that not many refineries in the country could produce such a product with their available equipment and crudes, and that the supply might thus be somewhat limited. So the next specification, for JP-3 (JP-2 was an experimental fuel that never got anywhere), was remarkably liberal, with a
 wide cut (range of distillation temperatures) and with such permissive
 limits on olefins and aromatics that any refinery above the level of a
 Kentucky moonshiner’s pot still could convert at least half of any
@@ -1453,7 +1452,7 @@ difficulty, but the permitted fractions of aromatics and olefins (25 and
 5 percent respectively) were not reduced. The result was JP-4, with
 just about the most permissive specifications to appear since the days
 of Coal Oil Johnny Rockefeller the First. It is NATO standard, and the
-usual fuel for everything from a Boeing 707 to an F-l 1 1. (JP-5 and 6
+usual fuel for everything from a Boeing 707 to an F-111. (JP-5 and 6
 have arrived since, but haven’t replaced JP-4. And RP-1 is another
 story, which will be told later.)
 

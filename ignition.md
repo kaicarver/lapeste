@@ -1401,11 +1401,13 @@ order, instead of being content with items off the shelf.
 Anyhow, he came up with the ethyl mercaptal of acetaldehyde and
 the ethyl mercaptol of acetone, with the skeleton structures:
 
-C
-
-G— C— S— C— S— C— C and C— C— S— C— S— C— C
-
-c c
+```text
+                                            C
+                                            |
+C — C — S — C — S — C — C  and  C — C — S — C — S — C — C
+            |                               |
+            C                               C
+```
 
 respectively. The odor of these was not so much skunk-like as garlicky,
 the epitome and concentrate of all the back doors of all the bad Greek

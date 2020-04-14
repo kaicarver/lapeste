@@ -1347,7 +1347,7 @@ nature generally resembled that of acid.
 
 Reaction Motors investigated the hypergolicity of similar compounds, as well as such things as the furans, vinyl and allyl amines,
 and polyacetylenics, such as di-propargyl, with the skeleton structure
-(without the hydrogens) C=C — C — C — C=C. And they found that
+(without the hydrogens) `C≡≡C——C——C——C≡≡C`. And they found that
 many silanes were hypergolic with acid. The University of Texas, in
 1948, also worked with these, and showed that 30 percent of tetra-allyl silane would make gasoline hypergolic. The University of Texas
 also investigated the zinc alkyls, as Sänger had done sixteen years
@@ -1468,7 +1468,7 @@ all over again — a coughing, choking, screaming motor, that usually
 managed to reduce itself to fragments, and the engineers to frustrated
 blasphemy. Everything was tried to make the stuff burn smoothly,
 from catalysts in the acid down — or up — to voodoo. The farthest-out
-expedient that I heard of was tried at Bell Aeronautic .|Somebody had
+expedient that I heard of was tried at Bell Aeronautic. Somebody had
 the bright idea that the sonic vibrations of a rocket motor might promote combustion. So he made a tape recording of the sound of a running motor and played it back at the interacting propellants in the
 hope that they might be shaken — or shamed — into smooth combustion. (Why not? He’d tried everything else!) But alas, this didn’t work
 either. Obviously JP was a lost cause as far as the rocket business was
@@ -1562,11 +1562,16 @@ same sort of cycle.) So the acetylenics looked good for the ram rocket.
 And finally, the acetylenics are rather easy to produce from petroleum feed-stock, by cracking and partial oxidation. The approaches
 of NYU and of Shell to the acetylenic problem were completely dissimilar. NYU tried dozens of compounds of the family, while Shell
 concentrated on just two, and then went hunting for additives which
-would make them into useful fuels. One of the two was 1,6-heptadiyne, with the skeletal structure C=C — C — C — C — C=C. And the
-other was 2-methyl- l-buten-3-yne, otherwise known as “isopropenyl acetylene” or “methyl vinyl acetylene,” whose skeleton is
-C
+would make them into useful fuels. One of the two was 1,6-heptadiyne, with the skeletal structure `C≡≡C——C——C——C——C≡≡C`. And the
+other was 2-methyl-l-buten-3-yne, otherwise known as “isopropenyl acetylene” or “methyl vinyl acetylene,” whose skeleton is
 
-C=C — C=C . One source of confusion in the history of the acetylenics is the multiplicity of systems by which they were named!
+```text
+   C
+   |
+C==C——C≡≡C
+```
+
+One source of confusion in the history of the acetylenics is the multiplicity of systems by which they were named!
 
 The first additives that they investigated thoroughly were methyl
 derivatives of phosphorous triamide, P(NH 2 ) 3 , with methyl groups
@@ -1575,12 +1580,10 @@ so much of the additive was needed for proper ignition that it became
 a major component of the mixture, and even then explosive ignition
 was common.
 
-Then they tried the derivadve of 1,3,2-dioxaphospholane,
+Then they tried the derivative of 1,3,2-dioxaphospholane,
 
-
-O
-
-
+```text
+```
 
 and finally settled on 2-dimethylamino-4-methyl- 1,3,2-dioxaphospholane, which was usually, and mercifully, known as “Reference Fuel
 208.” Again, it wasn’t a success as an additive, but taken neat, it was
@@ -1922,7 +1925,7 @@ latter, and being prepared to take a loss on the initial orders (after
 all, the money involved was trivial from the point of view of a company the size of FMC), drastically underbid Metallectro. They got the
 order, and Metallectro dropped out of the picture for good. The
 first military specifications for UDMH were published in September
-1955. '
+1.    '
 
 But that didn’t inhibit Westvaco’s advertising department. Intoxicated with success, and military specification or no, they tried to get
 away with a trade name, and called their stuff “DIMAZINE — the
@@ -5383,7 +5386,7 @@ only as an unfortunate waste of the taxpayer’s money.
 So what’s ahead for the “exotics?” As I see it, just two things.
 1 . Diborane will probably be useful in deep space work.
 
-2. The pentaborane/hydrazine, BN system should be very good in
+1. The pentaborane/hydrazine, BN system should be very good in
 ram-rocket and similar systems.
 
 And the people who lost their shirts on boron stocks will have to

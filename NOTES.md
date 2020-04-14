@@ -240,6 +240,10 @@ This works though:
 
 need to search for all molecule patterns, then replace, `mol.pl` is a start.
 
+But how should I represent them?
+
+ASCII art? TeX/LaTeX?...
+
 ## TODOs
 
 ### Reading out loud

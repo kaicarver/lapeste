@@ -1349,7 +1349,7 @@ Reaction Motors investigated the hypergolicity of similar compounds, as well as 
 and polyacetylenics, such as di-propargyl, with the skeleton structure
 (without the hydrogens) C=C — C — C — C=C. And they found that
 many silanes were hypergolic with acid. The University of Texas, in
-1948, also worked with these, and showed that 30 percent of tetraallyl silane would make gasoline hypergolic. The University of Texas
+1948, also worked with these, and showed that 30 percent of tetra-allyl silane would make gasoline hypergolic. The University of Texas
 also investigated the zinc alkyls, as Sänger had done sixteen years
 earlier.
 
@@ -1379,10 +1379,10 @@ mixed acid, and it had a rather high density for a fuel. And it wasn’t
 corrosive. But its performance was below that of a straight hydrocarbon, and its odor — ! Well, its odor was something to consider.
 Intense, pervasive and penetrating, and resembling the stink of an
 enraged skunk, but surpassing, by far, the best efforts of the most
-vigorous specimen of Mephitis mephitis. It also dings to the clothes and
+vigorous specimen of _Mephitis mephitis_. It also clings to the clothes and
 the skin. But rocketeers are a hardy breed, and the stuff was duly and
 successfully fired, although it is rumored that certain rocket mechanics were excluded from their car pools and had to run behind. Ten
-years after it was fired at the Naval Air Rocket Test Station — N ARTS
+years after it was fired at the Naval Air Rocket Test Station — NARTS
 — the odor was still noticeable around the test areas. (And at NARTS,
 with more zeal than judgment, I actually developed an analysis for it!)
 
@@ -1394,7 +1394,7 @@ unrepentant, he continued his noisome endeavors, but it is very
 much worth noting that their emphasis had changed. His next candidates were not petroleum by-products, nor were they chemicals
 which were commercially available. They were synthesized by his
 own crew, specifically for fuels. Here, at the very beginning of the
-. r &gt;()’s, the chemists started taking over from the engineers, synthesizing
+50’s, the chemists started taking over from the engineers, synthesizing
 new propellants (which were frequently entirely new compounds) to
 order, instead of being content with items off the shelf.
 

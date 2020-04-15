@@ -1599,15 +1599,16 @@ Between 1951 and 1955 Happell and Marsel at NYU prepared and
 characterized some fifty acetylenics: hydrocarbons, alcohols, ethers,
 amines, and nitriles. They varied in complexity from propyne, or
 methyl acetylene, `C — C ≡ C` to such things as dimethyldivinyldiacetylen
-```text
-C C
 
-C=C — C=C — G===C — C=C
+```text
+    C                   C
+    |                   |
+C = C — C ≡ C — C ≡ C — C = C
 ```
 
 with no less than four multiple bonds.
 The climax of unsaturation came with butyne di-nitrile, or dicyano
-acetylene, N=C — C=C — C=N which had no hydrogen atoms at all,
+acetylene, `N ≡ C — C ≡ C — C ≡ N`  which had no hydrogen atoms at all,
 but rejoiced in the possession of three triple bonds. This was useless
 as a propellant — it was unstable, for one thing, and its freezing point
 was too high — but it has one claim to fame. Burning it with ozone in a
@@ -1621,7 +1622,7 @@ form explosive peroxides on exposure to the atmosphere. Many of
 them were shock sensitive, and would decompose explosively with
 little or no provocation. Something like divinyldiacetylene can fairly
 be described as an accident looking for a place to happen. While
-some of them were fired successfully in a rocket (RMI burned propyne, methylvinylacetylene methyldivinylacetylene, and dimethyldivinylacetylene, all with oxygen) they turned out not to be suitable
+some of them were fired successfully in a rocket (RMI burned propyne, methylvinylacetylene, methyldivinylacetylene, and dimethyldivinylacetylene, all with oxygen) they turned out not to be suitable
 fuels for nitric acid. They usually detonated on contact with the oxidizer, as several possessors of piles of junk that had originally been
 ignition delay equipment could testify, and did.
 
@@ -1669,53 +1670,37 @@ terminal groups, as in the series:
 
 Or, of varying the length of the central hydrocarbon chain, as in:
 
-
-1,1
-
-
-methane
-
-1,2
-
-
-ethane
-
-1,3
-
--bis (dimethylamino)
-propane
-
-1,4
-
-
-butane
-
-1,6
-
-
-hexane
-
+```text
+1,1                          methane
+1,2                          ethane
+1,3   -bis (dimethylamino)   propane
+1,4                          butane
+1,6                          hexane
+```
 
 They moved the amino groups around, as in:
-bis (dimethylamino)-propane and
 
-I&gt;2 1
+```text
+1,2
+1,3   bis (dimethylamino)-propane
+```
 
-1,31 bis (dimethylamino) butane.
+and
 
-1,41
-
-
+```text
+1,2
+1,3   bis (dimethylamino)-butane
+1,4
+```
 
 They examined the effect of unsaturation, in series like
 
+```text
+                          butane
+1,4 bis (dimethylamino)   2 butene
+                          2 butyne
+```
 
-1,4 bis (dimethylamino)
-
-
-butane
-2 butene
-.2 butyne
 And they tried every conceivable permutation and combination of
 these changes, as well as adding OH groups or ether linkages.
 
@@ -1740,10 +1725,10 @@ and suitable for regenerative cooling.
 And they, too, were obsolete at birth.
 
 For all this work had been done, as it were, with the left hand. Hydrazine was the name of the big game. That was the fuel that everybody wanted to use. High performance, good density, hypergolic with
-the storable oxidizers — it had everything. Almost,
+the storable oxidizers — it had everything. Almost.
 
 Its price was high, but the nature of the chemical industry being
-what it was, and is, one could be confident that it wopld come down
+what it was, and is, one could be confident that it would come down
 to a reasonable figure when anybody wanted it in quantity. It was
 somewhat sensitive to catalytic decomposition, but if you used the
 right materials to make your tanks of, and were reasonably careful
@@ -1779,11 +1764,11 @@ had reported on the hydrazine-ammonia phase diagram, which was
 also investigated by D. D. Thomas, at JPL, in 1948. Ammonia, unlike
 water, was a fuel, but it is a very stable compound and its heat of combustion is not what might be desired. And it took something like 61
 percent of ammonia in the hydrazine to reduce its freezing point to
- -54°! This not only reduced the performance sharply, but decreased
+-54°! This not only reduced the performance sharply, but decreased
 the density of the fuel, and, on top of that increased its vapor pressure so much that it boiled at about -25° instead of at the +113.5°
-boiling point of pure hydrazine. Dave Horvitz of RM1 investigated
+boiling point of pure hydrazine. Dave Horvitz of RMI investigated
 ternary mixtures of hydrazine, water, and ammonia in 1950, but
-couldn’t End any mixture that possessed both an acceptable freezing
+couldn’t find any mixture that possessed both an acceptable freezing
 point and a large fraction of hydrazine. Water and ammonia were not
 the answers.
 
@@ -1795,7 +1780,7 @@ Some years later, under circumstances which will be described, interest in the m
 
 Don Armstrong, of Aerojet, came up with something in the summer
 of 1948 that for a time looked extremely promising. He found that
-the addition of 1 3 percent of lithium borohydride to hydrazine produced a mixture whose (eutectic) freezing point was -49°. Not the
+the addition of 13 percent of lithium borohydride to hydrazine produced a mixture whose (eutectic) freezing point was -49°. Not the
 magic -54°, but still something. The density was reduced somewhat,
 from 1.004 to about 0.93, but as the borohydride itself is such an
 energetic compound there was no reason to expect any appreciable

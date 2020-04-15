@@ -24,7 +24,8 @@ $patterns =<<END;
  N 2 H 4
  N0 2
  C 2 H 4 0
- P(NH 2 ) 3 
+ P(NH 2 ) 3
+ LiBH 4
 END
 
 while (<>) {

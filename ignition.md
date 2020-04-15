@@ -1583,9 +1583,12 @@ was common.
 Then they tried the derivative of 1,3,2-dioxaphospholane,
 
 ```text
+
+O C 5 C 4 O 3 P 2
+
 ```
 
-and finally settled on 2-dimethylamino-4-methyl- 1,3,2-dioxaphospholane, which was usually, and mercifully, known as “Reference Fuel
+and finally settled on 2-dimethylamino-4-methyl-1,3,2-dioxaphospholane, which was usually, and mercifully, known as “Reference Fuel
 208.” Again, it wasn’t a success as an additive, but taken neat, it was
 one of the fastest hypergols ever seen. It wasn’t particularly toxic, and
 might have made a fairly good workhorse fuel, but before much work
@@ -1595,10 +1598,14 @@ now.
 Between 1951 and 1955 Happell and Marsel at NYU prepared and
 characterized some fifty acetylenics: hydrocarbons, alcohols, ethers,
 amines, and nitriles. They varied in complexity from propyne, or
-methyl acetylene, C — C=C to such things as dimethyldivinyldiacetylen
+methyl acetylene, `C — C ≡ C` to such things as dimethyldivinyldiacetylen
+```text
 C C
 
-C=C — C=C — G===C — C=C with no less than four multiple bonds.
+C=C — C=C — G===C — C=C
+```
+
+with no less than four multiple bonds.
 The climax of unsaturation came with butyne di-nitrile, or dicyano
 acetylene, N=C — C=C — C=N which had no hydrogen atoms at all,
 but rejoiced in the possession of three triple bonds. This was useless

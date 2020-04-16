@@ -1928,24 +1928,24 @@ Westvaco UDMH was absolutely indistinguishable from that made
 by Olin Mathieson or anyone else.
 
 Some attempts were made to improve upon UDMH. Mike Pino at
-California Research had, as we have seen, worked with ally] amines,
+California Research had, as we have seen, worked with allyl amines,
 and in 1954 he carried this a bit further, and came up with the mono
 and the unsymmetrical diallyl hydrazines. These were interesting, but
 no particular improvement over UDMH, and were sensitive to oxidation and polymerization. And the people at Dow Chemical, a little
 later, produced monopropargyl hydrazine and unsymmetrical dipropargyl hydrazine. Again, no improvement, and both of them were
 horribly viscous at low temperatures. And McBride and his group, at
 NOTS, studying the oxidation chemistry of UDMH, in 1956 came
-upon tetramethyl tetrazene (CH 3 ) 2 N — N=N — N(CH 3 ) 2 . But its performance advantage over UDMH was trivial, and its freezing point
+upon tetramethyl tetrazene `(CH 3) 2 N — N = N — N(CH 3) 2`. But its performance advantage over UDMH was trivial, and its freezing point
 was quite high.
 
-So UDMH, for several years, was the fuel to be burned with nitric
-acid or N 2 0 4 . But, as designers have been trying to wring the last
+So UDMH, for several years, was _the_ fuel to be burned with nitric
+acid or N 2 0 4. But, as designers have been trying to wring the last
 possible second of performance out of their motors, MMH has been
-growing in popularity. (It, too, has a Mil. Spec, now!) And, in applications which do not require a low freezing point, hydrazine itself is
-fused, either straight or mixed with one of its derivatives. The fuel ofj
-i the Titan II ICBM doesn’t have to have a low freezing point, since
-1 Titan II lives in a steam-heated hole in the ground, but it does need
-i the highest possible performance, and hydrazine was the first candidate for the job. But, as hydrazine has an unfortunate tendency to
+growing in popularity. (It, too, has a Mil. Spec. now!) And, in applications which do not require a low freezing point, hydrazine itself is
+fused, either straight or mixed with one of its derivatives. The fuel of
+the Titan II ICBM doesn’t have to have a low freezing point, since
+Titan II lives in a steam-heated hole in the ground, but it does need
+the highest possible performance, and hydrazine was the first candidate for the job. But, as hydrazine has an unfortunate tendency to
 detonate if you try to use it as a regenerative coolant, the fuel finally
 chosen was a 50-50 mixture of hydrazine and UDMH, called “Aerozine 50” by Aerojet who came up with it first, and “50-50” by everybody else.
 

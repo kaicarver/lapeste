@@ -152,6 +152,8 @@ So let's ignore hyphenated digits, and deal with merging "1000=pound" and the li
 perl -pe 's/(?<!\d)-\n$//' ignition.md > foo
 ```
 
+Update: there were quite a lot of hyphenated words that did not need their hyphen removed just because they passed a line... Like "my MMH-hydrazine mixture"... Perhaps semi-automatic replace would have been better...
+
 #### Chapter headers and page numbers separating pages
 
 Identify these headers of two kinds:

@@ -1894,7 +1894,7 @@ larger percentage of water in the fuel without separating. Both were
 hypergolic with nitric acid, the UDMH being the faster — after all, it
 was not only a hydrazine, but also a tertiary amine. And they both
 performed well as propellants, with performances superior to those
-of the tertiary diamines or of any of the phosphorous or sulfur compounds or of the old aniline type or furfuryl alcohol fuels. My MMHhydrazine mixture was fired at NARTS early in 1954, UDMH at
+of the tertiary diamines or of any of the phosphorous or sulfur compounds or of the old aniline type or furfuryl alcohol fuels. My MMH-hydrazine mixture was fired at NARTS early in 1954, UDMH at
 WADC at about the same time, MMH a little later and the UDMH-MMH eutectic at the same agency during 1955 — all with red fuming
 nitric acid. And UDMH in JP-4 was so successful in smoothing out
 combustion that the fuel decided upon for the Nike Ajax missile was

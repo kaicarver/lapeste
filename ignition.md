@@ -1916,7 +1916,7 @@ latter, and being prepared to take a loss on the initial orders (after
 all, the money involved was trivial from the point of view of a company the size of FMC), drastically underbid Metallectro. They got the
 order, and Metallectro dropped out of the picture for good. The
 first military specifications for UDMH were published in September
-1.    '
+1955.
 
 But that didn’t inhibit Westvaco’s advertising department. Intoxicated with success, and military specification or no, they tried to get
 away with a trade name, and called their stuff “DIMAZINE — the

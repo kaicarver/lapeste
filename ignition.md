@@ -1858,7 +1858,7 @@ alter it less than by adding a methyl group — might give it a reasonable
 freezing point without changing its energetics enough to matter.
 
 At NARTS, I had the same idea, and managing to lay my hands on
-a pound of monomethylhydrazine — it cost $50.00 — 1 investigated its
+a pound of monomethylhydrazine — it cost $50.00 — I investigated its
 mixtures with hydrazine, and before the end of the year recommended the eutectic, which contained 12 percent hydrazine and froze
 at -61°, as the fuel to concentrate on.* The performance with HN0 3
 was about 98 percent of that of straight hydrazine, the density was

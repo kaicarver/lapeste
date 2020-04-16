@@ -1860,7 +1860,7 @@ freezing point without changing its energetics enough to matter.
 At NARTS, I had the same idea, and managing to lay my hands on
 a pound of monomethylhydrazine — it cost $50.00 — I investigated its
 mixtures with hydrazine, and before the end of the year recommended the eutectic, which contained 12 percent hydrazine and froze
-at -61°, as the fuel to concentrate on.* The performance with HN0 3
+at -61°, as the fuel to concentrate on.[^*] The performance with HN0 3
 was about 98 percent of that of straight hydrazine, the density was
 not too bad (0.89) the freezing point was beautiful, the viscosity was
 nothing to worry about, and storage and handling didn’t seem to
@@ -1868,9 +1868,12 @@ involve any particular problems, although the methyl hydrazine
 appeared to be a bit more sensitive to catalytic decomposition than
 the parent compound.
 
+[^*] MHF-3, introduced by Reaction Motors a few years ago, is 86% monomethyl
+hydrazine and 14% hydrazine. “And there is nothing new under the sun.”
+
 It didn’t take Metallectro and Aerojet very long to discover that
 they were on to something good. Symmetrical dimethyl hydrazine
-turned out to be a dog (it’s freezing point was only -8.9°), but monomethylhydrazine (to be referred to from now on as MMH) melted
+turned out to be a dog (its freezing point was only -8.9°), but monomethylhydrazine (to be referred to from now on as MMH) melted
 at -52.4°, and unsymmetrical dimethyl hydrazine (UDMH) melted
 at -57.2°. And Dave Horvitz at Metallectro found that the 60-40
 UDMH-MMH eutectic mixture froze only at -80°, or -112°F, thus
@@ -1887,16 +1890,12 @@ little denser than UDMH, and had a slightly higher performance.
 On the other hand, UDMH was less liable to catalytic decomposition,
 and had such good thermal stability that it could easily be used for
 regenerative cooling. Either one could be used as a combustion additive for JP-4, but UDMH was more soluble, and would tolerate a
-
-
-* MHF-3, introduced by Reaction Motors a few years ago, is 86% monomethyl
-hydrazine and 14% hydrazine. ’’And there is nothing new under the sun.”
 larger percentage of water in the fuel without separating. Both were
 hypergolic with nitric acid, the UDMH being the faster — after all, it
 was not only a hydrazine, but also a tertiary amine. And they both
 performed well as propellants, with performances superior to those
 of the tertiary diamines or of any of the phosphorous or sulfur compounds or of the old aniline type or furfuryl alcohol fuels. My MMHhydrazine mixture was fired at NARTS early in 1954, UDMH at
-WADC at about the same time, MMH a little later and the UDMHMMH eutectic at the same agency during 1955 — all with red fuming
+WADC at about the same time, MMH a little later and the UDMH-MMH eutectic at the same agency during 1955 — all with red fuming
 nitric acid. And UDMH in JP-4 was so successful in smoothing out
 combustion that the fuel decided upon for the Nike Ajax missile was
 17 percent UDMH in JP-4. The substituted hydrazine program was

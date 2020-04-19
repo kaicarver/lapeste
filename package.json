@@ -1,0 +1,10 @@
+{
+  "name": "lapeste",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+  },
+  "scripts": {
+	"build": "pandoc ignition.md > ignition.html"
+  }
+}

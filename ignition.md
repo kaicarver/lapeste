@@ -1994,14 +1994,14 @@ end of 1947, JPL published the results of two acid analyses. One was
 of a sample of RFNA fresh from the manufacturer, which had scarcely
 started to chew on the drum in which it was shipped. The other was a
 sample of “old” acid, which had been standing for several months in
-a SS-347 drum. The results were eloquenj,. And, if my own experience is any criterion, there was a bit of insoluble matter of cryptic
+a SS-347 drum. The results were eloquent. And, if my own experience is any criterion, there was a bit of insoluble matter of cryptic
 composition on the bottom of the drum. Acid like that might have
 been useful in the manufacture of fertilizer, but as a propellant it was
-not*
+not[^*]
 
-* Note to the sophisticated reader: Don’t take the exact percentages too seriously.
+[^*]: Note to the sophisticated reader: Don’t take the exact percentages too seriously.
 Acid analysis wasn’t really that good in 1947, Also, most of the iron really shows up in
-the ferrous and not in the ferric stale, as I discovered in my own laboratory (and to my
+the ferrous and not in the ferric state, as I discovered in my own laboratory (and to my
 complete surprise) some years later.
 Constituent
 

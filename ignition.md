@@ -462,9 +462,9 @@ started work in 1929, first with gasoline and gaseous air, and then, in
 1931, with gasoline and liquid oxygen.
 
 Another group was in Italy, headed by Luigi Crocco, and financed,
-reluctantly, by the Italian General Staff.[^*]
+reluctantly, by the Italian General Staff.[^1]
 
-[^*]:The fact that the whole project was headed by a General G. A. Crocco is no coincidence.
+[^1]:The fact that the whole project was headed by a General G. A. Crocco is no coincidence.
   He was Luigi’s father, and an Italian father
   is comparable to a Jewish mother.
 
@@ -473,9 +473,9 @@ part of 1930 was ready for test firings. His work is notable not only
 for the surprising sophistication of his motor design, but above all for
 his propellants. He used gasoline for his fuel, which is not surprising,
 but for his oxidizer he broke away from oxygen, and used nitrogen
-tetroxide, N 2 0 4 . This was a big step — nitrogen tetroxide, unlike oxygen, can be stored indefinitely at room temperature — but nobody outside of his own small group heard of the work for twenty-four years![^†]
+tetroxide, N 2 0 4 . This was a big step — nitrogen tetroxide, unlike oxygen, can be stored indefinitely at room temperature — but nobody outside of his own small group heard of the work for twenty-four years![^2]
 
-[^†]: In a letter to _El Comercio_, of Lima, Peru, 7 October, 1927, one Pedro A. Paulet, a
+[^2]: In a letter to _El Comercio_, of Lima, Peru, 7 October, 1927, one Pedro A. Paulet, a
 Peruvian chemical engineer, claimed to have experimented -- in 1895-97 (!) -- with a
 rocket motor burning gasoline and nitrogen tetroxide. If this claim has any foundation
 in fact, Paulet anticipated not only Goddard but even Tsiolkovsky.
@@ -1215,7 +1215,7 @@ At about the same time, RMI was making a similar set of tests.
 These were all run in a 220-pound thrust Lark motor, whose mixed-acid, monoethylaniline combination was the reference propellant
 system. They used three fuels — 80 octane gasoline, furfuryl alcohol,
 and turpentine; and three types of nitric acid oxidizer — mixed acid,
-WFNA, and RFNA containing 15% N 2 0 4 .[^*] They used a hypergolic
+WFNA, and RFNA containing 15% N 2 0 4 .[^3] They used a hypergolic
 starting slug on the gasoline firings, and rather surprisingly, got
 good results with all three acids. Furfuryl alcohol was no good with
 mixed acid. The combination was smoky and messy, and the reaction
@@ -1229,7 +1229,7 @@ that they preferred. The other was furfuryl alcohol and WFNA (the
 RFNA performed a litde better, but those N0 2 fumes!), although
 neat furfuryl alcohol freezes at -31°C — rather too high for comfort.
 
-[^*]: Interestingly enough, the first stage of Diamant, which put the first French satellite
+[^3]: Interestingly enough, the first stage of Diamant, which put the first French satellite
 into orbit, burns turpentine and RFNA.
 
 Many other fuels were tried during the late 40’s and early 50’s.
@@ -1274,13 +1274,13 @@ tester consisted of an eyedropper, a small beaker, and a finely calibrated eyeba
 rocket motor setup. And there was everything in between. One of the
 fancier rigs was conceived by my immediate boss, Paul Terlizzi, at
 NARTS. He wanted to take high-speed Schlieren (shadow) movies of
-the ignition process. (What information he thought they would provide escaped me at the time, and still does.)[^*] There was a small ignition chamber, with high-speed valves and injectors for the propellants under investigation. Viewing ports, a high-speed Fastex camera,
+the ignition process. (What information he thought they would provide escaped me at the time, and still does.)[^4] There was a small ignition chamber, with high-speed valves and injectors for the propellants under investigation. Viewing ports, a high-speed Fastex camera,
 and about forty pounds of lenses, prisms, and what not, most of them
 salvaged from German submarine periscopes, completed the setup.
 Dr. Milton Scheer (Uncle Milty) labored over the thing for weeks,
 getting all the optics lined up and focused.
 
-[^*]: An incurable inventor of acronyms, he called it “STIDA,” for Schlieren Type Ignition Delay Apparatus.
+[^4]: An incurable inventor of acronyms, he called it “STIDA,” for Schlieren Type Ignition Delay Apparatus.
 
 Came the day of the first trial. The propellants were hydrazine and
 WFNA. We were all gathered around waiting for the balloon to go
@@ -1860,7 +1860,7 @@ freezing point without changing its energetics enough to matter.
 At NARTS, I had the same idea, and managing to lay my hands on
 a pound of monomethylhydrazine — it cost $50.00 — I investigated its
 mixtures with hydrazine, and before the end of the year recommended the eutectic, which contained 12 percent hydrazine and froze
-at -61°, as the fuel to concentrate on.[^*] The performance with HN0 3
+at -61°, as the fuel to concentrate on.[^5] The performance with HN0 3
 was about 98 percent of that of straight hydrazine, the density was
 not too bad (0.89) the freezing point was beautiful, the viscosity was
 nothing to worry about, and storage and handling didn’t seem to
@@ -1868,7 +1868,7 @@ involve any particular problems, although the methyl hydrazine
 appeared to be a bit more sensitive to catalytic decomposition than
 the parent compound.
 
-[^*] MHF-3, introduced by Reaction Motors a few years ago, is 86% monomethyl
+[^5] MHF-3, introduced by Reaction Motors a few years ago, is 86% monomethyl
 hydrazine and 14% hydrazine. “And there is nothing new under the sun.”
 
 It didn’t take Metallectro and Aerojet very long to discover that
@@ -1997,9 +1997,9 @@ sample of “old” acid, which had been standing for several months in
 a SS-347 drum. The results were eloquent. And, if my own experience is any criterion, there was a bit of insoluble matter of cryptic
 composition on the bottom of the drum. Acid like that might have
 been useful in the manufacture of fertilizer, but as a propellant it was
-not[^*]
+not[^6]
 
-[^*]: Note to the sophisticated reader: Don’t take the exact percentages too seriously.
+[^6]: Note to the sophisticated reader: Don’t take the exact percentages too seriously.
 Acid analysis wasn’t really that good in 1947, Also, most of the iron really shows up in
 the ferrous and not in the ferric state, as I discovered in my own laboratory (and to my
 complete surprise) some years later.

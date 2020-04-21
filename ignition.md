@@ -2004,21 +2004,15 @@ Acid analysis wasn’t really that good in 1947, Also, most of the iron really s
 the ferrous and not in the ferric state, as I discovered in my own laboratory (and to my
 complete surprise) some years later.
 
-
+```text
 Constituent
 
 HN0 3
-
-n 2 o 4
-
+N 2 O 4
 Fe(N0 3 ) 3
-
 Cr(N0 3 ) 3
-
 Ni(N0 3 ) 2
-
-h 2 o
-
+H 2 O
 
 New acid
 
@@ -2029,16 +2023,15 @@ New acid
 .02 percent
 .83 percent
 
-
 Old acid
 
 73.6 percent
-1 1.77 percent
+11.77 percent
 8.77 percent
 2.31 percent
 .71 percent
 2.83 percent
-
+```
 
 So the acid couldn’t be kept indefinitely in a missile tank — or there
 wouldn’t be any tank left. It had to be loaded just before firing, which

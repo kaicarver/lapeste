@@ -2005,13 +2005,13 @@ the ferrous and not in the ferric state, as I discovered in my own laboratory (a
 complete surprise) some years later.
 
 ```text
-Constituent      New acid        Old acid
-  HN0 3	       92.6 percent    73.6  percent 
-  N 2 O 4       6.3 percent    11.77 percent
-  Fe(N0 3 ) 3   .19 percent     8.77 percent 
-  Cr(N0 3 ) 3   .05 percent     2.31 percent 
-  Ni(N0 3 ) 2   .02 percent      .71 percent  
-  H 2 O         .83 percent     2.83 percent 
+ Constituent      New acid         Old acid
+  HN0 3        92.6  percent    73.6  percent
+  N 2 O 4       6.3  percent    11.77 percent
+  Fe(N0 3 ) 3    .19 percent     8.77 percent
+  Cr(N0 3 ) 3    .05 percent     2.31 percent
+  Ni(N0 3 ) 2    .02 percent      .71 percent
+  H 2 O          .83 percent     2.83 percent
 ```
 
 So the acid couldn’t be kept indefinitely in a missile tank — or there

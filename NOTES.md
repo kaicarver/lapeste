@@ -7,6 +7,7 @@ This is just to document various choices I made along the way of doing this.
     - [TOC](#toc)
     - [Format](#format)
     - [Chapters](#chapters)
+    - [VS Code rectangle?](#vs-code-rectangle)
   - [_La Peste_](#la-peste)
     - [Duplicate lines](#duplicate-lines)
     - [Missing hyphens](#missing-hyphens)
@@ -63,6 +64,15 @@ This is what I found to do page breaks, such as to start new chapters:
 Trick found here:
 
 https://stackoverflow.com/questions/22601053/pagebreak-in-markdown-while-creating-pdf
+
+### VS Code rectangle?
+
+There are cases where I still fall back to Emacs from VS Code.
+
+One is indenting blocks of text by a column `Ctl-X Tab`.
+VS Code selecting lines, then `Tab` and `Shift Tab` almost work the same but do something weird sometimes, making things not lined up.
+
+Another is `kill-rectangle` and `yank-rectangle`. Very useful on occasion. I _think_ there's something... Should look it up... Later. For now Emacs is just fine the rare times I need this.
 
 ## _La Peste_
 

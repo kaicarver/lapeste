@@ -255,39 +255,39 @@ January 1971
 
 # Contents
 
-[In Re John D. Clark](#foreword)
+[In Re John D. Clark](#foreword) ix
 
-[Preface](#preface)
+[Preface](#preface) xi
 
-[1 How It Started](#ch1)
+[1 How It Started](#ch1) 3
 
-[2 Peenemunde and JPL](#ch2)
+[2 Peenemunde and JPL](#ch2) 12
 
-[3 The Hunting of the Hypergol . . .](#ch3)
+[3 The Hunting of the Hypergol . . .](#ch3) 24
 
-[4 . . . and Its Mate](#ch4)
+[4 . . . and Its Mate](#ch4) 47
 
-[5 Peroxide — Always a Bridesmaid](#ch5)
+[5 Peroxide — Always a Bridesmaid](#ch5) 66
 
-[6 Halogens and Politics and Deep Space](#ch6)
+[6 Halogens and Politics and Deep Space](#ch6) 72
 
-[7 Performance](#ch7)
+[7 Performance](#ch7) 90
 
-[8 Lox and Flox and Cryogenics in General](#ch8)
+[8 Lox and Flox and Cryogenics in General](#ch8) 103
 
-[9 What Ivan Was Doing](#ch9)
+[9 What Ivan Was Doing](#ch9) 115
 
-[10 “Exotics”](#ch10)
+[10 “Exotics”](#ch10) 120
 
-[11 The Hopeful Monoprops](#ch11)
+[11 The Hopeful Monoprops](#ch11) 131
 
-[12 High Density and the Higher Foolishness](#ch12)
+[12 High Density and the Higher Foolishness](#ch12) 174
 
-[13 What Happens Next](#ch13)
+[13 What Happens Next](#ch13) 190
 
-[Glossary](#glossary)
+[Glossary](#glossary) 193
 
-[Index](#index)
+[Index](#index) 197
 
 [About the Author](#about)
 
@@ -300,6 +300,7 @@ IGNITION!
 <div id="blank4" style="page-break-after: always;"></div>
 
 <div id="ch1" style="page-break-after: always;"></div>
+<div id="p3"></div>
 
 # 1
 

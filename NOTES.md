@@ -297,6 +297,18 @@ but for now a page number of a given edition is still a nice thing to keep and p
 
 So I need a way to keep that info in the Markdown...
 
+Looking at just using invisible `div` markup:
+
+```html
+<div id="p3"></div>
+```
+
+Page numbers will also be handy for the Index.
+
+Too bad I already took out all the page numbering. Now I need to put it back somehow...
+
+Another use for page numbers is during the copy-editing process. The PDF is the reference for corrections, and it has page numbers, which are a useful way to quickly figure out at what position I am at in the book.
+
 ### Spellchecker
 
 Hmm could use a Markdown spellchecker... Is Code Spell Checker good enough? No.

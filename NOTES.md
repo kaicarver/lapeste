@@ -34,6 +34,7 @@ This is just to document various choices I made along the way of doing this.
     - [Index or concordance](#index-or-concordance)
     - [Vocal assistant for proof reading](#vocal-assistant-for-proof-reading)
     - [Page numbers!](#page-numbers)
+      - [being faithful to the first printing](#being-faithful-to-the-first-printing)
     - [Spellchecker](#spellchecker)
     - [makefile](#makefile)
     - [programming for geezers](#programming-for-geezers)
@@ -308,6 +309,14 @@ Page numbers will also be handy for the Index.
 Too bad I already took out all the page numbering. Now I need to put it back somehow...
 
 Another use for page numbers is during the copy-editing process. The PDF is the reference for corrections, and it has page numbers, which are a useful way to quickly figure out at what position I am at in the book.
+
+#### being faithful to the first printing
+
+While we're at it, a photo od what the first printing looks like:
+
+https://www.edition-originale.com/fr/litterature/editions-originales/camus-la-peste-1947-58628
+
+Note there isn't that different, extra spacing of the first paragraph of every section
 
 ### Spellchecker
 
